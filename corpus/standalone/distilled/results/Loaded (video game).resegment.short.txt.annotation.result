@@ -1,0 +1,472 @@
+NE_MISC,Loaded
+NE_MISC,Blood Factory
+NE_LOC,Japan
+MWE_COMPOUND_ADJ,science fiction-themed
+MWE_COMPOUND_ADJ,shoot 'em up
+MWE_COMPOUND_NOUN,video game
+NE_ORG,Gremlin Interactive
+NE_ORG,Interplay
+NE_ORG_SB,Interplay
+NE_MISC,Loaded
+MWE_COMPOUND_NOUN,New Year
+NE_MISC,PlayStation
+NE_MISC,Sega Saturn
+NE_MISC_SB,Saturn
+NE_MISC,DC comics
+NE_MISC,Vertigo Comics
+MWE_COMPOUND_NOUN,graphic novel
+SENT_BOUND,game
+SENT_BOUND,murderers
+NE_PER,F.U.B.
+SENT_BOUND,universe
+NE_PER,Garth Ennis
+NE_MISC,Vertigo Comics
+NE_PER,Greg Staples
+NE_MISC,2000AD
+NE_MISC_SB,2000AD
+MWE_COMPOUND_NOUN, game engin
+NE_MISC, Re-Loade
+NE_MISC_SB, Re-Loade
+NE_MISC, Re-Loade
+NE_MISC, PlayStatio
+SENT_BOUND, 199
+NE_ORG, Pop Will Eat Itsel
+MWE_COMPOUND_NOUN, game disc
+MWE_COMPOUND_NOUN, audio CD
+COMPOUND_NOUN_SB, CD
+MWE_COMPOUND_NOUN, sense of humo
+SENT_BOUND, gor
+NE_MISC,
+Load
+NE_ORG,y Gremlin Interacti
+NE_MISC,a Briti
+MWE_COMPOUND_NOUN,h software hou
+NE_LOC,n Sheffie
+MWE_LVC,y had a successful r
+MWE_LVC_VERB,y h
+MWE_LVC_NOUN,l r
+SENT_BOUND,g gam
+NE_MISC,. Load
+NE_MISC,l Re-Load
+NE_ORG,y Gremlin Interacti
+NE_MISC,y Fren
+NE_ORG,t Infogram
+NE_LOC,n Sheffie
+SENT_BOUND,d clos
+NE_ORG,d Interpl
+NE_ORG_SB,d Interpl
+NE_MISC,.
+Loa
+MWE_COMPOUND_NOUN,ng marketing gimm
+MWE_COMPOUND_NOUN,he main character des
+MWE_COMPOUND_NOUN,of comic book illustrat
+NE_PER,ke Les Sp
+NE_PER,nd Greg Stap
+NE_MISC,of 200
+SENT_BOUND,AD f
+MWE_COMPOUND_NOUN,he games publis
+NE_ORG,er Interp
+NE_ORG,th DC Com
+NE_MISC,s (Bat
+NE_MISC,n, Super
+NE_MISC,n, Doom Pat
+MWE_COMPOUND_NOUN,he game prem
+COMPOUND_NOUN_SB,me prem
+NE_ORG,th
+NE_ORG,nd
+NE_MISC,ed Vertigo Com
+NE_PER,ar Garth En
+NE_MISC,s (Preac
+NE_MISC,r, Hellbla
+NE_MISC,r, Hit
+NE_MISC,n, Judge Dr
+SENT_BOUND,te
+SENT_BOUND,'s i
+SENT_BOUND,the ga
+NE_PER,xy. F.
+MWE_COMPOUND_NOUN,ble catering off
+NE_ORG,the Sector Mar
+MWE_VPC,ten screwin
+MWE_VPC_VERB,ten scre
+MWE_VPC_PARTICLE,in
+MWE_COMPOUND_NOUN,the field kitc
+NE_MISC, of Plusg
+MWE_COMPOUND_NOUN,ial fnart jiz po
+MWE_COMPOUND_NOUN,the cooking
+COMPOUND_NOUN_SB,ing
+NE_PER,ot. F.
+NE_PER,ds "fat ugly
+MWE_COMPOUND_NOUN,ren desert f
+SENT_BOUND, 40 y
+MWE_VPC, to let "the boys" 
+MWE_VPC_VERB, to
+MWE_VPC_PARTICLE,ys" 
+NE_PER,at, F.
+MWE_VPC,and served the
+MWE_VPC_VERB,and se
+MWE_VPC_PARTICLE,he
+SENT_BOUND,hot b
+NE_PER,ed, F.
+MWE_LVC,was given an unconditional disch
+MWE_LVC_VERB,was g
+MWE_LVC_NOUN,nal disch
+SENT_BOUND,ace a
+MWE_LVC, to get rev
+MWE_LVC_VERB, to
+MWE_LVC_NOUN,get rev
+MWE_COMPOUND_NOUN,the worlds of
+NE_PER,le, F.
+MWE_COMPOUND_NOUN,cal space pi
+SENT_BOUND,his c
+NE_MISC,ing Ha
+SENT_BOUND,tly b
+NE_PER,d by F
+MWE_COMPOUND_NOUN,ving life sent
+MWE_COMPOUND_NOUN,able maximum security prison p
+NE_LOC,anet 
+NE_LOC_SB,anet 
+NE_PER,ulf. F
+MWE_VPC,even tak
+MWE_VPC_VERB,even 
+MWE_VPC_PARTICLE,ak
+MWE_COMPOUND_NOUN,ctic prison s
+NE_PER, and F
+NE_LOC,n of 
+NE_LOC_SB,n of 
+NE_PER,ulf. F
+MWE_COMPOUND_NOUN,as a space p
+SENT_BOUND,will n
+NE_LOC,scape
+NE_PER,chase 
+NE_PER,ge on 
+NE_PER_SB, 
+SENT_BOUND,other dime
+NE_PER,chine 
+MWE_LVC,ns to hold the universe to 
+MWE_LVC_VERB,ns t
+MWE_LVC_NOUN,verse to 
+MWE_VPC,, and s
+MWE_VPC_VERB,, an
+MWE_VPC_PARTICLE, s
+MWE_COMPOUND_NOUN, up a prison
+NE_LOC,ak on
+MWE_LVC,lf to set things in 
+MWE_LVC_VERB,lf 
+MWE_LVC_NOUN,hings in 
+LVC_NOUN_SB,gs in 
+SENT_BOUND,efeat 
+NE_PER,cters
+NE_PER,Mamma
+NE_PER,Fwank,
+NE_PER,oun
+NE_PER,, Vox
+NE_PER,ch and Cap'
+NE_PER_SB, Cap'
+SENT_BOUND,te t
+MWE_COMPOUND_NOUN,a full motion video s
+COMPOUND_NOUN_SB, video s
+NE_MISC,uence.
+NE_MISC,hat of G
+SENT_BOUND,play
+SENT_BOUND,ins of 
+MWE_COMPOUND_NOUN,le and exploration e
+SENT_BOUND,can b
+SENT_BOUND,ockin
+SENT_BOUND,es
+MWE_COMPOUND_NOUN,ayer's greed
+MWE_COMPOUND_NOUN,cy and bod
+MWE_COMPOUND_NOUN,ow as "social
+MWE_COMPOUND_NOUN,gh as "genocidal
+SENT_BOUND, fina
+NE_MISC,score.
+NE_PER,ions by Nei
+NE_PER,acks by Patrick (Pat
+NE_ORG,more by Pop Will Ea
+NE_MISC,Itself (Kick
+NE_MISC,ill 
+SENT_BOUND,a
+MWE_COMPOUND_NOUN,nside a C
+MWE_COMPOUND_NOUN,d as an 
+SENT_BOUND,t
+MWE_COMPOUND_NOUN,ng many hidde
+COMPOUND_NOUN_SB, hidde
+MWE_COMPOUND_NOUN, are 25 audi
+MWE_COMPOUND_NOUN,CD, the hidde
+SENT_BOUND,er used
+MWE_COMPOUND_NOUN,xactly a cere
+SENT_BOUND, fun and 
+NE_ORG,e on the
+SENT_BOUND,GameFaq
+NE_MISC,tive a
+NE_ORG,ating on 
+NE_ORG_SB,ating on 
+NE_MISC,byGame
+SENT_BOUND,osio
+NE_MISC,29, 19
+NE_MISC, infam
+NE_ORG,ex b
+NE_ORG_SB,ex b
+NE_PER,ble g
+MWE_COMPOUND_NOUN, a diaper, 
+MWE_COMPOUND_NOUN,ey hat and bun
+COMPOUND_NOUN_SB, and bun
+NE_LOC,ers o
+MWE_COMPOUND_NOUN, the Raulf pr
+MWE_COMPOUND_NOUN,n-bursti
+NE_PER,, whi
+MWE_VPC,nd he 
+MWE_VPC_VERB,nd
+MWE_VPC_PARTICLE,he 
+SENT_BOUND,e
+NE_PER, "cud
+MWE_COMPOUND_NOUN,he busies
+SENT_BOUND,or a
+SENT_BOUND, 
+MWE_VPC,abulary to get 
+MWE_VPC_VERB,abu
+MWE_VPC_PARTICLE,to get 
+SENT_BOUND, manner of c
+SENT_BOUND,ng h
+SENT_BOUND,hing a
+SENT_BOUND, large
+SENT_BOUND,redictab
+NE_PER, your
+NE_MISC,pon is the
+NE_MISC,omb is the Rip
+NE_PER, used
+SENT_BOUND,oes
+SENT_BOUND, wall
+NE_PER,and d
+MWE_COMPOUND_NOUN, very good a
+SENT_BOUND,but a
+NE_PER,f the
+MWE_COMPOUND_NOUN,n donnin
+SENT_BOUND, rese
+NE_PER, so m
+SENT_BOUND,oviding 
+NE_PER,s nic
+MWE_COMPOUND_NOUN,s, and his "pwoba
+MWE_COMPOUND_NOUN,ng, and the g
+SENT_BOUND,me is ne
+SENT_BOUND,e
+NE_PER,'t sh
+MWE_VPC,wer". Fwan
+MWE_VPC_VERB,wer".
+MWE_VPC_PARTICLE,Fwan
+MWE_COMPOUND_NOUN, expendable cardb
+MWE_COMPOUND_NOUN,argets at a fairgroun
+COMPOUND_NOUN_SB, fairgroun
+MWE_COMPOUND_NOUN,llection of
+NE_PER,ne he
+MWE_COMPOUND_ADJ, his weapo
+COMPOUND_ADJ_SB,weapo
+NE_PER,well 
+MWE_LVC,iled. Fwank makes on
+MWE_LVC_VERB,iled.
+MWE_LVC_NOUN,k makes on
+MWE_COMPOUND_NOUN,sion to his fell
+MWE_COMPOUND_NOUN,; he ties a 
+MWE_COMPOUND_NOUN,loon to h
+SENT_BOUND, 
+NE_PER,were 
+NE_MISC, that fires Neu
+MWE_COMPOUND_NOUN,s bombs are Ho
+MWE_COMPOUND_NOUN,g armada of
+SENT_BOUND,rate
+SENT_BOUND,h wal
+NE_PER, can 
+SENT_BOUND,ck inco
+NE_PER,ng en
+NE_PER, simi
+NE_PER,r to 
+MWE_COMPOUND_NOUN, has a good 
+SENT_BOUND, but 
+NE_PER,te as
+NE_PER,xedo-w
+SENT_BOUND,r most ot
+MWE_COMPOUND_NOUN,as spent h
+MWE_COMPOUND_NOUN,lt life as a s
+MWE_COMPOUND_NOUN,urity guard, perso
+SENT_BOUND, mostly
+MWE_COMPOUND_ADJ, of the most wid
+MWE_IDIOM,lorers w
+SENT_BOUND,ents
+NE_PER,nd the
+SENT_BOUND,s inc
+SENT_BOUND,, eno
+SENT_BOUND,a
+SENT_BOUND,kill y
+NE_PER,er a d
+MWE_VPC,y Bounca was 
+MWE_VPC_VERB,y Bounca
+MWE_VPC_PARTICLE,was 
+NE_PER,tching
+SENT_BOUND,ic, se
+NE_MISC, weapon is a Mis
+NE_MISC, bomb is the
+SENT_BOUND,ing burs
+SENT_BOUND,gh wa
+NE_PER,up in 
+MWE_COMPOUND_NOUN,has a medium
+SENT_BOUND,d a m
+NE_PER, in
+MWE_COMPOUND_NOUN,x is a former 
+MWE_COMPOUND_NOUN,und enginee
+MWE_COMPOUND_NOUN,c jockey, and
+NE_PER,often cal
+SENT_BOUND,astating se
+NE_PER, co
+MWE_COMPOUND_NOUN,ied sound and mu
+MWE_COMPOUND_ADJ, in the game, 
+NE_ORG,th the aid of
+MWE_LVC, an order wh
+MWE_LVC_VERB, an 
+MWE_LVC_NOUN, wh
+SENT_BOUND,in the art of
+NE_MISC, a number
+MWE_COMPOUND_NOUN,und to it 
+SENT_BOUND, mike
+MWE_COMPOUND_NOUN,er visor. T
+MWE_COMPOUND_NOUN,reated act 
+NE_PER,le 
+SENT_BOUND,ling pools
+NE_MISC,weapon is 
+MWE_COMPOUND_NOUN,Flail and 
+NE_MISC,a bomb is t
+MWE_COMPOUND_NOUN,rst of leth
+COMPOUND_NOUN_SB, leth
+SENT_BOUND,ugh w
+MWE_COMPOUND_NOUN,, with a poo
+SENT_BOUND,to even
+MWE_COMPOUND_NOUN,man that wears 
+SENT_BOUND,cross
+SENT_BOUND,nicker
+MWE_COMPOUND_NOUN,is attire. 
+MWE_COMPOUND_NOUN,l and also th
+MWE_COMPOUND_NOUN,y a staggerin
+MWE_COMPOUND_NOUN, happens to be w
+SENT_BOUND,othi
+NE_PER, in s
+NE_MISC,wer named the
+NE_MISC,is bomb is the
+NE_PER,ectio
+SENT_BOUND,within
+SENT_BOUND,ough 
+NE_MISC,oody heap, th
+NE_MISC, Queen and the
+SENT_BOUND,ies' bo
+MWE_COMPOUND_NOUN,e has a medi
+NE_PER,not
+SENT_BOUND,arac
+MWE_COMPOUND_NOUN,and forear
+SENT_BOUND, and an
+NE_PER,xposed ribc
+NE_LOC,perating 
+NE_MISC,bean during the Gold
+NE_LOC,cowboy from the O
+SENT_BOUND,can W
+NE_PER,he authorit
+NE_ORG,d and d
+MWE_COMPOUND_NOUN,ically-enhanc
+COMPOUND_NOUN_SB,-enhanc
+MWE_COMPOUND_NOUN,nal part o
+SENT_BOUND,s ro
+MWE_COMPOUND_NOUN,and out-of-da
+MWE_LVC,when technology t
+MWE_LVC_VERB,when
+MWE_LVC_NOUN,gy t
+SENT_BOUND,d,
+SENT_BOUND,stori
+NE_LOC, the 
+SENT_BOUND, 
+NE_PER,. The truth
+SENT_BOUND,wh
+MWE_COMPOUND_NOUN,e a pair of old f
+MWE_COMPOUND_NOUN,mized for r
+MWE_COMPOUND_NOUN,ll retain their
+SENT_BOUND,dem
+NE_MISC,His bomb is
+MWE_COMPOUND_NOUN,b, a curtai
+SENT_BOUND,reds e
+SENT_BOUND,rough
+NE_PER,alls and do
+MWE_COMPOUND_NOUN, has an aver
+NE_PER,har
+NE_PER, behi
+NE_PER_SB, behi
+NE_MISC,sed also fo
+NE_MISC, the PC e
+SENT_BOUND,shed by t
+MWE_COMPOUND_NOUN,eatured the
+MWE_COMPOUND_NOUN,ne, and ev
+MWE_COMPOUND_NOUN,although it
+SENT_BOUND,lightly 
+NE_MISC,game are 
+NE_PER,-Load
+NE_PER,, such
+NE_PER,s Mam
+NE_PER,unca, Butch
+NE_PER_SB,Butch
+NE_PER,and
+MWE_COMPOUND_NOUN,d, canniba
+NE_PER,symbol n
+MWE_COMPOUND_NOUN,a malfuncti
+NE_PER,ndroid nun na
+NE_PER_SB,nun na
+MWE_COMPOUND_NOUN,ster Magpi
+NE_PER, Via cheat co
+NE_PER,hidde
+NE_MISC, game for
+NE_MISC_SB, game for
+NE_PER,ed. I
+NE_MISC,est chara
+SENT_BOUND,t spe
+SENT_BOUND,iations 
+SENT_BOUND,red weapon
+NE_ORG,e coming 
+NE_ORG,en listed by
+NE_ORG,t i
+NE_MISC,ming to PSN a
+NE_MISC_SB,o PSN a
+NE_PER, PSOne
+NE_MISC,the an
+MWE_COMPOUND_NOUN, brain fle
+COMPOUND_NOUN_SB,fle
+MWE_COMPOUND_NOUN,anding on a 
+NE_MISC,rsh desert
+MWE_COMPOUND_NOUN,ed, bronzed y
+NE_PER,tist hermit
+SENT_BOUND, giv
+NE_PER,ated and
+NE_PER,which stands for "Charming Handso
+MWE_VPC, supervi
+MWE_VPC_VERB, supe
+MWE_VPC_PARTICLE,vi
+MWE_COMPOUND_NOUN,he aspect
+NE_PER,ic and thou
+NE_PER_SB,thou
+MWE_COMPOUND_NOUN,el Auto. With his matter m
+NE_PER,ipulatio
+NE_MISC,ole planets into "Works
+SENT_BOUND,e si
+MWE_VPC,-heroes gather
+MWE_VPC_VERB,-hero
+MWE_VPC_PARTICLE,ther
+MWE_VPC,e and f
+MWE_VPC_VERB,e a
+MWE_VPC_PARTICLE,d f
+NE_MISC,l and set 
+NE_MISC_SB, 
+NE_MISC,for Kee-B
+MWE_COMPOUND_ADJ,l game, was n
+NE_ORG,a rating 
+NE_ORG_SB,a rating 
+NE_PER,tirely comp
+SENT_BOUND,est 
+MWE_COMPOUND_NOUN,ld be pl
+COMPOUND_NOUN_SB,pl
+NE_MISC,
+On June
+NE_MISC,put on
+NE_ORG,Germ
+SENT_BOUND, the BPjS, 

@@ -1,0 +1,647 @@
+NE_MISC,Sengoku
+MWE_COMPOUND_NOUN,political factions
+NE_ORG,Japan
+NE_ORG_SB,Japan
+MWE_COMPOUND_NOUN,liege lord
+NE_PER,Oda Nobunaga
+MWE_LVC,brought an end
+MWE_LVC_VERB,brought
+MWE_LVC_NOUN,end
+NE_MISC,Sengoku
+SENT_BOUND,period
+NE_MISC,Momoyama
+NE_PER,Hideyoshi
+SENT_BOUND,castle
+MWE_COMPOUND_NOUN,samurai class
+SENT_BOUND,arms
+NE_PER,Hideyoshi
+NE_ORG,Japan
+SENT_BOUND,unifier
+NE_PER,Hideyoshi
+SENT_BOUND,letters
+NE_PER,Hideyoshi
+SENT_BOUND,past
+NE_LOC,Nakamura-ku
+NE_LOC,Nagoya
+NE_LOC,Aichi District
+NE_LOC,Owari Province
+NE_ORG,Oda
+SENT_BOUND,clan
+MWE_COMPOUND_NOUN,samurai lineage
+NE_PER,Yaemon
+NE_PER_SB,Yaemon
+MWE_COMPOUND_NOUN,childhood given name
+SENT_BOUND,exist
+NE_PER,Toyotomi Hideyoshi
+NE_PER,Kozaru
+NE_PER,Oda Nobunaga
+SENT_BOUND,monkey
+SENT_BOUND,rat
+NE_PER,Hideyoshi
+MWE_COMPOUND_NOUN,temple life
+SENT_BOUND,adventure
+NE_ORG,Imagawa
+NE_PER,Matsushita Yukitsuna
+NE_PER_SB,Yukitsuna
+NE_PER,Imagawa Yoshimoto
+NE_LOC,Suruga Province
+NE_PER,Matsushita Yukitsuna
+NE_PER_SB,Yukitsuna
+NE_LOC,Owari Province
+NE_ORG,Oda
+NE_PER,Oda Nobunaga
+SENT_BOUND,servant
+NE_PER,Nobunaga
+NE_MISC,Battle of Okehazama
+NE_PER,Nobunaga
+NE_PER,Imagawa Yoshimoto
+NE_MISC,Sengoku
+SENT_BOUND,period
+NE_LOC,Kiyosu Castle
+SENT_BOUND,kitchen
+NE_PER,Hideyoshi
+NE_PER,Nene
+NE_PER,Asano Nagamasa
+SENT_BOUND,daughter
+MWE_VPC,carried out
+MWE_VPC_VERB,carried
+MWE_VPC_PARTICLE,out
+NE_LOC,Sunomata Castle
+NE_PER,Toyotomi Hidenaga
+NE_PER,Hachisuka Masakatsu
+NE_PER,Maeno Nagayasu
+NE_PER_SB,Nagayasu
+NE_PER,Hideyoshi
+MWE_COMPOUND_ADJ,well received
+NE_LOC,Sunomata
+MWE_COMPOUND_NOUN,enemy territory
+COMPOUND_NOUN_SB,territory
+NE_LOC,Sunomata
+MWE_COMPOUND_NOUN,secret route
+NE_LOC,Mount Inaba
+SENT_BOUND,surrendered
+NE_PER,Hideyoshi
+SENT_BOUND,negotiator
+NE_LOC,Mino
+NE_ORG,Saito
+SENT_BOUND,clan
+NE_PER,Hideyoshi
+NE_ORG,Saito
+NE_PER,Nobunaga
+NE_ORG,Saito
+NE_PER,Takenaka Hanbei
+NE_PER_SB,Hanbei
+NE_PER,Nobunaga
+NE_LOC,Inabayama Castle
+NE_PER,Hideyoshi
+MWE_COMPOUND_NOUN,peasant origins
+NE_PER,Hideyoshi
+NE_PER,Nobunaga
+NE_PER,Hashiba Hideyoshi
+SENT_BOUND,)
+NE_PER,Oda
+NE_PER,Niwa Nagahide
+NE_PER,Shibata Katsuie
+NE_PER_SB,Katsuie
+NE_PER,Hideyoshi
+NE_MISC,Battle of Anegawa
+NE_PER,Oda Nobunaga
+NE_PER,Tokugawa Ieyasu
+NE_PER,Hideyoshi
+NE_ORG,Japan
+MWE_LVC,lay siege
+MWE_LVC_VERB,lay
+MWE_LVC_NOUN,siege
+NE_ORG,Azai
+NE_ORG,Asakura
+SENT_BOUND,clans
+NE_ORG,Azai
+NE_ORG,Asakura
+NE_PER,Nobunaga
+NE_PER,Hideyoshi
+NE_LOC,Omi Province
+NE_LOC_SB,Province
+NE_ORG,Azai
+NE_LOC,Odani
+NE_PER,Hideyoshi
+NE_LOC,Kunitomo
+NE_LOC,Nagahama
+NE_PER,Nobunaga
+NE_PER_SB,Nobunaga
+NE_PER,Hideyoshi
+NE_LOC,Imahama
+NE_LOC,Lake Biwa
+NE_LOC_SB,Biwa
+NE_LOC,Imahama Castle
+MWE_LVC,took control
+MWE_LVC_VERB,took
+MWE_LVC_NOUN,control
+NE_LOC,Kunitomo
+MWE_COMPOUND_NOUN,firearms factory
+NE_ORG,Azai
+NE_ORG,Asakura
+NE_ORG_SB,Asakura
+NE_PER,Hideyoshi
+SENT_BOUND,dramatically
+NE_PER,Nobunaga
+NE_PER,Hideyoshi
+NE_LOC,Himeji Castle
+NE_LOC,Chugoku
+SENT_BOUND,1576
+NE_LOC,Honno-ji
+NE_PER,Oda Nobunaga
+NE_PER,Nobutada
+NE_PER,Akechi Mitsuhide
+NE_PER,Hideyoshi
+NE_PER,Akechi
+NE_MISC,Battle of Yamazaki
+NE_MISC_SB,Yamazaki
+NE_LOC,Kiyosu
+NE_PER,Nobunaga
+NE_PER,Hideyoshi
+MWE_VPC,cast aside
+MWE_VPC_VERB,cast
+MWE_VPC_PARTICLE,aside
+NE_PER,Oda Nobutaka
+NE_ORG,Oda
+MWE_COMPOUND_NOUN,chief general
+NE_PER,Shibata Katsuie
+NE_PER,Nobutada
+NE_PER,Oda Hidenobu
+NE_PER_SB,Hidenobu
+NE_PER,Oda
+NE_PER,Niwa Nagahide
+NE_PER,Ikeda Tsuneoki
+NE_PER,Hideyoshi
+NE_PER,Hidenobu
+NE_ORG,Oda
+SENT_BOUND,clan
+NE_PER,Hideyoshi
+NE_PER,Katsuie
+NE_MISC,Battle of Shizugatake
+NE_PER,Hideyoshi
+NE_PER,Katsuie
+NE_ORG,Oda
+SENT_BOUND,control
+NE_PER,Hideyoshi
+NE_LOC,Osaka Castle
+NE_LOC_SB,Castle
+NE_LOC,Ishiyama Honganji
+NE_PER,Nobunaga
+NE_ORG,Toyotomi
+NE_PER,Hideyoshi
+SENT_BOUND,death
+NE_PER,Nobunaga
+NE_PER,Oda Nobukatsu
+NE_PER,Hideyoshi
+NE_PER_SB,Hideyoshi
+NE_PER,Tokugawa Ieyasu
+NE_MISC,Battle of Komaki
+NE_MISC,Nagakute
+NE_MISC_SB,Nagakute
+NE_PER,Hideyoshi
+SENT_BOUND,blow
+NE_PER,Hideyoshi
+MWE_LVC,made peace
+MWE_LVC_VERB,made
+MWE_LVC_NOUN,peace
+NE_PER,Nobukatsu
+NE_ORG,Tokugawa
+NE_ORG,Hashiba
+SENT_BOUND,clans
+NE_PER,Hideyoshi
+NE_PER,Tokugawa Ieyasu
+NE_PER,Asahi no kata
+NE_PER,Omandokoro
+SENT_BOUND,hostages
+NE_PER,Ieyasu
+NE_PER,Hideyoshi
+NE_PER_SB,Hideyoshi
+NE_PER,Nobunaga
+NE_PER,Hideyoshi
+SENT_BOUND,shogun
+NE_ORG,Fujiwara Regents House
+MWE_COMPOUND_NOUN,high imperial court titles
+SENT_BOUND,)
+NE_PER,Hideyoshi
+NE_PER,Toyotomi
+MWE_COMPOUND_NOUN,imperial court
+COMPOUND_NOUN_SB,court
+NE_LOC,Jurakudai
+NE_PER,Go-Yozei
+SENT_BOUND,year
+NE_PER,Hideyoshi
+NE_LOC,Kii Province
+NE_LOC,Shikoku
+NE_ORG,Chosokabe
+SENT_BOUND,clan
+MWE_LVC,took control
+MWE_LVC_VERB,took
+MWE_LVC_NOUN,control
+NE_LOC,Etchu Province
+NE_LOC,Kyushu
+NE_LOC_SB,Kyushu
+NE_PER,Hideyoshi
+NE_LOC,Kyushu
+SENT_BOUND,daimyo
+MWE_LVC,made much of trade
+MWE_LVC_VERB,made
+MWE_LVC_NOUN,trade
+NE_MISC,Europeans
+SENT_BOUND,unofficially
+NE_PER,Hideyoshi
+MWE_COMPOUND_NOUN,sword hunt
+SENT_BOUND,arms
+MWE_VPC,melted down
+MWE_VPC_VERB,melted
+MWE_VPC_PARTICLE,down
+NE_PER,Buddha
+NE_PER_SB,Buddha
+MWE_COMPOUND_NOUN,peasant revolts
+SENT_BOUND,daimyo
+NE_MISC,Siege of Odawara
+NE_ORG,Hojo
+NE_LOC,Kanto
+NE_PER,Hideyoshi
+SENT_BOUND,authority
+NE_MISC,Sengoku
+NE_PER,Hideyoshi
+NE_PER,Ieyasu
+NE_PER,Ieyasu
+NE_LOC,Kanto
+NE_PER,Kitajo
+SENT_BOUND,ruled
+NE_PER,Ieyasu
+SENT_BOUND,proposal
+NE_PER,Date Masamune
+NE_PER,Hideyoshi
+NE_PER_SB,Hideyoshi
+NE_PER,Hideyoshi
+NE_PER,Sen no Rikyu
+MWE_LVC,commit suicide
+MWE_LVC_VERB,commit
+MWE_LVC_NOUN,suicide
+LVC_NOUN_SB,suicide
+NE_PER,Rikyu
+MWE_COMPOUND_NOUN,tea ceremony
+NE_PER,Hideyoshi
+NE_PER,Nobunaga
+NE_PER_SB,Nobunaga
+NE_PER,Hideyoshi
+NE_PER,Rikyu
+MWE_LVC,made significant changes
+MWE_LVC_VERB,made
+MWE_LVC_NOUN,changes
+MWE_COMPOUND_NOUN,tea ceremony
+NE_MISC,Japanese
+SENT_BOUND,culture
+NE_PER,Rikyu
+NE_PER,Hideyoshi
+MWE_COMPOUND_NOUN,construction projects
+NE_PER,Rikyu
+NE_PER_SB,Rikyu
+NE_PER,Rikyu
+NE_PER,Hideyoshi
+MWE_COMPOUND_NOUN,tea ceremony
+NE_MISC,Noh
+NE_MISC,Komparu
+SENT_BOUND,kampaku
+NE_LOC,Nagoya Castle
+NE_LOC,Saga
+NE_LOC,Kyushu
+NE_PER,Hideyoshi
+MWE_COMPOUND_NOUN,lead roles
+NE_MISC,Noh
+SENT_BOUND,)
+SENT_BOUND,Emperor
+NE_PER,Toyotomi
+NE_PER,Hideyoshi
+MWE_LVC,put in doubt
+MWE_LVC_VERB,put
+MWE_LVC_NOUN,in doubt
+MWE_COMPOUND_NOUN,only son
+NE_PER,Tsurumatsu
+SENT_BOUND,1591
+MWE_COMPOUND_NOUN,only child
+COMPOUND_NOUN_SB,child
+NE_PER,Hidenaga
+NE_PER,Hideyoshi
+NE_PER,Hidetsugu
+SENT_BOUND,1592
+NE_PER,Hideyoshi
+SENT_BOUND,)
+NE_PER,Hidetsugu
+SENT_BOUND,kampaku
+NE_PER,Hideyoshi
+NE_MISC,Japanese
+NE_LOC,China
+NE_PER,Oda Nobunaga
+NE_LOC,Korea
+NE_LOC_SB,Korea
+NE_ORG,Ming China
+NE_PER,Hideyoshi
+NE_MISC,Koreans
+NE_LOC,China
+NE_LOC_SB,China
+NE_ORG,Ming China
+NE_MISC,Koreans
+NE_MISC,Japanese
+NE_LOC,Korea
+NE_LOC_SB,Korea
+NE_MISC,Koreans
+NE_MISC,Japanese
+NE_LOC,Korea
+NE_LOC,Chosun
+NE_MISC,Ming Chinese
+NE_PER,Hideyoshi
+NE_MISC,Korean
+NE_LOC,China
+NE_LOC,Chosun
+SENT_BOUND,economy
+NE_MISC,Koreans
+MWE_COMPOUND_NOUN,safe passage
+NE_MISC,Japanese
+NE_MISC,Japanese
+SENT_BOUND,attack
+NE_PER,Hideyoshi
+SENT_BOUND,invasion
+NE_PER,Hideyoshi
+NE_PER,Ukita Hideie
+MWE_COMPOUND_NOUN,field marshal
+NE_LOC,Korean peninsula
+SENT_BOUND,1592
+NE_PER,Konishi Yukinaga
+NE_LOC,Seoul
+NE_ORG,Joseon Dynasty
+NE_PER,Hideyoshi
+NE_LOC,Manchuria
+NE_LOC,Korea
+NE_LOC_SB,Korea
+NE_MISC,Korean
+NE_PER,Seonjo
+NE_LOC,Joseon
+NE_LOC,Pyongyang
+MWE_COMPOUND_NOUN,military intervention
+NE_ORG,China
+NE_ORG_SB,China
+NE_MISC,Ming Chinese
+NE_PER,Wanli
+NE_PER,Li Rusong
+NE_LOC,China
+NE_LOC,Korean peninsula
+NE_LOC_SB,peninsula
+NE_PER,Li
+NE_LOC,Pyongyang
+NE_LOC,Seoul
+NE_LOC_SB,Seoul
+NE_PER,Ishida Mitsunari
+NE_MISC,Japanese
+NE_LOC,Seoul
+NE_PER,Li Rusong
+SENT_BOUND,counterattack
+MWE_COMPOUND_NOUN,cease-fire agreement
+NE_MISC,Japanese
+NE_LOC,Japan
+NE_LOC_SB,Japan
+NE_PER,Hideyoshi
+NE_PER,Hideyori
+MWE_COMPOUND_NOUN,succession problem
+COMPOUND_NOUN_SB,problem
+NE_PER,Hideyoshi
+NE_PER,Hidetsugu
+NE_LOC,Mount Koya
+MWE_LVC,commit suicide
+MWE_LVC_VERB,commit
+MWE_LVC_NOUN,suicide
+SENT_BOUND,1595
+NE_PER,Hidetsugu
+MWE_COMPOUND_NOUN,family members
+NE_LOC,Kyoto
+SENT_BOUND,children
+NE_PER,Toyotomi Hideyoshi
+NE_MISC,Japanese
+SENT_BOUND,Christianity
+NE_LOC,Japan
+NE_LOC_SB,Japan
+NE_MISC,European
+NE_MISC,Mexican
+NE_MISC,Japanese
+NE_MISC,Japanese
+SENT_BOUND,boys
+NE_LOC,Nagasaki
+NE_LOC_SB,Nagasaki
+MWE_VPC,broken off
+MWE_VPC_VERB,broken
+MWE_VPC_PARTICLE,off
+NE_PER,Hideyoshi
+NE_PER,Kobayakawa Hideaki
+MWE_COMPOUND_NOUN,invasion forces
+NE_LOC,Korean peninsula
+MWE_LVC,met with less success
+MWE_LVC_VERB,met
+MWE_LVC_NOUN,with less success
+SENT_BOUND,invasion
+NE_MISC,Japanese
+NE_LOC,Gyeongsang
+SENT_BOUND,province
+NE_MISC,Japanese
+MWE_VPC,turning back
+MWE_VPC_VERB,turning
+MWE_VPC_PARTICLE,back
+NE_MISC,Chinese
+NE_LOC,Suncheon
+NE_LOC,Sacheon
+NE_ORG,Ming army
+SENT_BOUND,assault
+NE_MISC,Koreans
+MWE_COMPOUND_NOUN,guerrilla warfare
+NE_MISC,Japanese
+SENT_BOUND,forces
+NE_PER,Hideyoshi
+NE_LOC,So-chon
+NE_MISC,Japanese
+SENT_BOUND,exhausted
+NE_PER,Hideyoshi
+SENT_BOUND,won
+NE_LOC,Korea
+SENT_BOUND,land
+NE_PER,Toyotomi Hideyoshi
+SENT_BOUND,1598
+MWE_LVC,kept secret
+MWE_LVC_VERB,kept
+MWE_LVC_NOUN,secret
+NE_ORG,Council of Five Elders
+NE_MISC,Japanese
+NE_LOC,Korean peninsula
+NE_LOC_SB,peninsula
+NE_LOC,Korea
+NE_PER,Hideyoshi
+NE_LOC,China
+NE_LOC_SB,China
+MWE_COMPOUND_NOUN,military expeditions
+MWE_COMPOUND_NOUN,fighting strength
+NE_PER,Toyotomi
+SENT_BOUND,weakened
+NE_MISC,Japanese
+NE_LOC,Asia
+NE_PER,Hideyoshi
+NE_PER_SB,Hideyoshi
+NE_ORG,Tokugawa
+MWE_COMPOUND_NOUN,military expeditions
+NE_LOC,Japan
+NE_ORG,Tokugawa Shogunate
+NE_ORG_SB,Shogunate
+NE_ORG,Japan
+NE_ORG,China
+NE_LOC,Korea
+NE_PER,Hideyoshi
+MWE_COMPOUND_NOUN,invasion force
+SENT_BOUND,used
+NE_ORG,Council of Five Regents
+NE_PER,Tokugawa Ieyasu
+SENT_BOUND,check
+NE_PER,Hideyoshi
+MWE_COMPOUND_NOUN,top generals
+NE_PER,Kato Kiyomasa
+NE_PER,Fukushima Masanori
+NE_ORG,Toyotomi
+MWE_COMPOUND_NOUN,clan castellan
+NE_PER,Ishida Mitsunari
+SENT_BOUND,power
+MWE_LVC,held the generals in low esteem
+MWE_LVC_VERB,held
+MWE_LVC_NOUN,in low esteem
+NE_PER,Tokugawa Ieyasu
+NE_PER_SB,Ieyasu
+NE_PER,Hideyoshi
+NE_PER,Hideyori
+NE_PER,Tokugawa Ieyasu
+NE_MISC,Battle of Sekigahara
+NE_MISC_SB,Sekigahara
+NE_PER,Toyotomi Hideyoshi
+NE_MISC,Japanese
+SENT_BOUND,ways
+MWE_COMPOUND_NOUN,class structure
+SENT_BOUND,production
+MWE_COMPOUND_NOUN,Class reforms
+SENT_BOUND,warriors
+NE_MISC,Sengoku
+MWE_COMPOUND_NOUN,centralized government
+SENT_BOUND,peace
+MWE_LVC,taking control
+MWE_LVC_VERB,taking
+MWE_LVC_NOUN,control
+NE_PER,Hideyoshi
+SENT_BOUND,completely
+MWE_VPC,take up
+MWE_VPC_VERB,take
+MWE_VPC_PARTICLE,up
+MWE_COMPOUND_NOUN,castle towns
+COMPOUND_NOUN_SB,towns
+MWE_COMPOUND_NOUN,social class system
+SENT_BOUND,years
+NE_LOC,Japan
+NE_LOC_SB,Japan
+NE_MISC,Japanese
+MWE_LVC,obtained official permission
+MWE_LVC_VERB,obtained
+MWE_LVC_NOUN,permission
+SENT_BOUND,elsewhere
+SENT_BOUND,new
+MWE_COMPOUND_NOUN,land surveys
+SENT_BOUND,taxation
+NE_PER,Hideyoshi
+NE_LOC,Osaka Castle
+NE_LOC,Japan
+NE_LOC,Kyoto
+NE_LOC_SB,Kyoto
+NE_PER,Hideyoshi
+MWE_COMPOUND_NOUN,penal codes
+SENT_BOUND,labor
+NE_PER,Hideyoshi
+MWE_COMPOUND_NOUN,material culture
+NE_LOC,Japan
+NE_LOC_SB,Japan
+MWE_COMPOUND_NOUN,tea ceremony
+MWE_COMPOUND_NOUN,social events
+SENT_BOUND,masters
+MWE_COMPOUND_NOUN,tea ceremony
+MWE_COMPOUND_NOUN,ruling class
+NE_MISC,Korean
+NE_MISC,Korean
+NE_LOC,Japan
+NE_LOC_SB,Japan
+NE_LOC,Golden Pavilion
+NE_LOC,Kyoto
+MWE_COMPOUND_NOUN,tea room
+SENT_BOUND,gossamer
+MWE_COMPOUND_NOUN,tea ceremony
+SENT_BOUND,arrival
+MWE_VPC,set up
+MWE_VPC_VERB,set
+MWE_VPC_PARTICLE,up
+MWE_COMPOUND_NOUN,governmental system
+MWE_VPC,balanced out
+MWE_VPC_VERB,balanced
+MWE_VPC_PARTICLE,out
+NE_MISC,Japanese
+SENT_BOUND,)
+SENT_BOUND,lords
+SENT_BOUND,command
+NE_PER,Hideyoshi
+MWE_VPC,set up
+MWE_VPC_VERB,set
+MWE_VPC_PARTICLE,up
+SENT_BOUND,leader
+SENT_BOUND,daimyo
+NE_PER,Maeda Toshiie
+NE_PER,Tokugawa Ieyasu
+NE_PER,Hideyoshi
+SENT_BOUND,)
+NE_PER,Tokugawa
+NE_MISC,Battle of Sekigahara
+NE_MISC_SB,Sekigahara
+NE_PER,Ieyasu
+NE_MISC,Seii-tai Shogun
+SENT_BOUND,later
+NE_PER,Hideyoshi
+NE_PER,Toyokuni
+NE_LOC,Japan
+NE_LOC_SB,Japan
+NE_PER,Ieyasu
+NE_PER,Hideyoshi
+SENT_BOUND,them
+NE_PER,Hideyoshi
+MWE_COMPOUND_NOUN,cultural legacy
+SENT_BOUND,remained
+NE_PER,Hideyoshi
+NE_PER,Toyotomi Hideyoshi
+SENT_BOUND,life
+NE_PER,Hiyoshi-maru
+NE_PER_SB,Hiyoshi-maru
+SENT_BOUND,name
+NE_PER,Hashiba
+MWE_COMPOUND_NOUN,honorary court office
+NE_MISC,Chikuzen no Kami
+SENT_BOUND,styled
+NE_PER,Hashiba
+NE_PER,Toyotomi
+SENT_BOUND,emperor
+NE_PER,Toyotomi no Hideyoshi
+NE_PER_SB,Hideyoshi
+MWE_COMPOUND_NOUN,writing system
+SENT_BOUND,??
+NE_PER,Toyotomi
+NE_PER,Hideyoshi
+NE_PER,Toyotomi
+NE_PER,Toyotomi
+SENT_BOUND,)
+NE_PER,Taicosama
+SENT_BOUND,)
+NE_PER,Monkey
+NE_PER,Saru
+NE_PER,Oda Nobunaga
+SENT_BOUND,monkey
+NE_PER,Toyotomi Hideyoshi
+MWE_COMPOUND_ADJ,monkey styled
+SENT_BOUND,behaviour

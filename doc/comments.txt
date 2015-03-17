@@ -1,0 +1,9 @@
+u  were right about word IDs: sometimes it's not even a normal phrase that is extracted, therefore, i can't properly check the results. however, there seems to be a way to keep track of spots where the very first mistake happens (separately for each document). as we ave only 50 documents, we can try 1) identify these spots, 2) adjust further processing based on that (maybe, add some point/label counter before which the document is treaed normally n after which it's -1 character). but 1) it's kinda annoying to do so for each document (still, i can make such a 'first mistake spot' list for u if u find it's useful), 2) this would help extract the "first round results" more accurately, but i'm not sure how this helps further work.
+
+we need to get rid of the following categories:
+- MWE_VPC (including MWE_VPC_VERB n MWE_VPC_PARTICLE; these are the phrasal verbs i told u about, like look for out point out. n we agreed on that it's useless to include these)
+- SENT_BOUND
+- NE_* (including NE_MISC, NE_PER, NE_ORG, NE_LOC; Named Entities, again, we agreed on excluding them)
+- everything with _SB attached to the end(these are duplicates because they go along with e.g.,  MWE_COMPOUND_NOUN label but contain just that MWE part that is a sentence boundary -> add no value).
+
+there is an awkward thing: in some lines there is just one capital letter that stands for no labels n doesn't contain anything (just C or A). + there r lines when there is a label, but the content assigned to it goes on a separate line below. it's ok, but just to let u know.

@@ -1,0 +1,143 @@
+MWE_COMPOUND_NOUN,Solid-phase extraction
+MWE_COMPOUND_NOUN,separation process
+MWE_COMPOUND_NOUN,liquid mixture
+SENT_BOUND,properties
+MWE_COMPOUND_NOUN,Analytical laboratories
+MWE_COMPOUND_NOUN,solid phase extraction
+SENT_BOUND,analysis
+MWE_COMPOUND_NOUN,Solid phase extraction
+MWE_COMPOUND_NOUN,animal tissue
+COMPOUND_NOUN_SB,tissue
+MWE_COMPOUND_NOUN, mobile phas
+MWE_COMPOUND_NOUN, stationary phas
+SENT_BOUND, component
+MWE_COMPOUND_NOUN, stationary phas
+MWE_COMPOUND_NOUN, stationary phas
+SENT_BOUND, impuritie
+MWE_COMPOUND_NOUN, stationary phas
+MWE_COMPOUND_NOUN, stationary phas
+MWE_COMPOUND_NOUN, stationary phas
+SENT_BOUND, eluen
+MWE_COMPOUND_NOUN,e stationary pha
+MWE_COMPOUND_NOUN,a 96 well pla
+MWE_COMPOUND_NOUN,f extraction manifo
+COMPOUND_NOUN_SB,n manifo
+MWE_COMPOUND_NOUN,l SPE med
+SENT_BOUND,m simultaneous
+MWE_COMPOUND_NOUN,l cartridge SPE manifo
+MWE_COMPOUND_NOUN,l disk SPE manifo
+SENT_BOUND,6 dis
+MWE_COMPOUND_NOUN,t SPE manifol
+MWE_COMPOUND_NOUN,a vacuum po
+COMPOUND_NOUN_SB,m po
+MWE_VPC,m speeds 
+MWE_VPC_VERB,m spee
+MWE_VPC_PARTICLE,s 
+MWE_COMPOUND_NOUN,e extraction proce
+MWE_COMPOUND_NOUN,e liquid samp
+MWE_COMPOUND_NOUN,e stationary pha
+COMPOUND_NOUN_SB,y pha
+MWE_COMPOUND_NOUN,n sample tub
+MWE_COMPOUND_NOUN,e stationary pha
+MWE_COMPOUND_NOUN,.
+Solid phase extraction cartrid
+MWE_COMPOUND_NOUN,of stationary pha
+MWE_COMPOUND_NOUN,nt chemical propert
+COMPOUND_NOUN_SB,al propert
+MWE_COMPOUND_NOUN,st stationary pha
+MWE_COMPOUND_NOUN,ic functional gr
+COMPOUND_NOUN_SB,al gr
+MWE_COMPOUND_NOUN,se functional gro
+MWE_COMPOUND_NOUN,de hydrocarbon cha
+MWE_COMPOUND_NOUN,or reversed phase 
+MWE_COMPOUND_NOUN,), quaternary ammon
+MWE_COMPOUND_NOUN,or amino gro
+MWE_COMPOUND_NOUN,or anion excha
+MWE_COMPOUND_NOUN,nd sulfonic a
+MWE_COMPOUND_NOUN,or carboxyl gro
+MWE_COMPOUND_NOUN,or cation excha
+SENT_BOUND,n
+MWE_COMPOUND_NOUN,cal solid phase extrac
+SENT_BOUND,sic s
+SENT_BOUND,ded p
+MWE_COMPOUND_NOUN,the silica sur
+COMPOUND_NOUN_SB,ica sur
+SENT_BOUND,the cartr
+MWE_COMPOUND_NOUN,the stationary p
+SENT_BOUND,the cartr
+SENT_BOUND,her impuri
+SENT_BOUND,at
+MWE_COMPOUND_NOUN, 
+A stationary 
+MWE_COMPOUND_NOUN,hort carbons c
+MWE_VPC,ntly mak
+MWE_VPC_VERB,ntly 
+MWE_VPC_PARTICLE,ak
+MWE_COMPOUND_NOUN, the solid 
+COMPOUND_NOUN_SB,olid 
+MWE_COMPOUND_NOUN,This stationary 
+SENT_BOUND,olar so
+MWE_COMPOUND_NOUN,ent.
+Reversed pha
+SENT_BOUND,their po
+MWE_COMPOUND_NOUN,. The stationary
+MWE_COMPOUND_NOUN, of a reversed phase SPE car
+MWE_COMPOUND_NOUN, with hydrocarbon 
+MWE_COMPOUND_NOUN,o the hydrophobic 
+COMPOUND_NOUN_SB,hobic 
+MWE_COMPOUND_NOUN,d the stationary
+COMPOUND_NOUN_SB,onary
+MWE_COMPOUND_NOUN,se.
+A stationar
+MWE_COMPOUND_NOUN,n with carbon
+SENT_BOUND,mmon
+SENT_BOUND,to the 
+MWE_COMPOUND_NOUN,rface.
+Ion exchange 
+MWE_COMPOUND_NOUN,ased on electrostatic inte
+MWE_COMPOUND_ADJ,and the positively
+MWE_COMPOUND_NOUN, on the stationa
+COMPOUND_NOUN_SB,tiona
+MWE_COMPOUND_NOUN,se. For ion 
+MWE_COMPOUND_NOUN,oth the stationa
+SENT_BOUND,oth are
+MWE_COMPOUND_NOUN,harged.
+Anion exchange
+MWE_COMPOUND_ADJ,zed with positivel
+MWE_COMPOUND_ADJ,d retain negativel
+SENT_BOUND, such
+MWE_COMPOUND_NOUN,. Strong anion exchange
+MWE_COMPOUND_NOUN, contain quaternary ammoni
+MWE_COMPOUND_NOUN,ermanent positi
+MWE_COMPOUND_NOUN,harge in aqueous 
+MWE_COMPOUND_NOUN,and weak anion exchange
+MWE_COMPOUND_NOUN,ents use ami
+SENT_BOUND,o
+MWE_COMPOUND_NOUN,. Strong anion exchange
+MWE_COMPOUND_NOUN,d a weak anion exchange 
+SENT_BOUND,houl
+MWE_COMPOUND_NOUN,ent, the station
+MWE_COMPOUND_NOUN,yte, the station
+SENT_BOUND,hase
+MWE_COMPOUND_NOUN,zed, the electrostatic in
+MWE_COMPOUND_NOUN, and the station
+SENT_BOUND,from the 
+MWE_COMPOUND_NOUN,rtridge.
+Cation exchang
+MWE_COMPOUND_NOUN,ized with functio
+MWE_COMPOUND_ADJ,nd retain positive
+SENT_BOUND,, suc
+MWE_COMPOUND_NOUN,s. Strong cation exchang
+MWE_COMPOUND_NOUN,s contain aliphatic sulfonic a
+MWE_COMPOUND_ADJ,re always negative
+MWE_COMPOUND_NOUN,harged in aqueou
+MWE_COMPOUND_NOUN, and weak cation exchang
+MWE_COMPOUND_NOUN,s contain aliphatic carbox
+SENT_BOUND,o
+MWE_COMPOUND_NOUN,5. Strong cation exchang
+MWE_COMPOUND_NOUN,se a weak cation exchange
+SENT_BOUND,shou
+MWE_COMPOUND_NOUN,bent, the statio
+MWE_COMPOUND_NOUN,utralizes ionic i
+MWE_COMPOUND_NOUN,e and the statio
+COMPOUND_NOUN_SB,tatio

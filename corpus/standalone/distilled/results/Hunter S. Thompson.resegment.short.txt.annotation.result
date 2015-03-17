@@ -1,0 +1,729 @@
+NE_PER,Hunter Stockton Thompson
+NE_MISC,American
+MWE_OTHER,roman a clef
+NE_MISC,Fear and Loathing in Las Vegas
+NE_MISC_SB,Vegas
+MWE_COMPOUND_NOUN,Gonzo journalism
+MWE_COMPOUND_NOUN,central figures
+SENT_BOUND,stories
+SENT_BOUND,authoritarianism
+NE_PER,Hunter Stockton Thompson
+NE_LOC,Louisville
+NE_LOC,Kentucky
+NE_PER,Jack Robert Thompson
+MWE_COMPOUND_NOUN,insurance adjuster
+NE_MISC,World War I
+NE_PER,Virginia Davidson
+NE_PER,Ray
+MWE_COMPOUND_NOUN,reference librarian
+COMPOUND_NOUN_SB,librarian
+NE_PER,Jack
+SENT_BOUND,1935
+NE_PER,Thompson
+NE_LOC,Cherokee Triangle
+NE_LOC,Highlands
+NE_LOC,Louisville
+NE_LOC_SB,Louisville
+NE_PER,Jack Thompson
+MWE_OTHER,myasthenia gravis
+NE_PER,Hunter
+NE_PER,Hunter
+NE_PER,Davison
+NE_PER,James
+MWE_VPC,brought up
+MWE_VPC_VERB,brought
+MWE_VPC_PARTICLE,up
+SENT_BOUND,mother
+NE_PER,Jack
+NE_PER,Virginia
+MWE_COMPOUND_NOUN,heavy drinker
+SENT_BOUND,"
+NE_PER,Thompson
+NE_LOC,Louisville
+NE_ORG,Castlewood Athletic Club
+MWE_COMPOUND_NOUN,sports club
+MWE_COMPOUND_NOUN,high-school sports
+MWE_COMPOUND_NOUN,sports teams
+MWE_COMPOUND_NOUN,high school
+SENT_BOUND,trouble
+NE_PER,Thompson
+NE_ORG,I.N. Bloom Elementary School
+NE_ORG,Highland Middle School
+NE_ORG,Atherton High School
+NE_ORG,Louisville Male High School
+SENT_BOUND,father
+NE_ORG,Athenaeum Literary Association
+MWE_COMPOUND_NOUN,social club
+NE_ORG,Male High
+SENT_BOUND,1862
+NE_LOC,Louisville
+MWE_COMPOUND_NOUN,upper-class families
+NE_PER,Porter Bibb
+NE_ORG,Rolling Stone
+NE_ORG_SB,Stone
+NE_ORG,Athenaeum
+NE_PER,Thompson
+NE_MISC,The Spectator
+NE_PER,Thompson
+SENT_BOUND,problems
+MWE_LVC,committed the robbery
+MWE_LVC_VERB,committed
+MWE_LVC_NOUN,robbery
+NE_PER,Thompson
+NE_LOC,Kentucky
+NE_ORG,Jefferson County Jail
+NE_ORG_SB,Jail
+NE_ORG,U.S. Air Force
+SENT_BOUND,release
+NE_PER,Thompson
+MWE_LVC,did his basic training
+MWE_LVC_VERB,did
+MWE_LVC_NOUN,training
+NE_LOC,Lackland Air Force Base
+NE_LOC,San Antonio
+NE_LOC,Texas
+NE_LOC,Scott Air Force Base
+NE_LOC,Illinois
+SENT_BOUND,electronics
+NE_ORG,Air Force
+MWE_COMPOUND_NOUN,aviation-cadet program
+COMPOUND_NOUN_SB,program
+NE_LOC,Eglin Air Force Base
+NE_LOC,Pensacola
+NE_LOC,Florida
+NE_LOC_SB,Florida
+MWE_COMPOUND_NOUN,information-services department
+MWE_COMPOUND_NOUN,sports editor
+NE_ORG,The Command Courier
+NE_ORG_SB,Courier
+NE_ORG,Eglin Eagles
+MWE_COMPOUND_NOUN,football team
+NE_PER,Max McGee
+NE_PER,Zeke Bratkowski
+NE_PER_SB,Bratkowski
+NE_PER,Thompson
+NE_LOC,U.S.
+SENT_BOUND,games
+MWE_COMPOUND_NOUN,sports column
+NE_ORG,The Playground News
+NE_LOC,Fort Walton Beach
+NE_LOC,Florida
+NE_LOC_SB,Florida
+NE_PER,Thompson
+NE_ORG,Air Force
+NE_MISC,Airman First Class
+MWE_COMPOUND_NOUN,commanding officer
+COMPOUND_NOUN_SB,officer
+NE_PER,William S. Evans
+MWE_COMPOUND_NOUN,information services
+NE_LOC,Eglin
+MWE_COMPOUND_NOUN,personnel office
+COMPOUND_NOUN_SB,office
+MWE_VPC,rub off
+MWE_VPC_VERB,rub
+MWE_VPC_PARTICLE,off
+MWE_COMPOUND_NOUN,airmen staff members
+COMPOUND_NOUN_SB,members
+NE_PER,Thompson
+MWE_COMPOUND_NOUN,press release
+SENT_BOUND,status
+NE_ORG,Air Force
+MWE_COMPOUND_NOUN,sports editor
+NE_LOC,Jersey Shore
+NE_LOC,Pennsylvania
+NE_LOC,New York City
+NE_LOC_SB,City
+NE_ORG,Columbia University
+NE_ORG,School of General Studies
+NE_MISC,G.I. Bill
+MWE_LVC,taking classes
+MWE_LVC_VERB,taking
+MWE_LVC_NOUN,classes
+MWE_COMPOUND_NOUN,short-story writing
+COMPOUND_NOUN_SB,writing
+NE_PER,Thompson
+NE_MISC,Beat Generation
+MWE_COMPOUND_NOUN,Beat culture
+NE_LOC,New York City
+NE_LOC_SB,City
+NE_PER,Allen Ginsberg
+NE_PER,William S. Burroughs
+NE_PER_SB,Burroughs
+NE_ORG,Time
+MWE_COMPOUND_NOUN,copy boy
+SENT_BOUND,week
+NE_PER,F. Scott Fitzgerald
+NE_MISC,The Great Gatsby
+NE_PER,Ernest Hemingway
+NE_MISC,A Farewell to Arms
+SENT_BOUND,authors
+NE_ORG,Time
+SENT_BOUND,insubordination
+NE_ORG,The Middletown Daily Record
+NE_LOC,Middletown
+NE_LOC,New York
+NE_LOC_SB,York
+MWE_COMPOUND_NOUN,office candy machine
+SENT_BOUND,paper
+NE_PER,Thompson
+NE_LOC,San Juan
+NE_LOC,Puerto Rico
+MWE_LVC,take a job
+MWE_LVC_VERB,take
+MWE_LVC_NOUN,job
+MWE_COMPOUND_NOUN,sporting magazine
+NE_ORG,El Sportivo
+SENT_BOUND,arrival
+NE_PER,Thompson
+NE_LOC,Puerto Rico
+NE_ORG,The San Juan Star
+MWE_COMPOUND_NOUN,managing editor
+NE_PER,William J. Kennedy
+NE_PER,Thompson
+SENT_BOUND,request
+NE_ORG,El Sportivo
+NE_PER,Thompson
+NE_ORG,New York Herald Tribune
+MWE_COMPOUND_NOUN,stateside papers
+NE_MISC,Caribbean
+NE_PER,Kennedy
+SENT_BOUND,editor
+NE_LOC,States
+NE_PER,Hunter
+NE_LOC,California
+MWE_COMPOUND_NOUN,security guard
+NE_LOC,Big Sur
+MWE_COMPOUND_NOUN,Hot springs
+NE_ORG,Esalen Institute
+NE_ORG_SB,Institute
+NE_ORG,Rogue
+NE_LOC,Big Sur
+NE_LOC_SB,Sur
+SENT_BOUND,caretaker
+NE_PER,Thompson
+NE_MISC,Prince Jellyfish
+NE_MISC,The Rum Diary
+MWE_COMPOUND_NOUN,short stories
+SENT_BOUND,success
+NE_MISC,The Rum Diary
+NE_PER,Thompson
+NE_LOC,Puerto Rico
+NE_PER,Thompson
+SENT_BOUND,famous
+NE_PER,Thompson
+NE_LOC,South America
+MWE_COMPOUND_ADJ,Dow Jones-owned
+NE_ORG,National Observer
+NE_ORG_SB,Observer
+NE_LOC,Brazil
+NE_ORG,Brazil Herald
+NE_LOC,Rio de Janeiro
+NE_LOC_SB,Janeiro
+NE_PER,Sandra Dawn Conklin
+NE_PER,Sandy Conklin Thompson
+NE_PER,Sondi Wright
+NE_LOC,Rio
+NE_LOC_SB,Rio
+NE_PER,Thompson
+NE_PER,Conklin
+NE_LOC,United States
+NE_LOC_SB,States
+NE_LOC,Aspen
+NE_LOC,Colorado
+NE_PER,Juan Fitzgerald Thompson
+SENT_BOUND,1964
+SENT_BOUND,together
+SENT_BOUND,birth
+NE_PER,Hunter
+NE_PER,Sandy
+NE_PER,Thompson
+SENT_BOUND,death
+NE_PER,Thompson
+NE_LOC,Glen Ellen
+NE_LOC,California
+NE_PER,Thompson
+NE_ORG,National Observer
+MWE_COMPOUND_NOUN,domestic subjects
+NE_LOC,Ketchum
+NE_LOC,Idaho
+NE_PER,Ernest Hemingway
+SENT_BOUND,suicide
+NE_PER,Thompson
+MWE_COMPOUND_NOUN,elk antlers
+NE_PER,Hemingway
+SENT_BOUND,cabin
+NE_PER,Thompson
+NE_ORG,Observer
+MWE_LVC,had a falling out
+MWE_LVC_VERB,had
+MWE_LVC_NOUN,falling out
+NE_PER,Thompson
+NE_PER,Tom Wolfe
+MWE_COMPOUND_NOUN,essay collection
+NE_MISC,The Kandy-Kolored Tangerine-Flake Streamline Baby
+NE_LOC,San Francisco
+MWE_COMPOUND_NOUN,hippie culture
+MWE_LVC,taking root
+MWE_LVC_VERB,taking
+MWE_LVC_NOUN,root
+SENT_BOUND,area
+NE_LOC,Berkeley
+MWE_COMPOUND_NOUN,underground paper
+NE_ORG,The Spyder
+NE_ORG_SB,Spyder
+NE_PER,Carey McWilliams
+NE_ORG,The Nation
+NE_PER,Thompson
+NE_ORG,Hells Angels
+MWE_COMPOUND_NOUN,motorcycle gang
+COMPOUND_NOUN_SB,gang
+NE_ORG,The Nation
+NE_PER,Thompson
+MWE_COMPOUND_NOUN,book offers
+NE_ORG,Hell's Angels
+NE_ORG_SB,Angels
+MWE_VPC,broke down
+MWE_VPC_VERB,broke
+MWE_VPC_PARTICLE,down
+NE_PER,Thompson
+MWE_LVC,make money
+MWE_LVC_VERB,make
+MWE_LVC_NOUN,money
+SENT_BOUND,writing
+MWE_VPC,ended up
+MWE_VPC_VERB,ended
+MWE_VPC_PARTICLE,up
+NE_ORG,Angels
+SENT_BOUND,it
+NE_ORG,Random House
+MWE_COMPOUND_NOUN,hard cover
+NE_MISC,Hell's Angels: The Strange and Terrible Saga of the Outlaw Motorcycle Gangs
+SENT_BOUND,1966
+NE_ORG,The New York Times
+MWE_COMPOUND_ADJ,excitedly written
+NE_ORG,Hells Angels
+MWE_COMPOUND_NOUN,social order
+SENT_BOUND,offers
+NE_PER,Thompson
+MWE_COMPOUND_NOUN,motorcycle exhaust
+COMPOUND_NOUN_SB,exhaust
+NE_MISC,Hells Angels
+NE_PER,Thompson
+NE_ORG,The New York Times Magazine
+NE_ORG,Esquire
+NE_ORG,Pageant
+SENT_BOUND,others
+NE_ORG,Times Magazine
+NE_MISC,Summer of Love
+NE_MISC,The Hashbury is the Capital of the Hippies
+NE_PER,Thompson
+NE_LOC,San Francisco
+NE_ORG,New Left
+SENT_BOUND,drugs
+NE_PER,Thompson
+NE_MISC,Fear and Loathing in Las Vegas
+SENT_BOUND,articles
+NE_PER,Thompson
+NE_MISC,The Joint Chiefs
+NE_MISC,American Dream
+NE_MISC_SB,Dream
+NE_ORG,Random House
+MWE_COMPOUND_NOUN,Presidential campaign trail
+NE_ORG,Democratic Convention
+NE_LOC,Chicago
+MWE_COMPOUND_NOUN,research purposes
+COMPOUND_NOUN_SB,purposes
+MWE_COMPOUND_NOUN,hotel room
+NE_LOC,Chicago
+NE_PER,Thompson
+MWE_LVC,had a great effect
+MWE_LVC_VERB,had
+MWE_LVC_NOUN,effect
+SENT_BOUND,views
+NE_MISC,American dream
+MWE_VPC,carried over
+MWE_VPC_VERB,carried
+MWE_VPC_PARTICLE,over
+NE_ORG,Random House
+NE_MISC,Fear and Loathing in Las Vegas
+NE_MISC_SB,Vegas
+NE_PER,Thompson
+NE_ORG,Ballantine Books
+MWE_COMPOUND_NOUN,satirical book
+NE_MISC,The Johnson about Lyndon B. Johnson
+NE_MISC_SB,Johnson
+NE_PER,Johnson
+MWE_VPC,stand for
+MWE_VPC_VERB,stand
+MWE_VPC_PARTICLE,for
+SENT_BOUND,canceled
+NE_PER,Thompson
+MWE_VPC,moved back
+MWE_VPC_VERB,moved
+MWE_VPC_PARTICLE,back
+NE_LOC,Colorado
+NE_LOC,Woody Creek
+MWE_COMPOUND_NOUN,mountain hamlet
+NE_LOC,Aspen
+NE_LOC_SB,Aspen
+NE_PER,Thompson
+MWE_COMPOUND_NOUN,royalty check
+MWE_COMPOUND_NOUN,paperback sales
+NE_MISC,Hells Angels
+MWE_COMPOUND_NOUN,down payment
+SENT_BOUND,life
+NE_MISC,Owl Farm
+SENT_BOUND,compound
+NE_PER,Thompson
+MWE_VPC,ran for
+MWE_VPC_VERB,ran
+MWE_VPC_PARTICLE,for
+NE_LOC,Pitkin County
+NE_LOC,Colorado
+MWE_VPC,running for
+MWE_VPC_VERB,running
+MWE_VPC_PARTICLE,for
+NE_ORG,Freak Power
+SENT_BOUND,ticket
+MWE_VPC,tearing up
+MWE_VPC_VERB,tearing
+MWE_VPC_PARTICLE,up
+MWE_VPC,turning them into
+MWE_VPC_VERB,turning
+MWE_VPC_PARTICLE,into
+NE_LOC,Aspen
+NE_MISC,Fat City
+SENT_BOUND,investors
+NE_PER,Thompson
+MWE_COMPOUND_NOUN,crew cut
+COMPOUND_NOUN_SB,cut
+NE_PER,Thompson
+NE_ORG,Rolling Stone
+MWE_COMPOUND_NOUN,magazine headquarters
+NE_LOC,San Francisco
+NE_PER,Jann Wenner
+NE_LOC,Aspen
+NE_LOC,Colorado
+NE_ORG,Freak Power
+SENT_BOUND,movement
+NE_PER,Thompson
+NE_ORG,Rolling Stone
+NE_MISC,The Battle of Aspen
+NE_PER,Hunter S. Thompson
+SENT_BOUND,)
+NE_PER,Thompson
+MWE_VPC,ended up
+MWE_VPC_VERB,ended
+MWE_VPC_PARTICLE,up
+SENT_BOUND,election
+NE_LOC,Aspen
+MWE_COMPOUND_NOUN,county commissioner
+COMPOUND_NOUN_SB,commissioner
+NE_PER,Thompson
+MWE_COMPOUND_NOUN,Rolling Stone article
+SENT_BOUND,supporters
+NE_PER,Thompson
+NE_MISC,The Kentucky Derby Is Decadent and Depraved
+MWE_COMPOUND_NOUN,new journalism magazine
+NE_ORG,Scanlan's Monthly
+NE_ORG_SB,Monthly
+NE_PER,Thompson
+MWE_COMPOUND_NOUN,Gonzo journalism
+SENT_BOUND,endeavor
+MWE_VPC,ripped out
+MWE_VPC_VERB,ripped
+MWE_VPC_PARTICLE,out
+SENT_BOUND,notebook
+NE_PER,Ralph Steadman
+NE_PER,Thompson
+SENT_BOUND,illustrations
+NE_MISC,Gonzo
+NE_PER,Thompson
+NE_PER,Bill Cardoso
+NE_PER_SB,Cardoso
+NE_PER,Cardoso
+NE_PER,Thompson
+NE_LOC,New Hampshire
+SENT_BOUND,primary
+NE_PER,Cardoso
+NE_ORG,The Boston Globe Sunday Magazine
+NE_PER,Thompson
+NE_MISC,Kentucky Derby
+NE_ORG,Scanlan's Monthly
+NE_MISC,Gonzo
+NE_MISC_SB,Gonzo
+SENT_BOUND,rolling
+NE_PER,Thompson
+MWE_VPC,took to
+MWE_VPC_VERB,took
+MWE_VPC_PARTICLE,to
+NE_PER,Ralph Steadman
+SENT_BOUND,do
+NE_PER,Gonzo
+NE_PER_SB,Gonzo
+NE_PER,Thompson
+NE_MISC,Gonzo
+NE_MISC,Fear and Loathing in Las Vegas: A Savage Journey to the Heart of the American Dream
+SENT_BOUND,Enterprise
+NE_MISC,American Dream
+NE_MISC_SB,Dream
+NE_PER,Horatio Alger
+NE_LOC,Las Vegas
+NE_LOC_SB,Vegas
+MWE_COMPOUND_NOUN,Gonzo journalism
+COMPOUND_NOUN_SB,journalism
+NE_PER,Thompson
+MWE_LVC,gained most of his fame
+MWE_LVC_VERB,gained
+MWE_LVC_NOUN,fame
+NE_MISC,Strange Rumblings in Aztlan
+NE_ORG,Rolling Stone
+NE_MISC,Mexican-American
+MWE_COMPOUND_NOUN,television journalist
+NE_PER,Rubén Salazar
+NE_PER,Salazar
+MWE_COMPOUND_NOUN,tear gas canister
+NE_ORG,Los Angeles County Sheriff's Department
+NE_MISC,National Chicano Moratorium March
+NE_MISC,Vietnam War
+NE_MISC_SB,War
+NE_PER,Thompson
+NE_PER,Oscar Zeta Acosta
+NE_MISC,Mexican-American
+SENT_BOUND,attorney
+NE_LOC,Los Angeles
+NE_PER,Thompson
+NE_PER,Acosta
+NE_LOC,Las Vegas
+NE_LOC,Nevada
+MWE_LVC,take advantage
+MWE_LVC_VERB,take
+MWE_LVC_NOUN,advantage
+NE_ORG,Sports Illustrated
+MWE_COMPOUND_NOUN,photograph caption
+NE_ORG,Mint 400
+MWE_COMPOUND_NOUN,motorcycle race
+SENT_BOUND,there
+SENT_BOUND,entirely
+NE_PER,Thompson
+NE_ORG,Sports Illustrated
+SENT_BOUND,rejected
+NE_ORG,Rolling Stone
+NE_PER,Jann Wenner
+NE_PER,Thompson
+SENT_BOUND,wrote
+NE_LOC,Las Vegas
+NE_MISC,Fear and Loathing in Las Vegas
+NE_ORG,Rolling Stone
+SENT_BOUND,series
+NE_PER,Raoul Duke
+NE_LOC,Las Vegas
+NE_PER,Dr. Gonzo
+NE_MISC,Samoan
+MWE_COMPOUND_NOUN,narcotics officers
+NE_ORG,Mint 400
+SENT_BOUND,"
+NE_PER,Duke
+NE_MISC,American Dream
+MWE_COMPOUND_NOUN,blotter acid
+MWE_COMPOUND_NOUN,salt shaker
+SENT_BOUND,amyls
+MWE_IDIOM,Coming to terms
+NE_ORG,New York Times
+SENT_BOUND,"
+NE_MISC,The Vegas Book
+NE_PER,Thompson
+MWE_COMPOUND_NOUN,mainstream success
+MWE_COMPOUND_NOUN,Gonzo journalism techniques
+SENT_BOUND,masses
+NE_PER,Thompson
+NE_ORG,Rolling Stone
+MWE_COMPOUND_NOUN,election campaigns
+NE_PER,Richard Nixon
+NE_PER,George McGovern
+NE_PER_SB,McGovern
+NE_MISC,Fear and Loathing on the Campaign Trail '72
+NE_MISC_SB,'72
+NE_PER,Thompson
+MWE_COMPOUND_NOUN,campaign trail
+NE_ORG,Democratic Party
+NE_PER,Nixon
+MWE_COMPOUND_NOUN,campaign work
+NE_PER,McGovern
+NE_PER,Edmund Muskie
+NE_PER,Hubert Humphrey
+NE_PER_SB,Humphrey
+NE_PER,Thompson
+NE_PER,McGovern
+NE_ORG,Rolling Stone
+MWE_LVC,played a role
+MWE_LVC_VERB,played
+MWE_LVC_NOUN,role
+SENT_BOUND,nomination
+NE_PER,Thompson
+MWE_VPC,went on
+MWE_VPC_VERB,went
+MWE_VPC_PARTICLE,on
+NE_PER,Nixon
+SENT_BOUND,presidency
+NE_PER,Nixon
+NE_PER,Thompson
+NE_ORG,Rolling Stone
+NE_LOC,Los Angeles
+NE_LOC_SB,Angeles
+SENT_BOUND,president
+NE_PER,Devil
+SENT_BOUND,it
+NE_MISC,Fear and Loathing on the Campaign Trail '72
+NE_MISC_SB,'72
+NE_PER,Thompson
+NE_ORG,Rolling Stone
+MWE_COMPOUND_NOUN,Presidential Campaign
+SENT_BOUND,magazine
+NE_PER,Thompson
+MWE_COMPOUND_NOUN,advance cheque
+MWE_COMPOUND_NOUN,Rolling Stone publisher
+NE_PER,Jann Wenner
+MWE_IDIOM,pulled the plug
+NE_PER,Thompson
+NE_PER_SB,Thompson
+NE_PER,Wenner
+NE_PER,Thompson
+NE_LOC,Vietnam
+NE_MISC,Vietnam War
+NE_MISC_SB,War
+NE_PER,Thompson
+NE_LOC,Saigon
+SENT_BOUND,immediately
+NE_ORG,United States
+SENT_BOUND,region
+NE_PER,Thompson
+NE_PER,Wenner
+MWE_IDIOM,pulled the plug
+NE_PER,Thompson
+NE_LOC,Vietnam
+MWE_COMPOUND_NOUN,health insurance
+MWE_COMPOUND_NOUN,financial support
+COMPOUND_NOUN_SB,support
+NE_PER,Thompson
+NE_LOC,Saigon
+NE_ORG,Rolling Stone
+SENT_BOUND,later
+NE_PER,Thompson
+SENT_BOUND,years
+NE_PER,Sandra Conklin
+NE_MISC,Where the Buffalo Roam
+MWE_COMPOUND_NOUN,film adaptation
+NE_PER,Thompson
+NE_PER,Bill Murray
+SENT_BOUND,author
+NE_PER,Murray
+MWE_VPC,go on
+MWE_VPC_VERB,go
+MWE_VPC_PARTICLE,on
+NE_PER,Thompson
+SENT_BOUND,friends
+NE_PER,Thompson
+NE_LOC,Hawaii
+NE_MISC,The Curse of Lono
+SENT_BOUND,state
+NE_PER,Ralph Steadman
+NE_ORG,Running
+NE_MISC,The Charge of the Weird Brigade
+NE_ORG,Playboy
+SENT_BOUND,1983
+NE_LOC,Aspen
+NE_LOC,Colorado
+NE_PER,Thompson
+MWE_VPC,pulled over
+MWE_VPC_VERB,pulled
+MWE_VPC_PARTICLE,over
+MWE_COMPOUND_NOUN,stop sign
+MWE_COMPOUND_NOUN,state trooper
+COMPOUND_NOUN_SB,trooper
+MWE_COMPOUND_NOUN,intoxication tests
+COMPOUND_NOUN_SB,tests
+SENT_BOUND,dropped
+NE_MISC,U.S.
+NE_LOC,Grenada
+NE_MISC,Kingdom of Fear
+SENT_BOUND,later
+NE_ORG,Rolling Stone
+NE_MISC,A Dog Took My Place
+MWE_COMPOUND_NOUN,Roxanne Pulitzer divorce
+MWE_COMPOUND_NOUN,Palm Beach lifestyle
+COMPOUND_NOUN_SB,lifestyle
+SENT_BOUND,many
+NE_PER,Thompson
+MWE_COMPOUND_NOUN,couples pornography
+NE_ORG,Playboy
+NE_ORG_SB,Playboy
+NE_LOC,Mitchell Brothers O'Farrell Theater
+MWE_COMPOUND_NOUN,striptease club
+NE_LOC,San Francisco
+MWE_COMPOUND_NOUN,nonfiction novel
+NE_MISC,The Night Manager
+NE_MISC_SB,Manager
+SENT_BOUND,published
+NE_PER,Warren Hinckle
+NE_PER,Thompson
+MWE_COMPOUND_NOUN,media critic
+NE_ORG,San Francisco Examiner
+SENT_BOUND,decade
+NE_PER,Thompson
+NE_ORG,Examiner
+NE_PER,David McCumber
+NE_PER,Mitchell
+NE_PER,Jim Mitchell
+NE_PER,Art
+NE_PER,Thompson
+NE_ORG,Examiner
+SENT_BOUND,columns
+MWE_COMPOUND_NOUN,porn director
+NE_PER,Gail Palmer
+NE_PER,Thompson
+NE_LOC,Woody Creek
+NE_LOC_SB,Creek
+MWE_COMPOUND_NOUN,sexual assault
+MWE_COMPOUND_NOUN,hot tub
+COMPOUND_NOUN_SB,tub
+MWE_COMPOUND_NOUN,cocaine use
+SENT_BOUND,authorities
+NE_PER,Thompson
+MWE_VPC,turned up
+MWE_VPC_VERB,turned
+MWE_VPC_PARTICLE,up
+SENT_BOUND,dynamite
+SENT_BOUND,hearing
+NE_PER,Thompson
+NE_MISC,Kingdom of Fear
+NE_MISC_SB,Fear
+NE_PER,Thompson
+NE_MISC,Polo Is My Life
+NE_ORG,Rolling Stone
+NE_PER,Thompson
+MWE_COMPOUND_NOUN,sex book
+MWE_COMPOUND_NOUN,rock and roll
+COMPOUND_NOUN_SB,roll
+MWE_COMPOUND_NOUN,sex theater
+SENT_BOUND,mountains
+MWE_LVC,falls in love
+MWE_LVC_VERB,falls
+MWE_LVC_NOUN,in love
+MWE_COMPOUND_NOUN,sex theater
+NE_LOC,San Francisco
+SENT_BOUND,"
+NE_ORG,Random House
+SENT_BOUND,published
+NE_PER,Thompson
+NE_ORG,Rolling Stone
+NE_ORG_SB,Stone
+NE_MISC,Fear and Loathing in Elko
+NE_PER,Clarence Thomas
+NE_MISC,Mr. Bill's Neighborhood
+NE_PER,Bill Clinton
+NE_LOC,Arkansas
+SENT_BOUND,diner
+MWE_COMPOUND_NOUN,campaign trail
+MWE_COMPOUND_NOUN,presidential elections
+NE_PER,Thompson

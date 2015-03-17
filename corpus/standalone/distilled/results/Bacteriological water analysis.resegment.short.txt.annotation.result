@@ -1,0 +1,170 @@
+MWE_COMPOUND_NOUN,Bacteriological water analysis
+MWE_VPC,find out
+MWE_VPC_VERB,find
+MWE_VPC_PARTICLE,out
+SENT_BOUND,are
+MWE_COMPOUND_NOUN,microbiological analytical procedure
+SENT_BOUND,bacteria
+MWE_LVC,draw inferences
+MWE_LVC_VERB,draw
+MWE_LVC_NOUN,inferences
+SENT_BOUND,concentrations
+MWE_COMPOUND_NOUN,human consumption
+MWE_COMPOUND_NOUN,recreational waters
+SENT_BOUND,use
+MWE_COMPOUND_NOUN,action trigger levels
+SENT_BOUND,water
+MWE_COMPOUND_NOUN,drinking water
+MWE_COMPOUND_NOUN,marine bathing waters
+SENT_BOUND,users
+MWE_COMPOUND_NOUN,routine screening procedures
+MWE_COMPOUND_NOUN,indicator organisms
+SENT_BOUND,concern
+MWE_COMPOUND_NOUN,Indicator organisms
+NE_MISC,Escherichia coli
+NE_MISC,Pseudomonas aeruginosa
+SENT_BOUND,sewage
+MWE_COMPOUND_NOUN,Indicator organisms
+MWE_COMPOUND_NOUN,indicator organisms
+SENT_BOUND,pathogens
+MWE_COMPOUND_NOUN,indicator organism
+MWE_COMPOUND_NOUN,pathogen levels
+SENT_BOUND,absent
+MWE_COMPOUND_NOUN,sample population
+MWE_COMPOUND_NOUN,statistical level of confidence
+COMPOUND_NOUN_SB,confidence
+SENT_BOUND,methods
+MWE_COMPOUND_NOUN,indicator organisms levels
+MWE_COMPOUND_NOUN,culture methods
+MWE_COMPOUND_NOUN,molecular biology
+COMPOUND_NOUN_SB,biology
+SENT_BOUND,principles
+MWE_COMPOUND_NOUN,multiple tube method
+COMPOUND_NOUN_SB,method
+MWE_COMPOUND_NOUN,growth medium
+SENT_BOUND,tubes
+SENT_BOUND,repeated
+SENT_BOUND,10000
+SENT_BOUND,dilution
+SENT_BOUND,sample
+MWE_COMPOUND_NOUN,indicator medium
+MWE_COMPOUND_ADJ,acid forming
+MWE_COMPOUND_NOUN,sample tube
+COMPOUND_NOUN_SB,tube
+SENT_BOUND,produced
+NE_MISC,Escherichia
+MWE_COMPOUND_NOUN,ATP test
+NE_MISC,Adenosine Triphosphate
+NE_MISC,ATP
+NE_MISC_SB,ATP
+NE_MISC,ATP
+MWE_COMPOUND_NOUN,biological concentration
+SENT_BOUND,health
+NE_MISC,ATP
+MWE_COMPOUND_NOUN,firefly enzyme
+NE_MISC,Luciferase
+SENT_BOUND,Luminometer
+MWE_COMPOUND_ADJ,directly proportional
+MWE_COMPOUND_NOUN,biological energy
+SENT_BOUND,sample
+MWE_COMPOUND_NOUN,ATP tests
+MWE_COMPOUND_NOUN,industrial applications
+MWE_COMPOUND_NOUN,ATP assay
+COMPOUND_NOUN_SB,assay
+MWE_COMPOUND_NOUN,plate count method
+MWE_COMPOUND_NOUN,nutrient medium
+SENT_BOUND,counted
+MWE_COMPOUND_NOUN,target bacterium
+SENT_BOUND,grown
+SENT_BOUND,count
+SENT_BOUND,cultured
+MWE_LVC,making serial dilutions
+MWE_LVC_VERB,making
+MWE_LVC_NOUN,dilutions
+MWE_COMPOUND_NOUN,nutrient agar
+SENT_BOUND,incubated
+NE_MISC,Plate count agar
+NE_MISC,MacConkey agar
+NE_MISC,E. coli
+NE_MISC_SB,coli
+SENT_BOUND,hours
+MWE_COMPOUND_NOUN,target organism
+MWE_COMPOUND_NOUN,colour change
+SENT_BOUND,medium
+MWE_COMPOUND_NOUN,fluorescent agent
+SENT_BOUND,automated
+MWE_COMPOUND_NOUN,incubation period
+SENT_BOUND,across
+MWE_COMPOUND_NOUN,total plate count
+MWE_COMPOUND_NOUN,serial dilutions
+MWE_COMPOUND_ADJ,vacuum filtered
+MWE_COMPOUND_ADJ,purpose made
+MWE_COMPOUND_NOUN,membrane filters
+MWE_COMPOUND_NOUN,nutrient medium
+SENT_BOUND,plates
+MWE_COMPOUND_NOUN,total plate counts
+COMPOUND_NOUN_SB,counts
+MWE_COMPOUND_NOUN,millimetre grid
+SENT_BOUND,microscope
+MWE_COMPOUND_NOUN,bacterial species
+MWE_COMPOUND_NOUN,serial dilutions
+MWE_COMPOUND_NOUN,liquid nutrient agar
+MWE_COMPOUND_NOUN,agar surface
+COMPOUND_NOUN_SB,surface
+SENT_BOUND,incubation
+NE_MISC,Total Viable Count
+NE_MISC,TVC
+SENT_BOUND,)
+MWE_COMPOUND_NOUN,unit of measurement
+MWE_COMPOUND_NOUN,colony forming units
+SENT_BOUND,sample
+SENT_BOUND,used
+MWE_COMPOUND_NOUN,indicator bacteria
+SENT_BOUND,bacteria
+MWE_COMPOUND_NOUN,temperate zone
+NE_MISC,Salmonella typhi
+NE_MISC,Salmonella typhimurium
+NE_MISC_SB,typhimurium
+NE_MISC,Cryptosporidium spp
+NE_MISC_SB,spp
+NE_MISC,Vibrio cholerae
+SENT_BOUND,undertaken
+NE_MISC,MacConkey agar
+MWE_COMPOUND_NOUN,culture medium
+MWE_COMPOUND_NOUN,lactose fermentation
+COMPOUND_NOUN_SB,fermentation
+MWE_COMPOUND_NOUN,bile salts
+MWE_COMPOUND_ADJ,crystal violet
+SENT_BOUND,peptone
+NE_PER,Alfred Theodore MacConkey
+NE_ORG,Royal Commission on Sewage Disposal
+NE_LOC,United Kingdom
+NE_LOC_SB,Kingdom
+MWE_COMPOUND_NOUN,ENDO medium
+MWE_COMPOUND_NOUN,dipotassium phosphate
+MWE_COMPOUND_NOUN,sodium sulfite
+NE_MISC,Salmonella typhi
+MWE_COMPOUND_NOUN,water analysis
+COMPOUND_NOUN_SB,analysis
+NE_MISC,MacConkey agar
+MWE_COMPOUND_NOUN,coliform organisms
+SENT_BOUND,red
+MWE_COMPOUND_ADJ,faint pink
+SENT_BOUND,medium
+MWE_COMPOUND_NOUN,mFC medium
+MWE_COMPOUND_NOUN,membrane filtration
+SENT_BOUND,agents
+MWE_COMPOUND_NOUN,Rosolic acid
+MWE_COMPOUND_NOUN,bacterial growth
+MWE_COMPOUND_NOUN,faecal coliforms
+MWE_COMPOUND_NOUN,Bile salts
+MWE_COMPOUND_NOUN,Aniline blue
+MWE_COMPOUND_NOUN,faecal coliforms
+MWE_COMPOUND_NOUN,pH change
+SENT_BOUND,medium
+MWE_COMPOUND_NOUN,TYEA medium
+MWE_COMPOUND_NOUN,yeast extract
+MWE_COMPOUND_NOUN,common salt
+MWE_COMPOUND_ADJ,non selective
+MWE_COMPOUND_NOUN,colony count
+COMPOUND_NOUN_SB,count

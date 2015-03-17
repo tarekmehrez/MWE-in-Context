@@ -1,0 +1,732 @@
+NE_MISC,Warrior Soul, The Memoir of a Navy SEAL
+NE_PER,Chuck Pfarrer
+NE_ORG,Random House
+SENT_BOUND,2004
+SENT_BOUND,0-89141-863-6
+NE_MISC,Warrior Soul
+MWE_COMPOUND_NOUN,Navy SEAL
+NE_PER,Chuck Pfarrer
+SENT_BOUND,mission
+SENT_BOUND,secrecy
+NE_ORG,New York Times
+SENT_BOUND,SEAL
+NE_PER,Chuck Pfarrer
+NE_ORG,SEAL Team 6
+NE_ORG_SB,6
+MWE_COMPOUND_NOUN,regular people
+MWE_VPC,meets up
+MWE_VPC_VERB,meets
+MWE_VPC_PARTICLE,up
+NE_LOC,Norfolk International Airport
+NE_ORG,American Airlines
+NE_MISC,Boeing 727
+SENT_BOUND,destination
+MWE_COMPOUND_NOUN,test mission
+MWE_COMPOUND_NOUN,military air traffic control
+NE_LOC,Norfolk
+NE_LOC,Virginia
+MWE_COMPOUND_ADJ,free falling
+MWE_COMPOUND_NOUN,SEAL team
+NE_ORG,American Airlines
+MWE_COMPOUND_NOUN,flying aircraft
+COMPOUND_NOUN_SB,aircraft
+MWE_VPC,takes off
+MWE_VPC_VERB,takes
+MWE_VPC_PARTICLE,off
+NE_LOC,Florida
+NE_LOC,Norfolk
+MWE_COMPOUND_NOUN,military aircraft
+NE_LOC,Norfolk Air Traffic Control Tower
+MWE_COMPOUND_NOUN,touch- and- go approach
+SENT_BOUND,airport
+NE_PER,Chuck
+MWE_VPC,gearing up
+MWE_VPC_VERB,gearing
+MWE_VPC_PARTICLE,up
+MWE_COMPOUND_NOUN,combat gear
+NE_PER,Chuck
+NE_MISC,727
+NE_MISC_SB,727
+NE_MISC,727
+NE_MISC,727
+SENT_BOUND,parachutes
+NE_PER,Chuck
+SENT_BOUND,grave
+SENT_BOUND,closely
+NE_PER,Chuck
+MWE_LVC,makes a quick decision
+MWE_LVC_VERB,makes
+MWE_LVC_NOUN,decision
+MWE_COMPOUND_NOUN,emergency cord
+MWE_COMPOUND_NOUN,reserve chute
+SENT_BOUND,chord
+NE_LOC,Demonstration Beach
+MWE_VPC,knocked out
+MWE_VPC_VERB,knocked
+MWE_VPC_PARTICLE,out
+MWE_VPC,gets up
+MWE_VPC_VERB,gets
+MWE_VPC_PARTICLE,up
+MWE_VPC,laughs off
+MWE_VPC_VERB,laughs
+MWE_VPC_PARTICLE,off
+SENT_BOUND,situation
+NE_PER,Chuck
+SENT_BOUND,beginning
+NE_LOC,Boston
+NE_LOC,Massachusetts
+NE_PER,Charles Pfarrer
+NE_ORG,US Navy
+NE_PER,Joan Marie
+SENT_BOUND,brother
+NE_PER,Chuck
+MWE_COMPOUND_ADJ,Roman Catholic
+MWE_COMPOUND_NOUN,fish sticks
+SENT_BOUND,Fridays
+SENT_BOUND,'
+MWE_VPC,moved around
+MWE_VPC_VERB,moved
+MWE_VPC_PARTICLE,around
+NE_LOC,Rhode Island
+NE_LOC,Hawaii
+NE_LOC,Mississippi
+NE_LOC_SB,Mississippi
+MWE_VPC,moves down
+MWE_VPC_VERB,moves
+MWE_VPC_PARTICLE,down
+NE_LOC,Biloxi
+NE_LOC,Mississippi
+NE_PER,Chuck
+NE_LOC,Vietnam
+NE_LOC_SB,Vietnam
+NE_PER,Chuck
+NE_MISC,Vietnam War
+MWE_COMPOUND_NOUN,family home
+NE_LOC,Biloxi
+NE_MISC,Hurricane Camille
+NE_PER,Chuck
+NE_PER,God
+MWE_VPC,giving up
+MWE_VPC_VERB,giving
+MWE_VPC_PARTICLE,up
+MWE_COMPOUND_NOUN,religious faith
+COMPOUND_NOUN_SB,faith
+NE_LOC,Rhode Island
+NE_PER,Chuck
+NE_LOC,Hawaii
+SENT_BOUND,)
+MWE_COMPOUND_NOUN,surfer dude
+MWE_COMPOUND_NOUN,school bus
+MWE_LVC,made an excuse
+MWE_LVC_VERB,made
+MWE_LVC_NOUN,excuse
+MWE_LVC,took a shower
+MWE_LVC_VERB,took
+MWE_LVC_NOUN,shower
+SENT_BOUND,)
+MWE_VPC,found out
+MWE_VPC_VERB,found
+MWE_VPC_PARTICLE,out
+MWE_COMPOUND_NOUN,school dean
+NE_PER,Chuck
+SENT_BOUND,school
+NE_PER,Chuck
+MWE_COMPOUND_NOUN,military school
+SENT_BOUND,son
+NE_PER,Chuck
+NE_ORG,Staunton Military Academy
+SENT_BOUND,bored
+MWE_COMPOUND_NOUN,military academy
+SENT_BOUND,attend
+NE_LOC,Academy
+NE_PER,Chuck
+MWE_COMPOUND_NOUN,surfing looks
+COMPOUND_NOUN_SB,looks
+NE_ORG,Academy
+NE_ORG_SB,Academy
+NE_PER,Chuck
+NE_ORG,Staunton
+SENT_BOUND,there
+MWE_COMPOUND_NOUN,fellow cadets
+SENT_BOUND,there
+NE_PER,Chuck
+MWE_COMPOUND_NOUN,fellow cadets
+NE_LOC,Hollywood
+NE_ORG,Fortune 500
+SENT_BOUND,skill
+NE_PER,Chuck
+MWE_COMPOUND_NOUN,core group
+MWE_COMPOUND_NOUN,SEAL career
+MWE_COMPOUND_NOUN,car doors
+NE_LOC,Academy
+SENT_BOUND,contraband
+NE_ORG,Academy
+MWE_COMPOUND_NOUN,scholarship offer
+NE_LOC,Annapolis
+NE_ORG,CSU Northridge
+SENT_BOUND,father
+NE_ORG,CSU Northridge
+NE_PER,Chuck
+SENT_BOUND,psychologist
+NE_LOC,England
+NE_ORG,University of Bath
+NE_ORG_SB,Bath
+MWE_VPC,falls apart
+MWE_VPC_VERB,falls
+MWE_VPC_PARTICLE,apart
+NE_PER,Chuck
+NE_LOC,California
+SENT_BOUND,psychology
+MWE_COMPOUND_NOUN,Navy SEAL
+COMPOUND_NOUN_SB,SEAL
+MWE_COMPOUND_NOUN,Naval Recruiting office
+MWE_COMPOUND_NOUN,Navy SEAL
+MWE_COMPOUND_NOUN,psychology office
+COMPOUND_NOUN_SB,office
+NE_PER,Chuck
+NE_LOC,Vietnam
+SENT_BOUND,there
+NE_PER,Chuck
+NE_PER,Chuck
+NE_ORG,Officer Candidate School
+NE_ORG,OCS
+NE_ORG,BUD/S
+MWE_VPC,washed out
+MWE_VPC_VERB,washed
+MWE_VPC_PARTICLE,out
+MWE_COMPOUND_NOUN,Green Beret
+COMPOUND_NOUN_SB,Beret
+NE_PER,Chuck
+MWE_VPC,heads back
+MWE_VPC_VERB,heads
+MWE_VPC_PARTICLE,back
+NE_LOC,Rhode Island
+NE_ORG,OCS
+NE_ORG_SB,OCS
+MWE_VPC,shipping out
+MWE_VPC_VERB,shipping
+MWE_VPC_PARTICLE,out
+SENT_BOUND,school
+NE_ORG,OCS
+SENT_BOUND,Lieutenant
+NE_ORG,OCS
+NE_PER,Chuck
+NE_LOC,Coronado
+NE_LOC,California
+NE_ORG,BUD/S
+NE_ORG_SB,BUD/S
+NE_ORG,Class 114
+NE_ORG,BUD/S
+NE_MISC,Vietnam
+MWE_COMPOUND_NOUN,Indoctration period
+SENT_BOUND,)
+NE_ORG,Class 114
+MWE_COMPOUND_NOUN,Vietnam War veterans
+COMPOUND_NOUN_SB,veterans
+NE_PER,Chuck
+MWE_COMPOUND_NOUN,physical training
+MWE_VPC,drop out
+MWE_VPC_VERB,drop
+MWE_VPC_PARTICLE,out
+MWE_VPC,goof off
+MWE_VPC_VERB,goof
+MWE_VPC_PARTICLE,off
+SENT_BOUND,minds
+NE_MISC,Hell Week
+MWE_VPC,drops out
+MWE_VPC_VERB,drops
+MWE_VPC_PARTICLE,out
+NE_MISC,No Bell
+SENT_BOUND,graduate
+NE_MISC,Hell Week
+MWE_COMPOUND_NOUN,land warfare
+MWE_COMPOUND_NOUN,diving physics
+SENT_BOUND,stages
+NE_PER,Chuck
+NE_ORG,BUD/S
+SENT_BOUND,quit
+NE_ORG,BUD/S
+NE_PER,Chuck
+NE_LOC,Fort Benning
+NE_LOC,Georgia
+NE_ORG,Army Airborne School
+SENT_BOUND,wings
+NE_ORG,United States Marine Corps
+MWE_COMPOUND_NOUN,Navy students
+NE_ORG,BUD/S
+SENT_BOUND,school
+NE_ORG,BUD/S
+MWE_LVC,pull pranks
+MWE_LVC_VERB,pull
+MWE_LVC_NOUN,pranks
+NE_ORG,Airborne School
+NE_ORG,BUD/S
+NE_LOC,Coronado
+SENT_BOUND,)
+NE_PER,Chuck
+NE_ORG,BUD/S
+MWE_LVC,poke fun
+MWE_LVC_VERB,poke
+MWE_LVC_NOUN,fun
+MWE_VPC,climbed up
+MWE_VPC_VERB,climbed
+MWE_VPC_PARTICLE,up
+MWE_COMPOUND_NOUN,jump towers
+MWE_COMPOUND_NOUN,spray paint
+NE_ORG,Army
+MWE_COMPOUND_NOUN,parking lots
+SENT_BOUND,'
+MWE_COMPOUND_NOUN,Marine officer
+NE_ORG,BUD/S
+NE_PER,Chuck
+SENT_BOUND,seriously
+SENT_BOUND,of
+NE_ORG,Airborne School
+NE_PER,Chuck
+MWE_VPC,met up
+MWE_VPC_VERB,met
+MWE_VPC_PARTICLE,up
+NE_ORG,BUD/S
+MWE_VPC,keep up
+MWE_VPC_VERB,keep
+MWE_VPC_PARTICLE,up
+MWE_LVC,pull pranks
+MWE_LVC_VERB,pull
+MWE_LVC_NOUN,pranks
+LVC_NOUN_SB,pranks
+NE_PER,Chuck
+NE_MISC,C-130
+MWE_COMPOUND_NOUN,graduation jump
+NE_ORG,Class 114
+NE_ORG,Army
+SENT_BOUND,caught
+NE_PER,Chuck
+MWE_LVC,gets in trouble
+MWE_LVC_VERB,gets
+MWE_LVC_NOUN,in trouble
+MWE_COMPOUND_NOUN,drop zone
+NE_MISC,Airborne wings
+NE_ORG,Army
+NE_ORG,BUD/S
+SENT_BOUND,hat
+SENT_BOUND,point
+NE_PER,Chuck
+NE_ORG,SEAL Team Four
+NE_LOC,Virginia Beach
+NE_LOC_SB,Beach
+NE_PER,Chuck
+NE_LOC,Virginia Beach
+NE_MISC,Advanced Operater Training
+NE_ORG,SEAL Team 4
+MWE_COMPOUND_NOUN,Navy SEAL
+COMPOUND_NOUN_SB,SEAL
+MWE_COMPOUND_NOUN,water tank
+MWE_VPC,sending him off
+MWE_VPC_VERB,sending
+MWE_VPC_PARTICLE,off
+SENT_BOUND,gear
+NE_PER,Operator 156
+MWE_COMPOUND_NOUN,team cadre
+MWE_VPC,looks after
+MWE_VPC_VERB,looks
+MWE_VPC_PARTICLE,after
+SENT_BOUND,team
+NE_PER,Chuck
+MWE_VPC,meeting up
+MWE_VPC_VERB,meeting
+MWE_VPC_PARTICLE,up
+NE_PER,Frank Giffland
+NE_ORG,Class 114
+SENT_BOUND,SEALs
+NE_MISC,Naval Wings
+MWE_LVC,make ten jumps
+MWE_LVC_VERB,make
+MWE_LVC_NOUN,jumps
+LVC_NOUN_SB,jumps
+MWE_COMPOUND_NOUN,qualifying jump
+NE_PER,Chuck
+MWE_COMPOUND_NOUN,Vietnam vet
+MWE_COMPOUND_NOUN,Master Chief Petty Officer
+NE_PER,Mike Boynton
+MWE_COMPOUND_NOUN,office work
+NE_PER,Chuck
+MWE_COMPOUND_NOUN,team routines
+COMPOUND_NOUN_SB,routines
+NE_PER,Chuck
+MWE_COMPOUND_NOUN,Vietnam veteran
+MWE_COMPOUND_NOUN,Chief Petty Officer
+NE_PER,John Jaeger
+SENT_BOUND,officers
+NE_PER,John
+NE_PER,Chuck
+MWE_LVC,calling him derogative humor names
+MWE_LVC_VERB,calling
+MWE_LVC_NOUN,names
+MWE_VPC,screws up
+MWE_VPC_VERB,screws
+MWE_VPC_PARTICLE,up
+VPC_PARTICLE_SB,up
+NE_PER,Chuck
+NE_PER,John
+MWE_COMPOUND_NOUN,role model
+SENT_BOUND,wilderness
+NE_PER,Chuck
+NE_PER,John
+MWE_COMPOUND_NOUN,generic experiment
+MWE_COMPOUND_NOUN,hard core smoker
+NE_MISC,M-60 Machine Gun
+NE_LOC,Vietnam
+SENT_BOUND,said
+NE_PER,Chuck
+NE_ORG,Team
+NE_ORG_SB,Team
+MWE_VPC,go by
+MWE_VPC_VERB,go
+MWE_VPC_PARTICLE,by
+NE_PER,Chuck
+MWE_COMPOUND_NOUN,SEAL operator
+SENT_BOUND,candidates
+NE_MISC,C-4
+MWE_COMPOUND_NOUN,Russian tactics
+MWE_COMPOUND_NOUN,enemy weapons
+SENT_BOUND,learn
+NE_PER,Chuck
+MWE_COMPOUND_NOUN,cadre members
+NE_ORG,Lane Graders
+SENT_BOUND,group
+NE_ORG,TheLane Graders
+MWE_COMPOUND_NOUN,team member
+SENT_BOUND,debriefing
+MWE_VPC,checking on
+MWE_VPC_VERB,checking
+MWE_VPC_PARTICLE,on
+SENT_BOUND,individuals
+SENT_BOUND,gone
+NE_PER,Chuck
+MWE_VPC,sent off
+MWE_VPC_VERB,sent
+MWE_VPC_PARTICLE,off
+NE_MISC,Robin Sage
+SENT_BOUND,OPFOR
+MWE_COMPOUND_NOUN,SEAL presence
+MWE_COMPOUND_NOUN,Green Beret candidate
+MWE_COMPOUND_NOUN,direct action missions
+SENT_BOUND,allies
+MWE_COMPOUND_NOUN,SEAL team
+MWE_COMPOUND_NOUN,Operator certifications
+MWE_VPC,screwing up
+MWE_VPC_VERB,screwing
+MWE_VPC_PARTICLE,up
+VPC_PARTICLE_SB,up
+NE_PER,Chuck
+MWE_COMPOUND_NOUN,Green Beret camp
+SENT_BOUND,it
+MWE_VPC,dropped off
+MWE_VPC_VERB,dropped
+MWE_VPC_PARTICLE,off
+NE_ORG,Chieu Hoi
+SENT_BOUND,informat
+NE_PER,Chuck
+NE_PER,Baby Zee
+SENT_BOUND,informant
+MWE_COMPOUND_NOUN,military police
+MWE_LVC,playing the role
+MWE_LVC_VERB,playing
+MWE_LVC_NOUN,role
+NE_MISC,Robin Sage
+NE_PER,Chuck
+SENT_BOUND,camp
+NE_PER,Chuck
+NE_PER,Chuck
+MWE_VPC,figure out
+MWE_VPC_VERB,figure
+MWE_VPC_PARTICLE,out
+SENT_BOUND,is
+SENT_BOUND,dinner
+NE_PER,Chuck
+SENT_BOUND,camp
+MWE_COMPOUND_NOUN,boat crew
+SENT_BOUND,camp
+NE_PER,Chuck
+MWE_COMPOUND_NOUN,Green Berets
+SENT_BOUND,fire
+MWE_COMPOUND_NOUN,Green Berets
+NE_PER,Chuck
+MWE_COMPOUND_NOUN,boat crew
+SENT_BOUND,fire
+NE_PER,Chuck
+MWE_COMPOUND_NOUN,Green Berets
+MWE_COMPOUND_NOUN,helicopter extraction
+COMPOUND_NOUN_SB,extraction
+SENT_BOUND,success
+NE_PER,Chuck
+MWE_COMPOUND_NOUN,real world assignment
+NE_MISC,Naval Special Warfare Badge
+NE_MISC_SB,Badge
+NE_ORG,US Navy
+MWE_OTHER,test fire
+NE_MISC,Trident
+MWE_COMPOUND_NOUN,rocket engine
+SENT_BOUND,detaches
+NE_PER,Chuck
+MWE_VPC,head down
+MWE_VPC_VERB,head
+MWE_VPC_PARTICLE,down
+NE_LOC,Florida
+NE_ORG,Navy
+MWE_OTHER,test fire
+SENT_BOUND,it
+MWE_COMPOUND_NOUN,rocket engine
+NE_MISC,Soviet
+SENT_BOUND,it
+NE_PER,Chuck
+NE_MISC,Soviet
+SENT_BOUND,hands
+NE_MISC,C-4
+MWE_VPC,blew up
+MWE_VPC_VERB,blew
+MWE_VPC_PARTICLE,up
+VPC_PARTICLE_SB,up
+NE_MISC,Soviets
+SENT_BOUND,rocket
+NE_PER,Chuck
+NE_MISC,Trident
+NE_MISC_SB,Trident
+MWE_COMPOUND_NOUN,Navy SEAL
+COMPOUND_NOUN_SB,SEAL
+MWE_COMPOUND_NOUN,official member
+NE_ORG,SEAL Team Four
+NE_PER,Chuck
+MWE_COMPOUND_NOUN,SEAL life
+COMPOUND_NOUN_SB,life
+NE_LOC,Fort AP Hill
+NE_ORG,Navy
+NE_PER,Chuck
+SENT_BOUND,)
+MWE_COMPOUND_NOUN,non combat
+NE_ORG,Team
+NE_LOC,Virginia Beach
+NE_ORG,UDT
+SENT_BOUND,years
+NE_PER,Chuck
+SENT_BOUND,time
+MWE_COMPOUND_NOUN,Naval O-1
+MWE_COMPOUND_NOUN,long term relationship
+COMPOUND_NOUN_SB,relationship
+MWE_VPC,go by
+MWE_VPC_VERB,go
+MWE_VPC_PARTICLE,by
+NE_PER,Chuck
+SENT_BOUND,team
+NE_PER,Frank Giffland
+SENT_BOUND,platoon
+MWE_COMPOUND_NOUN,Navy Corpsman
+NE_PER,Doc
+MWE_COMPOUND_NOUN,Vietnam veteran
+COMPOUND_NOUN_SB,veteran
+MWE_VPC,heads down
+MWE_VPC_VERB,heads
+MWE_VPC_PARTICLE,down
+NE_LOC,Panama Canal
+MWE_COMPOUND_NOUN,military exercise
+NE_ORG,Panamanian Defense Forces
+SENT_BOUND,them
+NE_PER,Chuck
+NE_MISC,Panamanians
+NE_MISC,Operation Nifty Package
+NE_MISC_SB,Package
+NE_LOC,Gatun Locks
+SENT_BOUND,canal
+NE_PER,Chuck
+MWE_COMPOUND_NOUN,AOT instructor
+NE_PER,John Jaeger
+NE_ORG,US Navy
+SENT_BOUND,ship
+NE_PER,Chuck
+NE_PER,John
+NE_PER,Chuck
+NE_PER_SB,Chuck
+NE_PER,Chuck
+NE_PER,John
+SENT_BOUND,town
+NE_PER,Chuck
+NE_PER,John
+MWE_VPC,strip off
+MWE_VPC_VERB,strip
+MWE_VPC_PARTICLE,off
+MWE_COMPOUND_NOUN,insignia rates
+SENT_BOUND,bar
+MWE_VPC,building up
+MWE_VPC_VERB,building
+MWE_VPC_PARTICLE,up
+NE_ORG,Force Recon
+MWE_COMPOUND_NOUN,Green Berets
+MWE_VPC,beat each other up
+MWE_VPC_VERB,beat
+MWE_VPC_PARTICLE,up
+VPC_PARTICLE_SB,up
+NE_PER,John
+MWE_COMPOUND_NOUN,Green Beret
+MWE_VPC,look after
+MWE_VPC_VERB,look
+MWE_VPC_PARTICLE,after
+SENT_BOUND,bathroom
+MWE_COMPOUND_NOUN,special forces men
+SENT_BOUND,bar
+NE_MISC,New Year
+NE_PER,Chuck
+NE_MISC,New Year
+SENT_BOUND,base
+NE_PER,Chuck
+MWE_VPC,heads off
+MWE_VPC_VERB,heads
+MWE_VPC_PARTICLE,off
+NE_MISC,Nightstalker
+SENT_BOUND,)
+NE_PER,Margot
+NE_LOC,Buffalo
+NE_LOC,New York
+SENT_BOUND,friend
+NE_PER,Margot
+SENT_BOUND,house
+NE_PER,Chuck
+NE_PER,Margot
+MWE_LVC,have sex
+MWE_LVC_VERB,have
+MWE_LVC_NOUN,sex
+LVC_NOUN_SB,sex
+MWE_COMPOUND_NOUN,long term relationship
+NE_PER,Margot
+NE_PER_SB,Margot
+NE_PER,Chuck
+NE_PER,Frank
+MWE_LVC,given notices
+MWE_LVC_VERB,given
+MWE_LVC_NOUN,notices
+SENT_BOUND,task
+NE_LOC,Puerto Leimpra
+NE_LOC,Honduras
+MWE_COMPOUND_NOUN,Naval force
+SENT_BOUND,there
+NE_PER,Chuck
+NE_PER,Frank
+MWE_VPC,head down
+MWE_VPC_VERB,head
+MWE_VPC_PARTICLE,down
+NE_LOC,Honduras
+MWE_COMPOUND_NOUN,CIA agent
+SENT_BOUND,area
+SENT_BOUND,return
+NE_PER,Frank
+NE_LOC,AP Hill
+MWE_COMPOUND_NOUN,combat testing
+NE_PER,Chuck
+SENT_BOUND,recon
+NE_PER,Surfer' Dave
+NE_PER,Stan
+NE_PER,Tim
+NE_PER,Bubba
+NE_PER_SB,Bubba
+MWE_LVC,put on isolation
+MWE_LVC_VERB,put
+MWE_LVC_NOUN,on isolation
+MWE_VPC,head up
+MWE_VPC_VERB,head
+MWE_VPC_PARTICLE,up
+NE_LOC,AP Hill
+NE_LOC_SB,Hill
+NE_MISC,USS Fairfax
+MWE_OTHER,free fall
+MWE_VPC,meeting up
+MWE_VPC_VERB,meeting
+MWE_VPC_PARTICLE,up
+SENT_BOUND,ship
+NE_PER,Chuck
+NE_PER,Chuck
+MWE_VPC,goes over
+MWE_VPC_VERB,goes
+MWE_VPC_PARTICLE,over
+SENT_BOUND,begins
+NE_MISC,Fairfax
+MWE_COMPOUND_NOUN,commercial shipping traffic
+NE_PER,Chuck
+NE_MISC,Zodiac
+SENT_BOUND,sea
+NE_LOC,Honduras
+SENT_BOUND,recon
+NE_PER,Chuck
+MWE_COMPOUND_NOUN,surf zone
+SENT_BOUND,located
+NE_PER,Chuck
+SENT_BOUND,bay
+MWE_LVC,puts their boat on shore
+MWE_LVC_VERB,puts
+MWE_LVC_NOUN,on shore
+MWE_COMPOUND_NOUN,hydrographic recon
+SENT_BOUND,beach
+MWE_COMPOUND_NOUN,rendevous point
+MWE_VPC,set up
+MWE_VPC_VERB,set
+MWE_VPC_PARTICLE,up
+VPC_PARTICLE_SB,up
+NE_PER,Chuck
+NE_PER_SB,Chuck
+NE_MISC,Nicaraguan
+MWE_COMPOUND_NOUN,patrol boat
+MWE_VPC,looking for
+MWE_VPC_VERB,looking
+MWE_VPC_PARTICLE,for
+MWE_COMPOUND_NOUN,SEAL team
+SENT_BOUND,bay
+MWE_COMPOUND_NOUN,fishing pier
+SENT_BOUND,it
+SENT_BOUND,pier
+NE_PER,Tim
+NE_MISC,Spanish
+NE_PER,Chuck
+NE_MISC,French
+NE_MISC_SB,French
+SENT_BOUND,obey
+NE_PER,Chuck
+MWE_VPC,moving the boat out
+MWE_VPC_VERB,moving
+MWE_VPC_PARTICLE,out
+MWE_COMPOUND_NOUN,patrol boat
+NE_PER,Chuck
+SENT_BOUND,tree
+MWE_COMPOUND_NOUN,patrol boat
+MWE_LVC,opens fire
+MWE_LVC_VERB,opens
+MWE_LVC_NOUN,fire
+MWE_COMPOUND_NOUN,surf zone
+COMPOUND_NOUN_SB,zone
+MWE_COMPOUND_NOUN,patrol boat
+SENT_BOUND,too
+MWE_COMPOUND_NOUN,patrol boat
+MWE_VPC,head out
+MWE_VPC_VERB,head
+MWE_VPC_PARTICLE,out
+SENT_BOUND,ocean
+MWE_COMPOUND_NOUN,hide and seek
+NE_MISC,Fairfax
+NE_MISC_SB,Fairfax
+NE_MISC,Nicaraguan
+MWE_VPC,looking for
+MWE_VPC_VERB,looking
+MWE_VPC_PARTICLE,for
+SENT_BOUND,them
+MWE_COMPOUND_NOUN,Navy personnal
+NE_MISC,Soviet's
+NE_MISC,Nicaraguans
+NE_MISC_SB,Nicaraguans
+NE_PER,John Walker
+NE_PER,Chuck
+SENT_BOUND,team
+NE_LOC,Puerto Leimpara
+NE_PER,Chuck
+MWE_COMPOUND_NOUN,commanding officer
+MWE_COMPOUND_NOUN,battle front
+COMPOUND_NOUN_SB,front
+SENT_BOUND,him
+NE_LOC,Lebanon
+NE_LOC_SB,Lebanon

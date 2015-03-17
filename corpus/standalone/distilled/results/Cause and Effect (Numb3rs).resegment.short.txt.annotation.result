@@ -1,0 +1,322 @@
+NE_MISC,Cause and Effect
+MWE_COMPOUND_NOUN,season finale
+NE_MISC,American
+MWE_COMPOUND_NOUN,television series
+NE_MISC,Numb3rs
+NE_MISC_SB,Numb3rs
+NE_ORG,Federal Bureau of Investigation
+NE_ORG,FBI
+SENT_BOUND,crime
+MWE_COMPOUND_NOUN,series creators
+MWE_COMPOUND_NOUN,executive producers
+NE_PER,Cheryl Heuton
+NE_PER,Nicolas Falacci
+SENT_BOUND,cancelled
+MWE_COMPOUND_NOUN,season finale
+MWE_COMPOUND_NOUN,series finale
+COMPOUND_NOUN_SB,finale
+MWE_LVC, set to ai
+MWE_LVC_VERB, se
+MWE_LVC_NOUN, to ai
+NE_MISC,"Cause and Effec
+NE_LOC, United State
+SENT_BOUND, 201
+MWE_LVC, gave the episode review
+MWE_LVC_VERB, gav
+MWE_LVC_NOUN, review
+LVC_NOUN_SB, review
+NE_MISC,"Cause and Effec
+NE_MISC, Numb3r
+MWE_COMPOUND_NOUN, series final
+NE_ORG, CB
+SENT_BOUND, 201
+NE_PER,. Charlie Epp
+NE_PER, (David Krumhol
+NE_PER,d Amita Ramanuj
+NE_PER, (Navi Raw
+NE_LOC,t CalS
+NE_LOC_SB,t CalS
+NE_PER,. Charl
+NE_PER,r Alan Epp
+NE_PER, (Judd Hirs
+NE_PER,, Charl
+MWE_COMPOUND_NOUN,r FBI Special Age
+NE_PER,t Don Epp
+NE_PER, (Rob Morr
+MWE_COMPOUND_NOUN,s FBI Special Agen
+NE_PER,s David Sincla
+NE_PER, (Alimi Balla
+NE_PER,, Colby Grang
+NE_PER, (Dylan Bru
+NE_PER,, Nikki Betancou
+NE_PER, (Sophina Bro
+MWE_COMPOUND_NOUN,d Assistant United States Attorn
+NE_PER,y Robin Broo
+NE_PER, (Michelle Nold
+SENT_BOUND,e ceremo
+NE_PER,. Charl
+NE_PER,d Ami
+MWE_COMPOUND_NOUN,d fellow colleag
+NE_PER,e Dr. Larry Fleinhar
+NE_PER, (Peter MacNic
+SENT_BOUND,) officiat
+MWE_COMPOUND_NOUN,m FBI Special Age
+NE_PER,t Liz Warn
+NE_PER, (Aya Sumi
+NE_PER,, D
+NE_PER,d Dav
+NE_PER,t Ted Dacos
+NE_PER, (Luke Ros
+MWE_COMPOUND_NOUN,n fraud charg
+COMPOUND_NOUN_SB,d charg
+NE_PER,t Decos
+NE_PER,s D
+NE_PER,d Dav
+NE_PER_SB,d Dav
+NE_PER,s D
+SENT_BOUND,m h
+MWE_VPC,e picks the gun 
+MWE_VPC_VERB,e pic
+MWE_VPC_PARTICLE,n 
+MWE_VPC,d walks aw
+MWE_VPC_VERB,d wal
+MWE_VPC_PARTICLE,s aw
+SENT_BOUND,e sce
+NE_ORG,e Los Angeles Police Departme
+NE_ORG, (LA
+NE_PER,s D
+NE_PER,d D
+SENT_BOUND,d paperwo
+NE_PER,. Nik
+NE_ORG,e LA
+SENT_BOUND,r assistan
+NE_PER,At Char
+NE_PER,e, A
+NE_PER,nd Char
+NE_PER,at 
+SENT_BOUND,is 
+NE_PER,n. Char
+NE_PER,ut 
+NE_PER,ng Char
+NE_PER,nd Am
+MWE_COMPOUND_NOUN,ng visiting professorsh
+NE_LOC,at Cambri
+NE_LOC_SB,at Cambri
+NE_PER,e. 
+MWE_COMPOUND_NOUN,wo drug deal
+NE_PER,th 
+SENT_BOUND,'s 
+SENT_BOUND,s' dea
+NE_ORG,om L
+MWE_COMPOUND_NOUN,he FBI t
+MWE_COMPOUND_NOUN,he community crime wa
+SENT_BOUND,ry evide
+NE_PER,e. 
+NE_PER,to Ro
+NE_ORG,he 
+NE_ORG_SB,he 
+NE_PER,I. Ro
+SENT_BOUND,is decis
+NE_ORG,e, 
+NE_PER,an Matt
+NE_PER,i (Matthew Yang K
+NE_PER,to 
+MWE_COMPOUND_NOUN, a vigilante 
+MWE_COMPOUND_NOUN,al social networking si
+COMPOUND_NOUN_SB,ng si
+NE_PER,s. Char
+NE_PER,e, Am
+NE_PER,a, La
+NE_PER,nd Otto Bahn
+NE_PER,f (John Cari
+MWE_COMPOUND_NOUN, a plasma physic
+NE_ORG,he 
+MWE_COMPOUND_NOUN,he small world netw
+SENT_BOUND,he 
+NE_PER,h, 
+NE_PER,nd Char
+SENT_BOUND,ch ot
+MWE_OTHER,to drink and dr
+MWE_COMPOUND_NOUN, a driver's lice
+COMPOUND_NOUN_SB,'s lice
+NE_PER,. 
+A
+NE_PER,ta, Cha
+NE_PER,ie, L
+NE_PER,and 
+MWE_COMPOUND_NOUN,eal personal informa
+MWE_COMPOUND_NOUN,n a web 
+NE_PER,ced
+SENT_BOUND,n's
+NE_PER,med
+NE_PER_SB,med
+NE_PER,im.
+NE_PER,and D
+NE_PER,ion Jim Mazz
+NE_PER,la (David B
+NE_PER,bor Michael Hi
+NE_PER,er (Vyto Rug
+NE_PER,hem Mazz
+SENT_BOUND,his fa
+NE_PER,oth Mazz
+NE_PER,and Hi
+NE_PER, of
+SENT_BOUND,n's
+NE_PER,ith Cha
+NE_PER,hat Mazz
+NE_PER,ere
+SENT_BOUND,the inci
+NE_PER,nt.
+NE_PER,and D
+NE_PER, to Mazz
+NE_PER,ver Mazz
+NE_PER,on,
+NE_PER,., (Bridger Za
+NE_PER,ing Hi
+SENT_BOUND, at gunp
+NE_PER,nt.
+NE_PER,rom
+NE_PER,sts Hi
+SENT_BOUND,ied cha
+MWE_COMPOUND_NOUN,es. FBI Special A
+NE_PER,ent Ian Edge
+NE_PER,on (Lou Diamond Phil
+NE_PER,ort Hi
+NE_PER_SB,ort Hi
+NE_PER,er.
+NE_PER,rms
+NE_PER,and D
+MWE_COMPOUND_NOUN,ier background c
+NE_PER, on Hi
+NE_LOC,rom Flo
+NE_PER,ted
+NE_PER, to Hi
+SENT_BOUND,r's loca
+NE_PER,on.
+MWE_LVC,lso expresses disappoint
+MWE_LVC_VERB,lso expre
+MWE_LVC_NOUN,ses disappoint
+NE_PER,end Cha
+NE_PER,and A
+SENT_BOUND,a's wed
+NE_ORG,the
+NE_PER,ce, C
+NE_PER,by,
+NE_PER,and N
+NE_PER,uss D
+MWE_COMPOUND_NOUN, to team le
+MWE_COMPOUND_NOUN, an anti-corruption 
+NE_LOC,the Washington
+NE_ORG, DC
+MWE_COMPOUND_NOUN,FBI field of
+COMPOUND_NOUN_SB,eld of
+NE_PER,ce.
+NE_PER,lls D
+NE_PER,hat D
+SENT_BOUND,new posi
+NE_PER, At Cha
+NE_PER,the E
+NE_PER,ate Cha
+NE_PER,and A
+SENT_BOUND,a's wed
+NE_PER,ng. Cha
+NE_PER,and A
+NE_PER,for 
+NE_PER,hat 
+NE_PER,nce Cha
+NE_PER,and A
+SENT_BOUND,ear 
+NE_PER,em. Cha
+NE_PER,for 
+NE_PER,and A
+NE_MISC,her In
+SENT_BOUND,ian heri
+NE_ORG,the
+NE_PER,BI,
+NE_PER,lls R
+MWE_COMPOUND_NOUN,e a special agent in ch
+COMPOUND_NOUN_SB, in ch
+NE_PER,ge.
+NE_PER, to R
+SENT_BOUND,she acc
+NE_PER, As 
+NE_PER,he,
+NE_PER,and Cha
+SENT_BOUND,eir l
+NE_ORG,ngs
+NE_MISC,uced Nu
+MWE_COMPOUND_NOUN,3rs' episode 
+SENT_BOUND,r 4,
+SENT_BOUND,t as s
+NE_ORG,ong
+SENT_BOUND, the s
+MWE_COMPOUND_NOUN,n the episode
+SENT_BOUND,sixth 
+MWE_COMPOUND_NOUN,ason. Series cr
+MWE_COMPOUND_NOUN,ators/executive pro
+NE_PER,ucers Cheryl 
+NE_PER,n and Nicolas F
+NE_MISC,rote "Cause and 
+MWE_COMPOUND_NOUN, be a season 
+MWE_COMPOUND_NOUN, as a series 
+SENT_BOUND,w was can
+SENT_BOUND,s was can
+NE_PER,ially
+NE_PER,ne 
+SENT_BOUND,Don's stor
+MWE_COMPOUND_NOUN,everal plo
+SENT_BOUND,g some 
+NE_PER,ed for 
+NE_PER,ie an
+NE_PER,d wit
+SENT_BOUND,nts in att
+NE_PER,dance.
+NE_PER,on and 
+NE_LOC,ing at
+NE_PER,i wit
+SENT_BOUND,ng the c
+SENT_BOUND, ai
+NE_ORG,in 
+NE_MISC,air the
+MWE_COMPOUND_NOUN,Numb3rs seaso
+SENT_BOUND,nale in 
+SENT_BOUND,rch 
+NE_LOC,e in the Unit
+NE_MISC,watched "Cause a
+SENT_BOUND,n
+MWE_COMPOUND_NOUN, being a seri
+SENT_BOUND,d on th
+NE_PER,episode.
+MWE_COMPOUND_NOUN, Owen, a televisi
+NE_ORG,with the Pittsburgh Pos
+NE_MISC,ucers o
+MWE_COMPOUND_NOUN,ting the seas
+MWE_COMPOUND_NOUN,ion as a seri
+COMPOUND_NOUN_SB,a seri
+NE_PER,finale." M
+NE_ORG,Roush of TV Guide
+MWE_COMPOUND_NOUN,gazine's
+SENT_BOUND,a
+NE_ORG,…."
+MWE_LVC,xecutives made the an
+MWE_LVC_VERB,xecu
+MWE_LVC_NOUN, made the an
+MWE_COMPOUND_NOUN,about the
+NE_ORG,rde
+NE_MISC,w wheth
+SENT_BOUND, would be
+NE_MISC,e fate 
+NE_ORG, Nu
+NE_PER,executive Ni
+NE_MISC,order f
+NE_MISC,rs to air Mia
+SENT_BOUND,ed to air
+MWE_COMPOUND_NOUN,idseason. Televisi
+NE_MISC, expect
+MWE_COMPOUND_NOUN,2009-2010 televis
+COMPOUND_NOUN_SB,elevis
+NE_ORG,w s
+NE_MISC,010, th
+NE_MISC,, making "Cause 
+MWE_COMPOUND_NOUN,fect" the ser
+COMPOUND_NOUN_SB,he ser

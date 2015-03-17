@@ -1,0 +1,264 @@
+MWE_COMPOUND_NOUN,Holtzman effect
+NE_LOC,Dune
+NE_PER,Frank Herbert
+NE_MISC,Dune
+NE_MISC_SB,Dune
+MWE_COMPOUND_NOUN,defensive force shields
+MWE_COMPOUND_NOUN,space travel
+SENT_BOUND,possible
+NE_PER,Frank Herbert
+NE_PER,Holtzman
+NE_PER,Holtzmann
+NE_MISC,Children of Dune
+NE_PER,Holzmann
+NE_MISC,Chapterhouse: Dune
+SENT_BOUND,)
+NE_PER,Herbert
+NE_LOC,Dune
+NE_LOC,Arrakis
+NE_LOC,Rakis
+NE_LOC,Caladan
+NE_LOC,Dan
+NE_MISC,Heretics of Dune
+SENT_BOUND,)
+NE_MISC,Legends of Dune
+MWE_COMPOUND_NOUN,prequel trilogy
+NE_PER,Brian Herbert
+NE_PER,Kevin J. Anderson
+NE_PER,Holtzman
+NE_PER,Tio Holtzman
+NE_PER,Holtzman
+MWE_LVC,takes credit
+MWE_LVC_VERB,takes
+MWE_LVC_NOUN,credit
+NE_PER,Norma Cenva
+SENT_BOUND,)
+NE_MISC,Terminology of the Imperium
+NE_MISC,Dune
+NE_PER,Frank Herbert
+SENT_BOUND,definition
+NE_LOC,Dune
+SENT_BOUND,shields
+MWE_COMPOUND_NOUN,science fiction
+MWE_COMPOUND_NOUN,energy fields
+SENT_BOUND,velocity
+NE_PER,Paul Atreides
+NE_MISC,Dune
+MWE_COMPOUND_NOUN,shield fighting
+SENT_BOUND,attack
+MWE_VPC,setting him up
+MWE_VPC_VERB,setting
+MWE_VPC_PARTICLE,up
+SENT_BOUND,sinister
+SENT_BOUND,kindjal
+MWE_COMPOUND_NOUN,atmospheric gases
+MWE_COMPOUND_NOUN,penetration velocity
+SENT_BOUND,second
+MWE_COMPOUND_NOUN,lasgun beam
+MWE_COMPOUND_NOUN,Holtzman field
+MWE_COMPOUND_NOUN,subatomic fusion
+MWE_COMPOUND_NOUN,nuclear explosion
+COMPOUND_NOUN_SB,explosion
+SENT_BOUND,atomics
+MWE_COMPOUND_NOUN,environmental catastrophe
+NE_MISC,Dune
+NE_PER,Duncan Idaho
+MWE_COMPOUND_NOUN,shield-lasgun contact
+SENT_BOUND,enemies
+NE_MISC,God Emperor of Dune
+MWE_COMPOUND_NOUN,God Emperor
+NE_PER,Leto II
+NE_ORG,Empire
+SENT_BOUND,interactions
+NE_LOC,Arrakis
+SENT_BOUND,shield
+NE_MISC,Fremen
+SENT_BOUND,them
+NE_MISC,Children of Dune
+NE_MISC,Fremen
+MWE_COMPOUND_NOUN,shield generator
+MWE_COMPOUND_NOUN,ersatz bomb
+COMPOUND_NOUN_SB,bomb
+MWE_COMPOUND_NOUN,quantum level
+NE_ORG,Spacing Guild
+MWE_COMPOUND_NOUN,heighliner ships
+SENT_BOUND,space
+MWE_COMPOUND_NOUN,quantum nature
+MWE_COMPOUND_NOUN,thinking machines
+MWE_COMPOUND_NOUN,thinking machines
+NE_MISC,Butlerian Jihad
+NE_MISC_SB,Jihad
+NE_ORG,Guild
+NE_PER,Navigators
+SENT_BOUND,way
+NE_LOC,Dune
+NE_MISC,Ixian
+NE_PER,Guild Navigators
+NE_PER_SB,Navigators
+MWE_COMPOUND_NOUN,Hovering devices
+MWE_COMPOUND_NOUN,Holtzman field generator
+MWE_COMPOUND_NOUN,energy consumption
+COMPOUND_NOUN_SB,consumption
+SENT_BOUND,uses
+NE_LOC,Dune
+NE_PER,Vladimir Harkonnen
+MWE_COMPOUND_NOUN,suspensor belts
+SENT_BOUND,walk
+NE_LOC,Dune
+NE_PER,Jessica
+NE_MISC,Fremen
+MWE_COMPOUND_NOUN,sietch communities
+SENT_BOUND,desert
+MWE_COMPOUND_NOUN,Holtzman effect
+SENT_BOUND,glowglobe
+SENT_BOUND,color
+NE_PER,Herbert
+NE_MISC,Dune
+SENT_BOUND,reads
+NE_MISC,Dune Encyclopedia
+NE_PER,Willis E. McNelly
+MWE_COMPOUND_NOUN,Holtzman effect
+COMPOUND_NOUN_SB,effect
+NE_PER,Ibrahim Vaughn Holtzman
+SENT_BOUND,)
+MWE_COMPOUND_NOUN,planetary governor
+NE_PER,Liesco II
+NE_PER,Holtzman
+SENT_BOUND,think
+MWE_COMPOUND_NOUN,mental processing
+SENT_BOUND,years
+MWE_COMPOUND_NOUN,suspensor-nullification effect
+NE_PER,Frank Herbert
+MWE_COMPOUND_NOUN,interstellar travel
+SENT_BOUND,possible
+NE_MISC,Encyclopedia
+SENT_BOUND,understood
+NE_PER,Holtzman
+MWE_COMPOUND_NOUN,communication device
+NE_MISC,Holtzman Wave
+NE_MISC_SB,Wave
+MWE_COMPOUND_NOUN,interstellar travel
+NE_ORG,Imperial House Ceres
+NE_ORG_SB,Ceres
+NE_MISC,Holtzman Wave
+NE_MISC,Wars of Reunification
+NE_MISC_SB,Reunification
+NE_PER,Holtzman
+SENT_BOUND,times
+SENT_BOUND,shields
+NE_PER,Holtzman
+SENT_BOUND,phenomena
+NE_MISC,Butlerian Jihad
+SENT_BOUND_ABBREV,B.G.
+MWE_COMPOUND_ADJ,booby trapped
+NE_MISC,Jihad
+MWE_VPC,setting off
+MWE_VPC_VERB,setting
+MWE_VPC_PARTICLE,off
+MWE_COMPOUND_NOUN,shield-laser interaction
+COMPOUND_NOUN_SB,interaction
+NE_MISC,Encyclopedia
+MWE_COMPOUND_NOUN,suspensor-nullification effect
+NE_PER,Holtzman
+MWE_COMPOUND_NOUN,Holtzman effect
+COMPOUND_NOUN_SB,effect
+NE_PER,Brian Herbert
+NE_PER,Kevin J. Anderson
+NE_MISC,Legends of Dune
+MWE_COMPOUND_NOUN,prequel trilogy
+NE_PER,Holtzman
+NE_PER,Tio Holtzman
+NE_MISC,Butlerian Jihad
+NE_LOC,Dune
+NE_LOC_SB,Dune
+MWE_COMPOUND_NOUN,defensive force fields
+MWE_COMPOUND_NOUN,thinking machines
+SENT_BOUND,mankind
+MWE_COMPOUND_NOUN,machine attacks
+COMPOUND_NOUN_SB,attacks
+NE_LOC,Poritrin
+NE_PER,Holtzman
+MWE_IDIOM,on the wane
+SENT_BOUND,years
+MWE_VPC,comes across
+MWE_VPC_VERB,comes
+MWE_VPC_PARTICLE,across
+NE_PER,Norma Cenva
+NE_LOC,Rossak
+NE_LOC,Poritrin
+NE_LOC_SB,Poritrin
+MWE_COMPOUND_NOUN,human-machine hybrids
+MWE_COMPOUND_NOUN,planetary force fields
+MWE_COMPOUND_NOUN,scrambler fields
+COMPOUND_NOUN_SB,fields
+NE_PER,Cenva
+MWE_VPC,knock out
+MWE_VPC_VERB,knock
+MWE_VPC_PARTICLE,out
+SENT_BOUND,installations
+NE_PER,Holtzman
+NE_PER,Cenva
+SENT_BOUND,speed
+MWE_COMPOUND_NOUN,ground forces
+COMPOUND_NOUN_SB,forces
+SENT_BOUND,deactivate
+NE_PER,Holtzman
+SENT_BOUND,her
+MWE_LVC,takes credit
+MWE_LVC_VERB,takes
+MWE_LVC_NOUN,credit
+NE_PER,Cenva
+NE_PER,Holtzman
+NE_MISC,Holtzman Drive
+NE_MISC,Holtzman Shields
+SENT_BOUND,glowglobes
+NE_PER,Cenva
+MWE_COMPOUND_NOUN,Holtzman field
+MWE_COMPOUND_NOUN,lasgun beam
+SENT_BOUND,explosion
+NE_MISC,Dune: The Machine Crusade
+NE_PER,Holtzman
+MWE_COMPOUND_NOUN,slave uprising
+NE_LOC,Poritrin
+NE_LOC_SB,Poritrin
+NE_MISC,Legends of Dune
+NE_PER,Cenva
+NE_MISC,Butlerian Jihad
+NE_PER,Holtzman
+MWE_COMPOUND_NOUN,field equations
+COMPOUND_NOUN_SB,equations
+MWE_COMPOUND_NOUN,prototype space-folding ship
+NE_PER,Aurelius Venport
+NE_LOC,Kolhar
+SENT_BOUND,heighliners
+NE_PER,Venport
+NE_MISC,Jihad
+SENT_BOUND,forces
+MWE_COMPOUND_NOUN,foldspace travel
+MWE_VPC,make it to
+MWE_VPC_VERB,make
+MWE_VPC_PARTICLE,to
+SENT_BOUND,destination
+MWE_COMPOUND_NOUN,spice melange
+NE_PER,Norma
+SENT_BOUND,time
+NE_PER,Navigator
+NE_PER_SB,Navigator
+NE_PER,Norma
+NE_PER,Adrien Venport
+NE_ORG,Foldspace Shipping Company
+NE_ORG,Spacing Guild
+MWE_COMPOUND_NOUN,space commerce
+MWE_COMPOUND_NOUN,interplanetary banking
+COMPOUND_NOUN_SB,banking
+NE_PER,Cenva
+MWE_COMPOUND_NOUN,foldspace travel
+SENT_BOUND,efficient
+MWE_COMPOUND_NOUN,thinking machines
+COMPOUND_NOUN_SB,machines
+NE_MISC,Dune: House Atreides
+NE_MISC,Prelude to Dune
+MWE_COMPOUND_NOUN,prequel trilogy
+NE_PER,Brian Herbert
+NE_PER,Anderson
+SENT_BOUND,epigraph

@@ -1,0 +1,355 @@
+NE_LOC,Portman Road
+MWE_COMPOUND_NOUN,association football stadium
+NE_LOC,Ipswich
+NE_LOC,Suffolk
+NE_LOC,England
+NE_LOC_SB,England
+MWE_COMPOUND_NOUN, home groun
+NE_ORG, Ipswich Town F.C
+SENT_BOUND, 188
+NE_ORG,f Engla
+NE_ORG,r Engla
+MWE_COMPOUND_NOUN,d friendly international mat
+NE_ORG,t Croat
+SENT_BOUND,n 20
+MWE_COMPOUND_NOUN,er sporting eve
+MWE_COMPOUND_NOUN,ng athletics meeti
+MWE_COMPOUND_NOUN,al hockey matc
+COMPOUND_NOUN_SB,ey matc
+MWE_COMPOUND_NOUN,ity football gr
+NE_LOC, in East An
+NE_LOC_SB,ast An
+NE_MISC,the Taylor Re
+NE_MISC_SB,lor Re
+MWE_COMPOUND_NOUN, and banqueting facil
+NE_LOC, the Sir Bobby Robson 
+NE_LOC,ite, Legend
+MWE_COMPOUND_NOUN,nd a club 
+NE_ORG,ling Ipswich
+SENT_BOUND,Town mercha
+NE_ORG,1884, Ipswic
+NE_LOC,town, Broo
+NE_LOC,l and Brook'
+NE_LOC,ed to Portma
+SENT_BOUND, ever
+MWE_COMPOUND_NOUN, as a cricket
+NE_ORG,y the East Suffolk Cricke
+SENT_BOUND,sinc
+MWE_COMPOUND_NOUN,. The cricke
+SENT_BOUND,t the 
+MWE_COMPOUND_NOUN,ts of ground devel
+NE_ORG,hough I
+MWE_COMPOUND_NOUN,se of goa
+SENT_BOUND,ts i
+NE_ORG,time, I
+MWE_COMPOUND_NOUN,re an amateu
+MWE_COMPOUND_NOUN, of a professiona
+NE_ORG, when Preston Nor
+NE_ORG,yed a Suffolk County Football Assoc
+SENT_BOUND,atio
+NE_ORG, from Aston
+SENT_BOUND,round
+MWE_COMPOUND_NOUN,01, a tobacco processing
+NE_PER,y the Chu
+SENT_BOUND, 21st c
+NE_MISC,s the "Chic
+NE_LOC,on the Portm
+SENT_BOUND,und 
+MWE_COMPOUND_NOUN, local speedw
+NE_ORG,m, the Ipswich 
+NE_LOC, it at Foxhall 
+NE_LOC_SB,oxhall 
+NE_ORG,, with 
+NE_ORG,gainst 
+NE_ORG,gainst
+NE_ORG_SB,gainst
+NE_ORG,by the Briti
+MWE_COMPOUND_NOUN,e as a traini
+NE_MISC,of the First Wo
+NE_MISC_SB, Wo
+NE_LOC,rol of Portm
+MWE_COMPOUND_NOUN,sed by heavy ma
+COMPOUND_NOUN_SB, heavy ma
+NE_LOC, 1920s, Port
+MWE_COMPOUND_NOUN,mber of whipp
+SENT_BOUND, of th
+MWE_COMPOUND_NOUN,nd. The footb
+MWE_COMPOUND_NOUN,and the cric
+MWE_VPC,rced to 
+MWE_VPC_VERB,rced
+MWE_VPC_PARTICLE,to 
+SENT_BOUND, of t
+NE_ORG,ing the Souther
+NE_LOC,uthern "Ch
+NE_ORG,ht from
+SENT_BOUND,l, were i
+NE_LOC,talled. Port
+NE_ORG,home to Ipsw
+NE_ORG,s first Footbal
+NE_ORG,against Southen
+NE_ORG,ited in Division Three
+SENT_BOUND, 19,000 sp
+NE_ORG,rs.
+The Supporters' As
+NE_LOC,ments at Por
+MWE_COMPOUND_NOUN,in 1952, concrete 
+NE_LOC,race the No
+SENT_BOUND,ximate
+NE_LOC,of a new W
+MWE_COMPOUND_NOUN,creasing ground
+SENT_BOUND,o arou
+SENT_BOUND,d by the as
+MWE_VPC,hts were sw
+MWE_VPC_VERB,hts were
+MWE_VPC_PARTICLE,sw
+MWE_COMPOUND_NOUN,ed on by club 
+NE_PER,ent Lady Blanch
+NE_ORG, agains
+SENT_BOUND,Febr
+MWE_COMPOUND_NOUN,ry 1960.
+Televisi
+NE_LOC, debut at Po
+NE_ORG,n 1962 as Anglia 
+NE_MISC,rived for Match o
+NE_ORG,efo
+NE_MISC,e ground, Match 
+NE_LOC, visiting Po
+NE_ORG,o witne
+MWE_COMPOUND_NOUN,Ipswich's leag
+NE_ORG,e against Birmi
+NE_ORG_SB,irmi
+MWE_COMPOUND_NOUN,Meanwhile, ground 
+MWE_COMPOUND_NOUN,inued with roofing e
+NE_LOC,nts to the 
+SENT_BOUND, 31,
+MWE_COMPOUND_NOUN,0 by 1963. Dre
+NE_LOC,les at the
+SENT_BOUND,Chu
+NE_ORG,ith owners Ipswich Boro
+NE_ORG_SB,ch Boro
+NE_LOC, cantilever P
+SENT_BOUND,proxim
+NE_LOC,ion of the 
+NE_LOC,erneath the P
+NE_LOC_SB,the P
+NE_LOC,dded to the P
+NE_MISC, year 
+NE_ORG,tie against 
+NE_ORG_SB,ainst 
+NE_MISC,in the
+MWE_COMPOUND_NOUN,ested in 24 exe
+NE_LOC,ront of the P
+NE_MISC,sult of the Safety of Sport
+MWE_VPC,cing seats, taking the overall c
+MWE_VPC_VERB,cing s
+MWE_VPC_PARTICLE,ll c
+SENT_BOUND,ity do
+NE_LOC,nches in t
+MWE_COMPOUND_NOUN, a deal with electr
+NE_ORG,nics company Pionee
+NE_LOC,named as the 
+SENT_BOUND,re-o
+SENT_BOUND,tunes
+MWE_COMPOUND_NOUN,n the pitch. Sa
+NE_LOC,ved from th
+NE_LOC,ollowing the
+NE_MISC,tions of the 
+NE_LOC, in b
+NE_LOC,he North and
+SENT_BOUND,converted t
+NE_LOC,seating. The 
+NE_LOC,named as the Br
+MWE_COMPOUND_NOUN,lowing a new spo
+MWE_COMPOUND_NOUN,eal with the bui
+NE_PER,tatue of S
+NE_LOC,he corner of
+NE_LOC,man Road and Sir A
+NE_LOC_SB,r A
+NE_ORG,
+Success fo
+NE_ORG,motion to the 
+NE_LOC,ping 
+NE_LOC,the North an
+NE_LOC_SB,rth an
+NE_LOC,vation of t
+SENT_BOUND, seats 
+NE_LOC,of a two-ti
+SENT_BOUND, to mo
+NE_ORG,local brewe
+MWE_VPC,y Green
+MWE_VPC_VERB,y Gr
+MWE_VPC_PARTICLE,en
+NE_LOC,f the updat
+NE_LOC,s renamed the Gre
+MWE_COMPOUND_NOUN,009, when the sp
+NE_LOC,the origina
+SENT_BOUND,l
+NE_PER,ormer manage
+NE_LOC,nced that t
+NE_LOC,enamed as the Sir Bobb
+NE_LOC_SB, Bobb
+MWE_LVC,ial unveil
+MWE_LVC_VERB,ial 
+MWE_LVC_NOUN,nveil
+MWE_COMPOUND_NOUN,me during th
+NE_ORG,match hosting Newcast
+NE_PER,., ano
+SENT_BOUND, 26 
+NE_LOC,er stands, the Sir Bob
+NE_LOC,son Stand, th
+NE_LOC,old Stand, 
+NE_LOC, Stand and the 
+NE_LOC_SB, the 
+SENT_BOUND,overed and a
+NE_LOC, section of t
+NE_LOC,iginally as t
+SENT_BOUND,clos
+MWE_COMPOUND_NOUN,two tiers and a
+MWE_COMPOUND_NOUN, to accom
+MWE_COMPOUND_NOUN,er game and fo
+COMPOUND_NOUN_SB, and fo
+MWE_COMPOUND_NOUN,ins a number of
+MWE_COMPOUND_NOUN,lar seati
+COMPOUND_NOUN_SB,eati
+NE_LOC, home fans.
+MWE_COMPOUND_NOUN,and which has a ma
+SENT_BOUND,f app
+NE_LOC,lso houses the "Sir Bo
+NE_LOC,restaurant 
+SENT_BOUND,a
+MWE_COMPOUND_NOUN,itch from thei
+NE_LOC,ium between
+NE_LOC,h Stand and the
+NE_LOC_SB,d the
+NE_LOC,nnia Stand.
+Th
+MWE_COMPOUND_NOUN, simple conc
+MWE_COMPOUND_NOUN,rs consisting of
+MWE_COMPOUND_NOUN,nd an addit
+COMPOUND_NOUN_SB,ddit
+MWE_COMPOUND_NOUN,rs' box, furthe
+MWE_COMPOUND_NOUN,ve boxes a
+COMPOUND_NOUN_SB,es a
+NE_MISC,d is a fu
+MWE_COMPOUND_NOUN,s by fans 
+COMPOUND_NOUN_SB,fans 
+NE_LOC, home games. The Sir B
+SENT_BOUND,pacit
+MWE_COMPOUND_NOUN,It is a two-tier
+MWE_COMPOUND_NOUN,ionally f
+NE_ORG, the
+SENT_BOUND,nd a
+NE_LOC,ers, in the low
+NE_LOC,tannia Stand, the
+NE_LOC,ing Stand and the Sir 
+NE_LOC_SB, Sir 
+MWE_COMPOUND_NOUN,es to accommodat
+MWE_COMPOUND_NOUN,elchair users and
+SENT_BOUND,gether
+NE_LOC,s 12 seats in t
+MWE_COMPOUND_ADJ,itannia Stand for
+MWE_COMPOUND_NOUN,ry via individ
+MWE_COMPOUND_NOUN,provided by l
+NE_ORG,cal radio station
+NE_ORG_SB,station
+NE_PER,urrent ground
+NE_ORG,es, includi
+NE_ORG,th Premiersh
+NE_MISC,p and Championship Gro
+NE_ORG,ed the best 
+SENT_BOUND,easo
+NE_PER, are statu
+NE_PER, Alf Ramsey 
+NE_ORG,Robson, both
+NE_ORG,er Ipsw
+SENT_BOUND,nagers
+NE_LOC, the ground. N
+NE_LOC,'s Walk was rename
+SENT_BOUND,r Al
+NE_LOC,
+On 20 Augu
+NE_ORG,thus fa
+NE_ORG,, a fri
+NE_ORG,tch fin
+SENT_BOUND,d in front
+NE_ORG,ium has
+MWE_COMPOUND_NOUN,been used b
+NE_ORG,vember 
+NE_ORG,3 team draw
+NE_ORG_SB,3 team draw
+NE_ORG,land. Most r
+NE_MISC,ngland U21s played a UEFA Euro
+MWE_COMPOUND_NOUN,ean U21 Champion
+NE_ORG, August
+SENT_BOUND,, in front
+NE_LOC, have been h
+MWE_COMPOUND_NOUN,thletics in 1927, an Am
+MWE_COMPOUND_NOUN,everal interna
+SENT_BOUND,hes
+MWE_COMPOUND_NOUN,s also hosted 
+NE_PER,uding perf
+NE_ORG,mances
+NE_ORG,y Elton John, R.E.M.,
+NE_PER,ed H
+NE_PER, Chili Peppe
+NE_PER,, P!nk, Nei
+NE_ORG,Diamond, Tin
+NE_ORG,Turner, Dire Strait
+NE_PER,Dirty Prett
+SENT_BOUND, & Rod
+NE_LOC,f Chris
+NE_MISC,ship in 
+NE_PER,ce American 
+NE_LOC,list Billy G
+NE_MISC,an Road on part of h
+SENT_BOUND,issi
+NE_LOC, attendance 
+NE_ORG,010 for a ma
+NE_ORG,nst Le
+SENT_BOUND, six
+NE_ORG,003 against 
+NE_MISC,vals Norwich City in the Foo
+NE_MISC_SB,y in the Foo
+NE_PER,the ground w
+NE_ORG,obson's
+NE_PER, where Ipsw
+NE_ORG,e Best, pl
+NE_ORG_SB,pl
+NE_ORG,erage a
+NE_ORG,n the 1
+NE_ORG,pswich were pl
+NE_ORG_SB, were pl
+NE_LOC,owest averag
+MWE_COMPOUND_NOUN,741 in the cl
+NE_ORG,ason, the 1936–37 seas
+NE_ORG_SB,s
+NE_ORG,000 dur
+NE_MISC,son in w
+NE_ORG,p and finished
+NE_ORG_SB,finished
+NE_LOC,econd in the
+NE_ORG,ivision.
+Po
+NE_MISC,ch Town'
+MWE_COMPOUND_NOUN, first appearance in
+NE_ORG,ompetiti
+NE_LOC,hen t
+MWE_COMPOUND_NOUN,oriana of M
+NE_MISC,, still a cl
+SENT_BOUND,ecor
+NE_ORG,pean Cup in 
+NE_LOC,ich Town rem
+NE_MISC,feated a
+NE_ORG,ord until 
+SENT_BOUND,sed 
+NE_LOC, stadiu
+MWE_COMPOUND_NOUN, is approximate
+NE_MISC,way station, which lies
+NE_LOC,e Great Eastern Main Li
+NE_LOC,rom Lon
+NE_LOC_SB,rom Lon
+MWE_COMPOUND_NOUN,to Norwich. The st
+MWE_COMPOUND_NOUN,nd the ground are subject to a resid
+MWE_COMPOUND_NOUN,eme, but there 
+MWE_COMPOUND_NOUN,a number of pay and dis
+SENT_BOUND,within

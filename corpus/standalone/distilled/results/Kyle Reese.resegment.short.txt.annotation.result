@@ -1,0 +1,481 @@
+NE_PER,Kyle Reese
+MWE_COMPOUND_NOUN,primary character
+NE_MISC,Terminator
+NE_PER,John Connor
+NE_PER,Sarah Connor
+NE_PER_SB,Connor
+NE_PER,Michael Biehn
+NE_MISC,Terminator
+NE_PER,Jonathan Jackson
+MWE_COMPOUND_NOUN,television series
+NE_PER,Anton Yelchin
+NE_MISC,Terminator Salvation
+SENT_BOUND,'
+NE_PER,
+Kyle Rees
+NE_ORG, Tech-Co
+NE_MISC, EN3841
+NE_MISC, The Terminato
+MWE_VPC, wiped ou
+MWE_VPC_VERB, wipe
+MWE_VPC_PARTICLE, ou
+MWE_COMPOUND_NOUN, nuclear wa
+MWE_VPC, sparked of
+MWE_VPC_VERB, sparke
+MWE_VPC_PARTICLE, of
+MWE_COMPOUND_NOUN, artificial intelligenc
+NE_MISC, Skyne
+NE_MISC_SB, Skyne
+MWE_COMPOUND_NOUN, sentient computer syste
+SENT_BOUND, survivor
+NE_PER,
+Kyle Ree
+MWE_COMPOUND_NOUN,e nuclear attac
+COMPOUND_NOUN_SB,r attac
+NE_MISC,e Terminat
+NE_MISC,e Sarah Connor Chronicl
+SENT_BOUND,e attac
+NE_MISC,y Skyn
+NE_MISC,f Skyn
+MWE_COMPOUND_NOUN,s concentration cam
+SENT_BOUND,r deat
+MWE_COMPOUND_NOUN,a resistance moveme
+NE_PER,y John Conn
+NE_MISC,m Skyn
+NE_MISC_SB,m Skyn
+NE_PER,, Ree
+NE_ORG,e 132nd Infant
+NE_PER,r Justin Per
+NE_ORG,o Tech-C
+NE_PER,r John Conn
+SENT_BOUND,t frie
+NE_MISC,n Skyn
+SENT_BOUND,l compl
+NE_MISC,le Sky
+NE_PER,as Re
+NE_MISC,in The Termina
+NE_MISC_SB,he Termina
+NE_MISC,of Sky
+MWE_COMPOUND_NOUN,'s defense gr
+NE_MISC,er Sky
+SENT_BOUND,oy
+NE_MISC,t. Sky
+MWE_COMPOUND_NOUN,al time displacement equipm
+NE_MISC,t, Sky
+NE_MISC, a T-
+NE_MISC,es Termina
+NE_LOC,se Los Ange
+NE_LOC,s, Califor
+NE_PER,ng Sarah Con
+MWE_COMPOUND_NOUN,of resistance lea
+NE_PER,er John Con
+NE_PER,of Con
+SENT_BOUND,re rebell
+NE_MISC,hat Sk
+NE_PER,do, Co
+NE_MISC,the Termin
+NE_MISC_SB,the Termin
+NE_PER,ant Kyle R
+SENT_BOUND,ese volunt
+MWE_VPC,had gone thr
+MWE_VPC_VERB,had 
+MWE_VPC_PARTICLE,one thr
+MWE_COMPOUND_NOUN,the time displacement equip
+NE_MISC,the Termin
+SENT_BOUND, in 
+NE_MISC, the Termi
+NE_PER,ise, 
+NE_PER,lows Sarah C
+NE_MISC, the 
+MWE_VPC,s to carr
+MWE_VPC_VERB,s to 
+MWE_VPC_PARTICLE,arr
+SENT_BOUND, its mi
+MWE_COMPOUND_NOUN, the human
+SENT_BOUND,bor
+NE_PER,ards 
+NE_PER,ese, 
+NE_MISC, the Termi
+NE_MISC_SB, the Termi
+NE_MISC, the Termi
+NE_PER,tor, 
+NE_PER, and 
+MWE_LVC,arah hav
+MWE_LVC_VERB,arah
+MWE_LVC_NOUN,hav
+NE_PER,ader John C
+SENT_BOUND,r is conc
+MWE_VPC,aving gr
+MWE_VPC_VERB,aving
+MWE_VPC_PARTICLE,gr
+MWE_VPC,l but wip
+MWE_VPC_VERB,l but
+MWE_VPC_PARTICLE,wip
+MWE_COMPOUND_NOUN,t the huma
+NE_PER,race,
+SENT_BOUND,tally ha
+SENT_BOUND,es to
+NE_PER,o sto
+NE_ORG,ing to Cyberdyne 
+SENT_BOUND,in the
+NE_PER,s, an
+SENT_BOUND,h, all be
+MWE_LVC,ul. He bursts int
+MWE_LVC_VERB,ul. He
+MWE_LVC_NOUN,bursts int
+SENT_BOUND,any 
+NE_PER,s wit
+SENT_BOUND,ge the
+MWE_COMPOUND_ADJ,ard and batt
+NE_PER, wear
+MWE_LVC,, Reese ha
+MWE_LVC_VERB,, R
+MWE_LVC_NOUN,e ha
+NE_PER,ove for Sara
+SENT_BOUND,rough
+NE_PER,fection Ky
+NE_PER,elt f
+NE_PER, him by Joh
+NE_PER_SB,by Joh
+NE_PER,Conno
+MWE_IDIOM,ever, is 
+NE_PER,h he 
+NE_MISC,ront the T
+NE_MISC_SB,ront the T
+MWE_COMPOUND_NOUN, After a high sp
+NE_MISC,oyed the T
+MWE_COMPOUND_NOUN,ion of a f
+NE_ORG,owned by Cyberdyn
+NE_ORG_SB,yberdyn
+NE_PER,Syst
+MWE_VPC,ms.
+Kyl
+MWE_VPC_VERB,ms.
+
+MWE_VPC_PARTICLE,yl
+NE_MISC,while the 
+SENT_BOUND,roug
+NE_PER,or. A
+MWE_VPC,identall
+MWE_VPC_VERB,ident
+MWE_VPC_PARTICLE,ll
+NE_MISC,ed by the 
+NE_MISC_SB,ed by the 
+NE_PER,footw
+NE_PER,ese t
+NE_PER,ver 
+NE_MISC, beat the 
+SENT_BOUND,h a 
+NE_MISC,pipe.
+The
+NE_PER,tor 
+NE_PER,ugh d
+MWE_COMPOUND_NOUN,t homemad
+NE_MISC,etween the
+SENT_BOUND, stru
+NE_MISC,torso. The
+MWE_VPC,minator is 
+MWE_VPC_VERB,minat
+MWE_VPC_PARTICLE,r is 
+NE_PER,apart
+SENT_BOUND,d Rees
+NE_MISC,illed. The
+SENT_BOUND,rm, is no
+NE_PER, A wo
+MWE_COMPOUND_NOUN,e inside a mecha
+COMPOUND_NOUN_SB,mecha
+MWE_VPC,hile being
+MWE_VPC_VERB,hile 
+MWE_VPC_PARTICLE,eing
+NE_PER,after
+NE_PER,watch
+MWE_COMPOUND_NOUN,as Reese'
+MWE_VPC,ad body i
+MWE_VPC_VERB,ad bod
+MWE_VPC_PARTICLE, i
+MWE_COMPOUND_NOUN,ed up in
+MWE_VPC,dy bag and
+MWE_VPC_VERB,dy ba
+MWE_VPC_PARTICLE, and
+VPC_PARTICLE_SB, and
+NE_PER,ken a
+MWE_COMPOUND_NOUN, stops at a
+NE_LOC, deser
+NE_PER,d ev
+SENT_BOUND, h
+NE_PER,ecti
+SENT_BOUND,crifice and 
+NE_PER,n. Althoug
+NE_PER,that he was
+NE_PER,r's 
+SENT_BOUND,msel
+NE_MISC,hen a y
+NE_PER,n boy
+NE_MISC,ture with
+NE_PER, same 
+NE_PER,ly gi
+NE_PER_SB,ly gi
+NE_MISC, Reese. 
+In Terminator 2: 
+NE_PER,dgement Day, 
+NE_PER, the role 
+NE_PER, Kyle Reese;
+MWE_COMPOUND_NOUN,ing her in a menta
+COMPOUND_NOUN_SB, in a menta
+SENT_BOUND,utu
+MWE_COMPOUND_NOUN,et." In thi
+NE_PER,drea
+NE_PER,t th
+MWE_COMPOUND_NOUN,now of it
+COMPOUND_NOUN_SB,f it
+MWE_COMPOUND_NOUN,tored to the exte
+SENT_BOUND,ded edit
+MWE_COMPOUND_NOUN,ased.
+In the t
+NE_MISC,evision show, Terminator: The Sarah Con
+NE_MISC,the events o
+SENT_BOUND, this al
+NE_MISC,n the episode 
+NE_PER, rev
+NE_PER, brot
+NE_PER,r named Derek (Bri
+MWE_COMPOUND_NOUN,who was also a res
+COMPOUND_NOUN_SB,o a res
+NE_PER,Soldier.
+Actor 
+NE_PER,ckson port
+NE_MISC,e first season "Du
+MWE_COMPOUND_NOUN,arated during
+MWE_LVC,ssion before 
+MWE_LVC_VERB,ssio
+MWE_LVC_NOUN,ore 
+NE_PER,time to prot
+NE_MISC, second season "Goo
+NE_PER,l Tha
+SENT_BOUND,n o
+NE_PER,s also played 
+NE_MISC, the episode o
+NE_MISC_SB,sode o
+NE_MISC,he first seaso
+NE_PER,What He Beh
+NE_PER,now 16-year
+MWE_COMPOUND_NOUN,n Connor 
+SENT_BOUND,am, as i
+MWE_LVC,atching two b
+MWE_LVC_VERB,atch
+MWE_LVC_NOUN,ng two b
+MWE_VPC, the ball 
+MWE_VPC_VERB, the 
+MWE_VPC_PARTICLE,all 
+NE_PER,it r
+NE_PER_SB,it r
+NE_PER,ls o
+MWE_VPC,er to John.
+MWE_VPC_VERB,er to
+MWE_VPC_PARTICLE,n.
+SENT_BOUND, an
+NE_PER,o him
+NE_PER,ek a
+MWE_VPC,iar, and whe
+MWE_VPC_VERB,iar, 
+MWE_VPC_PARTICLE,nd whe
+NE_PER, he 
+NE_PER,ck of
+NE_PER_SB,ck of
+NE_PER,is s
+NE_PER,hn re
+NE_PER,r ol
+NE_PER,r-old
+NE_PER,, be
+MWE_VPC,ing John th
+MWE_VPC_VERB,ing Joh
+MWE_VPC_PARTICLE, th
+NE_PER,figu
+NE_PER,out 
+SENT_BOUND,ok 
+SENT_BOUND,u
+NE_MISC,
+In the episode "G
+NE_PER,t," d
+NE_PER,f th
+NE_PER, included G
+NE_MISC,John C
+SENT_BOUND,or, fr
+MWE_COMPOUND_NOUN, the resistance
+NE_PER, senior offic
+NE_MISC,save h
+SENT_BOUND,and free 
+NE_PER,ynet'
+NE_PER,Dere
+NE_PER,ions
+MWE_COMPOUND_NOUN,arrying him
+COMPOUND_NOUN_SB,ing him
+NE_PER,o an 
+NE_PER, Der
+MWE_COMPOUND_NOUN,or using powerful incendiary arm
+NE_MISC,ng rounds agai
+NE_MISC_SB,ng rounds agai
+NE_MISC,d of hiding 
+NE_PER,ter J
+NE_PER,or f
+NE_PER,at th
+SENT_BOUND,e burie
+NE_MISC,. In the episo
+NE_PER,it's 
+NE_PER,ed at by Sa
+NE_PER, Der
+SENT_BOUND,scatt
+NE_PER,
+A mental 
+NE_PER,eared
+NE_MISC,ah in the epis
+SENT_BOUND,o
+NE_PER,sode
+MWE_COMPOUND_NOUN,des her in findin
+NE_PER, getting he
+NE_PER, fro
+SENT_BOUND,erek Re
+NE_MISC, season two
+NE_PER,nale
+NE_PER,un", John is led
+MWE_COMPOUND_NOUN,ver to an alternat
+NE_PER, Day timeli
+NE_ORG,onnor has neve
+SENT_BOUND,splacem
+NE_PER,irst time a
+NE_PER,ide Derek Ree
+NE_PER_SB,k Ree
+NE_PER, and Allis
+NE_PER,yed as a teen
+NE_MISC, by Anton Yelchin in
+NE_MISC_SB,elchin in
+MWE_LVC, Salvation.
+MWE_LVC_VERB, Salv
+MWE_LVC_NOUN,tion.
+NE_PER, wit
+NE_PER,his future son
+SENT_BOUND, 
+NE_PER,ale)
+NE_LOC,as the lead
+MWE_COMPOUND_NOUN,r of the Los An
+SENT_BOUND,nly co
+MWE_COMPOUND_NOUN,s to join the forma
+SENT_BOUND, o
+NE_PER,t." 
+NE_PER,harismatic 
+NE_LOC,t that he l
+MWE_COMPOUND_NOUN,hearing the latter's
+COMPOUND_NOUN_SB, latter's
+NE_PER,oadcas
+NE_PER,apts s
+MWE_VPC, Connor sug
+MWE_VPC_VERB, Conno
+MWE_VPC_PARTICLE, sug
+NE_MISC,ests for ta
+NE_MISC_SB,ests for ta
+NE_PER,s a unique bo
+NE_PER, with Marcus Wr
+NE_PER,ton)
+NE_PER,ters
+NE_PER,fighti
+SENT_BOUND,eminds M
+NE_PER,mani
+NE_MISC,ad initially
+NE_PER,nts 
+NE_MISC,the pr
+NE_PER,me to 1984 
+NE_PER_SB, 1984 
+NE_PER, Con
+NE_PER,tect
+NE_PER,g a child named
+NE_PER,en the two la
+NE_MISC, Marc
+NE_LOC,ttack in th
+NE_LOC_SB,k in th
+NE_MISC,of Los
+NE_LOC,pt
+NE_PER,es hi
+NE_MISC,ing a 
+NE_ORG,b to destroy Skynet's
+NE_ORG_SB,kynet's
+NE_MISC,ught 
+SENT_BOUND, tog
+NE_PER,her du
+NE_PER,his t
+NE_ORG,r took Ree
+NE_PER,o th
+NE_ORG, him the
+SENT_BOUND,promoti
+NE_PER, to 
+NE_PER,Com 
+NE_PER,d by
+NE_PER,gnif
+MWE_COMPOUND_NOUN, by inheriting 
+NE_PER,ngsi
+MWE_COMPOUND_NOUN,his joining 
+SENT_BOUND,cle 
+NE_PER,igina
+NE_PER,nother
+NE_PER,, wer
+NE_MISC,protect Sa
+NE_PER,om the
+MWE_COMPOUND_NOUN,pon arrivin
+MWE_COMPOUND_NOUN,ortal fused
+MWE_COMPOUND_NOUN, (the sequels show the 
+SENT_BOUND,e
+NE_PER,n the
+NE_PER,ipt, Rees
+NE_MISC,to Dr. Sil
+MWE_VPC,Terminator h
+MWE_VPC_VERB,Term
+MWE_VPC_PARTICLE,nator h
+VPC_PARTICLE_SB,nator h
+NE_PER, alrea
+NE_PER,d the 
+SENT_BOUND,bu
+NE_PER,umner 
+NE_MISC,ould later appear in a 
+MWE_COMPOUND_NOUN,e it alive 
+NE_PER,h th
+MWE_COMPOUND_ADJ,d two other re
+SENT_BOUND,istanc
+NE_PER,ents. 
+A 
+MWE_LVC,used as t
+MWE_LVC_NOUN,used
+MWE_LVC_VERB,as t
+NE_PER,asis for a 
+MWE_COMPOUND_NOUN,d by So
+NE_MISC, on
+NE_MISC,ox art for
+SENT_BOUND, down t
+NE_PER,the gear he is wearin
+NE_PER,origi
+NE_PER,ay Reese whil
+MWE_COMPOUND_ADJ, to use a thinne
+NE_MISC,ry looking
+NE_PER, his first choi
+NE_PER_SB,irst choi
+NE_PER,Henriksen. Upo
+NE_PER,meeting
+NE_MISC,ided to ca
+NE_PER,Terminato
+MWE_COMPOUND_NOUN,nd Henriksen was
+COMPOUND_NOUN_SB,iksen was
+NE_PER,ice det
+NE_PER, this idea whe
+NE_MISC,t Robe
+SENT_BOUND,ck as 
+NE_PER, T-1000 in th
+NE_PER, did 
+MWE_COMPOUND_NOUN,ditioned for a r
+NE_MISC,in a stage production
+NE_PER,e pro
+SENT_BOUND,d not want R
+NE_PER,seem 
+SENT_BOUND,ond 
+NE_PER,origi
+SENT_BOUND,er
+NE_PER,age a
+NE_PER,time 
+NE_PER_SB,time 

@@ -1,0 +1,393 @@
+NE_PER,James David Caldwell
+NE_PER,Buddy Caldwell
+MWE_COMPOUND_NOUN,attorney general
+NE_LOC,U.S.
+NE_LOC,Louisiana
+NE_LOC_SB,Louisiana
+MWE_COMPOUND_NOUN,attorney general
+NE_PER,Caldwell
+MWE_COMPOUND_NOUN,district attorney
+NE_LOC,Madison
+NE_LOC,East Carroll
+NE_LOC,Tensas
+SENT_BOUND,2008
+NE_PER,Caldwell
+NE_LOC,Tallulah
+NE_ORG,Madison Parish
+NE_PER,Elvis Presley
+NE_PER_SB,Presley
+NE_PER, Caldwel
+MWE_VPC, ran fo
+MWE_VPC_VERB, ra
+MWE_VPC_PARTICLE, fo
+MWE_COMPOUND_NOUN, attorney genera
+NE_PER, Charles F. Fot
+NE_LOC, New Orlean
+NE_PER, Royal Alexande
+NE_LOC, Shrevepor
+MWE_COMPOUND_NOUN, congressional aid
+MWE_COMPOUND_NOUN, U.S. Representativ
+NE_PER, Rodney Alexande
+NE_ORG, Jackson Paris
+NE_ORG_SB, Paris
+NE_PER, Caldwel
+NE_ORG, Louisiana Sheriffs' Associatio
+NE_ORG, Louisiana Federation of Teacher
+MWE_COMPOUND_NOUN, interest group
+COMPOUND_NOUN_SB, group
+NE_ORG, Shreveport Time
+NE_PER, Alexande
+NE_LOC, Shrevepor
+NE_PER, Caldwel
+NE_PER_SB, Caldwel
+NE_PER, Fot
+NE_ORG, Orleans Paris
+MWE_COMPOUND_NOUN, criminal sherif
+MWE_COMPOUND_NOUN, medical professional
+NE_MISC, Hurricane Katrin
+NE_MISC_SB, Katrin
+MWE_COMPOUND_NOUN,r attorney gener
+NE_PER,t Caldwe
+NE_PER,, David Caldwe
+MWE_COMPOUND_NOUN,r Attorney Gener
+NE_PER,l Fo
+NE_PER_SB,l Fo
+NE_PER,. Caldwe
+NE_PER,a Fo
+SENT_BOUND,3 electi
+NE_PER,, Caldwe
+SENT_BOUND,n
+NE_PER,. Alexand
+SENT_BOUND,n
+NE_PER,. Fo
+NE_PER,d Alexand
+MWE_COMPOUND_NOUN,e general election competiti
+COMPOUND_NOUN_SB,n competiti
+MWE_COMPOUND_NOUN,he general elect
+NE_PER,n, Caldw
+NE_PER,ed Alexan
+SENT_BOUND,-1 mar
+NE_PER,n. Caldw
+NE_PER,to Alexan
+SENT_BOUND,e
+MWE_COMPOUND_NOUN,he general elect
+NE_PER,n, Alexan
+NE_PER,st Caldw
+NE_PER,ut Alexan
+MWE_COMPOUND_NOUN,in television advertis
+COMPOUND_NOUN_SB,on advertis
+NE_PER,g. Alexan
+NE_LOC,se Louisi
+MWE_COMPOUND_NOUN,of free express
+SENT_BOUND,al campai
+NE_PER,. 
+Cald
+NE_PER, to J.D. Cald
+NE_PER,mer Genevieve Mi
+NE_LOC,iny Colu
+NE_ORG, of Caldwell Pa
+NE_PER,nor John McKei
+NE_PER,and McKei
+NE_LOC,ate Louis
+MWE_COMPOUND_NOUN,ana Secretary of S
+NE_PER,ate W. Fox McKei
+NE_PER,, a Cald
+MWE_COMPOUND_NOUN,ell family fr
+COMPOUND_NOUN_SB,ily fr
+NE_PER,The Caldw
+NE_LOC,ral Madison Pa
+SENT_BOUND, in 
+NE_PER,49. J.D. Cald
+MWE_COMPOUND_NOUN,d a master's de
+NE_ORG,rom Louisiana State Univer
+NE_LOC, in Baton R
+NE_ORG,the Metropolitan O
+NE_LOC, in New York 
+NE_LOC_SB,ork 
+NE_LOC, to Tall
+NE_PER,ior Cald
+MWE_COMPOUND_NOUN,and clothing merc
+COMPOUND_NOUN_SB,ing merc
+NE_PER,rs. Cald
+MWE_LVC,se, held a de
+MWE_LVC_VERB,se, 
+MWE_LVC_NOUN,d a de
+NE_ORG,rom Touro Infirmary of New Orl
+NE_ORG_SB,New Orl
+MWE_COMPOUND_NOUN,s a public health n
+NE_ORG,r a Madison Pa
+MWE_COMPOUND_NOUN,ish school health n
+SENT_BOUND,rty y
+NE_PER,s. 
+Buddy Cal
+NE_ORG,late Louisiana Second Judicial District 
+NE_PER,udge David T. Cal
+NE_LOC,l of Jone
+NE_PER,udge Cal
+NE_PER,son, James David "Jimmy" Cal
+NE_LOC,y in Shrev
+NE_LOC_SB,y in Shrev
+NE_PER,ort.
+Ca
+NE_ORG, from Tallulah High 
+NE_PER,rtain Ca
+MWE_COMPOUND_NOUN,dwell family m
+MWE_COMPOUND_NOUN,rting white 
+NE_ORG,y the Supreme
+SENT_BOUND,g and discrimi
+NE_PER,ory. 
+C
+SENT_BOUND,l, an
+MWE_COMPOUND_NOUN,family dru
+SENT_BOUND,s tee
+NE_PER,years. C
+MWE_LVC,l also played semi-professional b
+MWE_LVC_VERB,l also
+MWE_LVC_NOUN,sional b
+NE_LOC,all in North Lo
+MWE_COMPOUND_NOUN,ill in high
+NE_LOC, other Lo
+MWE_COMPOUND_NOUN,e late Education Superin
+NE_PER,endent Bi
+MWE_COMPOUND_NOUN,former State Represen
+NE_PER,atives Lantz
+NE_LOC,ack of Wi
+NE_ORG,eat of Franklin
+NE_PER,h, and L.D. "Buddy"
+NE_LOC,per of
+NE_ORG,eat of Lincoln
+NE_ORG_SB,incoln
+NE_PER,rish. 
+
+MWE_COMPOUND_NOUN,ned his bachelor of art
+NE_ORG,y, from Tulane University in New
+MWE_LVC,he also played 
+MWE_LVC_VERB,he als
+MWE_LVC_NOUN, played 
+MWE_LVC,all and r
+MWE_LVC_VERB,all
+MWE_LVC_NOUN,and r
+LVC_NOUN_SB,and r
+MWE_COMPOUND_NOUN,ved his la
+NE_ORG,rom the Tulane University La
+MWE_COMPOUND_NOUN,is solo law 
+NE_LOC,tice in 
+MWE_COMPOUND_NOUN,ecoming district 
+SENT_BOUND,x yea
+NE_PER, later.
+MWE_COMPOUND_NOUN, elected district
+NE_ORG,he small Sixth Judicial
+SENT_BOUND,n he was t
+NE_LOC,cated in
+SENT_BOUND,nuar
+NE_PER,83-1996,
+MWE_COMPOUND_NOUN,d on the board of 
+NE_ORG,s of the Louisiana District Attorney's As
+NE_ORG_SB,torney's As
+MWE_COMPOUND_NOUN,n. While district
+MWE_COMPOUND_NOUN,ly tried fel
+SENT_BOUND,s in his
+MWE_LVC,s rarely won 
+MWE_LVC_VERB,s r
+MWE_LVC_NOUN,rely won 
+NE_PER,tal when
+SENT_BOUND, was the p
+NE_PER,ote that
+MWE_COMPOUND_NOUN,d a high convic
+SENT_BOUND,e "ha
+NE_PER," cases.
+MWE_OTHER, highest p
+MWE_COMPOUND_NOUN,r capita collec
+MWE_COMPOUND_NOUN,rate for back chil
+SENT_BOUND,t in 
+MWE_COMPOUND_ADJ,ration of Africa
+SENT_BOUND, Ameri
+NE_PER, website
+MWE_COMPOUND_NOUN,"positive working rel
+NE_LOC,hroughout
+MWE_COMPOUND_NOUN,fs, other District
+MWE_COMPOUND_NOUN,arish and Tow
+MWE_COMPOUND_NOUN,Councils, Sch
+MWE_COMPOUND_NOUN,l Boards, Justices of
+SENT_BOUND,her local
+MWE_COMPOUND_NOUN,king with federa
+NE_ORG, like the United States Justice 
+NE_ORG,ment, the Federal Bureau of Inv
+NE_ORG,tigation, Drug Enforcement Admi
+NE_ORG,, and the Alcohol, Tobacco, and Firea
+NE_ORG_SB, Firea
+NE_PER, agency.
+MWE_COMPOUND_NOUN,rd term as distri
+NE_PER,w Democrat Sa
+SENT_BOUND,(
+SENT_BOUND,oppo
+NE_PER,d in 199
+NE_PER,w Democrat Raymond "
+SENT_BOUND,ow-turno
+MWE_COMPOUND_NOUN,ion.
+While Distr
+NE_PER,e parish
+MWE_COMPOUND_NOUN, and indict fa
+COMPOUND_NOUN_SB,dict fa
+MWE_COMPOUND_NOUN,In repeated au
+NE_ORG,gs from the Louisiana Board of Ethics and Legislat
+NE_PER,e Audit
+NE_PER,Carolyn and 
+MWE_COMPOUND_NOUN,dren, other fa
+NE_ORG,fiting from Madison's Office of Cl
+SENT_BOUND,rk of Co
+NE_PER, finance
+NE_PER,fourth wife, Pa
+SENT_BOUND,dren and six 
+NE_PER,cember 1
+NE_LOC,hird time
+NE_LOC_SB, time
+MWE_COMPOUND_NOUN, served with d
+SENT_BOUND,s by
+MWE_COMPOUND_NOUN,ated as the "confident
+NE_LOC,ssistant"
+MWE_COMPOUND_NOUN,to Louisiana Secre
+NE_PER,ary of State 
+NE_PER_SB,of State 
+NE_PER,x McKeit
+MWE_COMPOUND_NOUN,loyee of the att
+SENT_BOUND, be know
+NE_PER, "I
+NE_PER,e childr
+SENT_BOUND,n," 
+NE_PER,e third 
+NE_PER,stified t
+MWE_COMPOUND_NOUN,iscussed her
+COMPOUND_NOUN_SB, her
+SENT_BOUND,ate
+SENT_BOUND,y job
+SENT_BOUND,upset.
+SENT_BOUND,e a chi
+SENT_BOUND,ve 
+MWE_COMPOUND_NOUN,b." Amid the divorc
+NE_PER,proceedi
+MWE_LVC,gs, Caldwell 
+MWE_LVC_VERB,gs, Cal
+MWE_LVC_NOUN,ll 
+MWE_COMPOUND_NOUN,ed a bid for lieute
+MWE_COMPOUND_NOUN, position as dist
+SENT_BOUND, him tim
+MWE_COMPOUND_NOUN,ampaign. The lieutenant
+NE_LOC, by event
+NE_PER,ana Governor Kathleen Bab
+NE_LOC,ux Blanco
+NE_LOC_SB,ux Blanco
+MWE_COMPOUND_NOUN,ette.
+Former Legis
+NE_PER,ative Au
+NE_LOC,r Dan Kyle 
+MWE_COMPOUND_NOUN,candidate for insuranc
+NE_PER,ing crit
+MWE_COMPOUND_NOUN,of Caldwell's attorney gen
+COMPOUND_NOUN_SB,orney gen
+NE_PER,al c
+NE_PER, that in
+MWE_COMPOUND_NOUN,ent $1,529 in D.A
+MWE_COMPOUND_NOUN,ds to pay for 
+MWE_COMPOUND_NOUN, clothing and go
+COMPOUND_NOUN_SB,g and go
+MWE_COMPOUND_NOUN,nses inc
+NE_LOC,d air f
+MWE_COMPOUND_NOUN,o Montana
+NE_LOC, golf f
+NE_LOC_SB, golf f
+NE_ORG,
+According 
+NE_PER, The
+NE_PER,e claime
+MWE_COMPOUND_NOUN,. . . and use
+SENT_BOUND,t to 
+NE_PER, aud
+NE_PER,, Kyle a
+NE_PER,ble spen
+MWE_COMPOUND_NOUN, also said the s
+SENT_BOUND, the audi
+MWE_COMPOUND_NOUN,attention." In
+MWE_COMPOUND_NOUN,oom 3,during a Le
+NE_PER,ion prob
+NE_PER,tated th
+MWE_COMPOUND_NOUN, just nee
+SENT_BOUND,is
+SENT_BOUND,ndin
+SENT_BOUND,and jus
+SENT_BOUND, to iss
+SENT_BOUND,e sa
+NE_PER,later to
+SENT_BOUND,...
+SENT_BOUND,get you. 
+SENT_BOUND,rous. You 
+NE_PER,ee years
+NE_PER,aldw
+MWE_LVC,onversatio
+MWE_LVC_VERB,onvers
+MWE_LVC_NOUN,tio
+MWE_COMPOUND_NOUN,th witnesses in audi
+NE_ORG,mony before the Legislative Audit 
+NE_ORG_SB, Audit 
+NE_PER,visory C
+MWE_COMPOUND_NOUN,ncil . . . tha
+NE_LOC,orking in
+MWE_COMPOUND_NOUN,ses in possible crimina
+COMPOUND_NOUN_SB,ssible crimina
+NE_PER,investig
+NE_PER,f an
+MWE_LVC,n Kyle's office having 
+MWE_LVC_VERB,n Kyle
+MWE_LVC_NOUN,e having 
+SENT_BOUND,th peop
+NE_PER,being au
+MWE_LVC,ited." Caldwell
+MWE_LVC_VERB,ited
+MWE_LVC_NOUN,aldwell
+NE_PER,s, a
+NE_PER_SB,s, a
+NE_PER,ording t
+NE_PER,ubpo
+MWE_COMPOUND_NOUN,igators be
+NE_LOC, a grand
+NE_LOC_SB, a grand
+NE_PER,ury 
+NE_PER,ter clai
+NE_PER,tryi
+SENT_BOUND,dict Kyle or 
+NE_ORG,According to the New Orlea
+NE_PER, Times-P
+NE_ORG,l said after the Legislative Audit
+MWE_COMPOUND_NOUN, "might reopen a grand j
+NE_PER,inve
+SENT_BOUND,gation
+NE_PER,Kyle's o
+MWE_LVC," 
+Caldwell al
+MWE_LVC_VERB," 
+
+MWE_LVC_NOUN,aldwell al
+MWE_COMPOUND_NOUN, a self-appointed 
+NE_ORG,in a case against 
+NE_PER,many Parish Jud
+NE_PER_SB,sh Jud
+MWE_LVC,tricia Hedges
+MWE_LVC_VERB,trici
+MWE_LVC_NOUN, Hedges
+MWE_COMPOUND_NOUN,ges of extorti
+MWE_COMPOUND_NOUN,viction wi
+COMPOUND_NOUN_SB,on wi
+NE_PER,tainer a
+MWE_COMPOUND_NOUN,hers, coaches, and sc
+NE_LOC,n the southea
+NE_LOC_SB,outhea
+MWE_COMPOUND_NOUN,s also entertained Commissio
+MWE_COMPOUND_NOUN,rs of Agricultu
+MWE_COMPOUND_NOUN,s of Court, fellow
+MWE_COMPOUND_NOUN,istrict Attorneys, Ju
+NE_ORG, of the Peace, the Lo
+MWE_COMPOUND_NOUN,isiana Police Jur
+NE_ORG,tates Associat
+NE_ORG, for Life,
+NE_ORG_SB,fe,
+SENT_BOUND,, he 

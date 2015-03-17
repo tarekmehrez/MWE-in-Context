@@ -1,0 +1,235 @@
+NE_PER,Summer Shaw
+NE_ORG,Channel 4
+MWE_COMPOUND_NOUN,soap opera
+NE_MISC,Hollyoaks
+NE_PER,Summer Strallen
+NE_PER_SB,Strallen
+NE_PER,Andrew Lloyd Webber
+MWE_COMPOUND_NOUN,stage production
+NE_MISC,The Sound of Music
+NE_MISC_SB,Music
+MWE_LVC,Making national headlines
+MWE_LVC_VERB,Making
+MWE_LVC_NOUN,headlines
+NE_PER,Summer
+MWE_COMPOUND_NOUN,leading role
+NE_PER,Maria
+NE_PER,Strallen
+NE_ORG,West End
+SENT_BOUND,show
+NE_PER,Summer
+NE_ORG,Hollyoaks Community College
+NE_LOC,Chester
+SENT_BOUND,okay
+NE_PER,John Paul
+NE_PER,Katy
+MWE_VPC,walks off
+MWE_VPC_VERB,walks
+MWE_VPC_PARTICLE,off
+SENT_BOUND,office
+NE_PER,John Paul
+SENT_BOUND,him
+NE_LOC,Il Gnosh
+NE_PER,John Paul
+SENT_BOUND,himself
+MWE_VPC,strike up
+MWE_VPC_VERB,strike
+MWE_VPC_PARTICLE,up
+MWE_COMPOUND_NOUN,performing arts
+COMPOUND_NOUN_SB,arts
+NE_PER,John Paul
+NE_PER,Katy
+MWE_COMPOUND_ADJ,full on
+COMPOUND_ADJ_SB,on
+NE_PER,John Paul
+MWE_VPC,strikes up
+MWE_VPC_VERB,strikes
+MWE_VPC_PARTICLE,up
+NE_PER,Jay
+NE_PER,Summer
+NE_PER,Russ
+SENT_BOUND,bar
+NE_PER,John Paul
+MWE_COMPOUND_NOUN,housewarming party
+NE_PER,Summer
+MWE_IDIOM,caught the eye
+NE_PER,Kris Fisher
+NE_PER_SB,Fisher
+MWE_COMPOUND_NOUN,carbon monoxide leak
+NE_PER,Summer
+SENT_BOUND,home
+MWE_COMPOUND_NOUN,swimming pool
+NE_PER,O.B.
+NE_PER,Tom
+NE_PER,O.B.
+NE_PER,Summer
+MWE_VPC,chatting her up
+MWE_VPC_VERB,chatting
+MWE_VPC_PARTICLE,up
+VPC_PARTICLE_SB,up
+NE_PER,Tom
+MWE_VPC,taking his armbands off
+MWE_VPC_VERB,taking
+MWE_VPC_PARTICLE,off
+NE_PER,Simon Crosby
+NE_PER_SB,Crosby
+NE_PER,Summer
+NE_ORG,MOBs
+NE_PER,O.B.
+MWE_IDIOM,had a crush
+NE_PER,Max Cunningham
+NE_PER,Steph Dean
+MWE_COMPOUND_NOUN,health and safety video
+COMPOUND_NOUN_SB,video
+MWE_VPC,running into
+MWE_VPC_VERB,running
+MWE_VPC_PARTICLE,into
+NE_PER,Nancy Hayton
+NE_PER,Sarah Barnes
+SENT_BOUND,drink
+NE_LOC,SU Bar
+NE_PER,Sarah
+NE_PER,Nancy
+NE_PER,Summer
+MWE_VPC,called out
+MWE_VPC_VERB,called
+MWE_VPC_PARTICLE,out
+NE_PER,James
+NE_PER_SB,James
+NE_PER,Nancy
+NE_PER,Sarah
+SENT_BOUND,said
+NE_PER,James
+NE_PER,Summer
+NE_ORG,Army
+NE_PER,Summer
+NE_LOC,Afghanistan
+SENT_BOUND,day
+NE_PER,Summer
+NE_PER,Sarah
+NE_ORG,Broadway
+SENT_BOUND,show
+SENT_BOUND,me
+SENT_BOUND,his
+NE_PER,Summer
+SENT_BOUND,you
+SENT_BOUND,everytime
+NE_PER,James
+SENT_BOUND,Taxi
+NE_PER,Summer
+MWE_COMPOUND_NOUN,phone call
+NE_PER,James
+NE_PER_SB,James
+NE_PER,O.B.
+NE_PER,James
+MWE_VPC,ran off
+MWE_VPC_VERB,ran
+MWE_VPC_PARTICLE,off
+NE_PER,O.B.
+NE_LOC,The Dog in The Pond
+NE_LOC_SB,Pond
+NE_PER,Summer
+MWE_LVC,shared a kiss
+MWE_LVC_VERB,shared
+MWE_LVC_NOUN,kiss
+NE_PER,Kris Fisher
+MWE_COMPOUND_NOUN,radio show
+MWE_VPC,taken over
+MWE_VPC_VERB,taken
+MWE_VPC_PARTICLE,over
+NE_PER,John Paul McQueen
+NE_PER,Elliot Bevan
+NE_PER_SB,Bevan
+NE_PER,OB
+SENT_BOUND,lipgloss
+NE_PER,OB
+MWE_VPC,breaks up
+MWE_VPC_VERB,breaks
+MWE_VPC_PARTICLE,up
+NE_PER,Kris
+SENT_BOUND,maintenance
+NE_PER,Kris
+NE_PER,Summer
+NE_PER,Summer
+MWE_VPC,wakes up
+MWE_VPC_VERB,wakes
+MWE_VPC_PARTICLE,up
+SENT_BOUND,female
+NE_PER,Kris
+NE_PER,Summer
+MWE_LVC,having lunch
+MWE_LVC_VERB,having
+MWE_LVC_NOUN,lunch
+NE_PER,OB
+NE_PER,OB
+NE_PER,Kris
+NE_PER,OB
+NE_PER,Summer
+SENT_BOUND,them
+NE_PER,Steph
+NE_PER,Summer
+NE_LOC,Hollyoaks
+NE_LOC,London
+NE_LOC_SB,London
+SENT_BOUND,her
+NE_PER,O.B.
+MWE_VPC,let Max down
+MWE_VPC_VERB,let
+MWE_VPC_PARTICLE,down
+SENT_BOUND,leaving
+MWE_COMPOUND_NOUN,ditch attempt
+NE_PER,O.B.
+MWE_VPC,walked out
+MWE_VPC_VERB,walked
+MWE_VPC_PARTICLE,out
+SENT_BOUND,door
+NE_PER,Max
+NE_PER,O.B.
+NE_PER,Summer
+SENT_BOUND,him
+MWE_COMPOUND_NOUN,bus station
+NE_ORG,MOBs
+SENT_BOUND,leave
+NE_PER,O.B.
+MWE_VPC,hopped on
+MWE_VPC_VERB,hopped
+MWE_VPC_PARTICLE,on
+NE_PER,Summer
+SENT_BOUND,luck
+NE_LOC,London
+NE_PER,Max
+MWE_VPC,looking on
+MWE_VPC_VERB,looking
+MWE_VPC_PARTICLE,on
+VPC_PARTICLE_SB,on
+NE_LOC,London
+NE_PER,Summer
+MWE_VPC,sets about
+MWE_VPC_VERB,sets
+MWE_VPC_PARTICLE,about
+NE_PER,Andrew Lloyd Webber
+SENT_BOUND,plays
+NE_PER,Summer
+NE_PER,Maria
+NE_MISC,The Sound Of Music
+NE_PER,Andrew Lloyd Webber
+SENT_BOUND,plays
+NE_PER,Summer
+MWE_LVC,made her exit
+MWE_LVC_VERB,made
+MWE_LVC_NOUN,exit
+NE_MISC,Hollyoaks
+NE_PER,Andrew Lloyd Webber
+SENT_BOUND,plays
+NE_PER,O.B.
+MWE_COMPOUND_NOUN,second thoughts
+MWE_VPC,moving out
+MWE_VPC_VERB,moving
+MWE_VPC_PARTICLE,out
+NE_PER,Summer
+SENT_BOUND,him
+NE_PER,O.B.
+NE_PER,Summer
+NE_LOC,London
+SENT_BOUND,life
+SENT_BOUND,onscreen

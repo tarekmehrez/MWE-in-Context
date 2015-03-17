@@ -1,0 +1,245 @@
+MWE_COMPOUND_NOUN,circuit function
+MWE_COMPOUND_NOUN,video) output
+MWE_COMPOUND_NOUN,input signal
+COMPOUND_NOUN_SB,signal
+MWE_COMPOUND_NOUN,input signals
+SENT_BOUND,signal
+MWE_COMPOUND_NOUN,noise gate
+SENT_BOUND,speaker
+MWE_COMPOUND_NOUN,general static
+MWE_VPC,squelched out
+MWE_VPC_VERB,squelched
+MWE_VPC_PARTICLE,out
+VPC_PARTICLE_SB,out
+MWE_COMPOUND_NOUN,noise suppression
+COMPOUND_NOUN_SB,suppression
+MWE_COMPOUND_NOUN,carrier squelch
+MWE_COMPOUND_NOUN,noise squelch
+SENT_BOUND,all
+MWE_COMPOUND_NOUN,signal strength
+MWE_COMPOUND_NOUN,walkie talkie
+SENT_BOUND,present
+MWE_COMPOUND_NOUN,squelch threshold
+SENT_BOUND,preset
+MWE_COMPOUND_NOUN,television squelch settings
+SENT_BOUND,preset
+MWE_COMPOUND_NOUN,base stations
+MWE_COMPOUND_NOUN,mountain top sites
+MWE_COMPOUND_NOUN,control point
+COMPOUND_NOUN_SB,point
+MWE_COMPOUND_NOUN,two-way radios
+MWE_COMPOUND_NOUN,push buttons
+MWE_COMPOUND_NOUN,button presses
+COMPOUND_NOUN_SB,presses
+MWE_COMPOUND_NOUN,audio channel
+COMPOUND_NOUN_SB,channel
+MWE_VPC,Backing off
+MWE_VPC_VERB,Backing
+MWE_VPC_PARTICLE,off
+MWE_VPC,turn on
+MWE_VPC_VERB,turn
+MWE_VPC_PARTICLE,on
+MWE_COMPOUND_NOUN,white noise
+MWE_COMPOUND_NOUN,squelch noise
+SENT_BOUND,present
+MWE_VPC,shuts off
+MWE_VPC_VERB,shuts
+MWE_VPC_PARTICLE,off
+MWE_COMPOUND_NOUN,threshold signal
+MWE_VPC,turn on
+MWE_VPC_VERB,turn
+MWE_VPC_PARTICLE,on
+SENT_BOUND,speaker
+SENT_BOUND,received
+SENT_BOUND,noise
+MWE_COMPOUND_NOUN,FM two-way radio carrier squelch circuit
+MWE_VPC,takes out
+MWE_VPC_VERB,takes
+MWE_VPC_PARTICLE,out
+MWE_COMPOUND_NOUN,voice components
+MWE_COMPOUND_NOUN,receive audio
+MWE_COMPOUND_NOUN,high-pass filter
+COMPOUND_NOUN_SB,filter
+SENT_BOUND,)
+MWE_COMPOUND_NOUN,squelch control
+MWE_VPC,coming out
+MWE_VPC_VERB,coming
+MWE_VPC_PARTICLE,out
+SENT_BOUND,filter
+MWE_COMPOUND_NOUN,audio output
+MWE_COMPOUND_NOUN,DC voltage
+SENT_BOUND,present
+MWE_COMPOUND_NOUN,DC voltage
+MWE_VPC,turns the receiver audio off
+MWE_VPC_VERB,turns
+MWE_VPC_PARTICLE,off
+VPC_PARTICLE_SB,off
+MWE_VPC,goes away
+MWE_VPC_VERB,goes
+MWE_VPC_PARTICLE,away
+MWE_COMPOUND_NOUN,receiver audio
+SENT_BOUND,unmuted
+MWE_COMPOUND_NOUN,audio muting control voltage
+SENT_BOUND,indication
+MWE_COMPOUND_NOUN,Tone squelch
+MWE_COMPOUND_NOUN,selective calling
+MWE_COMPOUND_NOUN,interference problems
+COMPOUND_NOUN_SB,problems
+MWE_COMPOUND_NOUN,co-channel users
+MWE_COMPOUND_NOUN,selective calling
+SENT_BOUND,receivers
+MWE_VPC,turning on
+MWE_VPC_VERB,turning
+MWE_VPC_PARTICLE,on
+MWE_COMPOUND_NOUN,receive audio
+MWE_VPC,turns on
+MWE_VPC_VERB,turns
+MWE_VPC_PARTICLE,on
+MWE_COMPOUND_NOUN,selective calling code
+COMPOUND_NOUN_SB,code
+SENT_BOUND,door
+MWE_COMPOUND_NOUN,carrier squelch
+MWE_VPC,let any signal in
+MWE_VPC_VERB,let
+MWE_VPC_PARTICLE,in
+VPC_PARTICLE_SB,in
+MWE_COMPOUND_NOUN,Selective calling
+MWE_VPC,locks out
+MWE_VPC_VERB,locks
+MWE_VPC_PARTICLE,out
+SENT_BOUND,code
+MWE_COMPOUND_NOUN,selective calling
+MWE_COMPOUND_NOUN,interfering signals
+SENT_BOUND,intermodulation
+MWE_COMPOUND_NOUN,mobile radios
+MWE_COMPOUND_NOUN,urban environments
+COMPOUND_NOUN_SB,environments
+SENT_BOUND,present
+MWE_COMPOUND_NOUN,system performance
+MWE_COMPOUND_NOUN,selective calling
+SENT_BOUND,interference
+SENT_BOUND,used
+MWE_COMPOUND_NOUN,Selective calling
+MWE_COMPOUND_NOUN,in-band signaling
+COMPOUND_NOUN_SB,signaling
+NE_MISC,CTCSS
+NE_MISC,Continuous Tone-Coded Squelch System
+MWE_COMPOUND_NOUN,low-pitch audio tones
+SENT_BOUND,Hz
+MWE_COMPOUND_NOUN,tone set
+SENT_BOUND,years
+NE_MISC,CTCSS
+NE_MISC,PL
+NE_MISC,Private Line
+NE_ORG,Motorola
+MWE_COMPOUND_NOUN,tone squelch
+COMPOUND_NOUN_SB,squelch
+NE_ORG,General Electric
+NE_MISC,CTCSS
+NE_MISC,Channel Guard
+NE_MISC,CG
+SENT_BOUND,)
+NE_ORG,RCA Corporation
+NE_MISC,Quiet Channel
+NE_MISC,QC
+NE_MISC_SB,QC
+MWE_COMPOUND_NOUN,radio vendors
+SENT_BOUND,options
+NE_MISC,CTCSS
+SENT_BOUND,interchangeable
+NE_MISC,CTCSS
+SENT_BOUND,compatible
+NE_MISC,Selcall
+NE_MISC,Selective Calling
+MWE_COMPOUND_NOUN,inband audio tones
+SENT_BOUND,transmission
+MWE_COMPOUND_NOUN,tone burst
+NE_MISC,European
+SENT_BOUND,systems
+NE_MISC,CTCSS
+SENT_BOUND,radios
+NE_MISC,DCS
+NE_MISC,Digital-Coded Squelch
+NE_MISC,FSK
+SENT_BOUND,signal
+NE_MISC,CTCSS
+NE_MISC,DCS
+SENT_BOUND,radios
+NE_MISC,DCS
+NE_MISC,Digital Private Line
+NE_MISC,DPL
+NE_ORG,Motorola
+NE_ORG,General Electric
+NE_MISC,DCS
+NE_MISC,Digital Channel Guard
+NE_MISC,DCG
+SENT_BOUND,)
+NE_MISC,DCS
+NE_MISC,DTCS
+NE_MISC,Digital Tone Code Squelch
+NE_ORG,Icom
+SENT_BOUND,manufacturers
+NE_MISC,DCS
+SENT_BOUND,system
+NE_MISC,DCS
+NE_MISC,DCS
+SENT_BOUND,codes
+NE_MISC,XTCSS
+MWE_COMPOUND_NOUN,signaling technique
+MWE_COMPOUND_NOUN,silent operation
+SENT_BOUND,'
+NE_MISC,XTCSS
+SENT_BOUND,operation
+NE_MISC,XTCSS
+NE_MISC,CTCSS
+MWE_COMPOUND_NOUN,in-band signalling
+COMPOUND_NOUN_SB,signalling
+MWE_COMPOUND_NOUN,Carrier squelch
+MWE_COMPOUND_NOUN,two-way radio
+MWE_COMPOUND_NOUN,amateur radio world
+COMPOUND_NOUN_SB,world
+MWE_COMPOUND_NOUN,Amateur radio repeaters
+SENT_BOUND,continually
+MWE_COMPOUND_NOUN,carrier squelch receiver
+NE_MISC,CTCSS
+SENT_BOUND,keyups
+NE_MISC,CTCSS
+MWE_COMPOUND_NOUN,band openings
+COMPOUND_NOUN_SB,openings
+NE_ORG,Family Radio Service
+NE_ORG,FRS
+NE_MISC,PMR446
+NE_MISC,CTCSS
+SENT_BOUND,)
+MWE_LVC,take place
+MWE_LVC_VERB,take
+MWE_LVC_NOUN,place
+SENT_BOUND,users
+MWE_COMPOUND_NOUN,voice signal
+SENT_BOUND,encrypted
+MWE_COMPOUND_NOUN,squelch system
+MWE_COMPOUND_NOUN,squelch signal
+SENT_BOUND,protected
+MWE_COMPOUND_NOUN,squelch system
+MWE_COMPOUND_NOUN,interference issues
+MWE_COMPOUND_NOUN,public-safety uses
+MWE_COMPOUND_NOUN,ambulance company dispatching
+COMPOUND_NOUN_SB,dispatching
+MWE_COMPOUND_NOUN,radio system
+MWE_COMPOUND_NOUN,interference issues
+MWE_VPC,covers them up
+MWE_VPC_VERB,covers
+MWE_VPC_PARTICLE,up
+VPC_PARTICLE_SB,up
+MWE_COMPOUND_NOUN,interfering signals
+SENT_BOUND,masked
+MWE_COMPOUND_NOUN,Interfering signals
+MWE_COMPOUND_NOUN,tone squelch
+SENT_BOUND,messages
+MWE_COMPOUND_NOUN,interfering signals
+SENT_BOUND,troubleshoot
+MWE_COMPOUND_NOUN,radio system
+COMPOUND_NOUN_SB,system
+SENT_BOUND,microphone
+MWE_COMPOUND_NOUN,screwdriver adjustment
+SENT_BOUND,receiver

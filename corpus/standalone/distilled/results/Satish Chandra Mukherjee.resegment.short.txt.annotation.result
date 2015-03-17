@@ -1,0 +1,231 @@
+NE_PER,Satish Chandra Mukherjee
+NE_LOC,India
+NE_PER,Sri Aurobindo
+NE_PER_SB,Aurobindo
+NE_PER,
+Satish Chandr
+NE_LOC, Banipu
+NE_LOC, Hooghl
+NE_LOC, Kolkat
+NE_LOC,(Calcutt
+SENT_BOUND,a
+NE_PER, Krishnanath Mukherje
+MWE_COMPOUND_NOUN, childhood frien
+NE_PER, Dvarkanath Mitr
+MWE_COMPOUND_NOUN, official document
+NE_ORG, Calcutta High Cour
+NE_ORG_SB, Cour
+NE_PER, Mitr
+NE_ORG, Religion of Humanit
+NE_PER, Auguste Comt
+NE_PER_SB, Comt
+NE_PER, Krishnanat
+NE_PER, Tinkor
+NE_PER, Satis
+NE_PER_SB, Satis
+NE_PER, Bankim Chandra Chattopadhya
+NE_LOC, Indi
+NE_PER, Comt
+NE_PER, Yogendrachandra Ghos
+NE_PER, Rajkrishna Mukherje
+NE_PER, Banki
+NE_ORG, Bangadarsha
+NE_PER, Comt
+NE_PER_SB, Comt
+NE_PER, Banki
+SENT_BOUND, Positivis
+NE_MISC,l Devi Chaudhura
+NE_PER,, Bank
+NE_MISC,e Catechism of Positive Religi
+SENT_BOUND,e religio
+NE_ORG,he South Suburban Sch
+NE_LOC,in Bhowanip
+NE_LOC,in Kolk
+NE_PER,a, Satish Chan
+NE_PER,om Ishwar Chandra Vidyasa
+NE_PER,ke Ashvinikumar Da
+NE_PER,a, Sivanath Sas
+NE_PER,i, Bipin Chandra 
+NE_PER,l, Brojendranath S
+NE_PER,l, Ashutosh Mukher
+NE_PER,), Rabindranath Tag
+NE_PER,e, Sri Aurobi
+NE_PER,o, Raja Subodh Mull
+NE_PER_SB,dh Mull
+NE_PER,te Narendra Da
+NE_PER,a (Swami Vivekana
+NE_PER,nd Kaliprasad Chan
+NE_PER,a (Swami Abhedana
+NE_PER,by Pandit Sashadhar Tarka Chudam
+NE_LOC,he Albert H
+NE_PER,by Bankim Chandra Chattopadh
+NE_PER_SB,ra Chattopadh
+NE_MISC,s, East
+NE_MISC,or West
+NE_PER,," Satish Chan
+MWE_LVC,nt laid empha
+MWE_LVC_VERB,nt l
+MWE_LVC_NOUN,id empha
+SENT_BOUND,nd fa
+NE_ORG,he Presidency Coll
+NE_ORG,he Calcutta High Co
+NE_ORG_SB,gh Co
+NE_ORG,he Berhampore Coll
+NE_ORG_SB,re Coll
+NE_ORG,he Bhagavat Chatuspa
+MWE_COMPOUND_NOUN,of higher stud
+COMPOUND_NOUN_SB,er stud
+NE_ORG,the 
+NE_MISC, of In
+NE_ORG,he "Dawn Soc
+NE_ORG,the Report of the Indian Universities Commis
+MWE_COMPOUND_NOUN,ate university educa
+NE_ORG,the Govern
+MWE_COMPOUND_NOUN,the merchant off
+COMPOUND_NOUN_SB,ant off
+MWE_COMPOUND_NOUN, of University educa
+SENT_BOUND,the
+NE_ORG,r."
+NE_ORG,sent Vidyasagar Co
+NE_ORG, the Metropolitan Instit
+NE_PER,pal, Nagendranath 
+NE_PER, and S
+MWE_COMPOUND_NOUN, its General Secr
+SENT_BOUND,e
+NE_ORG, The Dawn So
+MWE_COMPOUND_NOUN,as a training g
+NE_ORG,n of Boycott-Swa
+SENT_BOUND,eshi ideol
+NE_PER,ed by Sri Aur
+NE_ORG,, the S
+MWE_LVC,as to draw the att
+MWE_LVC_VERB,as t
+MWE_LVC_NOUN,w the att
+NE_MISC, love Mother
+SENT_BOUND,ginal th
+MWE_COMPOUND_NOUN,neral training 
+COMPOUND_NOUN_SB,ining 
+NE_PER,bers, Benoy Kumar 
+NE_PER,ks to Satish C
+NE_PER,od of Pandit Nilakantha G
+NE_MISC,g the Bhagava
+SENT_BOUND,right 
+NE_ORG,f th
+NE_PER,Sister N
+NE_PER,edita, Bagh
+NE_PER,Jatin (Jatin Mu
+NE_PER,rjee), Rajendra
+NE_ORG,ent o
+NE_PER,ndia), Haran Ch
+NE_PER,ladar, Radhakumud Mu
+NE_PER,erjee, Kishorimoha
+NE_ORG,cipal, Daulatpur 
+NE_PER,lege), Atulya Cha
+NE_PER,erjee, Rabindra Naraya
+NE_PER,Ghosh, Benoykumar
+SENT_BOUND,future cele
+NE_PER,e day, Satish 
+MWE_COMPOUND_NOUN,ard an inne
+SENT_BOUND,: "God
+SENT_BOUND,ht fro
+NE_PER,e saint Bejoykrishna
+NE_PER,hat th
+SENT_BOUND, him
+NE_PER,vities
+NE_LOC,ave for 
+NE_LOC,ranasi 
+MWE_COMPOUND_NOUN,for his spiritual
+COMPOUND_NOUN_SB,iritual
+NE_PER, side of Subodh Chandr
+NE_PER,in 190
+MWE_LVC,, Satish took a lea
+MWE_LVC_VERB,, Sa
+MWE_LVC_NOUN, lea
+NE_ORG,ming the Council of National 
+NE_ORG,r in the Bengal Nationa
+NE_ORG_SB,Nationa
+NE_PER,7, after Sri 
+MWE_VPC,might be spir
+MWE_VPC_VERB,might be
+MWE_VPC_PARTICLE,spir
+NE_ORG,with the Nationa
+NE_PER,ution"), Satis
+NE_ORG,he daily Band
+NE_ORG_SB,ly Band
+NE_PER,rs after Sri 
+NE_LOC,iring to Po
+NE_PER,icherr
+MWE_VPC,, Satish
+MWE_VPC_VERB,, Sa
+MWE_VPC_PARTICLE,ish
+NE_LOC,left for
+SENT_BOUND,till 
+NE_PER,here w
+NE_MISC,essor o
+NE_ORG,h at the Hindu U
+MWE_LVC,ity, who took prof
+MWE_LVC_VERB,ity,
+MWE_LVC_NOUN, prof
+NE_PER,ening to Satis
+NE_PER_SB,o Satis
+NE_PER,ere also Madan Mohan
+NE_PER,alaviya, Nare
+NE_PER,ra Deva, Jaduna
+NE_PER_SB,Jaduna
+NE_PER,iversity, Jivatram
+NE_PER,ed him to Mohandas Karamch
+NE_PER, who held Sati
+NE_PER, whene
+NE_LOC,i went t
+NE_PER,time with Sati
+NE_PER_SB,th Sati
+NE_PER, it se
+NE_PER,tion; but Sati
+NE_PER,feel t
+SENT_BOUND,hi
+NE_PER,eek
+NE_PER_SB,eek
+NE_PER,s of G
+MWE_COMPOUND_NOUN, in man’s 
+MWE_VPC, life an
+MWE_VPC_VERB, lif
+MWE_VPC_PARTICLE, an
+NE_PER,he Truth; Sati
+MWE_COMPOUND_NOUN,ght after spiritual d
+COMPOUND_NOUN_SB,spiritual d
+NE_PER,
+Follo
+NE_LOC,ths at the Sabar
+NE_ORG,ication of 
+NE_ORG_SB,n of 
+NE_PER,years 
+NE_LOC,g all
+MWE_VPC,a, without
+MWE_VPC_VERB,a, wit
+MWE_VPC_PARTICLE,out
+SENT_BOUND,is fai
+NE_PER,h. One day Sat
+NE_PER,y his Guru B
+NE_PER,na to 
+SENT_BOUND,s p
+NE_PER,Gratef
+SENT_BOUND,epte
+NE_PER,s, whe
+NE_PER,ered about Sat
+NE_PER,ed his
+SENT_BOUND, Devdas
+NE_PER,e was that Sat
+NE_PER, knew 
+SENT_BOUND,to r
+NE_PER,e last time Sa
+NE_PER,ra wro
+NE_PER,the 
+MWE_COMPOUND_NOUN,Rama with a br
+NE_PER,1 Febr
+NE_PER,dhi thanked Sa
+NE_PER,nuary 
+NE_PER,epea
+NE_PER_SB,epea
+NE_PER,ng He Rama.
+S
+SENT_BOUND, on 

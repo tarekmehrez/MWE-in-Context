@@ -1,0 +1,568 @@
+NE_ORG,KFAC
+MWE_COMPOUND_NOUN,classical music radio station
+NE_LOC,Los Angeles
+SENT_BOUND,well
+MWE_COMPOUND_NOUN,commercial radio stations
+NE_LOC,United States
+MWE_COMPOUND_NOUN,classical music
+NE_ORG,KFAC
+SENT_BOUND,best
+NE_LOC,Southern California
+MWE_COMPOUND_NOUN,cultural institution
+COMPOUND_NOUN_SB,institution
+MWE_COMPOUND_NOUN,cultural organization
+NE_LOC,Los Angeles
+MWE_COMPOUND_NOUN,classical music
+NE_ORG,Los Angeles Philharmonic
+NE_ORG_SB,Philharmonic
+NE_PER,Howard Rhines
+NE_PER,Dick Crawford
+NE_PER,Thomas Cassidy
+NE_PER,Carl Princi
+NE_PER,Fred Crane
+NE_PER,Steve Allen
+NE_PER,Alfred Leonard
+NE_PER,Tom Dixon
+NE_PER,Bill Carlson
+NE_PER,Dick Joy
+NE_PER,Tom Franklin
+NE_PER,Ed Stoddard
+NE_PER,Bernie Alan
+NE_PER,Rodger Layng
+NE_PER,Steve Markham
+NE_PER,Doug Ordunio
+SENT_BOUND,station
+NE_MISC,Adventures in Good Music
+NE_PER,Karl Haas
+NE_PER_SB,Haas
+NE_PER,Leonora Schildkraut
+NE_PER,Werner Klemperer
+NE_PER,Gussie Moran
+NE_PER_SB,Moran
+NE_MISC,The Gas Company Evening Concert
+NE_MISC,Luncheon at the Music Center
+NE_MISC,The World of Opera
+NE_MISC,Gas Company
+SENT_BOUND,years
+SENT_BOUND,years
+MWE_COMPOUND_NOUN,staying power
+NE_ORG,KFAC
+MWE_COMPOUND_NOUN,classical musical station
+NE_LOC,Los Angeles
+NE_ORG,KUSC
+MWE_COMPOUND_NOUN,full time
+MWE_COMPOUND_NOUN,classical music broadcasting
+NE_ORG,KFAC
+NE_MISC,Angelenos
+MWE_VPC,grew up
+MWE_VPC_VERB,grew
+MWE_VPC_PARTICLE,up
+SENT_BOUND,station
+MWE_LVC,gave the station a special place
+MWE_LVC_VERB,gave
+MWE_LVC_NOUN,place
+SENT_BOUND,affections
+MWE_COMPOUND_NOUN,radio stations
+NE_ORG,KFAC
+MWE_COMPOUND_NOUN,baseball games
+NE_ORG,Pacific Coast League
+NE_ORG_SB,League
+SENT_BOUND,years
+MWE_COMPOUND_NOUN,classical music show
+NE_PER,Thomas Cassidy
+NE_ORG,Southern California Gas Company
+NE_ORG_SB,Company
+NE_MISC,Musical Masterpieces
+SENT_BOUND,"
+NE_PER,Cassidy
+SENT_BOUND,shows
+NE_PER,E.L. Cord
+MWE_COMPOUND_NOUN,call letters
+NE_MISC,Fuller Auburn Cord
+NE_ORG,Auburn Cord & Duesenberg
+NE_LOC,Los Angeles
+MWE_COMPOUND_NOUN,western region headquarters
+NE_ORG,Auburn Automobile Co.
+NE_ORG_SB_ABBREV,.
+MWE_VPC,take up
+MWE_VPC_VERB,take
+MWE_VPC_PARTICLE,up
+NE_ORG,KFAC
+SENT_BOUND,owned
+NE_PER,Cord
+MWE_LVC,make better use
+MWE_LVC_VERB,make
+MWE_LVC_NOUN,use
+SENT_BOUND,music
+MWE_COMPOUND_NOUN,nighttime program
+NE_MISC,Lucky Lager Dance Time
+MWE_COMPOUND_NOUN,swing tunes
+SENT_BOUND,classical
+SENT_BOUND,margin
+NE_PER,Tom Dixon
+MWE_COMPOUND_NOUN,afternoon shift
+COMPOUND_NOUN_SB,shift
+NE_PER,Sarah Lee Halpern
+NE_PER,Dixon
+NE_MISC,Music and Mistakes With Tom Dixon
+NE_MISC_SB,Dixon
+NE_PER,Dixon
+MWE_LVC,made an error
+MWE_LVC_VERB,made
+MWE_LVC_NOUN,error
+NE_PER,Sarah Lee
+NE_PER,Dixon
+SENT_BOUND,audiences
+NE_PER,Dixon
+SENT_BOUND,mistakes
+NE_PER,Dixon
+MWE_VPC,signed off
+MWE_VPC_VERB,signed
+MWE_VPC_PARTICLE,off
+SENT_BOUND,now
+NE_PER,Dick Crawford
+MWE_COMPOUND_NOUN,opera records
+NE_PER,Bach
+NE_MISC,Brandenburg Concerto
+SENT_BOUND,speed
+NE_ORG,KFAC
+NE_LOC,Hollywood Bowl
+NE_LOC_SB,Bowl
+MWE_COMPOUND_NOUN,stereo broadcast
+NE_LOC,Bowl
+NE_LOC_SB,Bowl
+MWE_COMPOUND_NOUN,FM band
+MWE_COMPOUND_NOUN,AM frequency
+SENT_BOUND,1330
+MWE_LVC,came to an end
+MWE_LVC_VERB,came
+MWE_LVC_NOUN,end
+MWE_COMPOUND_NOUN,FM multiplexing
+COMPOUND_NOUN_SB,multiplexing
+NE_LOC,Bowl
+MWE_COMPOUND_NOUN,intermission program
+NE_PER,Thomas Cassidy
+NE_PER_SB,Cassidy
+NE_PER,Cassidy
+SENT_BOUND,venue
+NE_MISC,The Voice of the Hollywood Bowl
+NE_MISC_SB,Bowl
+NE_PER,Ernest Fleishmann
+MWE_COMPOUND_NOUN,executive director
+NE_ORG,Los Angeles Philharmonic
+NE_LOC,Hollywood Bowl
+NE_PER,Cassidy
+SENT_BOUND,appearances
+NE_PER,Carl Princi
+NE_MISC,The World of Opera
+NE_MISC_SB,Opera
+SENT_BOUND,obscure
+NE_MISC,Continental Varieties
+MWE_COMPOUND_NOUN,theme music
+MWE_COMPOUND_NOUN,light music composer
+NE_PER,Eric Coates
+NE_PER_SB,Coates
+NE_LOC,Los Angeles Music Center
+SENT_BOUND,1964
+NE_MISC,Luncheon at the Music Center
+NE_PER,Thomas Cassidy
+SENT_BOUND,years
+MWE_COMPOUND_NOUN,talk show
+NE_LOC,Southern California
+SENT_BOUND,area
+NE_LOC,Pavilion Restaurant
+NE_LOC,Dorothy Chandler Pavilion
+NE_LOC,Music Center
+SENT_BOUND,area
+MWE_COMPOUND_NOUN,musical interludes
+SENT_BOUND,not
+SENT_BOUND,background
+SENT_BOUND,table
+SENT_BOUND,forward
+NE_PER,Martin Workman
+NE_PER,Thomas Cassidy
+SENT_BOUND,years
+NE_ORG,KFAC
+MWE_LVC,made various attempts
+MWE_LVC_VERB,made
+MWE_LVC_NOUN,attempts
+SENT_BOUND,audience
+MWE_VPC,brought about
+MWE_VPC_VERB,brought
+MWE_VPC_PARTICLE,about
+MWE_COMPOUND_NOUN,staff members
+NE_PER,Dennis Parnell
+NE_PER,Doug Ordunio
+NE_PER_SB,Ordunio
+NE_MISC,Global Village
+SENT_BOUND,1986
+MWE_COMPOUND_NOUN,FM Programmer
+NE_PER,Dennis Parnell
+MWE_COMPOUND_NOUN,voice teacher
+NE_LOC,Los Angeles
+SENT_BOUND,area
+SENT_BOUND,appropriate
+NE_PER,Parnell
+MWE_COMPOUND_NOUN,choral composition
+NE_PER,Sergei Rachmaninoff
+NE_PER,Janis Joplin
+NE_MISC,Mercedes Benz
+NE_MISC_SB,Benz
+SENT_BOUND,ideas
+SENT_BOUND,stodgy
+NE_PER,Carl Princi
+NE_LOC,Global Village
+MWE_COMPOUND_NOUN,meeting place
+SENT_BOUND,ear
+NE_PER,Parnell
+SENT_BOUND,prepare
+MWE_COMPOUND_NOUN,program director
+NE_PER,Carl Princi
+MWE_LVC,demands were not met
+MWE_LVC_NOUN,demands
+MWE_LVC_VERB,met
+LVC_VERB_SB,met
+NE_PER,Princi
+MWE_LVC,had a meeting
+MWE_LVC_VERB,had
+MWE_LVC_NOUN,meeting
+MWE_COMPOUND_NOUN,library employee
+NE_PER,Doug Ordunio
+NE_PER_SB,Ordunio
+NE_PER,Princi
+NE_PER,Ordunio
+NE_MISC,Global Village
+NE_PER,Parnell
+MWE_IDIOM,made good
+SENT_BOUND,program
+SENT_BOUND,style
+NE_PER,Parnell
+NE_PER,Ordunio
+NE_PER_SB,Ordunio
+NE_PER,Parnell
+SENT_BOUND,1974
+NE_PER,Ordunio
+MWE_COMPOUND_NOUN,FM Programmer
+SENT_BOUND,1986
+NE_PER,Ordunio
+NE_MISC,Global Village
+NE_PER,Mahler
+NE_PER,Bruckner
+SENT_BOUND,simultaneously
+NE_PER,Ordunio
+MWE_COMPOUND_NOUN,classical music programs
+NE_MISC,At Home With
+MWE_COMPOUND_ADJ,classical musical
+NE_LOC,Southern California
+NE_LOC_SB,California
+NE_MISC,The Circular Path
+SENT_BOUND,themselves
+MWE_COMPOUND_NOUN,history of music
+SENT_BOUND,figures
+MWE_COMPOUND_NOUN,classical music
+COMPOUND_NOUN_SB,music
+MWE_VPC,set forth
+MWE_VPC_VERB,set
+MWE_VPC_PARTICLE,forth
+NE_PER,Henry Brant
+MWE_COMPOUND_NOUN,music pollution
+COMPOUND_NOUN_SB,pollution
+NE_PER,Peter Allen
+NE_MISC,Everything Old Is New Again
+SENT_BOUND,program
+NE_PER,Ordunio
+NE_MISC,Making Waves
+MWE_COMPOUND_NOUN,new age music
+NE_ORG,The Wave
+NE_ORG_SB,Wave
+NE_MISC,Midnight Café
+NE_ORG,KNX-FM
+NE_ORG_SB,KNX-FM
+NE_MISC,Global Village
+NE_PER,Robert Goldfarb
+MWE_COMPOUND_NOUN,program director
+NE_PER,Louise Heifetz
+SENT_BOUND,image
+NE_PER,Doug Ordunio
+NE_PER_SB,Ordunio
+NE_MISC,Luncheon at the Music Center
+NE_PER,Thomas Cassidy
+NE_PER_SB,Cassidy
+MWE_COMPOUND_NOUN,tape delay
+SENT_BOUND,behavior
+NE_PER,Cassidy
+MWE_COMPOUND_ADJ,Roman Catholic
+COMPOUND_ADJ_SB,Catholic
+NE_PER,Lukas Foss
+MWE_VPC,spouted out
+MWE_VPC_VERB,spouted
+MWE_VPC_PARTICLE,out
+SENT_BOUND,remark
+NE_PER,Beethoven
+MWE_COMPOUND_NOUN,music critic
+SENT_BOUND,write
+NE_PER,Cassidy
+SENT_BOUND,broadcast
+NE_PER,Martin Workman
+MWE_VPC,took over
+MWE_VPC_VERB,took
+MWE_VPC_PARTICLE,over
+NE_LOC,LA
+NE_MISC,A Chorus Line
+NE_MISC_SB,Line
+NE_PER,Workman
+NE_ORG,Original Broadway Cast
+SENT_BOUND,recording
+NE_PER,Workman
+NE_PER_SB,Workman
+NE_PER,Thomas Cassidy
+SENT_BOUND,ghost
+SENT_BOUND,station
+NE_LOC,SF Valley
+NE_LOC_SB,Valley
+SENT_BOUND,air
+MWE_VPC,tune in
+MWE_VPC_VERB,tune
+MWE_VPC_PARTICLE,in
+NE_MISC,Gas Company
+NE_PER,Tchaikovsky
+SENT_BOUND,heard
+NE_PER,Cassidy
+SENT_BOUND,friends
+NE_PER,Thomas Cassidy
+NE_PER_SB,Cassidy
+MWE_VPC,going on
+MWE_VPC_VERB,going
+MWE_VPC_PARTICLE,on
+SENT_BOUND,here
+MWE_VPC,turned down
+MWE_VPC_VERB,turned
+MWE_VPC_PARTICLE,down
+MWE_COMPOUND_NOUN,voice track
+COMPOUND_NOUN_SB,track
+NE_PER,Susan Rouzer
+MWE_VPC,turned the track back up
+MWE_VPC_VERB,turned
+MWE_VPC_PARTICLE,up
+VPC_PARTICLE_SB,up
+NE_PER,Cassidy
+MWE_COMPOUND_NOUN,first front announcement
+NE_ORG,The Gas Company
+NE_ORG_SB,Company
+MWE_VPC,pulled over
+MWE_VPC_VERB,pulled
+MWE_VPC_PARTICLE,over
+NE_PER,Susan
+MWE_COMPOUND_NOUN,voice track
+SENT_BOUND,sight
+SENT_BOUND,keeper
+SENT_BOUND,show
+NE_PER,Tom Franklin
+NE_LOC,Southern California
+MWE_COMPOUND_NOUN,business news reporters
+NE_MISC,Executive Report
+NE_ORG,KFAC AM-FM
+SENT_BOUND,job
+MWE_COMPOUND_NOUN,press junkets
+MWE_COMPOUND_NOUN,top people
+SENT_BOUND,everywhere
+SENT_BOUND,humor
+MWE_VPC,fell down
+MWE_VPC_VERB,fell
+MWE_VPC_PARTICLE,down
+NE_LOC,Wilshire Blvd.
+NE_LOC,Perino
+SENT_BOUND,tonic
+NE_PER,Doug Ordunio
+NE_PER,Richard Nielsen
+MWE_COMPOUND_NOUN,morning shift
+SENT_BOUND,)
+MWE_LVC,kept a collection
+MWE_LVC_VERB,kept
+MWE_LVC_NOUN,collection
+MWE_COMPOUND_NOUN,liquor bottles
+MWE_COMPOUND_NOUN,station premises
+COMPOUND_NOUN_SB,premises
+MWE_COMPOUND_NOUN,record shelves
+SENT_BOUND,public
+MWE_COMPOUND_NOUN,trash can
+COMPOUND_NOUN_SB,can
+NE_PER,Franklin
+NE_MISC,Dutch
+MWE_COMPOUND_NOUN,liqueur company
+NE_ORG,Wyn and Fokking
+NE_ORG_SB,Fokking
+NE_PER,Tom
+NE_MISC,US
+NE_MISC,English
+NE_MISC_SB,English
+NE_MISC,Bols
+NE_MISC,Netherlander
+NE_MISC,English
+MWE_COMPOUND_NOUN,slang word
+SENT_BOUND,)
+NE_PER,Franklin
+MWE_LVC,breaking into laughter
+MWE_LVC_VERB,breaking
+MWE_LVC_NOUN,into laughter
+SENT_BOUND,recover
+MWE_COMPOUND_NOUN,Master Control
+NE_MISC,The Tom Franklin Memorial Reel
+NE_MISC_SB,Reel
+SENT_BOUND,him
+MWE_VPC,glanced up
+MWE_VPC_VERB,glanced
+MWE_VPC_PARTICLE,up
+MWE_COMPOUND_NOUN,drink glass
+NE_MISC,Alka Seltzer
+SENT_BOUND,tablets
+MWE_VPC,fizzed away
+MWE_VPC_VERB,fizzed
+MWE_VPC_PARTICLE,away
+SENT_BOUND,position
+NE_PER,Franklin
+SENT_BOUND,again
+MWE_COMPOUND_NOUN,video project
+MWE_COMPOUND_NOUN,parting gift
+MWE_COMPOUND_NOUN,station manager
+NE_PER,George Fritzinger
+NE_MISC,German
+NE_PER,Regina Sears
+NE_PER_SB,Sears
+MWE_COMPOUND_NOUN,station tour
+NE_ORG,KFWB
+MWE_COMPOUND_NOUN,news announcer
+NE_PER,Dan Evey
+MWE_COMPOUND_NOUN,sales department
+NE_PER,Michelle Davis
+SENT_BOUND,)
+NE_PER,Courtney Thompson
+MWE_COMPOUND_NOUN,record library
+MWE_COMPOUND_NOUN,music director
+NE_PER,Clyde Allen
+MWE_COMPOUND_NOUN,FM Programmer
+NE_PER,Doug Ordunio
+MWE_COMPOUND_NOUN,assistant programmer
+NE_PER,Steven de Mena
+NE_PER_SB,Mena
+MWE_LVC,gave their farewells
+MWE_LVC_VERB,gave
+MWE_LVC_NOUN,farewells
+NE_PER,George
+NE_PER,Regina
+NE_PER_SB,Regina
+MWE_COMPOUND_NOUN,staff members
+MWE_COMPOUND_NOUN,senses of humor
+SENT_BOUND,tape
+MWE_COMPOUND_NOUN,FM studio
+NE_PER,Doug Ordunio
+SENT_BOUND,air
+SENT_BOUND,cocaine
+SENT_BOUND,music
+SENT_BOUND,nose
+NE_LOC,Sportsmen’s Lodge
+NE_LOC,Ventura Blvd
+SENT_BOUND,evening
+MWE_COMPOUND_NOUN,shade trees
+NE_PER,George
+NE_PER,Regina
+NE_PER_SB,Regina
+NE_MISC,New Years
+SENT_BOUND,1986
+NE_PER,Courtney Thompson
+MWE_COMPOUND_NOUN,library staff
+MWE_VPC,Watch out
+MWE_VPC_VERB,Watch
+MWE_VPC_PARTICLE,out
+VPC_PARTICLE_SB,out
+SENT_BOUND,everywhere
+NE_PER,Doug Ordunio
+MWE_COMPOUND_NOUN,tag lines
+MWE_COMPOUND_NOUN,station ID
+NE_ORG,KFAC-FM
+NE_LOC,Los Angeles
+NE_LOC,Southern California
+NE_LOC_SB,California
+NE_ORG,Cleveland Broadcasting
+NE_ORG,KFAC
+NE_PER,Cord
+NE_ORG,Atlantic States Industries
+NE_ORG,ASI
+NE_ORG,McGavrin-Guild
+SENT_BOUND,company
+NE_ORG,ASI
+NE_ORG,KFAC
+SENT_BOUND,jingles
+NE_ORG,KFAC
+SENT_BOUND,announcers
+MWE_COMPOUND_NOUN,music beds
+MWE_COMPOUND_NOUN,ad agency jingles
+SENT_BOUND,anathema
+NE_ORG,ASI
+MWE_COMPOUND_NOUN,combo operation
+MWE_COMPOUND_NOUN,KFAC announcers
+MWE_COMPOUND_NOUN,radio DJs
+COMPOUND_NOUN_SB,DJs
+SENT_BOUND,tape
+NE_ORG,Federal Communications Commission
+NE_ORG,FCC
+MWE_COMPOUND_NOUN,license renewal
+NE_ORG,KFAC
+NE_MISC,African-American
+SENT_BOUND,community
+SENT_BOUND,performers
+MWE_COMPOUND_NOUN,station licenses
+MWE_COMPOUND_NOUN,station owners
+COMPOUND_NOUN_SB,owners
+NE_ORG,KFAC
+MWE_COMPOUND_NOUN,renewal process
+SENT_BOUND,sold
+NE_PER,Louise Heifetz
+MWE_COMPOUND_NOUN,violin virtuoso
+NE_PER,Jascha Heifetz
+SENT_BOUND,million
+MWE_COMPOUND_NOUN,program director
+NE_PER,Robert Goldfarb
+MWE_COMPOUND_NOUN,staff announcers
+SENT_BOUND,listeners
+MWE_COMPOUND_NOUN,engineering staff
+MWE_VPC,laid off
+MWE_VPC_VERB,laid
+MWE_VPC_PARTICLE,off
+MWE_COMPOUND_NOUN,blood bath
+SENT_BOUND,1987
+NE_PER,Goldfarb
+NE_PER,Wallace Smith
+NE_ORG,KUSC
+SENT_BOUND,before
+NE_ORG,Evergreen Media
+NE_ORG,KKBT-FM
+NE_MISC,The Beat
+SENT_BOUND,station
+NE_PER,Ralph Guild
+MWE_COMPOUND_NOUN,top man
+NE_ORG,KFAC
+MWE_VPC,putting the station up
+MWE_VPC_VERB,putting
+MWE_VPC_PARTICLE,up
+MWE_LVC,mistakes he ever made
+MWE_LVC_NOUN,mistakes
+MWE_LVC_VERB,made
+LVC_VERB_SB,made
+NE_ORG,KFAC
+MWE_COMPOUND_NOUN,call sign
+MWE_COMPOUND_NOUN,classical record library
+NE_ORG,University of Southern California
+MWE_COMPOUND_NOUN,Radio station
+NE_ORG,KUSC
+MWE_COMPOUND_NOUN,call sign
+NE_LOC,Santa Barbara
+SENT_BOUND,satellite
+NE_ORG,HOT 92.3 Old School and R&B
+NE_ORG_SB,B
+NE_ORG,KFAC
+MWE_COMPOUND_NOUN,call letters
+NE_LOC,Santa Barbara
+NE_ORG,KUSC
+MWE_COMPOUND_NOUN,call letters
+SENT_BOUND,SC

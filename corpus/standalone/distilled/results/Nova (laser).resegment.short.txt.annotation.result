@@ -1,0 +1,497 @@
+NE_MISC,
+Nov
+MWE_COMPOUND_NOUN, high-power lase
+NE_LOC, Lawrence Livermore National Laborator
+NE_LOC,(LLN
+MWE_COMPOUND_NOUN, inertial confinement fusion (ICF) experiment
+SENT_BOUND, 199
+NE_MISC, Nov
+MWE_COMPOUND_NOUN, ICF experimen
+MWE_COMPOUND_NOUN, chain reactio
+MWE_COMPOUND_NOUN, nuclear fusio
+SENT_BOUND, energ
+NE_MISC, Nov
+NE_MISC, National Ignition Facilit
+NE_MISC, Nov
+SENT_BOUND, successo
+NE_MISC, Nov
+MWE_COMPOUND_NOUN, high-density matter physic
+MWE_COMPOUND_NOUN, fusion powe
+MWE_COMPOUND_NOUN, nuclear weapons researc
+COMPOUND_NOUN_SB, researc
+MWE_COMPOUND_NOUN,
+Inertial confinement fusion (ICF) devic
+SENT_BOUND,s 
+MWE_COMPOUND_NOUN,l spherical pell
+MWE_COMPOUND_NOUN,f fusion fu
+SENT_BOUND,d triti
+MWE_VPC,h explodes o
+MWE_VPC_VERB,h explod
+MWE_VPC_PARTICLE,s o
+SENT_BOUND,e surfa
+NE_MISC,o Newton's Third L
+SENT_BOUND,h densi
+MWE_COMPOUND_NOUN,a shock wa
+SENT_BOUND,d fu
+MWE_COMPOUND_NOUN,e shock wa
+SENT_BOUND,d 
+MWE_COMPOUND_NOUN,, fusion reactio
+SENT_BOUND,l occ
+MWE_COMPOUND_NOUN,he fusion reacti
+MWE_COMPOUND_NOUN,se high-energy partic
+MWE_COMPOUND_NOUN,ly alpha partic
+MWE_COMPOUND_NOUN,he high density f
+MWE_VPC,nd slow d
+MWE_VPC_VERB,nd s
+MWE_VPC_PARTICLE,ow d
+VPC_PARTICLE_SB,ow d
+SENT_BOUND,as w
+MWE_COMPOUND_NOUN, a chain react
+MWE_COMPOUND_NOUN,he shock w
+SENT_BOUND,he react
+SENT_BOUND,of ene
+MWE_COMPOUND_NOUN,ost ICF experim
+SENT_BOUND,the tar
+MWE_COMPOUND_NOUN,ble shock 
+COMPOUND_NOUN_SB,ock 
+SENT_BOUND,ric 
+MWE_COMPOUND_NOUN,bly heavy 
+MWE_COMPOUND_NOUN, in particle accelera
+SENT_BOUND, of feat
+NE_ORG,es.
+MWE_COMPOUND_NOUN, the ICF pr
+NE_PER,cist John Nuc
+MWE_COMPOUND_NOUN,with laser ene
+SENT_BOUND,nd
+MWE_COMPOUND_ADJ,very low po
+MWE_COMPOUND_NOUN, the state of th
+MWE_COMPOUND_NOUN,this power 
+COMPOUND_NOUN_SB,ower 
+NE_MISC,on o
+NE_ORG,Nova
+MWE_COMPOUND_NOUN,basic ICF 
+COMPOUND_NOUN_SB,c ICF 
+NE_ORG,sign
+MWE_COMPOUND_NOUN,n the Nd:glass
+MWE_COMPOUND_NOUN,y few high-energy laser d
+SENT_BOUND,signs
+NE_ORG,nown
+MWE_COMPOUND_NOUN,te on glass 
+MWE_COMPOUND_NOUN,udied gas 
+MWE_COMPOUND_NOUN,using carbon d
+NE_MISC,(e.g. A
+NE_ORG,aser, Los Alamos National Labo
+NE_MISC,y) 
+NE_MISC,(e.g
+NE_ORG,aser, Naval Research Labo
+SENT_BOUND,r
+MWE_COMPOUND_NOUN,large Nd:glass 
+NE_ORG,, an
+SENT_BOUND,these d
+SENT_BOUND,of th
+MWE_COMPOUND_NOUN,ir and glass
+MWE_COMPOUND_NOUN,own as Kerr 
+COMPOUND_NOUN_SB,s Kerr 
+MWE_COMPOUND_NOUN,y high light in
+MWE_COMPOUND_NOUN,ge the glass
+SENT_BOUND,of the
+NE_MISC,in the 
+MWE_COMPOUND_NOUN,of the spatial fi
+SENT_BOUND,tering te
+NE_MISC,nique. 
+NE_MISC,by th
+SENT_BOUND,t more
+NE_MISC,in th
+MWE_COMPOUND_NOUN,ser, a proof-of-concept
+MWE_COMPOUND_NOUN, for a high power
+MWE_COMPOUND_NOUN,arate "laser amp
+SENT_BOUND,mi
+NE_MISC,ts wi
+SENT_BOUND,problem 
+MWE_COMPOUND_NOUN,ed. The infrar
+MWE_COMPOUND_NOUN, by the Nd:glas
+MWE_COMPOUND_NOUN,mulated Raman sc
+COMPOUND_NOUN_SB,d Raman sc
+MWE_COMPOUND_NOUN, to as "hot electron pre
+MWE_VPC,ating", carr
+MWE_VPC_VERB,ating",
+MWE_VPC_PARTICLE,carr
+SENT_BOUND,maximum com
+MWE_COMPOUND_NOUN,tion in implosio
+SENT_BOUND, hea
+MWE_COMPOUND_NOUN,hat the IR fre
+NE_MISC,used 
+SENT_BOUND,t
+SENT_BOUND, be 
+MWE_COMPOUND_NOUN,fficient frequency mu
+MWE_COMPOUND_NOUN,ipliers, optica
+SENT_BOUND,and thus 
+NE_MISC,y on 
+SENT_BOUND, proving 
+MWE_COMPOUND_NOUN,original la
+MWE_COMPOUND_NOUN,esulting ultravio
+MWE_COMPOUND_NOUN,y to the targ
+SENT_BOUND, to hig
+NE_ORG, in 
+MWE_COMPOUND_NOUN,o produce ignition 
+NE_MISC,e testb
+MWE_COMPOUND_NOUN,mline and frequency multipl
+MWE_COMPOUND_NOUN, repeated ene
+NE_LOC,es i
+MWE_COMPOUND_NOUN,lable for alternat
+MWE_COMPOUND_NOUN,nergy and nuclear weapon
+COMPOUND_NOUN_SB,r weapon
+MWE_COMPOUND_NOUN,the initial constr
+NE_PER,tion pha
+NE_PER, chaired by
+NE_ORG,ste
+NE_MISC, was
+SENT_BOUND,would re
+NE_MISC,niti
+MWE_COMPOUND_NOUN, that added frequenc
+MWE_COMPOUND_NOUN,ld increase couplin
+COMPOUND_NOUN_SB,se couplin
+NE_MISC,y. T
+MWE_COMPOUND_NOUN,em with ten lase
+SENT_BOUND,lifiers, 
+MWE_COMPOUND_NOUN,a series of Nd:glas
+MWE_COMPOUND_NOUN,eparated by spa
+MWE_VPC, optics for
+MWE_VPC_VERB, optics 
+MWE_VPC_PARTICLE,or
+SENT_BOUND,e res
+NE_MISC,as ea
+MWE_COMPOUND_ADJ,ey were not we
+SENT_BOUND,is p
+NE_MISC,nt i
+MWE_VPC, time. N
+MWE_VPC_VERB, time
+MWE_VPC_PARTICLE, N
+MWE_COMPOUND_NOUN,ut, and t
+SENT_BOUND,amli
+MWE_COMPOUND_NOUN,in terms of optical
+COMPOUND_NOUN_SB,ptical
+MWE_COMPOUND_NOUN, firing, the Nd:gla
+MWE_COMPOUND_NOUN, a series of Xeno
+SENT_BOUND, sur
+MWE_COMPOUND_NOUN,leading to a populat
+SENT_BOUND,a stimul
+MWE_VPC, is actuall
+MWE_VPC_VERB, is ac
+MWE_VPC_PARTICLE,uall
+MWE_COMPOUND_NOUN, turned into
+COMPOUND_NOUN_SB,d into
+MWE_COMPOUND_NOUN, the sort o
+NE_MISC,requ
+MWE_COMPOUND_NOUN,ed under 
+COMPOUND_NOUN_SB,er 
+SENT_BOUND,can b
+NE_MISC, Thi
+SENT_BOUND,a day a
+MWE_COMPOUND_NOUN,mall pulse 
+SENT_BOUND, fed into
+MWE_COMPOUND_NOUN,eamlines. The 
+SENT_BOUND,asse
+MWE_COMPOUND_NOUN,mplifiers t
+MWE_VPC,ght pulse 
+MWE_VPC_VERB,ght pul
+MWE_VPC_PARTICLE,e 
+MWE_COMPOUND_NOUN,aned up" in a 
+SENT_BOUND,her series
+MWE_COMPOUND_NOUN,er and larger a
+COMPOUND_NOUN_SB,ger a
+NE_MISC,ks. 
+SENT_BOUND, were us
+MWE_COMPOUND_NOUN, pass into the 
+MWE_COMPOUND_NOUN,one end o
+COMPOUND_NOUN_SB,d o
+SENT_BOUND,e bay 
+MWE_COMPOUND_NOUN,om all angles. 
+SENT_BOUND,he cen
+MWE_COMPOUND_NOUN,r than others. Freque
+MWE_COMPOUND_NOUN, entering the 
+SENT_BOUND,"
+NE_MISC,rget
+SENT_BOUND, center
+NE_MISC,e ch
+MWE_COMPOUND_NOUN,0 kilojoules o
+MWE_COMPOUND_ADJ,5 kilojoules of f
+MWE_COMPOUND_NOUN,t 1054 nm) in 
+MWE_COMPOUND_NOUN, of prod
+SENT_BOUND, of 1
+NE_MISC,ts.
+MWE_COMPOUND_NOUN,focussed on th
+MWE_COMPOUND_NOUN,urface of 
+SENT_BOUND,anoth
+MWE_COMPOUND_NOUN, compressin
+COMPOUND_NOUN_SB,ressin
+MWE_COMPOUND_NOUN,le amount of
+COMPOUND_NOUN_SB,unt of
+SENT_BOUND,everthe
+MWE_COMPOUND_NOUN,e reason for the
+MWE_COMPOUND_NOUN,s not to improv
+MWE_COMPOUND_NOUN, to "smooth" t
+MWE_COMPOUND_NOUN,ofile; sin
+MWE_VPC,e the metal
+MWE_VPC_VERB,e the m
+MWE_VPC_PARTICLE,tal
+SENT_BOUND,aser ar
+MWE_COMPOUND_NOUN,tly reduced
+SENT_BOUND, strike
+MWE_COMPOUND_NOUN,er to support the indir
+NE_MISC,driv
+MWE_COMPOUND_NOUN,at Nova, a second
+MWE_COMPOUND_NOUN,one, oppo
+COMPOUND_NOUN_SB,ppo
+MWE_COMPOUND_NOUN,either end of 
+SENT_BOUND,om there 
+MWE_COMPOUND_NOUN,
+Confusingly, the indi
+SENT_BOUND,idel
+MWE_COMPOUND_NOUN,blished in genera
+NE_MISC,sue,
+MWE_COMPOUND_NOUN,Nova was using the di
+SENT_BOUND,roach, l
+NE_MISC,rin
+NE_MISC, bec
+SENT_BOUND,s old
+NE_MISC,ed wi
+NE_MISC, the
+MWE_LVC,iva, Nova failed 
+MWE_LVC_VERB,iva,
+MWE_LVC_NOUN,Nova failed 
+MWE_COMPOUND_NOUN,tations in te
+COMPOUND_NOUN_SB, in te
+MWE_COMPOUND_NOUN,transmissi
+COMPOUND_NOUN_SB,issi
+MWE_COMPOUND_NOUN,k wave. The 
+NE_MISC,mum 
+SENT_BOUND,t 10
+NE_MISC,oble
+MWE_COMPOUND_NOUN,o closely mat
+SENT_BOUND, heatin
+MWE_COMPOUND_NOUN,rface. Th
+MWE_COMPOUND_NOUN,ing plasma, seeding Rayleigh–
+SENT_BOUND,er did no
+NE_MISC,rmly
+MWE_COMPOUND_NOUN,l form, and th
+SENT_BOUND,modif
+NE_MISC,ime,
+NE_MISC,as 
+NE_MISC_SB,as 
+MWE_COMPOUND_NOUN, of ICF, but also to
+SENT_BOUND,on of the 
+NE_MISC,y af
+MWE_COMPOUND_NOUN,e to improve it as 
+COMPOUND_NOUN_SB,it as 
+MWE_COMPOUND_NOUN, problem was that th
+MWE_LVC, experimental ch
+MWE_LVC_VERB, exp
+MWE_LVC_NOUN,l ch
+MWE_VPC,an the ti
+MWE_VPC_VERB,an t
+MWE_VPC_PARTICLE,e ti
+SENT_BOUND,eded t
+MWE_COMPOUND_NOUN,of the laser, a seco
+SENT_BOUND,the
+NE_MISC,en b
+MWE_VPC,nto two.
+MWE_VPC_VERB,nto t
+MWE_VPC_PARTICLE,o.
+NE_MISC,t up 
+MWE_COMPOUND_NOUN,uildings, with the tw
+MWE_COMPOUND_NOUN,utward from 
+COMPOUND_NOUN_SB,from 
+MWE_COMPOUND_NOUN,nter target are
+NE_MISC,throu
+MWE_COMPOUND_NOUN,h the now unused 
+MWE_COMPOUND_NOUN,nd placing the small
+NE_MISC,xperi
+MWE_COMPOUND_NOUN,tal cham
+COMPOUND_NOUN_SB,ham
+NE_MISC,r in
+NE_ORG,ental numbers, promp
+MWE_COMPOUND_NOUN,quest a cust
+NE_MISC,cility they called the "Laborat
+NE_MISC, Mi
+MWE_COMPOUND_NOUN,LMF) that co
+SENT_BOUND,ld
+NE_MISC,d 1000
+MWE_COMPOUND_NOUN,MJ. Based on th
+NE_MISC,, i
+MWE_COMPOUND_NOUN,bout 10 MJ, i
+SENT_BOUND,that 
+MWE_COMPOUND_NOUN,a device was wit
+SENT_BOUND,ive, on
+NE_ORG,he o
+MWE_COMPOUND_NOUN,with a 5 MJ 
+NE_MISC,ess
+SENT_BOUND,the m
+MWE_LVC,1 billion if LMF was 
+MWE_LVC_VERB,1 bi
+MWE_LVC_NOUN, was 
+NE_ORG,et 
+MWE_VPC,ll of the
+MWE_VPC_VERB,ll of
+MWE_VPC_PARTICLE,the
+VPC_PARTICLE_SB,the
+NE_MISC,als
+SENT_BOUND,LMF designs 
+NE_ORG,mous project, in 1989/90 Nat
+NE_MISC,d 
+NE_MISC, se
+NE_ORG,efforts on 
+NE_ORG_SB,orts on 
+MWE_COMPOUND_NOUN,trapolations r
+MWE_COMPOUND_NOUN,ed in target physi
+NE_MISC,mmi
+NE_MISC,ieves that an LMF i.e. a L
+MWE_LVC,gigajoule is
+MWE_LVC_NOUN,giga
+MWE_LVC_VERB,e is
+SENT_BOUND,irectly
+NE_MISC,n, 
+SENT_BOUND,ntil the
+MWE_COMPOUND_NOUN,was also critical of 
+MWE_VPC, laser expe
+MWE_VPC_VERB, laser 
+MWE_VPC_PARTICLE,xpe
+NE_ORG,nts 
+SENT_BOUND,ojects 
+NE_MISC, The r
+MWE_COMPOUND_NOUN,approve an a
+SENT_BOUND,h 
+MWE_COMPOUND_NOUN,the potential for h
+MWE_VPC,noted "I
+MWE_VPC_VERB,note
+MWE_VPC_PARTICLE, "I
+NE_MISC,h t
+NE_MISC_SB,h t
+NE_ORG, for
+NE_MISC,hese suggest
+NE_MISC, maj
+NE_MISC,, alo
+SENT_BOUND,g with t
+NE_MISC,muc
+SENT_BOUND, a
+MWE_COMPOUND_NOUN,eatures that adv
+MWE_COMPOUND_NOUN,e state of the
+MWE_COMPOUND_NOUN,er section, inclu
+MWE_COMPOUND_NOUN,lets" as th
+SENT_BOUND,improve the 
+MWE_VPC,f illumina
+MWE_VPC_VERB,f illu
+MWE_VPC_PARTICLE,ina
+MWE_COMPOUND_NOUN,tion of two mai
+NE_MISC,ines
+MWE_COMPOUND_NOUN, one in the e
+NE_MISC,nd th
+MWE_COMPOUND_NOUN,or, exten
+MWE_COMPOUND_NOUN,through its
+NE_MISC,get 
+MWE_COMPOUND_NOUN,rea into an
+COMPOUND_NOUN_SB,o an
+SENT_BOUND,er ab
+NE_MISC,expe
+MWE_COMPOUND_NOUN,w the new Nov
+SENT_BOUND,n 
+MWE_COMPOUND_NOUN,mates from 1992 es
+MWE_LVC,illion, with
+MWE_LVC_VERB,illion
+MWE_LVC_NOUN, with
+SENT_BOUND,taki
+MWE_COMPOUND_ADJ,
+For reasons
+NE_ORG,ical
+NE_MISC,in 1992 LLNL
+NE_MISC,d stated t
+SENT_BOUND,ee tim
+NE_MISC,s evolved into the current
+NE_MISC_SB, current
+MWE_COMPOUND_NOUN,reating very short but 
+MWE_COMPOUND_NOUN,ses was developed, known as
+SENT_BOUND,ped
+NE_ORG,, or
+NE_MISC, LLN
+MWE_COMPOUND_NOUN,ms to bui
+SENT_BOUND,er
+NE_MISC,to 1.25 
+NE_MISC,it o
+MWE_LVC,when Nov
+MWE_LVC_VERB,when
+MWE_LVC_NOUN,Nov
+NE_MISC, di
+NE_MISC_SB, di
+MWE_COMPOUND_NOUN,make way for NIF.
+T
+NE_MISC,ampl
+MWE_COMPOUND_NOUN,ystem used in Nov
+MWE_COMPOUND_NOUN, era was limi
+MWE_COMPOUND_NOUN,n terms of p
+COMPOUND_NOUN_SB,s of p
+MWE_COMPOUND_NOUN,th. One problem
+SENT_BOUND,pulses wo
+MWE_COMPOUND_NOUN,Another problem was 
+MWE_COMPOUND_NOUN,tude that even me
+MWE_COMPOUND_NOUN,d not be enough
+SENT_BOUND,o c
+MWE_VPC,ids both of t
+MWE_VPC_VERB,ids both 
+MWE_VPC_PARTICLE,f t
+MWE_COMPOUND_NOUN,problems by
+SENT_BOUND,eadi
+MWE_COMPOUND_NOUN,rs) pulse off a seri
+SENT_BOUND,imple
+MWE_VPC,resulting in 
+MWE_VPC_VERB,resulting
+MWE_VPC_PARTICLE,in 
+SENT_BOUND,ulse
+SENT_BOUND,hich now
+MWE_COMPOUND_NOUN,nto a sing
+COMPOUND_NOUN_SB, sing
+MWE_COMPOUND_NOUN,beamline is pl
+COMPOUND_NOUN_SB,e is pl
+NE_MISC,arge vac
+MWE_COMPOUND_NOUN,ical basis for the c
+MWE_COMPOUND_NOUN,e time it was operation
+MWE_VPC,oncept dev
+MWE_VPC_VERB,once
+MWE_VPC_PARTICLE,t dev
+NE_MISC,he 
+SENT_BOUND,head 
+MWE_COMPOUND_NOUN,een taken. Further wor
+NE_MISC, de
+NE_MISC,pment
+MWE_COMPOUND_NOUN,in advance of NIF a
+NE_LOC,ystem under de
+NE_LOC_SB,er de
+NE_MISC,Europ
+MWE_COMPOUND_NOUN,cessful, HiPE
+NE_MISC,sio
+MWE_COMPOUND_NOUN,that of NIF,
+SENT_BOUND,er t
+MWE_COMPOUND_NOUN, power and on
+MWE_COMPOUND_NOUN,e more promi
+COMPOUND_NOUN_SB,promi
+NE_MISC,proa
+MWE_LVC,en Nova 
+MWE_LVC_VERB,en N
+MWE_LVC_NOUN,va 
+NE_MISC,ein
+MWE_COMPOUND_NOUN,antled to make
+NE_LOC, the t
+NE_MISC,y use during th
+NE_MISC, Me
+SENT_BOUND,a sy
+NE_ORG,only
+NE_MISC,onal la
+NE_MISC,ing
+NE_ORG,NIF), had recently been se
+NE_LOC,o Sandia N
+NE_LOC_SB,ndia N
+NE_ORG,rato
+MWE_COMPOUND_NOUN,o. This left L
+NE_MISC,h n
+SENT_BOUND, estimat
+NE_MISC,g 2
+SENT_BOUND,mall

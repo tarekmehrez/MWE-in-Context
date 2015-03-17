@@ -1,0 +1,234 @@
+NE_LOC,São Paulo
+SENT_BOUND,2025
+NE_ORG,IBGE
+MWE_COMPOUND_NOUN,gross domestic product
+NE_MISC,Brazilian
+NE_LOC,State of São Paulo
+NE_LOC_SB,Paulo
+MWE_COMPOUND_NOUN,financial center
+NE_LOC,Brazil
+MWE_COMPOUND_NOUN,finacional centers
+NE_LOC,São Paulo
+SENT_BOUND,transformation
+NE_LOC,São Paulo
+MWE_COMPOUND_NOUN,tertiary sector
+SENT_BOUND,country
+NE_MISC,Brazilian
+SENT_BOUND,corporations
+NE_LOC,São Paulo
+MWE_COMPOUND_NOUN,social exclusion
+SENT_BOUND,segregation
+MWE_COMPOUND_NOUN,financial centre
+NE_LOC,São Paulo
+MWE_LVC,presents a high degree of informality
+MWE_LVC_VERB,presents
+MWE_LVC_NOUN,informality
+SENT_BOUND,economy
+NE_LOC,São Paulo
+MWE_COMPOUND_NOUN,business center
+NE_ORG,Mercosur
+SENT_BOUND,economy
+MWE_COMPOUND_NOUN,business tourism
+SENT_BOUND,area
+MWE_LVC,holds more than 200 events
+MWE_LVC_VERB,holds
+MWE_LVC_NOUN,events
+MWE_COMPOUND_NOUN,square meters
+SENT_BOUND,fairs
+MWE_LVC,taking into account
+MWE_LVC_VERB,taking
+MWE_LVC_NOUN,into account
+MWE_COMPOUND_NOUN,square meters
+MWE_LVC,holding events
+MWE_LVC_VERB,holding
+MWE_LVC_NOUN,events
+LVC_NOUN_SB,events
+NE_ORG,International Congress and Convention Association
+NE_ORG,ICCA
+MWE_COMPOUND_NOUN,event centers
+NE_LOC,São Paulo
+NE_LOC,Americas
+NE_LOC_SB,Americas
+NE_LOC,São Paulo
+MWE_COMPOUND_NOUN,Top 20 destinations
+MWE_VPC,left behind
+MWE_VPC_VERB,left
+MWE_VPC_PARTICLE,behind
+NE_LOC,Madrid
+NE_LOC,Sydney
+NE_LOC,Athens
+NE_LOC,Vancouver
+NE_LOC_SB,Vancouver
+MWE_COMPOUND_NOUN,business areas
+NE_LOC,São Paulo
+MWE_COMPOUND_NOUN,square meters
+MWE_LVC,holding of any type of event
+MWE_LVC_VERB,holding
+MWE_LVC_NOUN,event
+LVC_NOUN_SB,event
+SENT_BOUND,options
+MWE_VPC,pointing out
+MWE_VPC_VERB,pointing
+MWE_VPC_PARTICLE,out
+MWE_COMPOUND_NOUN,tourist attractions
+MWE_VPC,stand out
+MWE_VPC_VERB,stand
+MWE_VPC_PARTICLE,out
+SENT_BOUND,culture
+MWE_COMPOUND_NOUN,world cuisines
+MWE_COMPOUND_NOUN,art galleries
+MWE_COMPOUND_NOUN,cultural centers
+NE_LOC,São Paulo
+SENT_BOUND,world
+NE_LOC,São Paulo
+NE_LOC,Egypt
+NE_LOC,Kuwait
+NE_LOC,Hungary
+NE_LOC,New Zealand
+NE_LOC,Israel
+NE_LOC_SB,Israel
+NE_LOC,São Paulo
+NE_LOC,U.S.
+NE_LOC,Hawaii
+NE_LOC,New Hampshire
+NE_LOC_SB,Hampshire
+NE_LOC,São Paulo
+MWE_COMPOUND_NOUN,city budget
+NE_LOC,São Paulo
+SENT_BOUND,wealth
+MWE_COMPOUND_NOUN,bank branches
+COMPOUND_NOUN_SB,branches
+MWE_COMPOUND_NOUN,shopping malls
+COMPOUND_NOUN_SB,malls
+NE_LOC,Brazil
+MWE_COMPOUND_NOUN,head offices
+NE_LOC,São Paulo
+NE_LOC_SB,Paulo
+NE_ORG,Mystery Shopping International
+NE_LOC,Oscar Freire Street
+SENT_BOUND,world
+MWE_COMPOUND_NOUN,cultural movements
+NE_MISC,Brazilian
+SENT_BOUND,habits
+MWE_COMPOUND_NOUN,higher education
+NE_ORG,University of São Paulo
+NE_ORG,USP
+MWE_COMPOUND_ADJ,top 100
+MWE_COMPOUND_NOUN,public universities
+NE_MISC,British
+NE_ORG,The Times
+NE_LOC,South America
+NE_LOC_SB,America
+MWE_COMPOUND_NOUN,cultural centers
+SENT_BOUND,technology
+NE_ORG,São Paulo Stock Exchange
+NE_ORG,BM&F Bovespa
+NE_LOC,Brazil
+MWE_COMPOUND_NOUN,stock and bonds exchange
+COMPOUND_NOUN_SB,exchange
+NE_ORG,BM&F Bovespa
+MWE_COMPOUND_NOUN,stock exchange
+NE_LOC,Latin America
+SENT_BOUND,world
+NE_ORG,Stock Exchange
+MWE_LVC,change hands
+MWE_LVC_VERB,change
+MWE_LVC_NOUN,hands
+SENT_BOUND,day
+NE_LOC,Greater São Paulo
+NE_LOC,United Arab Emirates
+NE_LOC,Hong Kong
+NE_LOC,Belgium
+NE_LOC,Venezuela
+SENT_BOUND,)
+NE_LOC,São Paulo
+MWE_LVC,do business
+MWE_LVC_VERB,do
+MWE_LVC_NOUN,business
+NE_LOC,Latin America
+NE_LOC_SB,America
+NE_LOC,São Paulo
+MWE_COMPOUND_NOUN,economic potential
+NE_MISC,Brazilian
+NE_MISC,U.S.
+SENT_BOUND,dollar
+MWE_OTHER,per capita
+SENT_BOUND,)
+NE_ORG,PricewaterhouseCoopers
+MWE_COMPOUND_NOUN,annual economic growth
+SENT_BOUND,4.2%
+NE_MISC,World War II
+NE_LOC,São Paulo
+MWE_COMPOUND_NOUN,industrial centre
+NE_LOC,Latin America
+NE_LOC_SB,America
+NE_MISC,Chicago of South America
+MWE_LVC,plays a greater role
+MWE_LVC_VERB,plays
+MWE_LVC_NOUN,role
+NE_MISC,Brazilian
+NE_LOC,United States
+NE_LOC_SB,States
+NE_MISC,Brazilian
+SENT_BOUND,city
+SENT_BOUND,products
+MWE_COMPOUND_NOUN,Heavy metallurgical plants
+NE_LOC,Taubaté
+MWE_COMPOUND_NOUN,oil refineries
+MWE_COMPOUND_NOUN,chemical plants
+NE_LOC,Cubatão
+MWE_COMPOUND_NOUN,motor vehicles
+MWE_COMPOUND_NOUN,transportation equipment
+MWE_COMPOUND_NOUN,farm machinery
+NE_LOC,Santo André
+NE_LOC, São Bernardo do Campo
+NE_LOC, São Caetano do Sul
+NE_LOC,Diadema
+MWE_LVC,make large contributions
+MWE_LVC_VERB,make
+MWE_LVC_NOUN,contributions
+SENT_BOUND,production
+MWE_COMPOUND_NOUN,Computer industries
+MWE_COMPOUND_NOUN,electrical appliances
+MWE_COMPOUND_NOUN,automobile components
+COMPOUND_NOUN_SB,components
+MWE_COMPOUND_NOUN,manufacturing establishments
+NE_LOC,São Paulo
+SENT_BOUND,population
+MWE_COMPOUND_ADJ,well developed
+MWE_COMPOUND_NOUN,wholesale garment district
+NE_LOC,Bom Retiro
+NE_LOC,Brás
+NE_LOC,Triângulo
+NE_LOC,Paulista Avenue
+SENT_BOUND,district
+NE_MISC,Brazilian
+MWE_LVC,represent interests
+MWE_LVC_VERB,represent
+MWE_LVC_NOUN,interests
+NE_LOC,North America
+NE_LOC,South America
+NE_LOC,Europe
+NE_LOC,Asia
+NE_LOC,Africa
+NE_LOC_SB,Africa
+NE_ORG, São Paulo Stock Exchange
+MWE_VPC,taken on
+MWE_VPC_VERB,taken
+MWE_VPC_PARTICLE,on
+MWE_COMPOUND_NOUN,financial services
+MWE_COMPOUND_NOUN,world centres
+COMPOUND_NOUN_SB,centres
+MWE_COMPOUND_NOUN,street vending
+MWE_COMPOUND_NOUN,neighbourhood stores
+COMPOUND_NOUN_SB,stores
+MWE_COMPOUND_NOUN,shopping malls
+MWE_VPC,sprung up
+MWE_VPC_VERB,sprung
+MWE_VPC_PARTICLE,up
+MWE_COMPOUND_NOUN,service industries
+MWE_COMPOUND_NOUN,computer age
+MWE_COMPOUND_NOUN,employment opportunities
+NE_LOC,São Paulo
+MWE_COMPOUND_NOUN,technical institutes
+COMPOUND_NOUN_SB,institutes

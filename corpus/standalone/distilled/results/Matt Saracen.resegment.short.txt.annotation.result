@@ -1,0 +1,315 @@
+NE_PER,Matt Saracen
+NE_ORG,NBC/DirecTV
+NE_ORG,The 101 Network
+MWE_COMPOUND_NOUN,television drama series
+NE_MISC,Friday Night Lights
+NE_PER,Zach Gilford
+NE_PER_SB,Gilford
+NE_ORG,Dillon High School Panthers
+NE_PER,Jason Street
+SENT_BOUND,injury
+NE_PER,
+Mat
+NE_PER, Henry Sarace
+NE_PER, Shelby Garret
+NE_PER, Lorraine Sarace
+NE_PER_SB, Sarace
+NE_PER, Mat
+MWE_LVC, takes car
+MWE_LVC_VERB, take
+MWE_LVC_NOUN, car
+NE_PER, Lorrain
+SENT_BOUND, dementi
+NE_PER,, Ma
+SENT_BOUND,e strain
+NE_PER,. Hen
+NE_ORG,e Armed Forc
+MWE_LVC,o showed no sig
+MWE_LVC_VERB,o show
+MWE_LVC_NOUN,o sig
+NE_PER,d Shel
+NE_PER,t Ma
+NE_PER,g Hen
+NE_PER,t Hen
+SENT_BOUND,n
+MWE_COMPOUND_NOUN,s senior ye
+MWE_COMPOUND_NOUN,f high scho
+NE_PER,, Ma
+SENT_BOUND,e aga
+NE_PER,g Ma
+SENT_BOUND,n I
+NE_PER,s, M
+NE_PER,to Jason Str
+MWE_COMPOUND_NOUN,op high sch
+SENT_BOUND,he nat
+NE_PER,nd Landry Cla
+MWE_COMPOUND_NOUN, a social outc
+SENT_BOUND,is teamma
+NE_PER,en Ja
+NE_PER,nd M
+SENT_BOUND,ng quarterb
+NE_PER,by Ja
+NE_PER,ch Tay
+NE_PER,es M
+SENT_BOUND,ob d
+NE_PER,As M
+NE_PER,k, Ray "Voodoo" Ta
+NE_PER,es M
+MWE_COMPOUND_NOUN, a team pla
+NE_PER,ch Tay
+MWE_COMPOUND_NOUN,he starting posit
+NE_PER,to M
+NE_PER_SB,to M
+MWE_COMPOUND_NOUN,0% completion percent
+MWE_COMPOUND_NOUN,.3 quarterback rat
+COMPOUND_NOUN_SB,ck rat
+MWE_COMPOUND_NOUN,he state championship g
+NE_PER,e, Sara
+NE_ORG,he Panth
+MWE_COMPOUND_NOUN,ic comeback vict
+NE_ORG,er West Cambria High Sch
+NE_ORG_SB,gh Sch
+NE_PER,l.
+
+NE_PER,ach Ta
+NE_PER,er, J
+NE_PER_SB,er, J
+MWE_COMPOUND_ADJ,s a one s
+NE_PER, as J
+MWE_LVC,lie had no intent
+MWE_LVC_VERB,lie
+MWE_LVC_NOUN, no intent
+MWE_COMPOUND_NOUN,g a football pl
+COMPOUND_NOUN_SB,all pl
+SENT_BOUND,the feel
+NE_PER,ach Ta
+SENT_BOUND,eir relation
+NE_PER,oth 
+NE_PER,and J
+SENT_BOUND, or
+NE_PER,ot. 
+MWE_COMPOUND_NOUN,s a father-son 
+NE_PER,ach Ta
+NE_PER,ach Ta
+NE_ORG, at
+NE_ORG_SB, at
+NE_PER,MU. 
+NE_PER,lls J
+NE_LOC, in Di
+SENT_BOUND,tay toge
+NE_PER,with
+NE_PER,with 
+NE_LOC,d in D
+NE_PER,oach T
+NE_LOC,s in A
+MWE_VPC,tin) falling 
+MWE_VPC_VERB,tin) fa
+MWE_VPC_PARTICLE,ling 
+VPC_PARTICLE_SB,ling 
+NE_PER,art. 
+MWE_VPC,o to bre
+MWE_VPC_VERB,o to 
+MWE_VPC_PARTICLE,re
+VPC_PARTICLE_SB,re
+NE_PER, up. 
+NE_PER, but
+SENT_BOUND,r at s
+NE_PER,ool.
+NE_PER,with 
+MWE_VPC,gins falling 
+MWE_VPC_VERB,gins fa
+MWE_VPC_PARTICLE,ling 
+VPC_PARTICLE_SB,ling 
+NE_PER,art.
+NE_PER,that 
+MWE_COMPOUND_NOUN, his college pros
+COMPOUND_NOUN_SB,lege pros
+MWE_LVC, two get into a 
+MWE_LVC_VERB, tw
+MWE_LVC_NOUN, get into a 
+NE_PER,oach T
+SENT_BOUND, act tog
+SENT_BOUND,ends 
+NE_PER,forc
+NE_PER,named Ca
+SENT_BOUND,r his grand
+NE_PER,ithe
+NE_PER, like Ca
+SENT_BOUND,thei
+NE_PER,home
+MWE_LVC, Matt develops fe
+MWE_LVC_VERB, Matt de
+MWE_LVC_NOUN,elops fe
+NE_PER,s for Ca
+MWE_VPC,a and bre
+MWE_VPC_VERB,a and 
+MWE_VPC_PARTICLE,re
+SENT_BOUND, wi
+MWE_VPC,t but gi
+MWE_VPC_VERB,t but
+MWE_VPC_PARTICLE,gi
+SENT_BOUND, wi
+NE_PER,g, as Ca
+NE_PER,s the S
+SENT_BOUND,o her 
+NE_PER,roke
+SENT_BOUND,s not 
+MWE_VPC,he has gone 
+MWE_VPC_VERB,he h
+MWE_VPC_PARTICLE,s gone 
+NE_PER,roug
+NE_PER,k w
+NE_PER_SB,k w
+MWE_COMPOUND_NOUN,at the str
+NE_PER,b w
+MWE_LVC,mother has an a
+MWE_LVC_VERB,mot
+MWE_LVC_NOUN,has an a
+SENT_BOUND,to the h
+NE_PER,pita
+MWE_VPC,. Matt pas
+MWE_VPC_VERB,. Matt
+MWE_VPC_PARTICLE,pas
+NE_PER, Coach
+SENT_BOUND,e bo
+NE_PER,thro
+NE_PER,befo
+MWE_VPC,e Matt brea
+MWE_VPC_VERB,e Matt
+MWE_VPC_PARTICLE,brea
+SENT_BOUND,thing 
+NE_PER,elli
+SENT_BOUND,him
+SENT_BOUND, 
+NE_PER,ason
+MWE_COMPOUND_NOUN, Matt's quarterback 
+MWE_COMPOUND_NOUN,n a new freshman qua
+NE_PER,erback, J.
+NE_LOC,oves t
+NE_ORG,for the 
+NE_ORG_SB,for the 
+NE_PER,. Wh
+NE_PER,g we
+MWE_COMPOUND_NOUN,ng with town 
+NE_PER,s Coac
+NE_PER,to g
+MWE_COMPOUND_NOUN,.D. the starting 
+SENT_BOUND,osition per
+NE_PER,nent
+NE_PER,r Coac
+MWE_VPC,e Coach talks
+MWE_VPC_VERB,e Coa
+MWE_VPC_PARTICLE,lks
+SENT_BOUND, o
+NE_PER, of 
+SENT_BOUND,h as
+NE_PER, ben
+NE_PER,t Coac
+MWE_COMPOUND_NOUN,him the wide receiver 
+SENT_BOUND,all t
+SENT_BOUND,him the 
+NE_PER,siti
+NE_MISC,me as a
+MWE_COMPOUND_NOUN, to the quarterback 
+NE_ORG, of the State Cham
+NE_PER,ce f
+NE_PER_SB,f
+MWE_VPC,able to 
+MWE_VPC_VERB,abl
+MWE_VPC_PARTICLE, to 
+MWE_VPC,r being 
+MWE_VPC_VERB,r be
+MWE_VPC_PARTICLE,ng 
+MWE_COMPOUND_NOUN,kicks a fi
+COMPOUND_NOUN_SB,a fi
+NE_PER, sea
+MWE_VPC,, who he
+MWE_VPC_VERB,, wh
+MWE_VPC_PARTICLE, he
+MWE_COMPOUND_NOUN,ecome an emancipa
+MWE_LVC,inor and 
+MWE_LVC_VERB,inor
+MWE_LVC_NOUN,and 
+SENT_BOUND, medic
+NE_PER,ng a
+NE_LOC,comes 
+NE_PER,ing 
+MWE_LVC,w her to
+MWE_LVC_VERB,w he
+MWE_LVC_NOUN, to
+SENT_BOUND,he wa
+NE_PER,a ch
+NE_PER,cts w
+MWE_VPC,h Julie, getting back
+MWE_VPC_VERB,h Julie
+MWE_VPC_PARTICLE,ing back
+SENT_BOUND,y at
+NE_PER,e. Coa
+NE_PER,catch
+NE_PER,bed 
+NE_PER_SB,bed 
+NE_PER,th M
+MWE_COMPOUND_NOUN,.
+Matt's college
+MWE_LVC,ects also come
+MWE_LVC_VERB,ects
+MWE_LVC_NOUN,also come
+SENT_BOUND,uring 
+NE_PER, ben
+MWE_COMPOUND_NOUN,different a
+NE_ORG,g for the Art Institute 
+NE_ORG_SB,titute 
+MWE_VPC,ing he'
+MWE_VPC_VERB,in
+MWE_VPC_PARTICLE, he'
+MWE_COMPOUND_NOUN,e into an assisted l
+COMPOUND_NOUN_SB,ed l
+NE_PER, the
+SENT_BOUND,e al
+MWE_COMPOUND_NOUN, marks the transi
+NE_PER,period for M
+SENT_BOUND,s to other
+SENT_BOUND,ion
+NE_PER,deva
+MWE_LVC,ttempts to
+MWE_LVC_VERB,ttem
+MWE_LVC_NOUN,ts to
+SENT_BOUND,nse 
+MWE_COMPOUND_NOUN,along with lif
+NE_PER,urde
+MWE_LVC,himself t
+MWE_LVC_VERB,hims
+MWE_LVC_NOUN,lf t
+SENT_BOUND,randma
+NE_PER,e on
+NE_LOC,leaves 
+NE_PER,devas
+NE_PER, Julie
+NE_PER_SB, Julie
+NE_PER,nd L
+NE_LOC,working
+NE_LOC_SB,working
+NE_PER,. He 
+SENT_BOUND,accept 
+NE_PER,s ap
+NE_LOC,return
+NE_MISC,Dillon for T
+MWE_LVC,to finally 
+MWE_LVC_VERB,to f
+MWE_LVC_NOUN,nally 
+NE_PER,mends
+NE_PER, Julie
+NE_PER_SB, Julie
+NE_PER,. He 
+SENT_BOUND,have
+MWE_COMPOUND_NOUN,ught her a p
+NE_LOC,et back
+NE_LOC_SB,et back
+NE_PER,o Chi
+NE_PER,cari
+SENT_BOUND,ams in 
+NE_PER,e pr
+SENT_BOUND,r se
+NE_PER,rate
+NE_PER, ticke
+SENT_BOUND,oul

@@ -1,0 +1,568 @@
+NE_PER,David Mixner
+MWE_COMPOUND_NOUN,civil rights activist
+MWE_COMPOUND_NOUN,best-selling author
+COMPOUND_NOUN_SB,author
+MWE_COMPOUND_ADJ,best known
+MWE_COMPOUND_NOUN,gay rights advocacy
+COMPOUND_NOUN_SB,advocacy
+NE_PER,
+David Benjamin Mixne
+NE_LOC, Elme
+NE_LOC, New Jerse
+NE_LOC_SB, Jerse
+NE_PER, Be
+MWE_COMPOUND_NOUN, corporate far
+NE_PER, Mar
+MWE_COMPOUND_NOUN, glass factor
+MWE_LVC, took a jo
+MWE_LVC_VERB, too
+MWE_LVC_NOUN, jo
+NE_ORG, John Deer
+SENT_BOUND, dealershi
+NE_PER, Davi
+NE_PER, Patsy Mixner Anniso
+NE_PER, Melvin Mixne
+NE_PER_SB, Mixne
+NE_PER,
+Mixn
+NE_ORG,d Daretown Elementary Scho
+NE_ORG,n Woodstown High Scho
+MWE_COMPOUND_NOUN,e Civil Rights moveme
+NE_PER,o Martin Luther Ki
+SENT_BOUND_ABBREV,, J
+NE_MISC,, Stranger Among Frien
+NE_PER,, Mixn
+MWE_COMPOUND_NOUN,e Civil Rights moveme
+SENT_BOUND,d th
+NE_PER,n Mixn
+NE_LOC,n Birmingh
+NE_LOC,, Alaba
+SENT_BOUND,e h
+NE_PER,4, Mix
+NE_ORG,at Arizona State Univers
+NE_LOC,in Te
+NE_LOC,e, Ariz
+MWE_COMPOUND_NOUN,in civil rig
+MWE_COMPOUND_NOUN,nd anti-war activ
+NE_PER,al William Westmorel
+NE_PER_SB,am Westmorel
+NE_ORG,in The Arizona Repub
+MWE_COMPOUND_NOUN,ut city garbage work
+NE_PER,6, Mix
+SENT_BOUND,ty ye
+NE_PER,s. Mix
+NE_LOC,on City H
+NE_LOC_SB,ty H
+MWE_LVC,ly broke the str
+MWE_LVC_VERB,ly br
+MWE_LVC_NOUN,he str
+SENT_BOUND,to union
+NE_PER,. 
+Mi
+NE_ORG, at
+NE_PER, as
+SENT_BOUND,his mem
+NE_PER,ip,
+MWE_COMPOUND_NOUN, an automobile acci
+COMPOUND_NOUN_SB,ile acci
+NE_PER,nt. Mi
+NE_PER,and
+SENT_BOUND,was
+NE_PER,fte
+NE_PER,ath, M
+NE_ORG, the University of Mar
+NE_LOC,r to Washington,
+MWE_COMPOUND_NOUN,d in anti-war pro
+COMPOUND_NOUN_SB,-war pro
+NE_PER,sts.
+
+MWE_COMPOUND_NOUN,ing a college 
+COMPOUND_NOUN_SB,llege 
+NE_LOC,le at Ma
+NE_PER,land, 
+MWE_COMPOUND_NOUN,was a grassroots org
+NE_LOC,n the Pe
+NE_PER,ed in Norman 
+NE_MISC,ler’s Armies of the
+NE_MISC_SB,f the
+NE_PER, year,
+MWE_VPC,Mixner drop
+MWE_VPC_VERB,Mixner 
+MWE_VPC_PARTICLE,rop
+NE_PER,ign of Eugene M
+NE_PER_SB,Eugene M
+NE_PER,One of
+NE_MISC,ng the Mi
+NE_PER,elping M
+NE_LOC,in the Mi
+NE_PER,sident Lyndon B. 
+NE_PER_SB,don B. 
+NE_PER,Later,
+NE_PER,ers of M
+MWE_COMPOUND_NOUN,rthy’s campai
+NE_LOC,ent to 
+NE_LOC,ion in 
+NE_PER,vernor Lestor
+NE_MISC, seven African-Am
+SENT_BOUND,person del
+NE_ORG,ation. The Georgia Democratic Part
+NE_PER,llenge
+MWE_LVC,ation, held its own con
+MWE_LVC_VERB,atio
+MWE_LVC_NOUN,ts own con
+NE_LOC,ion i
+NE_PER,essman John 
+MWE_VPC,before turni
+MWE_VPC_VERB,before 
+MWE_VPC_PARTICLE,urni
+NE_PER,oor to Juli
+NE_MISC, first African-A
+NE_LOC,to the 
+NE_ORG,of th
+NE_ORG_SB,of th
+NE_ORG,he 1968 Democratic National Co
+NE_LOC,tion in
+NE_PER,hicago
+MWE_LVC,ing the prote
+MWE_LVC_NOUN,ing the 
+MWE_LVC_VERB,rote
+MWE_COMPOUND_NOUN,ide the conventio
+COMPOUND_NOUN_SB,ventio
+NE_PER,. After 
+NE_PER,nation
+MWE_VPC,r began see
+MWE_VPC_VERB,r began
+MWE_VPC_PARTICLE,see
+SENT_BOUND,for his 
+NE_PER,riended Doris Kearns
+NE_PER,roduce
+NE_PER,Senator Ted
+SENT_BOUND,ifelon
+NE_PER,ly 196
+NE_ORG,join the Delegate Selection 
+NE_ORG,the 1968 Democratic National C
+NE_ORG_SB,National C
+NE_PER,Althou
+MWE_VPC,ointment t
+MWE_VPC_VERB,ointme
+MWE_VPC_PARTICLE,t t
+NE_PER, Senator Fred 
+NE_LOC,arris of
+NE_PER,o invi
+NE_ORG,powerful Rules 
+MWE_LVC,etheless made
+MWE_LVC_VERB,ethe
+MWE_LVC_NOUN,made
+NE_PER,included Warren Ch
+MWE_COMPOUND_NOUN,r become Secretary
+NE_PER, Senator B
+NE_LOC, Bayh o
+NE_PER, Senator Haro
+NE_LOC,ughe
+NE_PER, Senator Adlai Stev
+NE_LOC,n III of
+NE_PER, Senator George
+NE_LOC,overn of Sou
+SENT_BOUND,mittee’s
+NE_ORG,on on the Delegate Selection
+NE_PER,ommitt
+MWE_COMPOUND_NOUN,eration’s 
+MWE_LVC,atform to raise
+MWE_LVC_VERB,atfor
+MWE_LVC_NOUN,raise
+SENT_BOUND,us year’s 
+NE_PER,n Senat
+MWE_COMPOUND_NOUN,ennedy, a cl
+NE_LOC,friend 
+NE_PER,ago Mayor Richar
+MWE_COMPOUND_NOUN, the 1972 Presidential 
+MWE_LVC,mination, took the wit
+MWE_LVC_VERB,mina
+MWE_LVC_NOUN,e wit
+NE_PER,ss sta
+NE_PER,ty to a
+NE_LOC,ed by t
+SENT_BOUND,r for his i
+NE_PER,olvemen
+SENT_BOUND,odged th
+NE_PER,equently, Adlai Ste
+NE_PER,o excl
+MWE_COMPOUND_NOUN,er from a committ
+NE_LOC,eeting 
+NE_PER,ere M
+SENT_BOUND,eduled 
+NE_PER, testify
+NE_PER,rn cal
+NE_PER,tend, 
+SENT_BOUND,ut Mixn
+MWE_LVC, meeting, drawi
+MWE_LVC_VERB, meetin
+MWE_LVC_NOUN,awi
+NE_PER,f Senator
+NE_PER,tevenson
+NE_PER,ng to
+NE_PER,mnesty
+SENT_BOUND,d to 
+NE_PER,e betwee
+NE_PER,overn
+NE_PER, incl
+SENT_BOUND,es 
+NE_ORG,aw." 
+The McGovern
+MWE_VPC, which 
+MWE_VPC_VERB, wh
+MWE_VPC_PARTICLE,ch 
+MWE_COMPOUND_NOUN,reform the Presidential nominat
+MWE_COMPOUND_NOUN,ontrol the nominat
+COMPOUND_NOUN_SB,nominat
+NE_PER, proce
+MWE_COMPOUND_NOUN,tion to the anti-Vietna
+MWE_COMPOUND_NOUN, one of the hea
+NE_MISC,zers of the Moratorium to End the Wa
+NE_MISC_SB, the Wa
+NE_PER,prompted by Jer
+NE_LOC,Grossman, a M
+MWE_COMPOUND_NOUN,tive in the pe
+COMPOUND_NOUN_SB,n the pe
+NE_PER,e moveme
+NE_PER,proposed 
+NE_PER,e frie
+MWE_VPC,, that th
+MWE_VPC_VERB,, t
+MWE_VPC_PARTICLE,at th
+MWE_LVC,sual” would co
+MWE_LVC_VERB,sual
+MWE_LVC_NOUN,d co
+SENT_BOUND,ike agains
+NE_PER,every
+NE_MISC,iddle-cla
+MWE_VPC,ricans
+MWE_VPC_VERB,ric
+MWE_VPC_PARTICLE,ns
+MWE_VPC,et to work, s
+MWE_VPC_VERB,et to w
+MWE_VPC_PARTICLE,rk, s
+SENT_BOUND, day of th
+NE_PER,morat
+NE_PER,the he
+NE_PER, of Mixner
+NE_PER,tivist, and Ma
+NE_PER,ew from 
+SENT_BOUND,he McCar
+NE_PER,y cam
+NE_PER,ign. B
+NE_PER,wn, 
+NE_PER,r, Hawk 
+MWE_VPC,lencar th
+MWE_VPC_VERB,len
+MWE_VPC_PARTICLE,ar th
+SENT_BOUND,anizi
+NE_MISC,y before t
+NE_PER, Morat
+NE_LOC,er headed to Mart
+MWE_COMPOUND_NOUN,to meet with fel
+NE_PER,orked on
+SENT_BOUND,the McCa
+NE_PER,tendance was
+NE_PER,ed by 
+SENT_BOUND, of Mix
+NE_PER,At the 
+NE_ORG, study
+NE_MISC, Oxford on a Rhode
+NE_LOC,ttending the Mart
+NE_MISC, with fellow Rh
+NE_PER,des Scholars
+NE_PER, Stearns and S
+NE_PER_SB,s and S
+NE_PER,obe Ta
+NE_PER,. Mixne
+NE_PER,friend
+MWE_LVC,Mixner would play a sig
+MWE_LVC_VERB,Mixn
+MWE_LVC_NOUN, sig
+NE_ORG, get
+NE_PER,y to su
+NE_PER_SB,y to su
+NE_MISC,e date of 
+NE_ORG,omen
+NE_ORG,m, w
+NE_ORG,me, Life
+MWE_COMPOUND_NOUN,aturing it in
+COMPOUND_NOUN_SB,g it in
+NE_PER,stories
+NE_MISC,arters of 
+NE_LOC,g by b
+NE_PER, sugge
+NE_ORG,el pro
+NE_ORG_SB,el pro
+NE_MISC, front o
+NE_LOC,an emb
+NE_PER,ith President 
+NE_PER, Bush tell
+NE_ORG,Lar
+SENT_BOUND,think
+NE_MISC,s wrong."
+MWE_COMPOUND_NOUN,ho gathered i
+NE_LOC,iers ki
+SENT_BOUND,led i
+MWE_VPC,d. The day
+MWE_VPC_VERB,d. The
+MWE_VPC_PARTICLE,day
+NE_MISC,a march at the Wash
+NE_PER,onument, where Cor
+NE_PER,, the widow of Mar
+SENT_BOUND,for
+NE_PER, war.
+MWE_IDIOM, the process of coming o
+MWE_COMPOUND_NOUN,hereafter was a
+NE_ORG,g member of the Municipal Elections Committe
+NE_ORG,of Lo
+NE_ORG,gay and lesbian Political 
+NE_ORG_SB,olitical 
+SENT_BOUND, gay-affiliat
+NE_PER,s. At 
+MWE_COMPOUND_NOUN, serving as the 
+NE_PER,ign manager
+NE_LOC,y, the mayo
+MWE_LVC,le he worke
+MWE_LVC_VERB,le he
+MWE_LVC_NOUN,worke
+NE_ORG,raise
+MWE_LVC,involvement
+MWE_LVC_VERB,invo
+MWE_LVC_NOUN,vement
+NE_PER,ome an 
+SENT_BOUND,ue in Br
+NE_PER,ign.
+S
+MWE_LVC,on after Bradl
+MWE_LVC_VERB,on 
+MWE_LVC_NOUN,fter Bradl
+NE_PER,electi
+MWE_LVC,n easily, Mixner
+MWE_LVC_VERB,n easi
+MWE_LVC_NOUN,ixner
+NE_MISC,ocus to fight
+NE_LOC,ve placed 
+NE_LOC,fornia ballot
+MWE_COMPOUND_NOUN,by Orange Cou
+NE_PER,ty State Se
+SENT_BOUND,d lesbians to 
+NE_PER,the co
+MWE_LVC,ntry when Mixner
+MWE_LVC_VERB,ntry w
+MWE_LVC_NOUN,ixner
+NE_MISC,ocus to fight
+NE_ORG,6, crea
+MWE_IDIOM,e would publicly come 
+IDIOM_SB, come 
+NE_PER,t of t
+NE_PER,er and his 
+NE_PER,th then-Gover
+SENT_BOUND,e the in
+NE_PER,ough t
+NE_PER, work
+MWE_COMPOUND_NOUN,Scott, legendary ga
+NE_LOC,hts activist and S
+NE_PER, City Counc
+NE_MISC,ilk, and othe
+MWE_VPC,f its sor
+MWE_VPC_VERB,f it
+MWE_VPC_PARTICLE, sor
+VPC_PARTICLE_SB, sor
+NE_PER,his hu
+NE_PER,ccess
+MWE_COMPOUND_NOUN,r their fledgling politic
+NE_ORG, consulting 
+NE_PER,and were ask
+MWE_VPC,ill Clinton
+MWE_VPC_VERB,ill Cli
+MWE_VPC_PARTICLE,ton
+NE_LOC,g for go
+MWE_LVC,r of Arkansas, t
+MWE_LVC_VERB,r of
+MWE_LVC_NOUN,kansas, t
+NE_PER,t a rec
+NE_LOC, Clinton at
+SENT_BOUND,thei
+MWE_COMPOUND_NOUN,devastation i
+MWE_COMPOUND_NOUN,resulting f
+NE_PER,m the 
+MWE_COMPOUND_NOUN,nergy on combating nu
+NE_ORG,organizat
+NE_ORG_SB,nizat
+NE_PER,n name
+NE_MISC,ding five
+MWE_VPC,mericans who wo
+MWE_VPC_VERB,meri
+MWE_VPC_PARTICLE, wo
+NE_LOC,ves to 
+MWE_LVC,e for disarmame
+MWE_LVC_VERB,e for d
+MWE_LVC_NOUN,sarmame
+SENT_BOUND,ies thr
+NE_MISC,hout the country. 
+The Great Peace March for Global
+NE_PER, Disar
+NE_LOC,et” ultimat
+SENT_BOUND,1986 wit
+NE_PER,only 1
+MWE_COMPOUND_NOUN,lawsuits and pay
+SENT_BOUND,yment tax
+MWE_VPC,e lore o
+MWE_VPC_VERB,e lor
+MWE_VPC_PARTICLE, o
+SENT_BOUND,n so
+NE_PER,film.
+NE_MISC,1985, helping 
+MWE_COMPOUND_NOUN,at Proposition 64
+NE_PER,itiative propos
+NE_PER,ng peo
+MWE_COMPOUND_NOUN, long-time lover
+NE_PER,nd business
+SENT_BOUND,er, 
+NE_PER,ter S
+SENT_BOUND,; he
+NE_PER, May 
+NE_PER, fough
+NE_LOC, that woul
+NE_ORG,a a
+NE_ORG,to the FDA
+MWE_COMPOUND_NOUN,ggressively w
+MWE_COMPOUND_NOUN,DS epidemic than t
+COMPOUND_NOUN_SB,mic than t
+NE_PER, feder
+NE_LOC,isted the 
+MWE_COMPOUND_NOUN,upport of Califo
+NE_PER,nia Attorney Gen
+NE_PER,n convinced Gover
+NE_MISC,e Deukm
+NE_PER,ich, as des
+NE_ORG,ate
+MWE_COMPOUND_NOUN,DHS to imple
+MWE_COMPOUND_NOUN,the drug testi
+MWE_COMPOUND_NOUN,nd sale eith
+MWE_LVC,or of new drugs that offer a r
+MWE_LVC_VERB,or of
+MWE_LVC_NOUN,t offer a r
+MWE_COMPOUND_NOUN,en infecte
+COMPOUND_NOUN_SB,fecte
+NE_PER, a fund
+NE_PER,Dukaki
+NE_PER, Mixner
+NE_PER,t the 
+NE_PER,ned to
+NE_PER,cy of his ol
+NE_PER_SB, his ol
+NE_PER,, Bill 
+NE_PER,fter C
+NE_PER,find a
+NE_PER,gan rai
+SENT_BOUND,ing money for Cl
+NE_PER,ton enthusias
+NE_PER,cally. 
+MWE_COMPOUND_NOUN,key Kantor, Clint
+NE_PER, chair
+NE_ORG,ed Mixner to join the National Executive Committee of the Clinton 
+MWE_COMPOUND_NOUN,me a public face of a
+COMPOUND_NOUN_SB,ace of a
+NE_PER,tial ca
+NE_PER,r Clin
+MWE_COMPOUND_NOUN,Mixner helped w
+SENT_BOUND,pointment with
+MWE_COMPOUND_NOUN,oke at an even
+NE_PER,uced by his
+NE_PER,ld fri
+NE_MISC,of the furor over the
+NE_PER,ll” pol
+NE_PER,ed a t
+MWE_COMPOUND_NOUN,Mixner and ma
+COMPOUND_NOUN_SB,er and ma
+NE_PER,e gay 
+NE_ORG,. 
+When 
+NE_PER,tline t
+NE_ORG,itary, his 
+MWE_COMPOUND_NOUN, being returned and
+MWE_LVC,erceived as s
+MWE_LVC_VERB,erc
+MWE_LVC_NOUN,ived as s
+SENT_BOUND, influence wit
+NE_PER,n. 
+S
+NE_LOC,rticipated
+NE_MISC,ch in Washington for the Camp
+SENT_BOUND, the ban
+NE_PER,ys in t
+NE_MISC,n Clinton announced t
+NE_PER,policy
+NE_ORG,r o
+NE_LOC,cly arreste
+NE_PER,rsonal 
+NE_PER_SB,rsonal 
+NE_PER,lation
+NE_PER,with Cl
+NE_PER,ter hea
+SENT_BOUND,ed the pol
+NE_PER,y dur
+MWE_COMPOUND_NOUN,Presidency.
+David
+NE_MISC,the bestselling author
+NE_MISC,hy published in 1996, and Brave Journeys: Profiles 
+SENT_BOUND,ian 
+NE_ORG,
+On November 3, 2005, 
+NE_PER,ary officially create
+MWE_COMPOUND_NOUN,ting to his involve
+COMPOUND_NOUN_SB,nvolve
+NE_PER,il rig
+NE_LOC,.
+In 2006, M
+NE_LOC,r moved to Turk
+NE_LOC, Hollow 
+NE_MISC,ow ho
+NE_MISC,ith hi
+NE_MISC_SB,ith hi
+NE_PER, Sheba
+NE_LOC,a. In 2009, Mi
+NE_LOC, moved to Hel
+NE_LOC_SB, Hel
+MWE_COMPOUND_NOUN, in New York
+NE_MISC,tries daily on 
+NE_MISC_SB,on 
+NE_MISC,as recently
+NE_MISC, Real Estate s
+NE_MISC,es in an articl
+NE_MISC_SB,ticl
+NE_PER,ntitl
+MWE_COMPOUND_NOUN,Ask, Do Tell." 
+NE_ORG,the keynote speaker for t
+SENT_BOUND,te Pri
+NE_PER, 2007 
+MWE_VPC,all dinner
+MWE_VPC_VERB,all d
+MWE_VPC_PARTICLE,nner
+NE_LOC, 2009, Mixner
+SENT_BOUND,rk City
+NE_PER,ntly r
+MWE_VPC,009, Mix
+MWE_VPC_VERB,009,
+MWE_VPC_PARTICLE,Mix
+NE_MISC, used his blog to c
+SENT_BOUND,BT com
+NE_PER,nity's lack
+NE_PER,hts. C
+NE_MISC,ganizational efforts fo
+SENT_BOUND,sche
+NE_PER,led fo
+NE_PER,ober 
+NE_LOC,s at a 
+SENT_BOUND,ont o
+NE_LOC,er 200,000
+SENT_BOUND, Was
+NE_PER,ngton 
+NE_MISC,009.
+M
+MWE_COMPOUND_NOUN,atured in "Ask N
+NE_MISC,a documentary film ab
+SENT_BOUND,t the 

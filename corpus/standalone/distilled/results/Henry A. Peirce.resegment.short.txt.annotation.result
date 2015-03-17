@@ -1,0 +1,257 @@
+NE_PER,Henry Augustus Peirce
+NE_MISC,American
+SENT_BOUND,diplomat
+NE_PER,Pierce
+NE_PER_SB,Pierce
+NE_LOC,Dorchester
+NE_LOC,Massachusetts
+NE_LOC,Boston
+SENT_BOUND,1808
+NE_PER,Joseph Hardy Peirce
+NE_PER,Joseph Peirce
+NE_PER,Frances Temple
+NE_PER_SB,Temple
+SENT_BOUND,sisters
+MWE_COMPOUND_NOUN,public schools
+NE_LOC,Boston
+MWE_COMPOUND_NOUN,court clerk
+COMPOUND_NOUN_SB,clerk
+MWE_COMPOUND_NOUN,merchant ship
+NE_MISC,Griffon
+NE_PER,Marus T. Peirce
+NE_PER_SB,Peirce
+NE_MISC,Griffon
+NE_LOC,Honolulu
+SENT_BOUND,provisions
+MWE_COMPOUND_NOUN,ship's clerk
+MWE_COMPOUND_NOUN,trading voyage
+NE_LOC,British Columbia
+NE_LOC_SB,Columbia
+NE_MISC,Griffon
+NE_LOC,Honolulu
+NE_PER,Peirce
+SENT_BOUND,returned
+NE_PER,Peirce
+MWE_COMPOUND_NOUN,ex-New Englander
+NE_PER,James Hunnewell
+MWE_COMPOUND_NOUN,mercantile business
+COMPOUND_NOUN_SB,business
+NE_PER,Hunnewell
+SENT_BOUND,1830
+NE_MISC,Becket
+NE_PER,Kamehameha III
+NE_LOC,China
+NE_LOC,Kamchatka Peninsula
+NE_LOC_SB,Peninsula
+NE_PER,Charles Brewer
+MWE_COMPOUND_NOUN,shipping business
+COMPOUND_NOUN_SB,business
+MWE_COMPOUND_NOUN,common-law wife
+NE_PER,Kahoa
+NE_PER,Virginia Rives
+NE_MISC,Hawaiian
+NE_PER,Jean-Baptiste Rives
+NE_MISC,French
+NE_PER,Kamehameha II
+NE_PER_SB,II
+NE_PER,Henry E. Pierce
+SENT_BOUND,education
+NE_PER,Kahoa
+NE_PER,Henry E.
+NE_LOC,Kamchatka
+NE_LOC_SB,Kamchatka
+NE_LOC,China
+NE_LOC,New York
+NE_LOC_SB,York
+SENT_BOUND,years
+NE_LOC,Boston
+NE_LOC,Brazil
+NE_LOC_SB,Brazil
+NE_LOC,Cape Horn
+NE_LOC,Peru
+NE_MISC,Peruvian
+NE_LOC,Hawaii
+NE_LOC_SB,Hawaii
+NE_LOC,Valparaiso
+NE_LOC,Chile
+NE_LOC,Brazil
+NE_LOC_SB,Brazil
+NE_LOC,New York
+NE_LOC,Boston
+NE_LOC_SB,Boston
+NE_PER,Susan R. Thompson
+SENT_BOUND,1838
+NE_MISC,Morse
+SENT_BOUND,1839
+NE_LOC,Cape Horn
+NE_LOC,Honolulu
+SENT_BOUND,1839
+NE_LOC,Alta California
+NE_LOC_SB,California
+NE_MISC,American
+NE_MISC,Spanish
+SENT_BOUND,outpost
+NE_PER,Thomas Cummins
+SENT_BOUND,wrote
+NE_LOC,California
+SENT_BOUND,went
+NE_LOC,San Blas
+NE_LOC,Mexico
+NE_LOC,Mexico City
+NE_LOC,Cuba
+NE_LOC_SB,Cuba
+NE_LOC,Washington, D.C.
+NE_PER,Daniel Webster
+MWE_COMPOUND_NOUN,Secretary of State
+COMPOUND_NOUN_SB,State
+SENT_BOUND,years
+NE_PER,Peirce
+NE_LOC,Honolulu
+NE_ORG,C. Brewer & Co.
+NE_ORG_SB_ABBREV,.
+NE_PER,Brewer
+SENT_BOUND,century
+NE_ORG,Big Five
+NE_LOC,Territory of Hawaii
+NE_LOC_SB,Hawaii
+NE_PER,Peirce
+MWE_LVC,took a tour
+MWE_LVC_VERB,took
+MWE_LVC_NOUN,tour
+NE_LOC,Europe
+MWE_COMPOUND_NOUN,shipping ventures
+COMPOUND_NOUN_SB,ventures
+NE_LOC,Monterey
+NE_LOC,California
+NE_MISC,U.S.
+SENT_BOUND,there
+NE_MISC,California Gold Rush
+NE_MISC,Montreal
+SENT_BOUND,1849
+NE_LOC,San Francisco
+MWE_COMPOUND_NOUN,gold rush
+COMPOUND_NOUN_SB,rush
+NE_MISC,Montreal
+NE_LOC,New England
+NE_LOC,Honolulu
+NE_LOC_SB,Honolulu
+MWE_COMPOUND_NOUN,sugar plantation
+NE_LOC,Kauai
+NE_PER,Charles Reed Bishop
+NE_PER,William Little Lee
+NE_LOC,China
+NE_LOC_SB,China
+NE_MISC,Chinese
+NE_LOC,San Francisco
+SENT_BOUND,profit
+NE_LOC,Boston
+SENT_BOUND,earth
+MWE_COMPOUND_NOUN,market potential
+NE_PER,Hunnewell
+NE_PER,Brewer
+NE_LOC,Hawaii
+NE_LOC,California
+NE_LOC_SB,California
+NE_LOC,Hawaii
+NE_LOC,New England
+NE_LOC_SB,England
+NE_MISC,American Civil War
+SENT_BOUND,1860s
+NE_LOC,Port Royal
+NE_LOC,South Carolina
+NE_PER,William Reynolds
+NE_LOC,Hawaii
+NE_PER,Abraham Lincoln
+SENT_BOUND,assassinated
+MWE_COMPOUND_NOUN,funeral procession
+SENT_BOUND,home
+MWE_COMPOUND_NOUN,cotton plantation
+NE_LOC,Yazoo County
+NE_LOC,Mississippi
+SENT_BOUND,failed
+NE_LOC,Beacon Street
+SENT_BOUND,debts
+NE_PER,Peirce
+MWE_COMPOUND_NOUN,U.S. Minister to Hawaiian Islands
+NE_ORG,U.S. Senate
+SENT_BOUND,1869
+NE_LOC,Honolulu
+SENT_BOUND,visit
+MWE_LVC,presented his credentials
+MWE_LVC_VERB,presented
+MWE_LVC_NOUN,credentials
+NE_PER,Kamehameha V
+NE_PER_SB,V
+NE_ORG,House of Kamehameha
+NE_ORG,Kingdom
+SENT_BOUND,crisis
+NE_PER,Lunalilo
+NE_PER,Kalākaua
+SENT_BOUND,legislature
+NE_PER,Emma
+NE_LOC,Hawaii
+SENT_BOUND,protest
+NE_PER,C. R. Bishop
+MWE_COMPOUND_NOUN,Minister of the Interior
+NE_PER,Peirce
+MWE_VPC,called out
+MWE_VPC_VERB,called
+MWE_VPC_PARTICLE,out
+NE_MISC,American
+SENT_BOUND,and
+NE_PER,Kalākaua
+NE_PER,Peirce
+MWE_COMPOUND_NOUN,government ministers
+NE_LOC,Washington D.C.
+MWE_COMPOUND_NOUN,state visit
+MWE_COMPOUND_NOUN,ruling monarch
+NE_LOC,United States
+NE_LOC_SB,States
+MWE_COMPOUND_NOUN,state dinner
+NE_PER,Ulysses S. Grant
+NE_ORG,U.S. Cabinet
+NE_ORG_SB,Cabinet
+NE_MISC,Reciprocity Treaty
+NE_LOC,Pearl Harbor
+NE_ORG,U.S.
+NE_MISC,Hawaiian
+SENT_BOUND,goods
+NE_LOC,Harbor
+SENT_BOUND,sovereignty
+NE_PER,Peirce
+SENT_BOUND,monarchs
+NE_PER,Kalākaua
+NE_PER,Peirce
+NE_MISC,Royal Order of Kamehameha
+NE_ORG,U.S. Government
+SENT_BOUND,accept
+NE_PER,James M. Comly
+SENT_BOUND,1877
+NE_LOC,San Francisco
+NE_LOC,Hawaii
+SENT_BOUND,1878
+NE_PER,Kalākaua
+MWE_COMPOUND_NOUN,Minister of Foreign Affairs
+NE_ORG,Kingdom of Hawaii
+SENT_BOUND,1
+NE_ORG,Kingdom
+NE_LOC,United States
+MWE_COMPOUND_NOUN,New Englander
+NE_PER,Elisha Hunt Allen
+NE_PER_SB,Allen
+NE_MISC,Americans
+SENT_BOUND,treaty
+NE_PER,Allen
+MWE_COMPOUND_NOUN,chief justice
+NE_ORG,Hawaii Supreme Court
+NE_ORG_SB,Court
+MWE_COMPOUND_NOUN,no confidence vote
+NE_PER,Kalākaua
+SENT_BOUND,1878
+NE_PER,Peirce
+NE_ORG,House of Nobles
+NE_LOC,Boston
+SENT_BOUND,1883
+NE_LOC,Boston
+NE_LOC,San Francisco
+SENT_BOUND,1885

@@ -1,0 +1,292 @@
+NE_PER,
+Daphne Moon Cran
+NE_MISC, America
+NE_MISC, Frasie
+NE_PER, Jane Leeve
+NE_PER_SB, Leeve
+NE_PER,
+Daph
+NE_LOC,m Engla
+NE_PER,y Frasier Cra
+MWE_COMPOUND_NOUN,d physical therapi
+NE_PER,, Mart
+NE_PER_SB,, Mart
+MWE_COMPOUND_NOUN,d comic reli
+NE_PER,h Frasi
+NE_PER,r Niles Cra
+NE_PER,m Nil
+SENT_BOUND,n t
+NE_PER,y Lisa Maxwe
+SENT_BOUND,h produce
+NE_PER,.
+Dap
+NE_LOC,in Manches
+NE_LOC,r, Engl
+MWE_COMPOUND_NOUN,he only daugh
+SENT_BOUND,ne child
+SENT_BOUND,er broth
+MWE_COMPOUND_NOUN,ex love-hate relations
+NE_PER,r, Gertrude M
+NE_PER,by Millicent Mar
+NE_PER,r, Ha
+NE_PER,by Brian 
+SENT_BOUND,nd clo
+NE_PER,rl, Da
+NE_MISC,hit Bri
+NE_MISC,com Mind Your Knic
+MWE_COMPOUND_NOUN,rls boarding sc
+NE_MISC,70s Bri
+NE_MISC,com Mind Your Lang
+NE_MISC_SB,our Lang
+SENT_BOUND,een chara
+SENT_BOUND,any tournam
+MWE_COMPOUND_NOUN,t a convenience s
+NE_PER,ed) Da
+MWE_VPC,hen too
+MWE_VPC_VERB,hen 
+MWE_VPC_PARTICLE,oo
+MWE_COMPOUND_NOUN,s a physical thera
+SENT_BOUND,and shut
+NE_LOC,the Atla
+NE_LOC, in Sea
+SENT_BOUND,ing fa
+MWE_COMPOUND_NOUN,ird season fi
+NE_MISC,le "You Can Go Home A
+NE_PER,the Cr
+MWE_LVC,she had a chance encou
+MWE_LVC_VERB,she
+MWE_LVC_NOUN,nce encou
+NE_LOC, at Cafe Ner
+NE_LOC_SB,afe Ner
+MWE_COMPOUND_NOUN,rst season prem
+NE_MISC,re "The Good
+NE_PER,on" Da
+NE_PER, by Frasier C
+NE_PER,ist Fra
+NE_PER,er, Martin C
+SENT_BOUND,and exerc
+NE_PER,es. Ma
+MWE_COMPOUND_NOUN,m a bullet w
+NE_LOC,the Sea
+MWE_COMPOUND_NOUN,tle police f
+COMPOUND_NOUN_SB,ice f
+NE_PER,s on Fr
+NE_PER,ier, D
+SENT_BOUND,many eccentric
+NE_PER, the 
+SENT_BOUND,rane f
+MWE_COMPOUND_NOUN,so a firm bel
+SENT_BOUND,y
+NE_PER,ic". D
+SENT_BOUND,very accur
+NE_PER,chic D
+NE_PER,ects 
+SENT_BOUND,main chara
+NE_PER,when Fr
+SENT_BOUND, her out
+NE_PER,sed, D
+MWE_OTHER,ably down p
+MWE_OTHER_SB,down p
+NE_PER,yed.
+
+NE_PER, with Frasier
+NE_PER,ther, Niles
+NE_PER_SB,Niles
+NE_PER,st to 
+NE_PER,phne,
+MWE_LVC,Niles falls i
+MWE_LVC_VERB,Niles
+MWE_LVC_NOUN,falls i
+NE_PER,ss of
+NE_PER,tion, 
+NE_PER,us to
+SENT_BOUND,close f
+NE_PER,ends.
+NE_PER,ng to 
+SENT_BOUND,oth
+NE_PER, not, F
+NE_PER,event
+SENT_BOUND,g her an
+NE_PER,hing.
+NE_PER,led by 
+SENT_BOUND,S
+NE_PER,scove
+NE_PER,s her,
+MWE_LVC,erself falling 
+MWE_LVC_VERB,erself 
+MWE_LVC_NOUN,alling 
+NE_PER,e wit
+NE_PER,sitio
+SENT_BOUND,r true f
+NE_PER,lfr
+NE_PER,nd Mel
+MWE_VPC,ends to 
+MWE_VPC_VERB,en
+MWE_VPC_PARTICLE,s to 
+NE_PER,iage 
+MWE_COMPOUND_NOUN, Niles' divorc
+NE_PER, lawy
+NE_PER,, until
+SENT_BOUND,Frasier in
+NE_PER,ason 
+MWE_IDIOM,of them are be
+MWE_LVC, having made a serious co
+MWE_LVC_VERB, hav
+MWE_LVC_NOUN,serious co
+NE_PER,tment)
+MWE_LVC, Daphne changes 
+MWE_LVC_VERB, Daphne
+MWE_LVC_NOUN,ges 
+NE_PER,ndoni
+NE_PER,tar, 
+SENT_BOUND, Niles' 
+MWE_LVC,a. 
+The guilt sh
+MWE_LVC_NOUN,a. 
+
+MWE_LVC_VERB,uilt sh
+NE_PER,lties 
+NE_PER,phne 
+NE_PER,p, cau
+MWE_COMPOUND_NOUN,s eating 
+SENT_BOUND,ve she's
+NE_PER,ds), 
+NE_PER,ce unt
+MWE_VPC,heavy 
+MWE_VPC_VERB,hea
+MWE_VPC_PARTICLE,y 
+NE_PER, help o
+NE_PER,Frasi
+NE_PER,iles a
+NE_PER,ok thr
+SENT_BOUND,l
+MWE_COMPOUND_NOUN,u"). The weigh
+NE_PER,to all
+SENT_BOUND,ng while
+NE_PER,regnan
+SENT_BOUND,r figure
+NE_MISC,episode "It Takes Two 
+NE_PER, reso
+NE_PER,es 
+NE_PER,Roz th
+NE_PER,eight 
+SENT_BOUND,r
+NE_MISC,beco
+SENT_BOUND,es a U.
+NE_PER,eason 
+NE_PER,aphne
+NE_LOC,remo
+NE_LOC, in Re
+NE_LOC_SB, in Re
+NE_PER,n 11 s
+NE_PER,aphne
+SENT_BOUND, a wed
+NE_PER,d coup
+NE_PER,aphne
+NE_PER,st ch
+NE_MISC, series, "Goodnigh
+SENT_BOUND,t
+NE_PER,o-creator Da
+SENT_BOUND, 11, 20
+NE_MISC,es a
+NE_MISC,se
+NE_MISC, on t
+MWE_COMPOUND_NOUN,ily to the b
+NE_PER,lots w
+NE_PER,chases 
+NE_PER,rasie
+NE_PER_SB,rasie
+NE_PER,he fami
+NE_MISC,ying her a F
+SENT_BOUND,rd Mustang 
+NE_PER,sode w
+MWE_COMPOUND_NOUN,ooking for replac
+COMPOUND_NOUN_SB,eplac
+NE_PER,he ma
+MWE_VPC,he clea
+MWE_VPC_VERB,he c
+MWE_VPC_PARTICLE,ea
+SENT_BOUND,his
+NE_MISC,e driv
+NE_PER,onsid
+NE_MISC,ondness 
+NE_MISC_SB,ondness 
+NE_PER, Merce
+MWE_VPC,es.
+Da
+MWE_VPC_VERB,es.
+MWE_VPC_PARTICLE,Da
+SENT_BOUND,sfunct
+NE_PER,s leav
+SENT_BOUND,es somewh
+MWE_COMPOUND_NOUN, one of her fa
+NE_MISC, 7 episode "Dark Side
+NE_PER,", in
+NE_PER,y surp
+NE_PER,er br
+NE_PER,her, Simon (Anth
+NE_PER,te brot
+NE_PER,s played by Rich
+SENT_BOUND,a
+NE_MISC,Grant). In "Something Borrowed, 
+NE_PER,meone 
+MWE_LVC,ne's mother makes her firs
+MWE_LVC_VERB,ne's 
+MWE_LVC_NOUN,s her firs
+MWE_LVC,father only mak
+MWE_LVC_VERB,fathe
+MWE_LVC_NOUN,y mak
+SENT_BOUND,t
+NE_MISC,erved on t
+NE_PER,nty who took Fletc
+SENT_BOUND, side 
+MWE_VPC,ng to her 
+MWE_VPC_VERB,ng t
+MWE_VPC_PARTICLE,r 
+NE_LOC,e made it to Pi
+NE_MISC,sland wi
+SENT_BOUND, had sev
+NE_PER,menti
+NE_MISC,there may 
+SENT_BOUND, ent
+NE_PER,
+Five
+MWE_LVC,, few of them maintain
+MWE_LVC_VERB,, few of t
+MWE_LVC_NOUN,em maintain
+NE_PER,sisten
+SENT_BOUND,ne's N
+NE_PER,thern ac
+NE_MISC, LaPaglia,
+NE_MISC,ctor, f
+NE_LOC,ed a C
+NE_PER,accent, while R
+NE_MISC,trane, w
+NE_PER,ttish,
+NE_PER,hne's b
+NE_MISC,ith a 
+NE_LOC,ddled Brum
+SENT_BOUND, (Birm
+NE_PER,s, ex
+NE_MISC,n the episode
+NE_PER,oom, i
+SENT_BOUND,howe
+NE_PER,m! Ex
+SENT_BOUND,or
+NE_PER,t is..
+NE_PER, with he
+MWE_COMPOUND_NOUN, resumin
+NE_PER,sex l
+MWE_COMPOUND_NOUN,les after his
+NE_PER,eart sur
+NE_PER, your
+NE_PER, Bill
+NE_PER_SB, Bill
+NE_PER, Accor
+NE_PER,ng to
+MWE_COMPOUND_NOUN,s traditional fish
+MWE_COMPOUND_NOUN,oing to teach ba
+COMPOUND_NOUN_SB,each ba
+NE_PER,oom da
+NE_LOC, who lives in
+SENT_BOUND, priest and 

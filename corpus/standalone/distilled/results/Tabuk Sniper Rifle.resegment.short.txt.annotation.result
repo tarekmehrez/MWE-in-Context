@@ -1,0 +1,178 @@
+NE_MISC,Tabuk Sniper Rifle
+NE_MISC,Iraqi
+NE_MISC,Serbian
+MWE_COMPOUND_NOUN,designated marksman's rifle
+NE_MISC,Zastava M70
+MWE_COMPOUND_NOUN,assault rifle
+COMPOUND_NOUN_SB,rifle
+NE_MISC,Tabuk Sniper Rifle
+NE_MISC,AK-47
+NE_MISC,Dragunov SVD
+NE_LOC,Iraq
+NE_ORG,Al-Qadissiya Establishments
+NE_LOC,Iraq
+NE_PER,Saddam Hussein
+NE_ORG,Zastava
+NE_LOC,Yugoslavia
+NE_LOC_SB,Yugoslavia
+NE_ORG,Zastava
+NE_LOC,Yugoslavia
+NE_MISC,M70
+NE_MISC,AKM
+NE_MISC,M76
+NE_MISC_SB,M76
+NE_MISC,M70
+NE_MISC,RPK
+MWE_COMPOUND_NOUN,sheet metal
+SENT_BOUND,trunion
+MWE_VPC,came about
+MWE_VPC_VERB,came
+MWE_VPC_PARTICLE,about
+NE_MISC,Russian
+NE_MISC,RPK
+SENT_BOUND,)
+NE_MISC,Yugoslavian
+NE_MISC,RPK
+NE_MISC,M72
+NE_MISC,M70
+NE_MISC,Tabuk
+SENT_BOUND,based
+NE_MISC,Tabuk Rifle
+NE_MISC,Yugoslavian
+NE_MISC,RPK
+MWE_COMPOUND_NOUN,flash hider
+MWE_COMPOUND_NOUN,barrel length
+NE_MISC,Soviet
+NE_MISC,RPK
+NE_MISC,AKM
+NE_MISC,M70
+SENT_BOUND,)
+NE_MISC,Tabuk
+NE_MISC,RPK
+MWE_COMPOUND_NOUN,muzzle attachments
+NE_MISC,Russian
+MWE_COMPOUND_NOUN,thread pattern
+MWE_COMPOUND_NOUN,left hand thread
+NE_MISC,soviet
+MWE_COMPOUND_NOUN,flash hiders
+MWE_COMPOUND_NOUN,muzzle brakes
+NE_MISC,soviet
+MWE_COMPOUND_NOUN,sound suppression devices
+COMPOUND_NOUN_SB,devices
+NE_LOC,Baghdad
+MWE_COMPOUND_NOUN,media descriptions
+NE_MISC,Tabuk Rifle
+MWE_COMPOUND_NOUN,media reports
+NE_MISC,Tobuk
+NE_MISC,Tobok
+SENT_BOUND,"
+NE_MISC,Tabook
+NE_MISC,Tabouk
+NE_MISC,Arabic
+MWE_COMPOUND_NOUN,place name
+NE_MISC,Arab
+NE_PER,Mohammed
+NE_PER_SB,Mohammed
+MWE_COMPOUND_NOUN,capitol city
+NE_MISC,Saudi
+NE_LOC,Saudi Arabia
+MWE_COMPOUND_NOUN,county detail
+SENT_BOUND,)
+
+NE_MISC,Tabuk Rifle
+NE_MISC,SVD Dragunov
+NE_MISC_SB,Dragunov
+NE_MISC,Kalashnikov
+NE_MISC,AK-47
+NE_MISC,AK-74
+NE_MISC,Dragunov
+NE_ORG,Russian Army
+NE_MISC,Mosin-Nagant 1891
+NE_MISC,World War II
+SENT_BOUND,beyond
+MWE_LVC,mistake to make
+MWE_LVC_NOUN,mistake
+MWE_LVC_VERB,make
+NE_MISC,Tabuk
+NE_MISC,Dragunov
+SENT_BOUND,inches
+NE_MISC,Tabuk
+NE_MISC,Yugo
+NE_MISC,RPK
+SENT_BOUND,few
+MWE_COMPOUND_ADJ,semi auto
+NE_MISC,Tabuk
+SENT_BOUND,important
+MWE_COMPOUND_NOUN,precision fire
+MWE_COMPOUND_NOUN,suppressive fire
+COMPOUND_NOUN_SB,fire
+SENT_BOUND,life
+NE_MISC,RPK
+MWE_COMPOUND_NOUN,hand guards
+NE_MISC,AKM
+NE_MISC,Tabuk
+SENT_BOUND,)
+NE_MISC,RPK
+MWE_COMPOUND_NOUN,heat distribution
+MWE_COMPOUND_NOUN,surface area
+COMPOUND_NOUN_SB,area
+MWE_COMPOUND_NOUN,eastern block
+MWE_COMPOUND_NOUN,long range precision rifles
+NE_MISC,Tabuk
+NE_MISC,SVD
+NE_MISC,PSL
+SENT_BOUND,barrel
+NE_MISC,Tabuk
+NE_MISC,M72
+SENT_BOUND,ways
+MWE_COMPOUND_NOUN,eastern bloc
+MWE_COMPOUND_NOUN,cheek piece
+COMPOUND_NOUN_SB,piece
+NE_MISC,Tabuk
+SENT_BOUND,bipod
+NE_MISC,M72
+SENT_BOUND,attached
+MWE_COMPOUND_NOUN,mechanical accuracy
+MWE_COMPOUND_NOUN,practical accuracy
+MWE_COMPOUND_NOUN,long range work
+COMPOUND_NOUN_SB,work
+NE_MISC,RPK
+NE_MISC,Tabuk
+NE_MISC,RPK
+SENT_BOUND,7.62x39
+NE_MISC,Tabuk
+NE_MISC,AK-47
+NE_MISC,Ak-47
+MWE_COMPOUND_ADJ,well made
+SENT_BOUND,lost
+NE_MISC,Tabuk
+NE_MISC,soviet
+NE_MISC,M43
+MWE_COMPOUND_NOUN,sniper rifle
+SENT_BOUND,)
+MWE_COMPOUND_NOUN,effective range
+NE_MISC,Tabuk
+MWE_COMPOUND_NOUN,designated marksman's rifle
+COMPOUND_NOUN_SB,rifle
+SENT_BOUND,semantics
+NE_MISC,Tabuk
+NE_MISC,Dragunov
+NE_MISC,PSL
+SENT_BOUND,precisely
+MWE_COMPOUND_NOUN,terminal ballistics
+NE_MISC,soviet
+SENT_BOUND,tissue
+MWE_COMPOUND_NOUN,effective range
+MWE_COMPOUND_NOUN,higher velocity counterparts
+NE_MISC,SVD
+NE_MISC_SB,SVD
+NE_MISC,RPK
+MWE_COMPOUND_NOUN,enemy snipers/designated marks men
+SENT_BOUND,difficult
+NE_MISC,AK-47
+NE_MISC_SB,AK-47
+MWE_COMPOUND_NOUN,low velocity intermediate round
+NE_MISC,Tabuk
+MWE_COMPOUND_NOUN,barrier penetration
+MWE_COMPOUND_NOUN,body armor
+SENT_BOUND,7.62x54R

@@ -1,0 +1,564 @@
+NE_PER,Karl Marx
+NE_MISC,German
+NE_MISC,French
+NE_MISC,English
+NE_MISC,Scottish
+MWE_COMPOUND_NOUN,political economy
+COMPOUND_NOUN_SB,economy
+MWE_COMPOUND_NOUN,three sources" model
+SENT_BOUND,truth
+NE_PER,Immanuel Kant
+MWE_LVC,had the greatest influence
+MWE_LVC_VERB,had
+MWE_LVC_NOUN,influence
+SENT_BOUND,times
+NE_MISC,Kantian
+NE_PER,Georg Hegel
+NE_PER_SB,Hegel
+NE_PER,Hegel
+MWE_VPC,taken up
+MWE_VPC_VERB,taken
+MWE_VPC_PARTICLE,up
+NE_PER,Karl Marx
+NE_PER,Kant
+SENT_BOUND,used
+NE_PER,G. W. F. Hegel
+NE_LOC,Germany
+NE_LOC_SB,Germany
+SENT_BOUND,regarded
+NE_ORG,Hegelians
+NE_ORG_SB,Hegelians
+NE_ORG,Hegelians
+MWE_LVC,offered a conservative interpretation
+MWE_LVC_VERB,offered
+MWE_LVC_NOUN,interpretation
+SENT_BOUND,work
+NE_PER,Hegel
+SENT_BOUND,Christianity
+SENT_BOUND,orthodox
+NE_ORG,Hegelians
+SENT_BOUND,position
+SENT_BOUND,revolutionaries
+NE_PER,Ludwig Feuerbach
+NE_PER,Bruno Bauer
+NE_PER,Friedrich Engels
+NE_PER,Marx
+NE_PER_SB,Marx
+NE_ORG,Young Hegelians
+NE_ORG_SB,Hegelians
+NE_PER,Marx
+MWE_COMPOUND_NOUN,historical materialism
+NE_PER,Hegel
+SENT_BOUND,dialectically
+NE_PER,Hegel
+SENT_BOUND,)
+NE_PER,Hegel
+MWE_OTHER,status quo
+MWE_OTHER_SB,quo
+NE_PER,Hegel
+NE_LOC,United States
+SENT_BOUND,civilization
+NE_PER,Marx
+NE_PER,Hegel
+NE_PER,Marx
+SENT_BOUND,terms
+NE_MISC,A Contribution to the Critique of Political Economy
+NE_MISC_SB,Economy
+NE_PER,Marx
+MWE_COMPOUND_NOUN,social development
+SENT_BOUND,superstructure
+MWE_COMPOUND_NOUN,slave states
+COMPOUND_NOUN_SB,states
+MWE_COMPOUND_NOUN,Slave states
+MWE_COMPOUND_NOUN,feudal societies
+COMPOUND_NOUN_SB,societies
+MWE_COMPOUND_NOUN,capitalist states
+SENT_BOUND,began
+NE_PER,Marx
+SENT_BOUND,capitalism
+NE_PER,Ludwig Feuerbach
+NE_MISC,German
+SENT_BOUND,anthropologist
+NE_PER,Feuerbach
+MWE_COMPOUND_NOUN,political thought
+SENT_BOUND,needs
+MWE_COMPOUND_NOUN,sensory organs
+SENT_BOUND,world
+NE_PER,Marx
+NE_PER,Engels
+NE_PER,Feuerbach
+SENT_BOUND,society
+NE_MISC,The Essence of Christianity
+NE_PER,Feuerbach
+NE_PER,God
+NE_PER,God
+SENT_BOUND,humanity
+NE_PER,Marx
+MWE_COMPOUND_NOUN,material world
+SENT_BOUND,world
+NE_PER,Hegel
+NE_PER,Marx
+SENT_BOUND,reality
+MWE_COMPOUND_NOUN,material world
+SENT_BOUND,clearly
+NE_PER,Marx
+NE_PER,Feuerbach
+NE_PER,Feuerbach
+NE_PER,God
+NE_MISC,Prussian
+SENT_BOUND,state
+NE_PER,Marx
+MWE_LVC,give ontological priority
+MWE_LVC_VERB,give
+MWE_LVC_NOUN,priority
+MWE_COMPOUND_NOUN,real life process
+MWE_COMPOUND_NOUN,human beings
+NE_PER,Engels
+NE_MISC,The German Ideology
+SENT_BOUND,)
+NE_MISC,Theses on Feuerbach
+SENT_BOUND,"
+MWE_COMPOUND_NOUN,state of affairs
+NE_MISC,Marxist
+SENT_BOUND,philosophers
+NE_PER,Marx
+NE_MISC,German Idealism
+NE_PER,Louis Althusser
+NE_MISC,Structural Marxism
+MWE_COMPOUND_NOUN,class struggle
+SENT_BOUND,"
+NE_PER,Marx
+MWE_COMPOUND_NOUN,university philosophy
+NE_MISC,Marxist
+NE_PER,Marx
+NE_PER,Marx
+MWE_LVC,poses problems
+MWE_LVC_VERB,poses
+MWE_LVC_NOUN,problems
+LVC_NOUN_SB,problems
+NE_MISC,Revolutions
+NE_PER,Marx
+NE_PER,Engels
+NE_MISC,The Communist Manifesto
+SENT_BOUND,"
+NE_PER,Marx
+NE_PER,Louis-Napoleon Bonaparte
+MWE_LVC,put an end
+MWE_LVC_VERB,put
+MWE_LVC_NOUN,end
+NE_MISC,French
+NE_ORG,Second Republic
+NE_ORG,Second Empire
+NE_MISC,Franco-Prussian War
+NE_MISC_SB,War
+NE_PER,Marx
+NE_MISC,Economic and Philosophical Manuscripts
+MWE_COMPOUND_NOUN,commodity fetishism
+NE_MISC,Das Kapital
+SENT_BOUND,)
+NE_MISC,Marxist
+NE_MISC,Marxist
+NE_ORG,Praxis School
+SENT_BOUND,it
+NE_PER,Althusser
+MWE_COMPOUND_NOUN,epistemological break
+NE_PER,Marx
+NE_PER,Marx
+MWE_COMPOUND_NOUN,scientific theory
+SENT_BOUND,society
+NE_PER,Hegel
+NE_PER,Hegel
+NE_PER,Marx
+NE_PER,Hegel
+NE_PER,Bruno Bauer
+NE_ORG,Young Hegelians
+NE_PER,Marx
+SENT_BOUND,himself
+NE_PER,Marx
+NE_PER,Engels
+MWE_VPC,came to
+MWE_VPC_VERB,came
+MWE_VPC_PARTICLE,to
+NE_PER,Bruno Bauer
+NE_ORG,Young Hegelians
+NE_PER,Hegel
+SENT_BOUND,dialectic
+NE_PER,Marx
+MWE_VPC,broke away
+MWE_VPC_VERB,broke
+MWE_VPC_PARTICLE,away
+NE_MISC,German
+NE_ORG,Young Hegelians
+NE_ORG_SB,Hegelians
+NE_PER,Engels
+NE_LOC,United Kingdom
+MWE_VPC,cut away
+MWE_VPC_VERB,cut
+MWE_VPC_PARTICLE,away
+MWE_VPC,grew up
+MWE_VPC_VERB,grew
+MWE_VPC_PARTICLE,up
+NE_LOC,France
+NE_LOC,Germany
+NE_LOC_SB,Germany
+NE_ORG,Young Hegelians
+NE_MISC,The Holy Family
+NE_MISC,The German Ideology
+NE_PER,Bauer
+NE_PER,Max Stirner
+NE_MISC,The Ego and Its Own
+MWE_COMPOUND_NOUN,individualist anarchism
+COMPOUND_NOUN_SB,anarchism
+NE_PER,Max Stirner
+NE_PER,God
+NE_ORG,Humanity
+NE_PER,Ludwig Feuerbach
+NE_MISC,The Essence of Christianity
+SENT_BOUND,sufficient
+NE_PER,Stirner
+NE_PER,God
+NE_ORG,Humanity
+NE_ORG,Nation
+NE_MISC,Revolution
+NE_PER,Ego
+SENT_BOUND,"
+NE_PER,Marx
+NE_PER,Proudhon
+NE_MISC,The Poverty of Philosophy
+SENT_BOUND,)
+NE_PER,Marx
+NE_PER,Hegel
+NE_MISC,German Idealism
+NE_ORG,Young Hegelians
+NE_ORG_SB,Hegelians
+NE_PER,Marx
+NE_PER,Hegel
+MWE_VPC,turning the idealistic dialectic into
+MWE_VPC_VERB,turning
+MWE_VPC_PARTICLE,into
+SENT_BOUND,around
+NE_PER,Marx
+MWE_LVC,following the lead
+MWE_LVC_VERB,following
+MWE_LVC_NOUN,lead
+NE_PER,Feuerbach
+NE_PER_SB,Feuerbach
+NE_MISC,Economic and Philosophical Manuscripts
+NE_PER,Feuerbach
+NE_PER,Man
+NE_PER,God
+NE_PER,God
+MWE_COMPOUND_NOUN,human nature
+SENT_BOUND,)
+NE_PER,Marx
+NE_PER,Feuerbach
+NE_PER,Stirner
+MWE_VPC,point out
+MWE_VPC_VERB,point
+MWE_VPC_PARTICLE,out
+NE_ORG,Young Hegelians
+SENT_BOUND,itself
+NE_PER,Feuerbach
+MWE_COMPOUND_NOUN,human nature
+NE_PER,Feuerbach
+SENT_BOUND,individual
+NE_PER,Feuerbach
+MWE_COMPOUND_NOUN,human nature
+SENT_BOUND,)
+SENT_BOUND,individual
+MWE_COMPOUND_NOUN,social relations
+COMPOUND_NOUN_SB,relations
+MWE_COMPOUND_NOUN,classic philosophy
+NE_PER,Hobbes
+NE_PER,Locke
+NE_PER,Rousseau
+MWE_COMPOUND_NOUN,political economy
+NE_PER,Marx
+MWE_COMPOUND_NOUN,social relations
+SENT_BOUND,existence
+MWE_COMPOUND_NOUN,commodity fetishism
+SENT_BOUND,alienation
+NE_PER,Marx
+MWE_COMPOUND_NOUN,social determinism
+MWE_COMPOUND_NOUN,free will
+NE_PER,Marx
+SENT_BOUND,clear
+NE_PER,Marx
+NE_PER,Hegel
+NE_ORG,Young Hegelians
+NE_ORG,Young Hegelians
+MWE_VPC,taking up
+MWE_VPC_VERB,taking
+MWE_VPC_PARTICLE,up
+MWE_COMPOUND_NOUN,civil society
+SENT_BOUND,paramount
+NE_PER,Marx
+NE_MISC,Economic and Philosophical Manuscripts of 1844
+NE_PER,Marx
+MWE_COMPOUND_NOUN,natural philosophy
+MWE_COMPOUND_NOUN,political economy
+COMPOUND_NOUN_SB,economy
+NE_ORG,Rheinische Zeitung
+NE_MISC,Prussian
+MWE_LVC,made a rather idealist, legal defense
+MWE_LVC_VERB,made
+MWE_LVC_NOUN,defense
+NE_LOC,Moselle
+MWE_COMPOUND_NOUN,customary right
+SENT_BOUND,)
+NE_PER,Marx
+MWE_COMPOUND_NOUN,political economy
+COMPOUND_NOUN_SB,economy
+MWE_COMPOUND_NOUN,Political economy
+MWE_COMPOUND_NOUN,social relations
+MWE_COMPOUND_NOUN,economic relations
+SENT_BOUND,interwoven
+NE_PER,Marx
+MWE_VPC,built on
+MWE_VPC_VERB,built
+MWE_VPC_PARTICLE,on
+MWE_COMPOUND_NOUN,political economists
+NE_MISC,British
+MWE_COMPOUND_NOUN,political economists
+COMPOUND_NOUN_SB,economists
+NE_PER,Adam Smith
+SENT_BOUND,labour
+NE_PER,Marx
+NE_PER,Smith
+NE_PER,Ricardo
+MWE_COMPOUND_NOUN,human society
+SENT_BOUND,societies
+MWE_COMPOUND_NOUN,money prices
+COMPOUND_NOUN_SB,prices
+MWE_COMPOUND_ADJ,value added
+MWE_VPC,paid out
+MWE_VPC_VERB,paid
+MWE_VPC_PARTICLE,out
+SENT_BOUND,wages
+MWE_COMPOUND_NOUN,labour power
+MWE_LVC,gained control
+MWE_LVC_VERB,gained
+MWE_LVC_NOUN,control
+LVC_NOUN_SB,control
+NE_PER,Marx
+MWE_COMPOUND_NOUN,surplus value
+NE_PER,Adam Smith
+NE_PER,David Ricardo
+NE_PER_SB,Ricardo
+MWE_COMPOUND_NOUN,working day
+MWE_COMPOUND_NOUN,surplus labour
+SENT_BOUND,)
+SENT_BOUND,capitalists
+MWE_COMPOUND_NOUN,ruling class
+SENT_BOUND,themselves
+NE_PER,Marx
+NE_MISC,Ricardian
+SENT_BOUND,school
+NE_MISC,Capital: A Critique of Political Economy
+MWE_COMPOUND_NOUN,value relations
+SENT_BOUND,take
+NE_PER,Marx
+MWE_COMPOUND_NOUN,business cycles
+MWE_COMPOUND_NOUN,economic growth
+MWE_COMPOUND_NOUN,crisis theory
+NE_PER,Marx
+MWE_COMPOUND_NOUN,political economy
+COMPOUND_NOUN_SB,economy
+NE_PER,Marx
+MWE_LVC,made tentative movements
+MWE_LVC_VERB,made
+MWE_LVC_NOUN,movements
+MWE_COMPOUND_NOUN,statistical techniques
+MWE_COMPOUND_NOUN,national accounting
+SENT_BOUND,century
+NE_PER,Marx
+MWE_COMPOUND_NOUN,social relations
+SENT_BOUND,flows
+NE_MISC,Marxist
+SENT_BOUND,emerged
+NE_PER,Marx
+MWE_COMPOUND_NOUN,price data
+SENT_BOUND,possible
+MWE_COMPOUND_NOUN,private property
+NE_PER,Marx
+NE_PER,Rousseau
+SENT_BOUND,writings
+SENT_BOUND,majority
+NE_PER,Jean-Jacques Rousseau
+MWE_COMPOUND_NOUN,egalitarian democracy
+COMPOUND_NOUN_SB,democracy
+NE_ORG,France
+MWE_COMPOUND_NOUN,social problems
+NE_MISC,Industrial Revolution
+NE_MISC_SB,Revolution
+SENT_BOUND,left
+NE_PER,Charles Fourier
+NE_PER,Saint-Simon
+NE_PER_SB,Saint-Simon
+NE_PER,Fourier
+NE_ORG,Saint-Simonians
+SENT_BOUND,credit
+NE_PER,Marx
+NE_PER_SB,Marx
+NE_PER,Louis Blanc
+MWE_COMPOUND_ADJ,best known
+MWE_COMPOUND_NOUN,social principle
+NE_PER,Marx
+SENT_BOUND,needs
+NE_PER,Pierre-Joseph Proudhon
+SENT_BOUND,republic
+MWE_LVC,had misgivings
+MWE_LVC_VERB,had
+MWE_LVC_NOUN,misgivings
+NE_PER,Proudhon
+SENT_BOUND,basic
+NE_PER,Proudhon
+NE_MISC,Solution du probleme social
+MWE_VPC,laid out
+MWE_VPC_VERB,laid
+MWE_VPC_PARTICLE,out
+SENT_BOUND,workers
+MWE_COMPOUND_NOUN,economic relations
+SENT_BOUND,workers
+NE_PER,Proudhon
+NE_MISC,What is Property?
+NE_PER,Karl Marx
+MWE_COMPOUND_NOUN,private property
+SENT_BOUND,abolished
+NE_MISC,The Holy Family
+NE_PER,Marx
+NE_PER,Proudhon
+SENT_BOUND,ouvrier
+SENT_BOUND,proletariat
+NE_PER,Marx
+NE_PER,Proudhon
+NE_PER,Proudhon
+NE_PER_SB,Proudhon
+NE_PER,Marx
+NE_MISC,The Poverty of Philosophy
+NE_PER,Proudhon
+NE_MISC,The Philosophy of Poverty
+NE_MISC_SB,Poverty
+NE_PER,Proudhon
+NE_PER,Mikhail Bakunin
+NE_PER_SB,Bakunin
+NE_PER,Bakunin
+MWE_COMPOUND_NOUN,libertarian socialism
+MWE_COMPOUND_NOUN,anarchist communism
+MWE_COMPOUND_NOUN,collectivist anarchism
+NE_PER,Peter Kropotkin
+NE_PER,Joseph Déjacque
+NE_PER_SB,Déjacque
+NE_PER,Marx
+NE_PER,Engels
+NE_MISC,The Condition of the Working Class
+NE_LOC,England
+NE_PER,Marx
+MWE_COMPOUND_NOUN,historical dialectic
+MWE_COMPOUND_NOUN,class conflict
+MWE_COMPOUND_NOUN,working class
+SENT_BOUND,revolution
+NE_PER,Engels
+NE_PER,Marx
+NE_PER,Marx
+NE_PER,Marx
+NE_PER,Engels
+SENT_BOUND,person
+NE_MISC,German Ideology
+NE_MISC,Communist Manifesto
+MWE_COMPOUND_NOUN,joint efforts
+COMPOUND_NOUN_SB,efforts
+NE_PER,Engels
+NE_PER,Marx
+SENT_BOUND,elaboration
+NE_PER,Marx
+NE_PER,Epicurus
+NE_PER,Marx
+NE_MISC,Difference of natural philosophy between Democritus and Epicurus
+MWE_VPC,opened up
+MWE_VPC_VERB,opened
+MWE_VPC_PARTICLE,up
+SENT_BOUND,liberty
+NE_PER,Marx
+NE_PER,Lewis H. Morgan
+MWE_COMPOUND_NOUN,social evolution theory
+COMPOUND_NOUN_SB,theory
+NE_PER,Lewis Morgan
+SENT_BOUND,editions
+NE_PER,Giambattista Vico
+MWE_COMPOUND_NOUN,human societies
+SENT_BOUND,barbarism
+NE_MISC,Age of the Gods
+NE_MISC,Age of Heroes
+MWE_COMPOUND_NOUN,common people
+NE_MISC,the Age of Men
+SENT_BOUND,disintegrate
+NE_PER,Vico
+NE_PER,Marx
+SENT_BOUND,apparent
+NE_PER,Marx
+NE_PER,Darwin
+NE_MISC,The Origin of Species
+MWE_COMPOUND_NOUN,class struggle
+COMPOUND_NOUN_SB,struggle
+NE_PER,Darwin
+NE_MISC,Das Kapital
+SENT_BOUND,1873
+NE_PER,Marx
+NE_PER,Darwin
+MWE_COMPOUND_NOUN,human society
+SENT_BOUND,nature
+NE_PER,Karl Marx
+NE_PER,Ferdinand Lassalle
+NE_PER,Darwin
+MWE_COMPOUND_NOUN,natural science
+MWE_COMPOUND_NOUN,class struggle
+COMPOUND_NOUN_SB,struggle
+MWE_COMPOUND_NOUN,natural science
+MWE_COMPOUND_NOUN,mortal blow
+SENT_BOUND,explained
+NE_PER,Darwin
+NE_PER,Darwin
+NE_MISC,Das Kapital
+NE_PER,Marx
+NE_PER,Darwin
+NE_PER_SB,Darwin
+NE_PER,Darwin
+SENT_BOUND,dangerous
+NE_PER,Darwin
+NE_MISC,The Communist Manifesto
+NE_PER,Darwin
+NE_MISC,On the Origin of Species
+NE_PER,Darwin
+NE_MISC,Das Kapital
+SENT_BOUND,industry
+NE_MISC,The Disasters Darwinism Brought to Humanity
+NE_PER,Harun Yahya
+NE_PER,Karl Marx
+NE_PER,Darwin
+SENT_BOUND,history
+NE_PER,Yahya
+NE_PER,Marx
+NE_PER,Darwin
+NE_MISC,Das Kapital
+SENT_BOUND,him
+NE_PER,Darwin
+NE_PER,Edward Aveling
+NE_PER,Marx
+NE_PER,Eleanor
+SENT_BOUND,)
+NE_PER,Aveling
+NE_PER,Darwin
+NE_PER,Darwin
+NE_PER,Darwin
+NE_PER,Karl Marx
+NE_PER,EleanorMarx
+NE_PER,Engels
+NE_PER_SB,Engels
+NE_MISC,Russian
+NE_ORG,Under the Banner of Marxism
+NE_MISC,Das Kapital
+SENT_BOUND,evolution
+NE_PER,Aveling
+NE_PER,Darwin
+SENT_BOUND,myth

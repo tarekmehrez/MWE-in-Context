@@ -1,0 +1,240 @@
+NE_MISC,The Confession of Faith of the Evangelical United Brethren Church
+NE_MISC,Doctrinal Standards
+NE_ORG,United Methodist Church
+NE_MISC,Articles of Religion
+NE_MISC,Standard Sermons
+NE_PER,John Wesley
+NE_PER_SB,Wesley
+NE_ORG,United Methodist Church
+NE_MISC,Confession of Faith
+NE_ORG,Methodist Church
+NE_ORG,Evangelical United Brethren Church
+NE_ORG,United Methodist Church
+NE_ORG_SB,Church
+NE_MISC,Confession of Faith
+NE_MISC,Articles of Religion
+SENT_BOUND,contemporary
+NE_MISC,Confession of Faith
+NE_MISC,Judgment
+NE_MISC,Future State
+NE_MISC,Augsburg Confession
+NE_MISC,Methodist Articles of Religion
+NE_MISC_SB,Religion
+NE_MISC,Articles of Religion
+SENT_BOUND,)
+NE_MISC,THE CONFESSION OF FAITH OF THE EVANGELICAL UNITED BRETHREN CHURCH
+NE_MISC_SB,CHURCH
+NE_MISC,Confession of Faith
+NE_MISC,The Discipline of The Evangelical United Brethren Church
+SENT_BOUND,)
+NE_PER,God
+NE_PER_SB,God
+NE_PER,God
+NE_MISC,Eternal Spirit
+NE_PER,Creator
+SENT_BOUND,invisible
+SENT_BOUND,name
+NE_PER,God
+NE_MISC,Trinity
+NE_PER,Father
+NE_PER,Son
+NE_MISC,Holy Spirit
+SENT_BOUND,power
+NE_PER,Jesus Christ
+NE_PER_SB,Christ
+NE_PER,Jesus Christ
+NE_PER,God
+SENT_BOUND,united
+NE_MISC,Word
+NE_PER,Son
+NE_PER,Father
+NE_PER,Virgin Mary
+NE_MISC,Holy Spirit
+NE_MISC_SB,Spirit
+NE_PER,Servant
+SENT_BOUND,cross
+NE_PER,Father
+SENT_BOUND,return
+NE_PER,Savior
+NE_PER,Mediator
+SENT_BOUND,judged
+NE_MISC,Holy Spirit
+NE_MISC_SB,Spirit
+NE_MISC,Holy Spirit
+NE_PER,Father
+NE_PER,Son
+NE_PER_SB,Son
+SENT_BOUND,judgment
+NE_ORG,Church
+NE_ORG_SB,Church
+SENT_BOUND,truth
+NE_MISC,Holy Bible
+NE_MISC_SB,Bible
+NE_MISC,Holy Bible
+NE_MISC,Old
+NE_MISC,New Testaments
+NE_MISC,Word of God
+SENT_BOUND,salvation
+NE_MISC,Holy Spirit
+SENT_BOUND,practice
+NE_MISC,Holy Scriptures
+MWE_COMPOUND_NOUN,article of faith
+SENT_BOUND,salvation
+NE_ORG,Church
+NE_ORG_SB,Church
+NE_ORG,Christian Church
+MWE_COMPOUND_NOUN,true believers
+NE_PER,Christ
+NE_PER_SB,Christ
+SENT_BOUND,catholic
+NE_PER,God
+NE_PER,Christ
+SENT_BOUND,appointment
+NE_MISC,Holy Spirit
+NE_ORG,Church
+SENT_BOUND,world
+NE_MISC,Sacraments
+NE_MISC_SB,Sacraments
+NE_MISC,Sacraments
+NE_PER,Christ
+NE_PER,God
+SENT_BOUND,us
+NE_PER,God
+SENT_BOUND,him
+NE_MISC,Sacraments
+NE_PER,Christ
+NE_PER,Lord
+NE_MISC,Baptism
+NE_MISC,Lord's Supper
+NE_MISC_SB,Supper
+NE_MISC,Baptism
+NE_PER,Christ Jesus
+SENT_BOUND,discipleship
+NE_PER,Christ
+NE_LOC,Kingdom of God
+SENT_BOUND,Baptism
+NE_MISC,Baptism
+NE_ORG,Church
+NE_ORG_SB,Church
+NE_PER,Christ
+SENT_BOUND,Baptism
+NE_MISC,Lord's Supper
+NE_PER,Christ
+NE_PER,Christ
+SENT_BOUND,another
+NE_PER,Christ
+SENT_BOUND,comes
+SENT_BOUND,Will
+NE_PER,Lord Jesus Christ
+SENT_BOUND,evil
+NE_LOC,Kingdom of God
+NE_LOC_SB,God
+MWE_COMPOUND_NOUN,divine grace
+NE_PER,God
+NE_PER_SB,God
+NE_MISC,Holy Spirit
+SENT_BOUND,good
+NE_PER,Christ
+NE_PER_SB,Christ
+NE_PER,God
+NE_PER,Christ
+SENT_BOUND,himself
+NE_PER,Christ
+SENT_BOUND,required
+SENT_BOUND,Regeneration
+NE_PER,God
+NE_PER,God
+NE_PER,Lord Jesus Christ
+NE_PER_SB,Christ
+NE_PER,Jesus Christ
+NE_MISC,Holy Spirit
+SENT_BOUND,life
+NE_PER,God
+SENT_BOUND,affections
+MWE_LVC,fall into sin
+MWE_LVC_VERB,fall
+MWE_LVC_NOUN,into sin
+NE_PER,God
+SENT_BOUND,righteousness
+SENT_BOUND,Works
+MWE_COMPOUND_NOUN,fruits of faith
+SENT_BOUND,judgment
+NE_PER,God
+NE_PER,Christ
+SENT_BOUND,evident
+SENT_BOUND,Perfection
+NE_PER,God
+NE_MISC,Word
+NE_MISC,Spirit
+NE_PER,God
+NE_PER,Lord
+NE_PER_SB,Lord
+NE_PER,God
+SENT_BOUND,self
+NE_PER,Jesus Christ
+NE_PER,God
+NE_PER_SB,God
+SENT_BOUND,sin
+MWE_LVC,gain victory
+MWE_LVC_VERB,gain
+MWE_LVC_NOUN,victory
+SENT_BOUND,sin
+NE_PER,God
+SENT_BOUND,feet
+NE_MISC,Holy Spirit
+NE_MISC_SB,Spirit
+NE_MISC,Judgment
+NE_MISC,Future State
+NE_MISC_SB,State
+NE_PER,Jesus Christ
+SENT_BOUND,day
+SENT_BOUND,condemnation
+SENT_BOUND,Worship
+MWE_COMPOUND_NOUN,divine worship
+NE_PER,God
+SENT_BOUND,dedication
+MWE_COMPOUND_NOUN,divine worship
+NE_ORG,Church
+NE_PER,God
+MWE_COMPOUND_NOUN,spiritual growth
+COMPOUND_NOUN_SB,growth
+SENT_BOUND,men
+NE_MISC,Holy Scriptures
+NE_MISC,Discipline of the Church
+NE_MISC_SB,Church
+NE_MISC,Lord's Day
+NE_MISC_SB,Day
+NE_MISC,Lord's Day
+MWE_COMPOUND_NOUN,spiritual improvement
+SENT_BOUND,service
+NE_PER,Lord
+MWE_COMPOUND_NOUN,eternal rest
+COMPOUND_NOUN_SB,rest
+NE_ORG,Christian Church
+MWE_COMPOUND_NOUN,civil community
+COMPOUND_NOUN_SB,community
+SENT_BOUND,Property
+NE_PER,God
+NE_PER,God
+NE_PER_SB,God
+NE_ORG,Church
+SENT_BOUND,world
+MWE_LVC,held in solemn trust
+MWE_LVC_VERB,held
+MWE_LVC_NOUN,trust
+NE_PER,God
+NE_PER_SB,God
+MWE_COMPOUND_NOUN,Civil Government
+COMPOUND_NOUN_SB,Government
+MWE_COMPOUND_NOUN,civil government
+NE_PER,God
+NE_PER_SB,God
+MWE_COMPOUND_NOUN,human rights
+NE_PER,God
+NE_PER_SB,God
+NE_PER,Christ
+NE_PER_SB,Christ
+MWE_LVC,give moral strength
+MWE_LVC_VERB,give
+MWE_LVC_NOUN,strength
+SENT_BOUND,living

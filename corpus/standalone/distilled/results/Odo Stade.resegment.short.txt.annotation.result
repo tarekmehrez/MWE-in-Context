@@ -1,0 +1,531 @@
+NE_PER,Odo B. Stade
+NE_LOC,Krautheim
+NE_LOC,Germany
+NE_LOC,Saint Louis
+NE_LOC,Alsace
+NE_LOC,Glendora
+NE_LOC,California
+SENT_BOUND,scholar
+MWE_COMPOUND_NOUN,Navy lieutenant
+MWE_COMPOUND_NOUN,charge d'affaires
+NE_LOC,Mexico
+MWE_COMPOUND_NOUN,stunt pilot
+NE_ORG,Hollywood Bookstore
+MWE_COMPOUND_NOUN,world traveler
+COMPOUND_NOUN_SB,traveler
+MWE_LVC,brought him in contact
+MWE_LVC_VERB,brought
+MWE_LVC_NOUN,in contact
+MWE_COMPOUND_NOUN,walks of life
+COMPOUND_NOUN_SB,life
+NE_PER,
+Od
+MWE_COMPOUND_NOUN, family clan
+NE_LOC, Hungar
+NE_PER, Stade ab Palff
+NE_PER_SB, Palff
+NE_LOC, Strassbur
+MWE_COMPOUND_NOUN, country plac
+NE_LOC, Trentschen Teplit
+NE_LOC, Hungar
+NE_LOC_SB, Hungar
+MWE_COMPOUND_NOUN, great estat
+NE_LOC, Hungar
+MWE_COMPOUND_NOUN, virgin fores
+MWE_COMPOUND_NOUN, hunting lodg
+NE_LOC, Tartara Mountain
+NE_ORG, Russi
+NE_MISC, World War I
+NE_MISC_SB, I
+NE_LOC, Budapes
+NE_LOC, Vienn
+NE_LOC_SB, Vienn
+NE_PER,
+Palf
+MWE_COMPOUND_NOUN,e family na
+NE_PER,n O
+SENT_BOUND,s si
+NE_PER,s Elizabe
+NE_PER_SB,s Elizabe
+NE_PER,r Palf
+NE_PER,h Lis
+NE_PER_SB,h Lis
+NE_PER,. O
+MWE_COMPOUND_NOUN,n family histo
+SENT_BOUND,o 8
+NE_PER,a von Schee
+NE_LOC,n Engla
+NE_LOC_SB,n Engla
+NE_LOC,m Hanov
+NE_LOC,o Vien
+NE_ORG,n Hanov
+SENT_BOUND,a kingd
+MWE_COMPOUND_NOUN,s feat of brave
+NE_ORG,e Spanish Riding Institu
+SENT_BOUND,l exis
+NE_LOC,e Hofbu
+NE_LOC,e Imperial Cast
+NE_PER,e Habsbur
+NE_PER_SB,e Habsbur
+NE_LOC,o Vien
+NE_LOC_SB,o Vien
+NE_PER,. O
+MWE_COMPOUND_NOUN,e riding scho
+NE_PER,t Ilka ab Palf
+SENT_BOUND,n 18
+SENT_BOUND,n 18
+NE_PER,.
+
+NE_MISC,as Hungar
+NE_MISC_SB,as Hungar
+MWE_COMPOUND_NOUN,he family n
+NE_PER,as Szeche
+NE_PER_SB,as Szeche
+NE_MISC,as Norweg
+NE_MISC,n, Flem
+NE_MISC,nd Fre
+NE_PER,as De St
+NE_PER_SB,De St
+MWE_COMPOUND_NOUN,of twilight sl
+COMPOUND_NOUN_SB,ht sl
+NE_PER,p. 
+MWE_VPC,ly cut her 
+MWE_VPC_VERB,ly 
+MWE_VPC_PARTICLE,er 
+VPC_PARTICLE_SB,er 
+NE_PER,on 
+NE_PER,and
+MWE_VPC, to tak
+MWE_VPC_VERB, to 
+MWE_VPC_PARTICLE,ak
+NE_PER, of Pa
+SENT_BOUND, of
+NE_LOC, in Hun
+MWE_COMPOUND_NOUN,the family 
+COMPOUND_NOUN_SB,ily 
+NE_PER,
+The De 
+SENT_BOUND, was mu
+SENT_BOUND, the 
+NE_PER,ola
+SENT_BOUND, and
+NE_PER,ang
+MWE_COMPOUND_NOUN,d in symphony con
+SENT_BOUND, was si
+NE_PER,een
+SENT_BOUND,ather ob
+NE_PER,f 1
+MWE_COMPOUND_NOUN,in an emergency ope
+SENT_BOUND,n the
+NE_PER,lif
+MWE_COMPOUND_NOUN,s the court s
+COMPOUND_NOUN_SB,court s
+NE_LOC,me in 
+NE_LOC_SB,me in 
+NE_PER,azi
+MWE_LVC,do was given inst
+MWE_LVC_VERB,do wa
+MWE_LVC_NOUN, given inst
+NE_ORG,to the Uni
+SENT_BOUND,red in ph
+NE_PER,olo
+NE_ORG,oin the Naval
+NE_LOC,1907
+NE_LOC_SB,1907
+MWE_COMPOUND_NOUN,ears as Naval li
+NE_LOC,cludi
+NE_LOC,rth and South
+NE_LOC_SB,d South
+NE_ORG,from
+NE_ORG,ined the Austro-Hungarian Forei
+NE_ORG_SB, Forei
+NE_PER,er 
+MWE_LVC,912, Odo receiv
+MWE_LVC_VERB,912, Odo
+MWE_LVC_NOUN,receiv
+MWE_VPC,rders to 
+MWE_VPC_VERB,rders
+MWE_VPC_PARTICLE,to 
+NE_LOC,eave f
+MWE_COMPOUND_NOUN,exico as chargé d
+COMPOUND_NOUN_SB,s chargé d
+NE_MISC,res. The
+NE_LOC,ent from Me
+NE_PER,191
+SENT_BOUND, unhapp
+MWE_COMPOUND_NOUN, seen the p
+NE_LOC,system 
+NE_LOC, worse
+NE_LOC_SB, worse
+NE_PER,com
+NE_PER,s agai
+NE_PER,position, Francisco (Pan
+SENT_BOUND,illa, th
+NE_ORG,nch-owned International Company of Mines and E
+NE_PER,lor
+MWE_LVC,tion, Odo entered into an
+MWE_LVC_VERB,tion, O
+MWE_LVC_NOUN,o entered into an
+NE_PER,ment 
+NE_PER,Villa
+MWE_COMPOUND_NOUN,itted his gold
+NE_PER, co
+NE_PER,repre
+MWE_COMPOUND_NOUN,s for the re
+COMPOUND_NOUN_SB,the re
+NE_PER,orces
+MWE_COMPOUND_NOUN,As Villa's purch
+MWE_COMPOUND_NOUN,eloping a
+MWE_COMPOUND_NOUN,nd all the material
+NE_PER,ntial
+SENT_BOUND,orses, a
+NE_PER, ve
+MWE_COMPOUND_NOUN,million in g
+NE_LOC,d to l
+NE_LOC_SB,d to l
+NE_PER,among th
+NE_PER, Carranza, Fel
+NE_PER,, Governor José Marí
+MWE_LVC,a, &c. and made num
+MWE_LVC_VERB,a, &
+MWE_LVC_NOUN,e num
+NE_LOC,s trips to
+NE_PER,Ambas
+NE_PER_SB,Ambas
+NE_PER, Presi
+NE_PER,ult
+NE_PER,rogre
+NE_PER_SB,rogre
+NE_PER, of
+SENT_BOUND,nee sh
+NE_LOC,er, he
+MWE_COMPOUND_NOUN,fering from typ
+MWE_COMPOUND_NOUN,a desperate physic
+COMPOUND_NOUN_SB,te physic
+NE_PER,und
+NE_LOC,do to go t
+SENT_BOUND, regai
+NE_LOC,t escape t
+NE_PER,for
+NE_PER,him m
+NE_MISC, rif
+NE_PER,ve to young M
+NE_LOC,(builder of 
+NE_LOC,l Castle
+SENT_BOUND,ora) 
+NE_LOC, arriving 
+NE_PER, Ca
+MWE_VPC,ifornia, 
+MWE_VPC_VERB,iforni
+MWE_VPC_PARTICLE,, 
+NE_PER,alled on Mr. Adam
+NE_LOC,ookselle
+NE_LOC,of Pasaden
+NE_LOC_SB,of Pasaden
+NE_PER,iforni
+SENT_BOUND,clerk
+NE_PER,n h
+NE_ORG,emained with V
+SENT_BOUND,is ling
+NE_PER,o i
+NE_LOC, Odo 
+NE_LOC,and on to th
+SENT_BOUND, land 
+MWE_VPC,ounds wh
+MWE_VPC_VERB,ound
+MWE_VPC_PARTICLE, wh
+MWE_VPC,, and whe
+MWE_VPC_VERB,, an
+MWE_VPC_PARTICLE, whe
+SENT_BOUND,k, 
+NE_LOC,f many
+SENT_BOUND,of th
+NE_LOC,eturn f
+NE_PER,om 
+NE_PER,ourage
+NE_ORG,gership of the Holl
+NE_PER,n owned by Mr. Frede
+NE_PER_SB,. Frede
+NE_LOC, At that 
+MWE_COMPOUND_NOUN,od was sti
+MWE_COMPOUND_NOUN,l town and the motion p
+SENT_BOUND,ndustry
+MWE_COMPOUND_NOUN,s infancy. 
+NE_LOC,red around the 
+MWE_COMPOUND_NOUN, Hotel and th
+SENT_BOUND,ary ac
+NE_PER,ss 
+MWE_COMPOUND_NOUN,first to wri
+NE_ORG,ently founde
+MWE_COMPOUND_NOUN,azine printing moti
+MWE_COMPOUND_NOUN, picture ne
+SENT_BOUND,commu
+NE_PER,s a
+NE_LOC,o first 
+MWE_COMPOUND_NOUN,ora, which w
+COMPOUND_NOUN_SB,which w
+NE_LOC,"back country."
+NE_LOC,gan Avenue (n
+SENT_BOUND,oile
+NE_PER,n. 
+MWE_COMPOUND_NOUN,Odo visited th
+COMPOUND_NOUN_SB,ited th
+MWE_COMPOUND_NOUN,ranger stat
+NE_PER,on. H
+NE_PER,t t
+SENT_BOUND,a pine 
+MWE_COMPOUND_NOUN,he station. Th
+NE_MISC,sidence and
+NE_PER,the
+NE_MISC, second lar
+NE_LOC, Torrey Pi
+NE_LOC_SB, Torrey Pi
+MWE_COMPOUND_NOUN,ia.
+By 1919 the motion
+MWE_IDIOM,ure industry was co
+IDIOM_SB, co
+NE_MISC,ng into 
+NE_LOC,s afterma
+NE_MISC,w Hol
+NE_ORG, discovering the Ho
+NE_PER,er 
+MWE_IDIOM,ler and linguist 
+IDIOM_SB,st 
+MWE_COMPOUND_NOUN,arts in nume
+NE_MISC,ilms, includi
+NE_MISC,Blind Husba
+NE_MISC, "Miracle Man," "Wo
+NE_MISC,Its Woman," and "The R
+NE_MISC_SB,nd "The R
+MWE_COMPOUND_NOUN,th training fr
+NE_PER,m aerial p
+NE_PER,nee
+MWE_COMPOUND_NOUN,do also became a 
+MWE_COMPOUND_NOUN, stunt pilo
+NE_PER, wing walker for 
+NE_MISC,th 
+MWE_COMPOUND_NOUN,s he flew in WWI aer
+NE_LOC,combat 
+NE_LOC,s in Ge
+NE_LOC_SB,s in Ge
+NE_MISC,Americ
+NE_MISC,
+By 1
+NE_MISC,0 Frenc
+NE_MISC,rman, I
+SENT_BOUND,e store 
+NE_PER,he sale
+NE_ORG,ard purchased t
+SENT_BOUND,bined it 
+NE_LOC,idly with
+NE_LOC_SB,idly with
+MWE_LVC,eater and greater
+MWE_LVC_NOUN,eater a
+MWE_LVC_VERB,ater
+NE_PER,ds 
+NE_PER,ff 
+SENT_BOUND,dios to 
+NE_LOC,bookstores of
+NE_PER,acific Co
+SENT_BOUND,tade t
+NE_PER,mpetition, 
+NE_PER,d Unity Pequ
+SENT_BOUND,ng t
+NE_LOC,d time. H
+NE_PER,ollywo
+NE_LOC,roman ha
+NE_LOC_SB,roman ha
+NE_PER, Pa
+NE_PER,rmed bachel
+NE_PER,ar as assist
+NE_ORG, under contract to Famous Pl
+NE_ORG_SB,mous Pl
+SENT_BOUND, was 
+NE_ORG,at first 
+NE_LOC,t.
+At Hickso
+NE_PER,s in New Yo
+NE_PER,ame associat
+MWE_COMPOUND_NOUN,ith Howard Gre
+COMPOUND_NOUN_SB,ward Gre
+NE_MISC,r they did the 1922 Green
+NE_ORG,hey were engaged by Famous P
+NE_LOC,rs-Lasky 
+NE_LOC_SB,rs-Lasky 
+NE_MISC,ent back to another Green
+NE_PER,on, a
+SENT_BOUND,d
+NE_ORG, time sh
+NE_PER,et Zieg
+NE_PER,d dancers Dor
+NE_PER,r i
+NE_PER, 1940
+MWE_COMPOUND_NOUN, modern 
+NE_PER, in t
+NE_PER,ck lot of Hei
+NE_LOC,Rubel's property a
+NE_LOC_SB,erty a
+NE_PER,ening
+NE_LOC,4, Maria went to th
+NE_LOC_SB,ent to th
+MWE_VPC,, the proprie
+MWE_VPC_VERB,, the p
+MWE_VPC_PARTICLE,ie
+VPC_PARTICLE_SB,ie
+MWE_VPC,be accomm
+MWE_VPC_VERB,be a
+MWE_VPC_PARTICLE,comm
+SENT_BOUND, to ge
+NE_MISC,ed. Sh
+SENT_BOUND,ed s
+NE_PER,e G
+MWE_VPC,rman boo
+MWE_VPC_VERB,rman
+MWE_VPC_PARTICLE,boo
+SENT_BOUND,, as
+NE_PER,t c
+NE_LOC,nted hi
+NE_PER,eturn
+MWE_COMPOUND_NOUN,er be accept
+SENT_BOUND,e royal 
+NE_PER,mily 
+NE_PER, pe
+MWE_LVC, commission in 
+MWE_LVC_VERB, commi
+MWE_LVC_NOUN,sion in 
+NE_LOC, to obtai
+NE_ORG,h in Hollywood and 
+NE_ORG_SB,od and 
+NE_PER,tud
+NE_MISC,do throu
+NE_LOC, life was to 
+SENT_BOUND,cted to 
+NE_PER,rea
+MWE_VPC, never 
+MWE_VPC_VERB, ne
+MWE_VPC_PARTICLE,er 
+NE_LOC,and gladl
+SENT_BOUND,o Ho
+NE_PER,his return,
+MWE_LVC,tudio to assi
+MWE_LVC_VERB,tudio 
+MWE_LVC_NOUN,o assi
+NE_ORG,y taking charge of
+SENT_BOUND,ess as he
+NE_PER,ookstore.
+ March 19
+NE_PER,rests
+NE_PER,oth store
+NE_PER,Maria 
+NE_PER,do Stade an
+MWE_COMPOUND_NOUN,mes; the latter
+COMPOUND_NOUN_SB,e latter
+MWE_COMPOUND_NOUN,ce more and prese
+SENT_BOUND,a rar
+NE_ORG,dded. By this time,
+SENT_BOUND,ome k
+NE_PER,ose w
+NE_PER,usy
+SENT_BOUND,he h
+NE_MISC, 1928. When in 1930 the
+NE_LOC, Convention
+NE_PER,as 
+NE_MISC,Angeles, Odo was chosen Booksel
+NE_MISC_SB,oksel
+MWE_COMPOUND_NOUN, the Pacific Coast.
+MWE_IDIOM,serious set-bac
+NE_PER,s a
+NE_PER,reful
+MWE_IDIOM,management Odo and 
+IDIOM_SB, and 
+MWE_COMPOUND_NOUN,t come and in 1932, w
+NE_PER,going from 
+MWE_COMPOUND_NOUN, worse, Emma H
+MWE_COMPOUND_NOUN,, the silent partner
+NE_PER, stock
+SENT_BOUND,onsi
+NE_PER, sa
+NE_ORG,do out of the store
+SENT_BOUND, out
+NE_LOC,ong.
+ a lon
+NE_PER, at t
+MWE_VPC,Loomis 
+MWE_VPC_VERB,Loom
+MWE_VPC_PARTICLE,s 
+NE_LOC,de's to
+NE_PER,sid
+MWE_COMPOUND_NOUN,time he had s
+NE_PER,t stories an
+NE_ORG, Mencken, then edi
+NE_ORG_SB,then edi
+NE_PER,Dur
+MWE_COMPOUND_NOUN, years Odo wr
+NE_PER,nd, in collabora
+NE_MISC,b Pinchon,
+NE_ORG,a," which w
+MWE_COMPOUND_NOUN,the MGM Studio
+MWE_LVC,, and as a motion picture achie
+MWE_LVC_VERB,, and as
+MWE_LVC_NOUN,e achie
+NE_MISC,cess, being 
+NE_MISC,d for Best Pic
+NE_ORG,d e
+SENT_BOUND,llion
+NE_PER,y t
+NE_PER,942 Odo a
+MWE_COMPOUND_ADJ,Roosevelt's
+SENT_BOUND,n t
+NE_ORG,the war. 
+NE_PER, the wounds 
+NE_PER_SB,unds 
+NE_PER,sta
+NE_ORG,a. Odo next applied
+MWE_COMPOUND_NOUN, was given the posi
+NE_LOC,on of District Dis
+NE_LOC,tcher, Mt. Baldy Distri
+NE_LOC_SB,Distri
+NE_ORG,rest. He resig
+SENT_BOUND,vice 
+MWE_COMPOUND_NOUN,e was involv
+SENT_BOUND, hel
+NE_MISC,e." In 1963 he was e
+NE_ORG,ducator" by the students
+MWE_COMPOUND_NOUN,ary Academy wher
+COMPOUND_NOUN_SB,demy wher
+NE_PER,aught
+NE_LOC,s honore
+NE_MISC,ns of Glendora who 
+NE_LOC,ons to all the peo
+SENT_BOUND,le o
+NE_PER,Valle
+NE_ORG,n various committees and the San Gabrie
+NE_ORG_SB, San Gabrie
+NE_PER,iat
+NE_ORG,60s and 70s Odo s
+NE_ORG, the Board of Trustees of the Franci
+NE_ORG_SB,the Franci
+MWE_COMPOUND_NOUN,iterature, he 
+MWE_LVC,lated many liter
+MWE_LVC_VERB,lat
+MWE_LVC_NOUN,many liter
+SENT_BOUND,n a rep
+NE_PER,chola
+SENT_BOUND,a cont
+MWE_COMPOUND_NOUN, had reached a hi
+MWE_COMPOUND_NOUN,nacle teaching and crea
+NE_LOC, in adul
+NE_PER,1980s and, in partn
+NE_ORG,donated time a
+MWE_COMPOUND_NOUN,d talent to the 
+COMPOUND_NOUN_SB,nt to the 
+NE_PER,tru
+NE_LOC,o helpin
+NE_PER,Gle
+SENT_BOUND,'s fri
+NE_PER,dsh
+MWE_COMPOUND_NOUN,
+Odo's collect
+NE_LOC,ns was donate
+NE_MISC, and is still known tod
+NE_MISC_SB, known tod

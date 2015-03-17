@@ -1,0 +1,235 @@
+NE_PER,Larry "Butch" Hartman
+NE_MISC,American
+MWE_COMPOUND_NOUN,stock car racing national champion
+NE_ORG,United States Automobile Club
+NE_ORG,USAC
+NE_LOC,Zanesville
+NE_LOC,Ohio
+NE_LOC_SB,Ohio
+NE_MISC,USAC Stock Car Rookie of the Year
+NE_MISC,Most Improved Driver in 1967
+NE_MISC,Most Outstanding Driver
+SENT_BOUND,year
+MWE_COMPOUND_NOUN,USAC Stock car national titles
+SENT_BOUND,1970s
+NE_PER,Hartman
+MWE_COMPOUND_NOUN,USAC Stock car wins
+SENT_BOUND,history
+NE_PER,Hartman
+NE_ORG,NASCAR
+MWE_COMPOUND_NOUN,stock car races
+NE_MISC,National 500
+NE_LOC,Charlotte Motor Speedway
+NE_LOC,Lowe's Motor Speedway
+SENT_BOUND,)
+NE_PER,Hartman
+SENT_BOUND,weekend
+NE_MISC,Daytona 500
+NE_MISC_SB,500
+MWE_COMPOUND_NOUN, factory team
+COMPOUND_NOUN_SB, team
+NE_MISC, Dodg
+NE_ORG,"Hartman White and Autocar Truck Sales and Servic
+SENT_BOUND,e
+NE_PER,
+Hartm
+MWE_COMPOUND_NOUN,a second generation rac
+COMPOUND_NOUN_SB,n rac
+MWE_COMPOUND_NOUN,g sprint ca
+SENT_BOUND,n 19
+NE_PER,r Hartm
+SENT_BOUND,r peri
+NE_PER,.
+Hart
+MWE_VPC,er warm
+MWE_VPC_VERB,er w
+MWE_VPC_PARTICLE,rm
+MWE_COMPOUND_NOUN,'s automobile repair comp
+COMPOUND_NOUN_SB,ir comp
+NE_MISC,39 F
+NE_PER,er Te
+MWE_VPC,to drive aro
+MWE_VPC_VERB,to dr
+MWE_VPC_PARTICLE,ve aro
+SENT_BOUND,he 
+NE_MISC,r "Death and Destruct
+SENT_BOUND,i
+NE_ORG,ng Otterbein Coll
+NE_ORG,he United States Mari
+SENT_BOUND,ur ye
+NE_PER,64, Har
+MWE_COMPOUND_NOUN,ive stock cars r
+SENT_BOUND,and u
+NE_PER,e," B
+SENT_BOUND,the 
+MWE_COMPOUND_NOUN,the running b
+NE_MISC,old B
+MWE_COMPOUND_NOUN,our pickup t
+MWE_VPC,ere tearing 
+MWE_VPC_VERB,ere tea
+MWE_VPC_PARTICLE,ing 
+SENT_BOUND,the 
+MWE_COMPOUND_NOUN,ted in-flight refue
+COMPOUND_NOUN_SB,ght refue
+NE_PER,966, Ha
+NE_MISC,1965 Dodge Co
+NE_ORG,irst
+SENT_BOUND,USAC
+NE_MISC,ies' Rookie of the
+SENT_BOUND, for
+NE_ORG,irst N
+NE_ORG, the Grand Nat
+NE_ORG,(now Sprint Cup S
+NE_MISC,ies) Nationa
+NE_LOC,0 at Char
+NE_LOC_SB,0 at Char
+MWE_VPC,. He follow
+MWE_VPC_VERB,. He fol
+MWE_VPC_PARTICLE,ow
+NE_MISC,ies' Most Improved D
+NE_MISC, the Most Outstanding D
+SENT_BOUND,r in
+MWE_COMPOUND_NOUN,five Grand National e
+NE_LOC,s at Atlanta Motor Spe
+NE_LOC, and Rocki
+NE_LOC_SB, and Rocki
+NE_PER,ham.
+H
+MWE_COMPOUND_NOUN,first USAC Stock c
+NE_LOC,71 at Pocono R
+NE_MISC,inged Dodge Charger D
+NE_ORG,first Poco
+NE_ORG_SB,oco
+NE_PER,tured Wally Dall
+NE_PER, Sr., A. J
+NE_PER,Foyt, Roger McC
+NE_PER,skey, Al
+NE_PER,nser, Bobby
+NE_ORG,nser, 
+NE_PER,ivers Jim P
+NE_PER,l and LeeRoy Yar
+NE_ORG,oug
+NE_PER,racer Gene 
+MWE_COMPOUND_NOUN,mero, modified 
+NE_PER,acers Geoff 
+NE_PER,e and Toby 
+MWE_COMPOUND_NOUN,bias, road
+NE_PER,racer Brian 
+NE_ORG,, an
+MWE_COMPOUND_NOUN, USAC stock car re
+NE_PER,ulars Jack B
+NE_PER,sher, Don
+NE_PER,, and Norm 
+NE_PER_SB, Norm 
+MWE_VPC,t was rain
+MWE_VPC_VERB,t was 
+MWE_VPC_PARTICLE,ain
+VPC_PARTICLE_SB,ain
+NE_PER,rday, H
+NE_PER, beat Lem Blank
+MWE_COMPOUND_NOUN, late rac
+COMPOUND_NOUN_SB, rac
+NE_PER,duel. H
+NE_ORG,first USAC champi
+SENT_BOUND, tha
+MWE_LVC,r. He had
+MWE_LVC_VERB,r. 
+MWE_LVC_NOUN,had
+NE_LOC,t the Knoxville R
+SENT_BOUND, that 
+NE_PER,ason.
+
+MWE_COMPOUND_NOUN,second USAC Stock ca
+SENT_BOUND,tle 
+MWE_COMPOUND_NOUN,h nine Top 5 f
+SENT_BOUND,ghtee
+NE_ORG,art in
+MWE_COMPOUND_NOUN,SCAR's Grand National d
+NE_ORG,in his
+SENT_BOUND,NASCAR
+MWE_COMPOUND_ADJ,nt was FIA san
+NE_ORG,ed a
+SENT_BOUND,in th
+MWE_COMPOUND_NOUN, got a Junie Donlav
+MWE_COMPOUND_NOUN, after USAC 
+NE_PER,egular Ram
+MWE_COMPOUND_NOUN, has a second place
+NE_LOC,ish at Talladega Supers
+SENT_BOUND,r that
+MWE_COMPOUND_NOUN,e 1973 USAC
+SENT_BOUND,had 1
+MWE_COMPOUND_ADJ,had 1
+SENT_BOUND,raight champ
+NE_PER,ship. 
+NE_PER,railing Nor
+NE_ORG,he 1
+SENT_BOUND,74 USA
+NE_LOC,race at De
+NE_PER,Moines
+NE_PER,7th and
+SENT_BOUND,e by 3
+NE_PER,season,
+SENT_BOUND,traight cham
+NE_PER,onship.
+NE_PER,battled Ra
+NE_MISC, at the Governor's
+NE_LOC, at the Milwau
+MWE_COMPOUND_NOUN,ded his tit
+MWE_COMPOUND_NOUN, in the seaso
+COMPOUND_NOUN_SB, seaso
+NE_PER,points.
+NE_MISC,ng to a Chevrole
+NE_ORG,he 1
+MWE_COMPOUND_NOUN,76 USAC stock ca
+SENT_BOUND,the
+NE_PER,ew car.
+NE_ORG,tica
+MWE_COMPOUND_NOUN,n of its stock c
+MWE_COMPOUND_NOUN, how the sanctio
+MWE_COMPOUND_NOUN,oted its champion
+NE_ORG, and h
+MWE_COMPOUND_NOUN,lled its s
+COMPOUND_NOUN_SB,ts s
+MWE_COMPOUND_NOUN,d of our stock car racin
+COMPOUND_NOUN_SB,r racin
+MWE_COMPOUND_NOUN,. We get secon
+MWE_COMPOUND_NOUN,e to the champion
+COMPOUND_NOUN_SB,pion
+SENT_BOUND,ws
+NE_ORG,o race
+MWE_COMPOUND_NOUN, NASCAR's to
+NE_MISC,alled the W
+NE_MISC_SB,e W
+NE_ORG,five
+MWE_COMPOUND_NOUN,time USAC stock ca
+NE_ORG,illi
+MWE_COMPOUND_NOUN,g at USAC stock
+NE_ORG,aces
+MWE_COMPOUND_NOUN,than USAC
+NE_ORG,p car 
+MWE_COMPOUND_NOUN,nd NASCAR stock c
+COMPOUND_NOUN_SB,stock c
+MWE_COMPOUND_NOUN,d 31st in sea
+MWE_COMPOUND_NOUN, with two Top 1
+NE_MISC,shes in a Chevrole
+NE_MISC_SB,Chevrole
+NE_ORG,ed in 
+NE_ORG,urni
+NE_ORG_SB,urni
+SENT_BOUND,ad
+NE_ORG,aken
+MWE_COMPOUND_NOUN,5. USAC's stock 
+SENT_BOUND,s go
+NE_PER, by 198
+SENT_BOUND,the e
+NE_ORG,ted in the National Dirt Late Model H
+NE_ORG,04 f
+MWE_COMPOUND_NOUN,r his USAC Stock Car ch
+MWE_COMPOUND_NOUN,undreds of f
+MWE_COMPOUND_NOUN,e wins and t
+SENT_BOUND,es in 
+NE_PER,g caree
+NE_PER,oungest son 
+MWE_COMPOUND_NOUN,07 he raced dirt
+NE_LOC,e mo
+NE_LOC_SB,e mo

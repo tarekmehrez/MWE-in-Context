@@ -1,0 +1,289 @@
+NE_PER,Nathan Christopher Fillion
+NE_MISC,Canadian
+MWE_COMPOUND_NOUN,lead role
+NE_PER,Malcolm Reynolds
+MWE_COMPOUND_NOUN,television series
+NE_MISC,Firefly
+MWE_COMPOUND_NOUN,film continuation
+NE_MISC,Serenity
+MWE_COMPOUND_NOUN,lead role
+NE_PER,Richard Castle
+NE_ORG,ABC
+NE_MISC,Castle
+NE_MISC_SB,Castle
+NE_PER,Fillion
+MWE_COMPOUND_NOUN,TV soap operas
+NE_MISC,Slither
+NE_MISC,Trucker
+NE_MISC,Dr. Horrible's Sing-Along Blog
+MWE_COMPOUND_NOUN,video game
+NE_MISC,Halo 3
+NE_MISC_SB,3
+NE_ORG,People
+NE_ORG,Entertainment Weekly
+NE_ORG_SB,Weekly
+NE_PER,Fillion
+MWE_COMPOUND_NOUN,public service work
+NE_ORG,Kids Need to Read
+SENT_BOUND,libraries
+NE_PER,Fillion
+NE_LOC,Edmonton
+NE_LOC,Alberta
+NE_PER,Cookie
+NE_PER,Bob Fillion
+SENT_BOUND,teachers
+NE_PER,Jeff
+NE_ORG,Holy Trinity Catholic High School
+NE_ORG,Concordia University College of Alberta
+NE_ORG,University of Alberta
+NE_ORG,Kappa Alpha Society
+NE_ORG_SB,Society
+NE_PER,Fillion
+NE_ORG,Confederate
+MWE_COMPOUND_NOUN,Lieutenant General
+NE_PER,Jubal Anderson Early
+NE_PER_SB,Early
+MWE_COMPOUND_NOUN,film productions
+NE_MISC,Theatresports
+NE_ORG,Rapid Fire Theatre
+MWE_COMPOUND_NOUN,soap opera
+NE_MISC,Die-Nasty
+NE_PER,Fillion
+NE_LOC,New York City
+MWE_COMPOUND_NOUN,soap opera
+NE_MISC,One Life to Live
+NE_PER,Joey Buchanan
+NE_MISC,Daytime Emmy Award
+NE_MISC,Outstanding Younger Actor
+SENT_BOUND,category
+MWE_COMPOUND_NOUN,guest appearance
+SENT_BOUND,)
+NE_LOC,Los Angeles
+MWE_LVC,played a supporting role
+MWE_LVC_VERB,played
+MWE_LVC_NOUN,role
+NE_MISC,Two Guys, a Girl, and a Pizza Place
+NE_PER,James Frederick Ryan
+NE_PER,The Minnesota Ryan
+NE_PER,Steven Spielberg
+NE_MISC,Saving Private Ryan
+NE_MISC_SB,Ryan
+NE_PER,Fillion
+NE_PER,Malcolm Reynolds
+NE_PER,Joss Whedon
+MWE_COMPOUND_NOUN,science fiction television series
+NE_MISC,Firefly
+NE_MISC,Cinescape Genre Face of the Future - Male
+NE_ORG,Academy of Science Fiction, Fantasy & Horror Films
+NE_LOC,USA
+NE_LOC_SB,USA
+NE_PER,Fillion
+NE_MISC,Syfy Genre Awards
+NE_MISC,Best Actor/Television
+NE_MISC,Best Actor/Movie
+NE_MISC_SB,Movie
+MWE_COMPOUND_NOUN,big screen
+NE_PER,Fillion
+NE_PER,Mal
+NE_PER,Whedon
+NE_MISC,Serenity
+SENT_BOUND,)
+NE_PER,Caleb
+NE_PER,Whedon
+NE_MISC,Buffy the Vampire Slayer
+NE_MISC_SB,Slayer
+NE_PER,Fillion
+NE_MISC,Firefly
+MWE_COMPOUND_NOUN,acting job
+SENT_BOUND,had
+NE_PER,Angel
+SENT_BOUND,1996
+NE_PER,Fillion
+NE_MISC,King of the Hill
+MWE_COMPOUND_NOUN,video game
+NE_MISC,Jade Empire
+NE_PER,Gao the Lesser
+MWE_COMPOUND_NOUN,animated series
+NE_MISC,Justice League Unlimited
+NE_PER,Vigilante
+NE_MISC,Hunter's Moon
+NE_MISC,Patriot Act
+SENT_BOUND,2006
+NE_PER,Fillion
+NE_PER,James Gunn
+MWE_COMPOUND_NOUN,horror film
+NE_MISC,Slither
+NE_MISC_SB,Slither
+NE_PER,Bill Pardy
+NE_MISC,Fangoria Chainsaw Awards
+NE_MISC,Dude You Don't Wanna Mess With
+NE_MISC_SB,With
+NE_PER,Fillion
+MWE_COMPOUND_NOUN,romantic comedy film
+NE_MISC,Waitress
+NE_PER,Adrienne Shelly
+NE_ORG,Sundance Film Festival
+SENT_BOUND,2007
+NE_ORG,Box Office Mojo
+NE_MISC,Waitress
+SENT_BOUND,2008
+NE_PER,Fillion
+NE_MISC,White Noise 2: The Light
+NE_MISC_SB,Light
+MWE_LVC,made one appearance
+MWE_LVC_VERB,made
+MWE_LVC_NOUN,appearance
+MWE_COMPOUND_NOUN,television show
+NE_MISC,Lost
+NE_PER,Kevin
+NE_PER,Kate
+SENT_BOUND,ex-husband
+NE_PER,Fillion
+MWE_COMPOUND_NOUN,talent holding contract
+NE_ORG,Fox Broadcasting Company
+NE_ORG,The Hollywood Reporter
+NE_PER,Fillion
+MWE_COMPOUND_NOUN,lead role
+NE_PER,Alex Tully
+NE_MISC,Drive
+NE_ORG,Fox
+SENT_BOUND,2007
+NE_MISC,Drive
+NE_PER,Fillion
+NE_MISC,Angel
+NE_MISC,Firefly
+NE_PER,Tim Minear
+NE_PER_SB,Minear
+NE_PER,Ivan Sergei
+NE_PER,Alex Tully
+MWE_COMPOUND_NOUN,pilot episode
+NE_MISC,Drive
+NE_MISC_SB,Drive
+NE_MISC,Drive
+NE_LOC,Canada
+NE_LOC,United States
+SENT_BOUND,)
+NE_ORG,Fox
+SENT_BOUND,cancelled
+NE_ORG,Fox
+NE_MISC,Drive
+NE_MISC,MySpace
+SENT_BOUND,page
+NE_ORG,Fox
+NE_MISC,Drive
+NE_MISC,Myspace
+NE_MISC_SB,Myspace
+NE_MISC,Amazon.com
+NE_MISC,iTunes
+NE_MISC_SB,iTunes
+NE_PER,Fillion
+NE_MISC,One Life to Live
+NE_PER,Joey
+SENT_BOUND,2007
+NE_PER,Fillion
+NE_ORG,ABC
+NE_MISC,Desperate Housewives
+NE_PER,Adam Mayfair
+SENT_BOUND,gynecologist
+NE_MISC,Now You Know
+SENT_BOUND,2007
+NE_PER,Fillion
+MWE_COMPOUND_NOUN,Marine Sergeant
+NE_MISC,Xbox 360
+NE_MISC,Halo 3
+NE_MISC_SB,3
+NE_MISC,Firefly
+NE_PER,Adam Baldwin
+NE_PER,Alan Tudyk
+SENT_BOUND,marines
+NE_PER,Reynolds
+MWE_COMPOUND_NOUN,TV series
+NE_MISC,Firefly
+NE_MISC_SB,Firefly
+NE_MISC,Firefly
+NE_MISC_SB,Firefly
+MWE_COMPOUND_NOUN,voice actor
+MWE_COMPOUND_NOUN,Gunnery Sergeant
+NE_PER,Edward Buck
+NE_MISC,Halo 3
+NE_MISC,Halo 3: ODST
+NE_MISC_SB,ODST
+MWE_COMPOUND_NOUN,feature film
+NE_MISC,Trucker
+NE_PER,Fillion
+NE_PER,Runner
+NE_ORG,New York 2008 Tribeca Film Festival
+NE_ORG_SB,Festival
+NE_MISC,Trucker
+SENT_BOUND,2009
+NE_PER,Fillion
+NE_PER,Joss Whedon
+NE_MISC,Dr. Horrible's Sing-Along Blog
+NE_PER,Fillion
+NE_PER,Hammer
+NE_PER,Neil Patrick Harris
+NE_PER,Dr. Horrible
+NE_PER,Felicia Day
+NE_PER,Penny
+NE_PER_SB,Penny
+SENT_BOUND,2008
+NE_ORG,ABC
+MWE_COMPOUND_NOUN,television series
+NE_MISC,Castle
+NE_PER,Fillion
+MWE_COMPOUND_NOUN,title character
+NE_PER,Richard Castle
+MWE_COMPOUND_NOUN,mystery novelist
+NE_ORG,NYPD
+SENT_BOUND,crimes
+NE_ORG,ABC
+SENT_BOUND,season
+NE_ORG,ABC
+NE_MISC,Castle
+SENT_BOUND,order
+NE_PER,Fillion
+NE_MISC,Ewwy
+NE_MISC,Best Actor in a Comedy Series
+NE_MISC_SB,Series
+NE_ORG,ABC
+NE_MISC,Castle
+NE_PER,Richard Castle
+NE_MISC,Heat Wave
+SENT_BOUND,hardback
+NE_PER,Nathan Fillion
+NE_ORG,EW
+NE_MISC,The Must List: What's Hot for the Week
+SENT_BOUND,2008
+NE_PER,Fillion
+MWE_COMPOUND_NOUN,porn web video
+NE_ORG,Spike
+NE_MISC,Nailing Your Wife
+NE_MISC,PG Porn
+SENT_BOUND,series
+NE_ORG,Wonder Woman
+MWE_OTHER,voice acted
+NE_PER,Steve Trevor
+NE_MISC,Numbers DVD Sales
+SENT_BOUND,chart
+NE_PER,Fillion
+NE_ORG,People
+NE_MISC,Sexy Men
+NE_MISC,Domestic Bliss/Guys Worth Running Home to
+SENT_BOUND,section
+NE_ORG,Entertainment Weekly
+NE_MISC,50 Actors We'd Watch in Anything
+NE_MISC_SB,Anything
+NE_ORG,Sky TV
+MWE_COMPOUND_NOUN,Cult Hero
+COMPOUND_NOUN_SB,Hero
+NE_PER,Fillion
+MWE_COMPOUND_NOUN,non-profit organization
+NE_ORG,Kids Need to Read
+NE_PER,PJ Haarsma
+SENT_BOUND,libraries
+NE_PER,Fillion
+SENT_BOUND,books
+NE_PER,Haarsma
+SENT_BOUND,book
+NE_PER,Fillion
+SENT_BOUND,cause

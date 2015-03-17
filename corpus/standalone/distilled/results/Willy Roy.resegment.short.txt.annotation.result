@@ -1,0 +1,306 @@
+NE_PER,Willy Roy
+NE_LOC,Treuberg
+NE_LOC,Germany
+MWE_COMPOUND_NOUN,U.S. soccer forward
+SENT_BOUND,coach
+NE_ORG,National Professional Soccer League
+NE_ORG,North American Soccer League
+NE_ORG,United States
+MWE_COMPOUND_NOUN,national team
+SENT_BOUND,1973
+NE_ORG,National Soccer Hall of Fame
+NE_ORG_SB,Fame
+NE_PER, Ro
+NE_LOC, United State
+NE_LOC, German
+NE_LOC, Chicag
+NE_LOC_SB, Chicag
+NE_ORG, Reavis High Schoo
+NE_LOC, Burban
+NE_LOC, Illinoi
+NE_LOC, Chicag
+SENT_BOUND, are
+NE_ORG, Hans
+NE_ORG, National Soccer League of Chicag
+NE_ORG_SB, Chicag
+NE_ORG, Hans
+NE_MISC, Peter J. Peel Challenge Cu
+NE_MISC, Illinois State Champio
+NE_MISC_SB, Champio
+NE_ORG, New York Ukrainian
+NE_MISC, U.S. Open Cu
+NE_MISC_SB, Cu
+NE_PER,n R
+SENT_BOUND,e care
+MWE_COMPOUND_NOUN,a professional leag
+NE_LOC,e U.
+NE_LOC_SB_ABBREV,.
+NE_ORG,e National Professional Soccer Leag
+NE_ORG, (NP
+SENT_BOUND,S
+NE_ORG,e US
+NE_ORG,d FI
+NE_ORG,e NP
+MWE_COMPOUND_NOUN,a television contra
+NE_ORG,h C
+MWE_COMPOUND_NOUN,f financial stabili
+COMPOUND_NOUN_SB,l stabili
+NE_PER,t, 
+NE_LOC,al Chic
+MWE_COMPOUND_NOUN,go minor league te
+NE_MISC,he U
+MWE_COMPOUND_NOUN,S. national t
+COMPOUND_NOUN_SB,al t
+NE_ORG,ed Chicago Sp
+NE_ORG,he N
+NE_ORG_SB,he N
+NE_PER,he 
+NE_MISC,ht U
+SENT_BOUND,he lea
+NE_MISC,er U
+NE_PER,s, Bob Gans
+NE_PER,th 
+MWE_COMPOUND_NOUN,he national t
+MWE_COMPOUND_NOUN,he national t
+COMPOUND_NOUN_SB,al t
+NE_ORG,he Sp
+NE_PER,s, 
+SENT_BOUND,ng sco
+NE_MISC,to Rookie of the Y
+NE_ORG,nd NPSL All Star t
+NE_ORG_SB,ar t
+MWE_COMPOUND_NOUN,nal soccer ev
+NE_PER,ted
+SENT_BOUND,y's ca
+NE_ORG,The 
+NE_ORG,the United Soccer Associa
+NE_ORG,the North American Soccer Le
+NE_ORG_SB,cer Le
+NE_ORG,the S
+NE_LOC, to Kansas 
+NE_LOC_SB,sas 
+NE_PER,ty.
+SENT_BOUND,son t
+NE_PER,re.
+SENT_BOUND,n 4 ot
+NE_ORG,the Atlanta Ch
+MWE_COMPOUND_NOUN,the playoff semifi
+COMPOUND_NOUN_SB,off semifi
+NE_PER,ls.
+NE_ORG, the Kansas City 
+NE_ORG, the Saint Louis 
+NE_ORG, the North American Soccer L
+NE_ORG,gue 
+SENT_BOUND,) in
+NE_ORG, the 
+SENT_BOUND,n 16 o
+NE_ORG, the
+MWE_COMPOUND_NOUN,NASL championship
+NE_ORG, the New York C
+SENT_BOUND,smo
+MWE_COMPOUND_NOUN,m the nationa
+NE_PER,tea
+SENT_BOUND, more
+NE_ORG,nsion Chicago
+NE_ORG_SB,icago
+NE_ORG,h the
+SENT_BOUND,f his 
+MWE_LVC,s and made 3 a
+MWE_LVC_VERB,s an
+MWE_LVC_NOUN,ade 3 a
+SENT_BOUND,in 14
+SENT_BOUND,f the 
+NE_PER, 19
+MWE_LVC,5, Roy made hi
+MWE_LVC_VERB,5, R
+MWE_LVC_NOUN,de hi
+NE_ORG,th the United
+MWE_COMPOUND_NOUN,States nation
+NE_MISC,m in a 1966 FIFA Wo
+MWE_COMPOUND_NOUN,ld Cup qualificatio
+NE_ORG,gainst
+NE_LOC,ico in Mexi
+SENT_BOUND, a 0
+NE_ORG,e with H
+NE_ORG,ed t
+NE_MISC,or the 1966 Wo
+NE_MISC_SB, Wo
+NE_PER,d C
+MWE_COMPOUND_NOUN,ith the natio
+SENT_BOUND,team
+SENT_BOUND,ing s
+MWE_COMPOUND_NOUN,es, the natio
+SENT_BOUND,am we
+MWE_COMPOUND_NOUN,es were qualifying
+NE_MISC,for the 1970 FIFA W
+NE_MISC_SB,A W
+NE_ORG,es, 
+NE_PER,-1 
+SENT_BOUND,oring
+MWE_COMPOUND_NOUN,ith the natio
+NE_ORG,loss 
+NE_ORG_SB,loss 
+NE_ORG,loss 
+NE_MISC,anot
+NE_MISC,y for a W
+NE_MISC_SB,a W
+NE_PER,ld 
+MWE_COMPOUND_NOUN,for the natio
+MWE_COMPOUND_NOUN,playing qualificati
+NE_MISC,for the 1974 W
+NE_MISC_SB,4 W
+NE_PER,In 
+MWE_COMPOUND_NOUN,with the nati
+NE_MISC,eam, all 1974 
+MWE_COMPOUND_NOUN,orld Cup qualifyin
+COMPOUND_NOUN_SB,alifyin
+NE_ORG,hes.
+NE_MISC, another 
+NE_MISC_SB,er 
+NE_PER,sho
+NE_MISC,goals in 
+MWE_COMPOUND_NOUN,orld Cup qualifyin
+COMPOUND_NOUN_SB,alifyin
+NE_PER,me until C
+SENT_BOUND,id i
+NE_PER,in 
+MWE_COMPOUND_NOUN,goals in world cup qualifyin
+NE_PER,ed until Earni
+MWE_COMPOUND_NOUN, seventh qualif
+SENT_BOUND, goa
+NE_PER,in 
+MWE_COMPOUND_NOUN, with the nat
+SENT_BOUND,m, a
+MWE_COMPOUND_NOUN,nding his national t
+MWE_COMPOUND_NOUN,es by any national t
+SENT_BOUND,sustai
+NE_ORG,reer.
+The Major Indoor So
+NE_ORG,ms a
+MWE_COMPOUND_NOUN,t teams to financ
+COMPOUND_NOUN_SB, financ
+NE_ORG,l fa
+NE_ORG,ack 
+MWE_COMPOUND_NOUN,playing an in
+MWE_COMPOUND_NOUN,g its 1981 out
+COMPOUND_NOUN_SB,81 out
+NE_PER,or 
+NE_ORG,son.
+SENT_BOUND,irst se
+MWE_COMPOUND_NOUN,e 1982–1983 i
+COMPOUND_NOUN_SB,1983 i
+NE_ORG,. Wh
+MWE_COMPOUND_NOUN,not hold an i
+NE_ORG,winte
+NE_ORG,ayed
+NE_MISC,hird in the East
+NE_MISC_SB,the East
+NE_PER,n D
+NE_ORG,Roy a
+MWE_COMPOUND_NOUN,e 1983–1984 i
+NE_ORG,in w
+NE_ORG_SB,in w
+NE_ORG,lost to the New
+MWE_COMPOUND_NOUN,smos in the playof
+COMPOUND_NOUN_SB,the playof
+NE_PER,rom
+MWE_COMPOUND_NOUN,oy became an as
+NE_ORG,nt coach for 
+NE_ORG_SB, for 
+MWE_VPC,tion, bef
+MWE_VPC_VERB,tion, 
+MWE_VPC_PARTICLE,ef
+MWE_COMPOUND_NOUN,moving up 
+SENT_BOUND,ead 
+NE_PER,79.
+NE_ORG, coac
+NE_MISC,ctory in th
+NE_ORG,er B
+MWE_COMPOUND_NOUN,wl (the NASL cham
+NE_MISC,) and earned NASL Coac
+SENT_BOUND, of th
+NE_PER,r o
+NE_ORG,Roy c
+NE_ORG,to i
+MWE_COMPOUND_NOUN,s second NASL
+COMPOUND_NOUN_SB, NASL
+NE_ORG,o be
+SENT_BOUND,e fo
+NE_ORG,demi
+NE_ORG,the N
+MWE_COMPOUND_NOUN,ting became a fu
+NE_ORG,memb
+NE_ORG_SB,memb
+NE_PER, of
+NE_ORG,oy co
+SENT_BOUND,g for t
+NE_ORG,am lost to the 
+SENT_BOUND,g with
+NE_PER, 23
+NE_ORG,enure
+SENT_BOUND,n De
+NE_ORG,s tim
+NE_PER,wit
+SENT_BOUND,re than win t
+MWE_LVC,ampionships. 
+MWE_LVC_VERB,amp
+MWE_LVC_NOUN,hips. 
+NE_MISC,ched 
+MWE_COMPOUND_NOUN,he former Dut
+MWE_COMPOUND_NOUN,h National
+NE_PER,Team Head Coa
+NE_MISC,ck Advocaat a
+MWE_COMPOUND_NOUN,d United States women's nati
+NE_PER,nal socce
+NE_PER_SB,occe
+NE_PER,team
+NE_PER, la
+SENT_BOUND,as a 
+NE_PER,ayer
+NE_PER,ng th
+MWE_VPC,player and t
+MWE_VPC_VERB,player 
+MWE_VPC_PARTICLE,nd t
+SENT_BOUND,ied over
+MWE_VPC,ermined that he brought 
+MWE_VPC_VERB,ermined
+MWE_VPC_PARTICLE,ht 
+SENT_BOUND,lity ou
+MWE_VPC,oned pe
+MWE_VPC_VERB,oned
+MWE_VPC_PARTICLE,pe
+SENT_BOUND,ard 
+NE_PER,muc
+MWE_COMPOUND_NOUN,, Roy became the m
+NE_ORG, soccer coach at Northern Il
+NE_ORG_SB,orthern Il
+NE_ORG,ty. In 
+NE_ORG, Huskies had the Mid-Con
+NE_PER, be
+NE_MISC, selected as the Mid-Con's 
+NE_MISC_SB,n's 
+NE_PER, wa
+NE_ORG,ontract
+SENT_BOUND,onsecut
+MWE_COMPOUND_NOUN,22 record and two confer
+COMPOUND_NOUN_SB,nd two confer
+MWE_COMPOUND_NOUN,nown for the high 
+SENT_BOUND,s Roy s
+NE_ORG,ismal 4
+NE_MISC,ies ranked in the D
+MWE_COMPOUND_NOUN,vision
+COMPOUND_NOUN_SB,on
+NE_PER, to
+NE_ORG,was elected to the National 
+NE_ORG_SB,nal 
+NE_LOC,y owns and runs the W
+MWE_COMPOUND_NOUN,Roy Soccer Dome, an
+NE_LOC,oor soc
+NE_LOC,in Chicago,
+MWE_COMPOUND_NOUN, the Dolton B
+SENT_BOUND, bow
+MWE_COMPOUND_NOUN,inues to play 
+NE_LOC,er-30 leagu
+NE_LOC_SB,eagu
+NE_MISC,9, he wrote the book Co
+NE_MISC_SB,ook Co

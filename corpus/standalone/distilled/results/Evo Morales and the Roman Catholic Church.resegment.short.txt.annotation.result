@@ -1,0 +1,533 @@
+NE_MISC,Bolivian
+NE_PER,Evo Morales
+MWE_LVC,had a good relationship
+MWE_LVC_VERB,had
+MWE_LVC_NOUN,relationship
+NE_MISC,Bolivian
+NE_ORG,Roman Catholic Church
+NE_ORG_SB,Church
+NE_PER,Morales
+MWE_LVC,polls taken
+MWE_LVC_NOUN,polls
+MWE_LVC_VERB,taken
+NE_MISC,Bolivian
+NE_MISC,Bolivians
+MWE_COMPOUND_ADJ,Roman Catholic
+SENT_BOUND,faith
+NE_PER,Morales
+NE_LOC,Bolivia
+SENT_BOUND,measures
+NE_ORG,Catholic Church
+MWE_LVC,draws most of its support
+MWE_LVC_VERB,draws
+MWE_LVC_NOUN,support
+NE_PER,Morales
+MWE_LVC,draws his main support
+MWE_LVC_VERB,draws
+MWE_LVC_NOUN,support
+NE_ORG,Church
+SENT_BOUND,"
+NE_PER,Morales
+NE_MISC,Bolivians
+NE_PER,Pachamama
+NE_PER,Mother Earth
+NE_PER,Ekeko
+SENT_BOUND,"
+NE_PER,Felix Patzi
+MWE_LVC,follow a pure indigenous faith
+MWE_LVC_VERB,follow
+MWE_LVC_NOUN,faith
+SENT_BOUND,worshippers
+NE_LOC,Bolivia
+NE_MISC,Article 3
+NE_MISC,Bolivian
+NE_ORG,State
+SENT_BOUND,Religion
+SENT_BOUND,faiths
+NE_ORG,Catholic Church
+NE_ORG,Bolivian State
+NE_ORG,Holy See
+NE_ORG_SB,See
+NE_ORG,The United States State Department
+SENT_BOUND,with
+NE_LOC,Santa Cruz de la Sierra
+NE_PER,Julio Terrazas
+MWE_COMPOUND_NOUN,congressional candidates
+NE_MISC,Bolivian
+NE_ORG,Catholic Church
+NE_LOC,Bolivia
+NE_LOC_SB,Bolivia
+SENT_BOUND,”
+MWE_VPC,pointed out
+MWE_VPC_VERB,pointed
+MWE_VPC_PARTICLE,out
+NE_MISC,Bolivian
+SENT_BOUND,Catholicism
+SENT_BOUND,article
+SENT_BOUND,so
+SENT_BOUND,fully
+NE_LOC,Kingdom of justice
+NE_PER,Lord
+NE_LOC,Bolivia
+SENT_BOUND,Catholics
+MWE_VPC,pointed out
+MWE_VPC_VERB,pointed
+MWE_VPC_PARTICLE,out
+MWE_COMPOUND_NOUN,state religion
+NE_LOC,Bolivia
+NE_ORG,Church
+SENT_BOUND,done
+MWE_VPC,calling for
+MWE_VPC_VERB,calling
+MWE_VPC_PARTICLE,for
+NE_LOC,Bolivia
+NE_PER,God
+SENT_BOUND,present
+MWE_COMPOUND_NOUN,socialist party
+NE_PER,Evo Morales
+NE_ORG,Movimiento al Socialismo
+NE_LOC,Marian Shrine
+NE_LOC,Copacabana
+NE_LOC_SB,Copacabana
+NE_MISC,Bolivian
+SENT_BOUND,shrine
+MWE_COMPOUND_NOUN,party loyalists
+NE_ORG,Church
+MWE_VPC,cut down
+MWE_VPC_VERB,cut
+MWE_VPC_PARTICLE,down
+VPC_PARTICLE_SB,down
+NE_PER,Obermaier
+MWE_VPC,called for
+MWE_VPC_VERB,called
+MWE_VPC_PARTICLE,for
+SENT_BOUND,situation
+MWE_COMPOUND_NOUN,education reform controversy
+NE_PER,Antonio Peredo
+NE_PER,Morales
+NE_ORG,Movimiento al Socialismo
+NE_ORG,Bolivian Parliament
+MWE_VPC,call for
+MWE_VPC_VERB,call
+MWE_VPC_PARTICLE,for
+MWE_COMPOUND_NOUN,feast days
+NE_MISC,Corpus Christi
+NE_MISC,All Saints Day
+MWE_COMPOUND_NOUN,national holidays
+COMPOUND_NOUN_SB,holidays
+NE_MISC,Holy Week
+NE_MISC,Christmas
+NE_MISC_SB,Christmas
+NE_ORG,Parliament
+NE_ORG_SB,Parliament
+NE_MISC,Bolivian
+MWE_COMPOUND_NOUN,Education Minister
+NE_PER,Felix Patzi
+NE_PER,Evo Morales
+SENT_BOUND,Catholic
+MWE_COMPOUND_NOUN,Religion classes
+SENT_BOUND,obligatory
+NE_MISC,Arabic
+SENT_BOUND,Catholic
+MWE_VPC,called for
+MWE_VPC_VERB,called
+MWE_VPC_PARTICLE,for
+MWE_COMPOUND_NOUN,secular education
+NE_MISC,Bolivian
+SENT_BOUND,rights
+NE_MISC,Bolivian
+MWE_COMPOUND_ADJ,Roman Catholic
+NE_LOC,Bolivia
+SENT_BOUND,it
+NE_PER,Felix Patzi
+NE_MISC,Aymara Indian
+NE_PER,Morales
+SENT_BOUND,schools
+NE_PER,Patzi
+SENT_BOUND,peoples
+SENT_BOUND,”
+NE_ORG,La Razon
+NE_PER,Patzi
+NE_LOC,Bolivia
+SENT_BOUND,faiths
+NE_MISC,Bolivians
+SENT_BOUND,”
+NE_PER,Patzi
+MWE_COMPOUND_ADJ,Roman Catholic
+MWE_COMPOUND_NOUN,state schools
+NE_LOC,Bolivia
+NE_LOC_SB,Bolivia
+NE_PER,Patzi
+MWE_COMPOUND_NOUN,educational system
+COMPOUND_NOUN_SB,system
+NE_PER,Morales
+MWE_COMPOUND_NOUN,secular education
+NE_MISC,Bolivian
+MWE_COMPOUND_NOUN,communitarian rights
+COMPOUND_NOUN_SB,rights
+NE_ORG,National Assembly
+SENT_BOUND,2006
+NE_PER,Patzi
+NE_PER,Tito Solari
+NE_LOC,Cochabamba
+NE_PER,Morales
+NE_MISC,Bolivians
+NE_MISC_SB,Bolivians
+MWE_COMPOUND_NOUN,Covenant schools
+NE_ORG,Catholic Church
+NE_MISC,Bolivian
+SENT_BOUND,alike
+NE_PER,Solari
+SENT_BOUND,want
+NE_ORG,Church
+SENT_BOUND,need
+MWE_COMPOUND_NOUN,civil society
+SENT_BOUND,persons
+NE_ORG,Bolivian Bishops’ Committee on Education
+NE_PER,Morales
+MWE_COMPOUND_NOUN,religious instruction
+MWE_COMPOUND_NOUN,state schools
+COMPOUND_NOUN_SB,schools
+SENT_BOUND,dialogue
+MWE_LVC,took issue
+MWE_LVC_VERB,took
+MWE_LVC_NOUN,issue
+NE_PER,Patzi
+NE_ORG,Church
+MWE_COMPOUND_NOUN,health care
+NE_LOC,Bolivia
+NE_LOC_SB,Bolivia
+MWE_VPC,pointed out
+MWE_VPC_VERB,pointed
+MWE_VPC_PARTICLE,out
+NE_ORG,Church
+SENT_BOUND,people
+NE_PER,Morales
+MWE_COMPOUND_NOUN,anti-faith bias
+NE_ORG,Church
+SENT_BOUND,Catholic
+NE_PER,Patzi
+NE_LOC,Santa Cruz
+NE_PER,Julio Terrazas Sandoval
+MWE_VPC,called for
+MWE_VPC_VERB,called
+MWE_VPC_PARTICLE,for
+NE_MISC,Bolivian
+MWE_VPC,called on
+MWE_VPC_VERB,called
+MWE_VPC_PARTICLE,on
+NE_PER,Morales
+MWE_COMPOUND_NOUN,lay State
+MWE_COMPOUND_NOUN,secular State
+SENT_BOUND,religions
+NE_ORG,Catholic Church
+SENT_BOUND,religion
+SENT_BOUND,non-negotiable
+SENT_BOUND,turmoil
+NE_PER,Jesus Juarez
+NE_LOC,El Alto
+NE_PER,Morales
+MWE_COMPOUND_NOUN,educational policies
+COMPOUND_NOUN_SB,policies
+NE_PER,Morales
+MWE_COMPOUND_NOUN,public schools
+SENT_BOUND,”
+NE_LOC,Sucre
+NE_LOC,Bolivia
+NE_ORG,National Educational Congress
+NE_ORG,Bishops’ Conference of Bolivia
+MWE_VPC,walked out
+MWE_VPC_VERB,walked
+MWE_VPC_PARTICLE,out
+MWE_COMPOUND_NOUN,education law
+NE_LOC,Bolivia
+NE_LOC_SB,Bolivia
+NE_PER,Felix Patzi
+MWE_COMPOUND_NOUN,religious instruction
+NE_ORG,Church-State
+NE_ORG,Church
+MWE_COMPOUND_NOUN,technical formation
+SENT_BOUND,areas
+MWE_COMPOUND_NOUN,Religious subject matter
+NE_ORG,Church
+SENT_BOUND,that
+NE_PER,Jesus Juarez
+NE_LOC,El Alto
+MWE_COMPOUND_NOUN,Auxiliary Bishop
+NE_PER,Luis Sainz
+NE_LOC,Cochabomba
+MWE_COMPOUND_NOUN,parochial schools
+MWE_COMPOUND_NOUN,fundamental right
+MWE_COMPOUND_NOUN,state schools
+SENT_BOUND,receive
+NE_PER,Sainz
+NE_PER,Morales
+MWE_VPC,come up
+MWE_VPC_VERB,come
+MWE_VPC_PARTICLE,up
+MWE_COMPOUND_NOUN,secular education
+SENT_BOUND,doubts
+NE_ORG,National Educational Congress
+NE_PER,Patzi
+NE_LOC,Bolivia
+SENT_BOUND,dogmatisms
+MWE_VPC,called for
+MWE_VPC_VERB,called
+MWE_VPC_PARTICLE,for
+SENT_BOUND,"
+NE_PER,Patzi
+MWE_LVC,go into effect
+MWE_LVC_VERB,go
+MWE_LVC_NOUN,into effect
+NE_ORG,Bolivian Parliament
+NE_ORG,Educational Congress
+SENT_BOUND,immediately
+MWE_LVC,drew another wave of protests
+MWE_LVC_VERB,drew
+MWE_LVC_NOUN,protests
+NE_MISC,Bolivian
+NE_PER,Patzi
+SENT_BOUND,resignation
+NE_PER,Tito Solari
+NE_PER,Morales
+SENT_BOUND,dialogue
+MWE_COMPOUND_NOUN,religious classes
+COMPOUND_NOUN_SB,classes
+MWE_COMPOUND_NOUN,Auxiliary Bishop
+NE_PER,Estanislao Dowlaszewicz
+NE_LOC,Santa Cruz
+NE_ORG,Church
+NE_PER,God
+SENT_BOUND,well
+NE_PER,Edmundo Abastoflor
+NE_LOC,La Paz
+MWE_LVC,made comments
+MWE_LVC_VERB,made
+MWE_LVC_NOUN,comments
+MWE_COMPOUND_NOUN,education question
+NE_MISC,Bolivian
+SENT_BOUND,independence
+NE_MISC,Bolivian
+NE_PER,Evo Morales
+NE_PER,God
+NE_PER,Him
+NE_PER_SB,Him
+SENT_BOUND,us
+NE_PER,Matias Preisweik
+NE_ORG,Ecumenical Higher Institute
+NE_ORG,The State, Religion, and the New Political Constitution
+NE_ORG_SB,Constitution
+NE_MISC,Andean
+SENT_BOUND,religiosity
+NE_ORG,Catholic Church
+MWE_COMPOUND_NOUN,tutelary institution
+NE_ORG,Armed Forces
+MWE_COMPOUND_NOUN,religious matters
+NE_MISC,Bolivians
+NE_LOC,Kingdom of God
+NE_LOC_SB,God
+MWE_COMPOUND_NOUN,separation of Church and State
+SENT_BOUND,views
+NE_ORG,Catholic Church
+NE_LOC,Bolivia
+MWE_LVC,gained international attention
+MWE_LVC_VERB,gained
+MWE_LVC_NOUN,attention
+NE_PER,Jesus Juarez
+NE_PER,Juan Luis Ledezma
+NE_ORG,Church
+MWE_VPC,go ahead
+MWE_VPC_VERB,go
+MWE_VPC_PARTICLE,ahead
+MWE_LVC,have an abortion
+MWE_LVC_VERB,have
+MWE_LVC_NOUN,abortion
+LVC_NOUN_SB,abortion
+NE_PER,Preisweik
+NE_PER,Edmundo Abastoflor
+NE_LOC,La Paz
+NE_ORG,Church
+MWE_LVC,hold any political power
+MWE_LVC_VERB,hold
+MWE_LVC_NOUN,power
+MWE_COMPOUND_NOUN,social works
+SENT_BOUND,need
+NE_LOC,Bolivia
+NE_PER,Julio Terrazas
+SENT_BOUND,faith
+SENT_BOUND,unforgiveness
+NE_PER,Patzi
+MWE_VPC,came out
+MWE_VPC_VERB,came
+MWE_VPC_PARTICLE,out
+NE_ORG,Church
+SENT_BOUND,beliefs
+SENT_BOUND,untrue
+SENT_BOUND,truth
+SENT_BOUND,destroy
+SENT_BOUND,visible
+MWE_COMPOUND_NOUN,street marches
+NE_LOC,Santa Cruz
+NE_LOC,Tarija
+NE_LOC_SB,Tarija
+NE_PER,Patzi
+NE_ORG,Church
+MWE_IDIOM,showing her true face
+IDIOM_SB,face
+NE_ORG,Church
+NE_ORG,Church
+SENT_BOUND,rich
+SENT_BOUND,it
+NE_PER,Morales
+MWE_VPC,came out
+MWE_VPC_VERB,came
+MWE_VPC_PARTICLE,out
+NE_PER,Patzi
+NE_ORG,Inquisition
+NE_ORG_SB,Inquisition
+SENT_BOUND,power
+NE_PER,Morales
+MWE_COMPOUND_NOUN,church) hierarchies
+MWE_COMPOUND_NOUN,freedom of religion
+SENT_BOUND,country
+SENT_BOUND,views
+NE_ORG,Catholic Church
+NE_ORG,Inquisition
+NE_ORG_SB,Inquisition
+NE_MISC,Bolivian
+NE_PER,Jorge Quiroga
+NE_PER,Evo Morales
+NE_PER,Morales
+MWE_COMPOUND_ADJ,Roman Catholic
+NE_LOC,Bolivia
+NE_ORG,Inquisition
+NE_ORG_SB,Inquisition
+NE_PER,Quiroga
+MWE_LVC,brings negative consequences
+MWE_LVC_VERB,brings
+MWE_LVC_NOUN,consequences
+LVC_NOUN_SB,consequences
+MWE_COMPOUND_NOUN,government policies
+MWE_COMPOUND_NOUN,religious classes
+SENT_BOUND,politicized
+SENT_BOUND,”
+NE_PER,Morales
+MWE_COMPOUND_NOUN,religious classes
+MWE_COMPOUND_NOUN,state schools
+SENT_BOUND,popularity
+NE_ORG,La Razon
+MWE_LVC,did a survey
+MWE_LVC_VERB,did
+MWE_LVC_NOUN,survey
+NE_MISC,Bolivians
+SENT_BOUND,cities
+NE_PER,Morales
+SENT_BOUND,June
+NE_MISC,Bolivians
+NE_ORG,Catholic Church
+NE_PER,Julio Terrazas
+NE_PER,Morales
+NE_LOC,Cochabamba
+MWE_VPC,backing away
+MWE_VPC_VERB,backing
+MWE_VPC_PARTICLE,away
+SENT_BOUND,proposal
+NE_ORG,The Associated Press
+MWE_COMPOUND_NOUN,joint statement
+MWE_LVC,made no provision
+MWE_LVC_VERB,made
+MWE_LVC_NOUN,provision
+NE_LOC,Bolivia
+NE_ORG,Catholic church
+SENT_BOUND,country
+NE_ORG,Confederation of Inner City Education Workers of Bolivia
+NE_MISC,Rescuing the Homeland
+MWE_VPC,called for
+MWE_VPC_VERB,called
+MWE_VPC_PARTICLE,for
+MWE_COMPOUND_NOUN,religious instruction
+MWE_COMPOUND_NOUN,state schools
+MWE_COMPOUND_NOUN,covenant schools
+NE_ORG,Catholic Church
+NE_ORG_SB,Church
+SENT_BOUND,scientific
+NE_ORG,Catholic Church
+MWE_LVC,advances made
+MWE_LVC_NOUN,advances
+MWE_LVC_VERB,made
+NE_ORG,Church
+NE_ORG,State
+MWE_VPC,takes over
+MWE_VPC_VERB,takes
+MWE_VPC_PARTICLE,over
+MWE_COMPOUND_NOUN,covenant schools
+SENT_BOUND,proposals
+MWE_COMPOUND_ADJ,Roman Catholic
+NE_LOC,Oruro
+NE_PER,Cristobal Bialasik
+NE_PER,Morales
+MWE_COMPOUND_NOUN,state schools
+COMPOUND_NOUN_SB,schools
+NE_MISC,Bolivian Constitution
+SENT_BOUND,Catholicism
+NE_MISC,Bolivian Constitution
+NE_ORG,State
+SENT_BOUND,religion
+SENT_BOUND,faiths
+NE_ORG,Catholic Church
+NE_ORG,Bolivian State
+NE_ORG,Holy See
+NE_ORG_SB,See
+NE_PER,Bialasik
+NE_LOC,Bolivia
+NE_PER,God
+SENT_BOUND,us
+MWE_COMPOUND_NOUN,Auxiliary Bishop
+NE_PER,Luis Saenz
+NE_LOC,Cochabamba
+MWE_VPC,called on
+MWE_VPC_VERB,called
+MWE_VPC_PARTICLE,on
+NE_LOC,Bolivia
+NE_PER,God
+NE_PER,Blessed Mother
+NE_PER_SB,Mother
+NE_PER,Mary
+NE_MISC,Bolivians
+SENT_BOUND,united
+NE_PER,God
+SENT_BOUND,us
+NE_PER,God
+SENT_BOUND,free
+NE_PER,God
+SENT_BOUND,people
+NE_ORG,Catholic Church
+SENT_BOUND,enslaved
+MWE_COMPOUND_NOUN,political party
+COMPOUND_NOUN_SB,party
+NE_ORG,Bolivia
+NE_ORG,Church
+NE_PER,God
+NE_PER_SB,God
+NE_PER,Freddy del Villar
+MWE_COMPOUND_NOUN,Vicar General
+NE_LOC,Coroicu Diocese
+NE_LOC,Bolivia
+NE_ORG,Catholic Church
+NE_PER,Morales
+SENT_BOUND,government
+NE_MISC,Bolivian
+SENT_BOUND,constitution
+NE_ORG,Church
+NE_PER,Morales
+SENT_BOUND,preparing
+NE_PER,Evo Morales
+SENT_BOUND,important
+MWE_VPC,comes out
+MWE_VPC_VERB,comes
+MWE_VPC_PARTICLE,out
+SENT_BOUND,August
+NE_LOC,Bolivia
+NE_LOC,Bolivia
+NE_ORG,Church
+SENT_BOUND,country

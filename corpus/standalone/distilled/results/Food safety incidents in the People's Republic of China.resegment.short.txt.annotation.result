@@ -1,0 +1,518 @@
+MWE_COMPOUND_NOUN,Food safety incidents
+NE_ORG,People's Republic of China
+MWE_COMPOUND_NOUN,media scrutiny
+NE_ORG,World Trade Organization
+NE_ORG_SB,Organization
+NE_MISC,Chinese
+MWE_COMPOUND_NOUN,urban areas
+MWE_COMPOUND_NOUN,food safety
+SENT_BOUND,rise
+MWE_COMPOUND_NOUN,Food safety agencies
+NE_LOC,China
+SENT_BOUND,duties
+NE_MISC,Chinese
+MWE_COMPOUND_NOUN,milk scandal
+MWE_LVC,received the most attention
+MWE_LVC_VERB,received
+MWE_LVC_NOUN,attention
+MWE_COMPOUND_NOUN,food safety incidents
+COMPOUND_NOUN_SB,incidents
+NE_MISC,Jinhua
+SENT_BOUND,ham
+MWE_COMPOUND_NOUN,small producers
+NE_MISC,Jinhua
+MWE_COMPOUND_NOUN,insect infestation
+COMPOUND_NOUN_SB,infestation
+NE_MISC,Dichlorvos
+MWE_COMPOUND_NOUN,volatile organophosphate insecticide
+SENT_BOUND,fumigation
+MWE_COMPOUND_NOUN,baby formula
+COMPOUND_NOUN_SB,formula
+NE_LOC,Fuyang
+NE_LOC,Anhui
+MWE_COMPOUND_NOUN,rural areas
+NE_LOC,Anhui
+MWE_COMPOUND_NOUN,milk powder
+COMPOUND_NOUN_SB,powder
+NE_LOC,Anhui Province
+MWE_LVC,suffered malnutrition
+MWE_LVC_VERB,suffered
+MWE_LVC_NOUN,malnutrition
+SENT_BOUND,survived
+NE_LOC,Fuyang
+NE_LOC,Fuyang
+SENT_BOUND,markets
+NE_MISC,Chinese
+SENT_BOUND,mid-April
+NE_ORG,The State Food and Drug Administration
+SENT_BOUND,2004
+MWE_COMPOUND_NOUN,big head disease
+NE_MISC,Chinese
+SENT_BOUND,doctors
+SENT_BOUND,malnourishment
+SENT_BOUND,protein
+SENT_BOUND,bills
+SENT_BOUND,families
+NE_MISC,Longkou
+SENT_BOUND,noodles
+NE_MISC,Chinese
+MWE_COMPOUND_NOUN,cellophane noodles
+NE_LOC,Yantai
+NE_LOC,Shandong
+SENT_BOUND,lead
+MWE_COMPOUND_NOUN,mung beans
+SENT_BOUND,noodles
+NE_LOC,Beijing
+MWE_COMPOUND_NOUN,cellophane noodles
+NE_ORG,Yantai Deshengda Longkou Vermicelli Co. Ltd.
+NE_LOC,Siduitou
+NE_LOC,Zhangxing
+NE_LOC,Zhaoyuan City
+NE_LOC,Yantai
+MWE_COMPOUND_NOUN,sodium formaldehyde sulfoxylate
+MWE_COMPOUND_NOUN,food additive
+NE_LOC,China
+SENT_BOUND,noodles
+NE_LOC,China
+SENT_BOUND,distribution
+MWE_VPC,shut down
+MWE_VPC_VERB,shut
+MWE_VPC_PARTICLE,down
+VPC_PARTICLE_SB,down
+MWE_COMPOUND_NOUN,pickled vegetables
+COMPOUND_NOUN_SB,vegetables
+NE_ORG,Chengdu Quality Inspection Department
+MWE_COMPOUND_NOUN,pickled vegetables
+NE_LOC,Chengdu
+MWE_COMPOUND_NOUN,chemical additives
+COMPOUND_NOUN_SB,additives
+MWE_COMPOUND_NOUN,pickled vegetables
+MWE_COMPOUND_NOUN,chemical content
+SENT_BOUND,inaccurate
+NE_LOC,Sichuan
+MWE_COMPOUND_NOUN,pickled vegetables
+SENT_BOUND,shipment
+MWE_COMPOUND_NOUN,alcoholic drinks
+COMPOUND_NOUN_SB,drinks
+MWE_COMPOUND_NOUN,alcohol poisoning
+NE_LOC,Guangdong Province
+NE_ORG,People's Hospital of Guangzhou
+NE_ORG_SB,Guangzhou
+NE_PER,Wang Funian
+NE_PER,Hou Shangjian
+NE_LOC,Taihe Town
+SENT_BOUND,vendor
+MWE_COMPOUND_NOUN,migrant worker
+NE_LOC,Zhongluotan
+NE_LOC,Hunan Province
+MWE_COMPOUND_NOUN,health department
+MWE_COMPOUND_NOUN,industrial alcohol
+MWE_COMPOUND_NOUN,rice wine
+MWE_COMPOUND_NOUN,liquor manufacturers
+COMPOUND_NOUN_SB,manufacturers
+MWE_COMPOUND_NOUN,Soy sauce
+SENT_BOUND,hair
+MWE_COMPOUND_NOUN,soy sauces
+SENT_BOUND,hair
+NE_LOC,China
+MWE_COMPOUND_NOUN,amino acid extraction process
+MWE_COMPOUND_NOUN,soy sauces
+SENT_BOUND,countries
+MWE_COMPOUND_NOUN,investigative report
+NE_MISC,Chinese
+SENT_BOUND,hair
+NE_MISC,Chinese
+MWE_COMPOUND_NOUN,soy sauces
+SENT_BOUND,hair
+SENT_BOUND,3-MCPD
+NE_MISC,Sudan I
+SENT_BOUND,Dye
+NE_ORG,China
+MWE_COMPOUND_NOUN,food manufacturers
+NE_MISC,Sudan I
+SENT_BOUND,products
+NE_ORG,China
+MWE_COMPOUND_NOUN,developed nations
+MWE_COMPOUND_NOUN,health effects
+COMPOUND_NOUN_SB,effects
+NE_ORG,General Administration of Quality Supervision, Inspection and Quarantine
+NE_ORG,State Bureau of Industry and Commerce
+NE_ORG,State Food and Drug Administration
+NE_MISC,Sudan I
+NE_MISC,Chinese
+SENT_BOUND,cities
+NE_LOC,Beijing
+NE_ORG,Heinz Company
+MWE_COMPOUND_NOUN,chili sauce
+NE_LOC,Guangdong
+NE_LOC,Zhejiang
+NE_LOC,Hunan
+NE_LOC,Fuzhou
+SENT_BOUND,noodles
+NE_ORG,Kentucky Fried Chicken
+NE_ORG,KFC
+NE_LOC,Shanghai
+NE_MISC,Sudan I
+NE_MISC_SB,I
+NE_LOC,China
+NE_MISC,Sudan I
+MWE_COMPOUND_NOUN,government officials
+MWE_LVC,gave two reasons
+MWE_LVC_VERB,gave
+MWE_LVC_NOUN,reasons
+SENT_BOUND,enforced
+MWE_COMPOUND_NOUN,food production
+SENT_BOUND,inefficiency
+MWE_COMPOUND_NOUN,government agencies
+MWE_COMPOUND_NOUN,food testing equipment
+SENT_BOUND,earlier
+MWE_COMPOUND_NOUN,food safety system
+SENT_BOUND,levels
+SENT_BOUND,drugs
+NE_ORG,The State Food and Drug Administration
+MWE_COMPOUND_NOUN,health accidents
+MWE_COMPOUND_NOUN,drug manufacturing facilities
+COMPOUND_NOUN_SB,facilities
+NE_MISC,Armillarisni A
+SENT_BOUND,2006
+MWE_COMPOUND_NOUN,drug quality inspectors
+NE_MISC,Armillarisni A
+SENT_BOUND,drugs
+SENT_BOUND,ingredient
+MWE_COMPOUND_NOUN,business licenses
+MWE_COMPOUND_NOUN,drug manufacturers
+SENT_BOUND,retailers
+MWE_COMPOUND_NOUN,School food poisoning
+COMPOUND_NOUN_SB,poisoning
+NE_ORG,Chongzhou City Experimental Primary School
+NE_LOC,China
+NE_LOC,Sichuan Province
+MWE_COMPOUND_NOUN,food poisoning
+SENT_BOUND,lunch
+SENT_BOUND,diarrhea
+SENT_BOUND,investigation
+MWE_COMPOUND_NOUN,middle school students
+NE_LOC,China
+NE_LOC,Liaoning Province
+MWE_COMPOUND_NOUN,food poisoning
+SENT_BOUND,school
+NE_ORG,Ministry of Education
+MWE_COMPOUND_NOUN,food poisoning
+SENT_BOUND,schools
+MWE_COMPOUND_NOUN,summer vacation
+MWE_COMPOUND_NOUN,drinking water
+SENT_BOUND,September
+SENT_BOUND,fish
+NE_LOC,Shanghai
+NE_LOC,Beijing
+SENT_BOUND,turbot
+NE_ORG,The Epoch Times
+NE_ORG,China
+NE_LOC,Europe
+SENT_BOUND,1992
+NE_LOC,China
+SENT_BOUND,tons
+MWE_COMPOUND_NOUN,immune systems
+MWE_COMPOUND_NOUN,fish-farming technologies
+SENT_BOUND,disease
+NE_LOC,Shanghai
+NE_ORG,Shanghai Food and Drug Administration
+MWE_COMPOUND_NOUN,nitrofuran metabolites
+NE_LOC,Beijing
+MWE_COMPOUND_NOUN,malachite green
+SENT_BOUND,fish
+NE_LOC,Hangzhou
+NE_LOC,Shandong Province
+NE_LOC_SB,Province
+NE_LOC,Shanghai
+NE_LOC,Beijing
+NE_LOC,Hong Kong
+SENT_BOUND,antibiotics
+MWE_COMPOUND_NOUN,Pesticide residue
+SENT_BOUND,vegetables
+NE_ORG,Greenpeace
+NE_LOC,Hong Kong
+MWE_COMPOUND_NOUN,grocery stores
+NE_ORG,Parknshop
+NE_ORG,Wellcome
+MWE_COMPOUND_NOUN,pesticide residue
+COMPOUND_NOUN_SB,residue
+MWE_COMPOUND_NOUN,vegetable samples
+SENT_BOUND,Lindane
+NE_ORG,Greenpeace
+MWE_COMPOUND_NOUN,grocery stores
+NE_LOC,China
+NE_LOC_SB,China
+NE_PER,John Chapple
+NE_ORG,Sinoanalytica
+MWE_COMPOUND_NOUN,food analysis laboratory
+NE_ORG,Greenpeace
+SENT_BOUND,information
+NE_LOC,China
+MWE_COMPOUND_NOUN,pesticide use
+COMPOUND_NOUN_SB,use
+NE_MISC,Chinese
+MWE_COMPOUND_NOUN,organic agriculture
+MWE_COMPOUND_NOUN,pesticide use
+SENT_BOUND,high
+MWE_COMPOUND_NOUN,snail meat
+COMPOUND_NOUN_SB,meat
+NE_ORG,Shuguo Yanyi Restaurant
+NE_LOC,Beijing
+NE_MISC,Amazonian
+MWE_COMPOUND_NOUN,snail meat
+MWE_OTHER,angiostrongylus meningitis
+MWE_OTHER_SB,meningitis
+MWE_COMPOUND_NOUN,snail meat
+NE_MISC,Angiostrongylus cantonesis
+MWE_COMPOUND_NOUN,nervous system
+SENT_BOUND,fevers
+MWE_COMPOUND_NOUN,meningitis outbreak
+NE_ORG,Beijing Municipal Office of Health
+SENT_BOUND,restaurants
+NE_ORG,Beijing Municipal Office of Health
+NE_ORG,Shuguo Yanyi Restaurant
+NE_ORG_SB,Restaurant
+NE_ORG,Beijing Friendship Hospital
+MWE_COMPOUND_NOUN,meningitis case
+MWE_OTHER,angiostrongylus meningitis
+MWE_OTHER_SB,meningitis
+NE_ORG,Guangzhou Center for Disease Control and Prevention
+MWE_COMPOUND_NOUN,meningitis cases
+SENT_BOUND,1980s
+SENT_BOUND,mushrooms
+NE_LOC,Beijing
+NE_LOC,Dayali Roast Duck Restaurant
+NE_LOC_SB,Restaurant
+NE_ORG,Bo'ai Hospital
+NE_ORG,307 Hospital of the People's Liberation Army
+NE_ORG_SB,Army
+NE_MISC,Chinese
+NE_ORG,Ministry of Health
+MWE_COMPOUND_NOUN,mushroom poisonings
+COMPOUND_NOUN_SB,poisonings
+MWE_COMPOUND_NOUN,toxic mushrooms
+COMPOUND_NOUN_SB,mushrooms
+MWE_COMPOUND_NOUN,edible mushrooms
+SENT_BOUND,ones
+SENT_BOUND,drugs
+NE_PER,John Newton
+NE_ORG,Interpol
+NE_MISC,Chinese
+MWE_COMPOUND_NOUN,organized crime
+NE_LOC,Africa
+NE_LOC_SB,Africa
+NE_ORG,China Central Television
+MWE_LVC,making a 300% profit
+MWE_LVC_VERB,making
+MWE_LVC_NOUN,profit
+SENT_BOUND,product
+MWE_COMPOUND_NOUN,frying oil
+COMPOUND_NOUN_SB,oil
+NE_ORG,Guangzhou Information Times
+NE_ORG,Kentucky Fried Chicken
+NE_ORG,KFC
+MWE_COMPOUND_NOUN,oil filtering powder
+MWE_COMPOUND_NOUN,magnesium trisilicate
+MWE_COMPOUND_NOUN,frying oil
+COMPOUND_NOUN_SB,oil
+NE_ORG,KFC
+NE_LOC,Shaanxi Province
+MWE_COMPOUND_NOUN,frying oil
+SENT_BOUND,days
+NE_ORG,KFC
+MWE_VPC,pointed out
+MWE_VPC_VERB,pointed
+MWE_VPC_PARTICLE,out
+NE_LOC,United States
+MWE_COMPOUND_NOUN,health officials
+NE_LOC,Xianyang
+NE_LOC,Yulin
+NE_LOC,Xi'an
+NE_LOC,Shaanxi Province
+NE_ORG,KFCs
+MWE_COMPOUND_NOUN,frying powder
+COMPOUND_NOUN_SB,powder
+NE_LOC,Gaungzhou
+MWE_COMPOUND_NOUN,city officials
+MWE_COMPOUND_NOUN,frying oils
+NE_ORG,Ministry of Health
+MWE_VPC,step in
+MWE_VPC_VERB,step
+MWE_VPC_PARTICLE,in
+VPC_PARTICLE_SB,in
+NE_ORG,KFC
+MWE_COMPOUND_NOUN,oil filtering powder
+MWE_COMPOUND_NOUN,health problems
+MWE_LVC,meets local and international standards
+MWE_LVC_VERB,meets
+MWE_LVC_NOUN,standards
+NE_MISC,Chinese
+MWE_COMPOUND_NOUN,nutritional value
+SENT_BOUND,cancer
+MWE_COMPOUND_NOUN,Magnesium trisilicate
+MWE_COMPOUND_NOUN,human consumption
+SENT_BOUND,cancer
+MWE_COMPOUND_NOUN,wheat gluten
+MWE_COMPOUND_NOUN,rice protein
+SENT_BOUND,export
+NE_ORG,The General Administration of Quality Supervision, Inspection, and Quarantine
+NE_ORG,AQSIQ
+MWE_COMPOUND_NOUN,Wheat Gluten
+MWE_COMPOUND_NOUN,rice protein
+NE_LOC,United States
+NE_LOC_SB,States
+NE_ORG,AQSIQ
+MWE_COMPOUND_NOUN,recall systems
+MWE_COMPOUND_NOUN,food products
+NE_ORG,China
+MWE_COMPOUND_NOUN,product safety
+NE_MISC,Sudan Red
+MWE_COMPOUND_NOUN,egg yolks
+MWE_COMPOUND_NOUN,pet food
+MWE_COMPOUND_NOUN,wheat protein
+NE_LOC,United States
+NE_LOC_SB,States
+MWE_COMPOUND_NOUN,pet food crisis
+COMPOUND_NOUN_SB,crisis
+MWE_COMPOUND_NOUN,tofu manufacturing
+COMPOUND_NOUN_SB,manufacturing
+NE_LOC,Guangdong
+MWE_COMPOUND_NOUN,Iron(II) sulfate
+SENT_BOUND,product
+MWE_COMPOUND_NOUN,Cardboard bun
+SENT_BOUND,hoax
+NE_MISC,Chinese
+SENT_BOUND,dumplings
+NE_MISC,Japanese
+NE_LOC,Hyōgo
+NE_LOC,Chiba
+MWE_COMPOUND_NOUN,pork dumplings
+SENT_BOUND,methamidophos
+NE_ORG,Tianyang Food Plant
+NE_LOC,Hebei Province
+NE_ORG,JT Foods
+NE_ORG,Japanese Consumers' Co-operative Union
+NE_ORG_SB,Union
+NE_ORG,Kyodo News
+SENT_BOUND,agonies
+NE_LOC, Hyōgo
+NE_LOC,Chiba
+MWE_COMPOUND_NOUN,attempted murder
+MWE_COMPOUND_NOUN,police departments
+MWE_COMPOUND_NOUN,joint investigation team
+COMPOUND_NOUN_SB,team
+NE_MISC,Japanese
+NE_MISC,Dichlorvos
+NE_MISC,Parathion
+NE_MISC_SB,Parathion
+NE_ORG,Japanese National Police Agency
+SENT_BOUND,outside
+MWE_COMPOUND_NOUN,test results
+NE_ORG,Ministry of Public Security of China
+NE_ORG,MPS
+SENT_BOUND,)
+MWE_LVC,Investigations jointly held
+MWE_LVC_NOUN,Investigations
+MWE_LVC_VERB,held
+NE_MISC,Chinese
+NE_MISC,Japanese
+NE_MISC,Chinese
+MWE_COMPOUND_NOUN,raw material
+SENT_BOUND,factory
+SENT_BOUND,underway
+NE_ORG,MPS
+MWE_COMPOUND_NOUN,criminal investigation bureau
+NE_LOC,China
+NE_MISC,Japanese
+NE_ORG,MPS
+MWE_COMPOUND_NOUN,material evidences
+MWE_COMPOUND_NOUN,test reports
+NE_ORG,MPS
+NE_ORG_SB,MPS
+NE_PER,Hiroto Yoshimura
+NE_LOC,Japan
+NE_ORG,National Police Agency
+NE_MISC,Chinese
+NE_MISC,Japanese
+MWE_COMPOUND_NOUN,test results
+MWE_COMPOUND_NOUN,photographic evidence
+NE_ORG,China
+SENT_BOUND,"
+NE_MISC,Chinese
+MWE_LVC,offer evidence
+MWE_LVC_VERB,offer
+MWE_LVC_NOUN,evidence
+LVC_NOUN_SB,evidence
+NE_MISC,Japanese
+NE_MISC,Chinese
+NE_MISC,Chinese
+NE_ORG,Tianyang Food
+NE_LOC,Japan
+MWE_COMPOUND_NOUN,methamidophos contamination
+COMPOUND_NOUN_SB,contamination
+NE_MISC,Chinese
+NE_MISC,Japanese
+NE_ORG,G8
+SENT_BOUND,2008
+NE_ORG,Yomiuri Shimbun
+NE_LOC,China
+NE_LOC_SB,China
+SENT_BOUND,ginger
+NE_ORG,Whole Foods
+MWE_COMPOUND_NOUN,supermarket chain
+NE_LOC,United States
+NE_LOC,China
+MWE_COMPOUND_NOUN,organic food
+NE_MISC,Aldicarb
+NE_MISC_SB,Aldicarb
+NE_ORG,Quality Assurance International
+NE_MISC,Chinese
+NE_MISC,Chinese
+NE_MISC,Chinese
+SENT_BOUND,farms
+MWE_COMPOUND_NOUN,baby formula
+COMPOUND_NOUN_SB,formula
+MWE_COMPOUND_NOUN,kidney disease
+MWE_COMPOUND_NOUN,baby formula
+SENT_BOUND,melamine
+SENT_BOUND,hospitalization
+NE_ORG,Sanlu Group
+MWE_COMPOUND_NOUN,name brand
+MWE_COMPOUND_NOUN,major player
+NE_LOC,China
+NE_LOC_SB,China
+MWE_COMPOUND_NOUN,milk suppliers
+COMPOUND_NOUN_SB,suppliers
+MWE_COMPOUND_NOUN,egg products
+COMPOUND_NOUN_SB,products
+MWE_COMPOUND_NOUN,egg products
+NE_ORG,Hanwei Group
+SENT_BOUND,melamine
+MWE_COMPOUND_NOUN,tapioca pearls
+COMPOUND_NOUN_SB,pearls
+MWE_COMPOUND_NOUN,Tapioca pearls
+MWE_COMPOUND_NOUN,bubble tea
+MWE_COMPOUND_NOUN,macromolecular polymers
+SENT_BOUND,texture
+SENT_BOUND,mantou
+NE_MISC,Dichlorvos
+SENT_BOUND,added
+MWE_COMPOUND_NOUN,physical appearance
+COMPOUND_NOUN_SB,appearance
+MWE_COMPOUND_NOUN,Goat urine
+MWE_COMPOUND_NOUN,duck meat
+COMPOUND_NOUN_SB,meat
+NE_LOC,Qingdao
+MWE_COMPOUND_NOUN,duck meat
+MWE_COMPOUND_NOUN,sheep urine
+SENT_BOUND,lamb
+SENT_BOUND,customers
+MWE_COMPOUND_NOUN,blood pudding
+NE_LOC,Wuhan
+MWE_COMPOUND_NOUN,pork blood pudding
+NE_MISC,Chinese
+MWE_COMPOUND_NOUN,corn starch
+MWE_COMPOUND_NOUN,industrial grade salt
+MWE_COMPOUND_NOUN,food colouring
+COMPOUND_NOUN_SB,colouring

@@ -1,0 +1,244 @@
+NE_MISC,Morning and Noon: A Memoir
+NE_LOC,United States
+MWE_COMPOUND_NOUN,Secretary of State
+NE_PER,Dean Acheson
+SENT_BOUND,1965
+NE_PER,Acheson
+NE_MISC,U.S
+MWE_COMPOUND_NOUN,Assistant Secretary of State for Economic Affairs
+SENT_BOUND,1941
+SENT_BOUND, shar
+MWE_COMPOUND_NOUN, middle ag
+MWE_COMPOUND_NOUN,"sea chang
+SENT_BOUND, hi
+SENT_BOUND, work
+MWE_COMPOUND_NOUN, "golden a
+NE_PER,, Aches
+MWE_VPC,e growing 
+MWE_VPC_VERB,e growi
+MWE_VPC_PARTICLE,g 
+NE_LOC,e Connecticut Vall
+NE_LOC,f Middleto
+NE_LOC,, Connectic
+NE_LOC_SB,, Connectic
+MWE_COMPOUND_NOUN,f childhood perceptio
+NE_MISC,s Canadian-Americ
+SENT_BOUND,n paren
+NE_ORG,he Saturday Evening P
+SENT_BOUND,5, 1
+MWE_COMPOUND_NOUN,t a railroad 
+NE_LOC,ear Coch
+NE_LOC,ne, Ont
+NE_LOC,the Ca
+MWE_COMPOUND_NOUN,a's trans-continental rail
+NE_MISC,the Grand Trunk Pac
+NE_MISC,the Canadian Nati
+SENT_BOUND,o
+MWE_IDIOM,the low man on the totem 
+SENT_BOUND,his co-wor
+NE_PER,with Ac
+NE_LOC,e in Washington,
+NE_ORG, for U.S. Supreme 
+NE_PER,tice Louis Bra
+NE_PER_SB,ouis Bra
+NE_PER,dent Woodrow W
+MWE_COMPOUND_NOUN,from public
+MWE_LVC, had taken c
+MWE_LVC_VERB, had 
+MWE_LVC_NOUN,aken c
+NE_MISC,s of
+NE_MISC, the Treaty of Versa
+NE_MISC, and
+NE_ORG, the League of Na
+SENT_BOUND, had dwi
+NE_PER,with Bra
+NE_PER,ican Warren G. Ha
+NE_PER,dent William H.
+MWE_COMPOUND_NOUN,came Chief Ju
+NE_ORG, the Supreme 
+NE_ORG_SB,reme 
+NE_PER,ribes A
+NE_PER,stice Br
+NE_PER_SB,stice Br
+NE_PER,n for Br
+NE_LOC,um of Wash
+SENT_BOUND, this assoc
+NE_PER,ustice B
+NE_ORG,to the U.S. Suprem
+SENT_BOUND, earl
+NE_PER,1920s. 
+SENT_BOUND,befo
+SENT_BOUND,m th
+NE_PER,chapter
+NE_PER,Justice 
+NE_ORG, on the Supre
+MWE_LVC,nto the expectation
+MWE_LVC_NOUN,nto the expe
+MWE_LVC_VERB,ion
+NE_PER, had of
+SENT_BOUND, as h
+MWE_COMPOUND_NOUN,phy and wo
+NE_PER,hic, to
+SENT_BOUND,s daily
+NE_PER,outine.
+NE_PER,gave at 
+SENT_BOUND,eral
+NE_PER,n 1941.
+MWE_VPC,
+Acheson l
+MWE_VPC_VERB,
+Ache
+MWE_VPC_PARTICLE,on l
+NE_LOC,m in the Unit
+NE_LOC_SB,e Unit
+MWE_COMPOUND_NOUN,ning the litmus te
+NE_PER,s of t
+MWE_COMPOUND_NOUN,ring the Hard
+COMPOUND_NOUN_SB, Hard
+SENT_BOUND,him as 
+NE_PER,By "top
+MWE_COMPOUND_NOUN,present a national 
+NE_ORG,efore the Permanent Court of A
+NE_LOC,ration at
+NE_LOC_SB,on at
+MWE_COMPOUND_NOUN,ed by th
+NE_ORG, law firm Covington
+NE_PER,o-founder Edward 
+NE_ORG,nting the Government
+NE_LOC, from the Uni
+NE_MISC,ty during W
+NE_MISC_SB,W
+MWE_COMPOUND_NOUN, providing background 
+NE_ORG,ncipals of Covingto
+NE_PER,& Burli
+MWE_LVC,e, and the acquaintan
+MWE_LVC_NOUN,e, and the ac
+MWE_LVC_VERB,ntan
+SENT_BOUND,ade in 
+NE_PER,e proce
+NE_LOC, returns t
+NE_ORG,to work for Covingt
+SENT_BOUND,oad rap
+SENT_BOUND,on which
+NE_LOC,exposure t
+SENT_BOUND,d "judicial s
+MWE_VPC, the nation 
+MWE_VPC_VERB, the
+MWE_VPC_PARTICLE,nation 
+MWE_COMPOUND_NOUN,ent through eco
+MWE_COMPOUND_NOUN, then faced econo
+NE_ORG,s him to he Democratic Nationa
+NE_PER,lly to help Franklin 
+SENT_BOUND,get elect
+NE_PER, presid
+MWE_COMPOUND_NOUN,elp the new administration draft
+MWE_COMPOUND_NOUN,n to reduce government 
+NE_ORG, invited to
+SENT_BOUND,White Ho
+MWE_LVC,flypaper of
+MWE_LVC_VERB,flypap
+MWE_LVC_NOUN,r of
+SENT_BOUND,ing part i
+NE_PER,this ch
+NE_MISC,ienc
+MWE_COMPOUND_NOUN, as the U.S. Undersecretary of
+NE_PER,asury in 
+SENT_BOUND,he Roosevelt a
+MWE_COMPOUND_NOUN, serve under Treas
+NE_PER,ry Secretary Will
+SENT_BOUND,irme
+NE_PER,er, ho
+NE_PER, illnes
+SENT_BOUND,ed as act
+MWE_VPC,deflation by taking the U.
+MWE_VPC_VERB,deflat
+MWE_VPC_PARTICLE, U.
+MWE_COMPOUND_NOUN,llar off the 
+SENT_BOUND,reduc
+NE_PER,g i
+SENT_BOUND,signatio
+MWE_COMPOUND_NOUN,hor provides new
+SENT_BOUND, tenure, an
+NE_PER, this c
+MWE_COMPOUND_NOUN,his return to privat
+NE_ORG,practice with Covin
+SENT_BOUND,e on w
+MWE_COMPOUND_NOUN,nd and former
+NE_PER,aw professor, Fel
+MWE_COMPOUND_NOUN,y 1939 during Senate confirm
+NE_PER,ear
+NE_PER,ppointment 
+NE_ORG,furter to the U.S.
+NE_ORG_SB, U.S.
+NE_LOC,d immi
+NE_PER,nt in E
+NE_ORG, the ne
+MWE_COMPOUND_NOUN,d to stop 
+NE_MISC,Axis power o
+NE_MISC_SB, o
+MWE_VPC,ends with h
+MWE_VPC_VERB,ends wit
+MWE_VPC_PARTICLE, h
+MWE_COMPOUND_NOUN,ing in as the Assistant Secretary of State for Ec
+SENT_BOUND,n Fe
+NE_PER,n this 
+MWE_LVC,es to which he 
+MWE_LVC_VERB,es to
+MWE_LVC_NOUN,which he 
+SENT_BOUND,he b
+MWE_COMPOUND_NOUN, regarding the gold-
+MWE_COMPOUND_NOUN,his service as Undersecretary 
+COMPOUND_NOUN_SB,cretary 
+MWE_LVC,full text of a
+MWE_LVC_VERB,full t
+MWE_LVC_NOUN,of a
+NE_LOC,ech 
+NE_PER, and a memo t
+NE_MISC,Hopkins 
+SENT_BOUND,ion 
+NE_PER,r war in 1940
+MWE_COMPOUND_NOUN,
+Charles Poor
+NE_ORG,ok reviewer for Th
+MWE_VPC,New York 
+MWE_VPC_VERB,New Yo
+MWE_VPC_PARTICLE,k 
+MWE_COMPOUND_NOUN,response in 
+NE_MISC,review title — "The Glow Is Mellow, the Substa
+SENT_BOUND,n
+NE_PER,ote, "S
+MWE_VPC,accompli
+MWE_VPC_VERB,acco
+MWE_VPC_PARTICLE,pli
+SENT_BOUND, fill out 
+NE_PER," In de
+MWE_COMPOUND_NOUN,e: "Like a go
+NE_PER,ter wri
+SENT_BOUND,self t
+SENT_BOUND,ive 
+NE_ORG,ore your eyes."
+T
+NE_PER, of this book by 
+NE_ORG, the dean of the Maxwell Graduate School of Citizenship a
+NE_ORG,ublic Affairs at Sy
+NE_PER, former
+MWE_COMPOUND_NOUN,yor of Ac
+NE_LOC,n's home t
+NE_LOC,n of Middle
+NE_LOC_SB,n of Middle
+NE_PER,wn, Co
+NE_LOC,ommented o
+NE_PER,own had
+NE_PER, to Ach
+NE_LOC,, and Ache
+MWE_VPC,or's exper
+MWE_VPC_VERB,or's ex
+MWE_VPC_PARTICLE,er
+MWE_COMPOUND_NOUN,e performance 
+COMPOUND_NOUN_SB,rmance 
+NE_PER, publi
+MWE_VPC,book with: "W
+MWE_VPC_VERB,book 
+MWE_VPC_PARTICLE,ith: "W
+MWE_COMPOUND_NOUN,f reason and 
+SENT_BOUND, every 

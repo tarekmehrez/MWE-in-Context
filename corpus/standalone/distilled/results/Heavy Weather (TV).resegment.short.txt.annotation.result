@@ -1,0 +1,377 @@
+NE_MISC,Heavy Weather
+NE_PER,Douglas Livingstone
+NE_MISC,Heavy Weather
+NE_PER,P. G. Wodehouse
+NE_LOC,Blandings Castle
+NE_LOC_SB,Castle
+NE_ORG,BBC
+NE_ORG,WGBH Boston
+NE_ORG,BBC
+NE_MISC,Christmas Eve
+NE_LOC,United States
+NE_MISC,PBS's Masterpiece Theatre
+SENT_BOUND,1996
+NE_MISC, Heavy Weathe
+NE_MISC, Blanding
+SENT_BOUND, serie
+NE_MISC, Blanding
+NE_PER, Emswort
+NE_PER, Ronnie Fis
+MWE_COMPOUND_NOUN, chorus gir
+NE_PER, Sue Brow
+NE_PER, Emswort
+NE_PER, Constance Keebl
+NE_PER, Ronni
+NE_PER, Julia Fis
+NE_PER, Galahad Threepwoo
+NE_PER, Galaha
+NE_PER, Brow
+NE_PER, Dolly Henderso
+NE_PER, Tilbur
+NE_PER, Northcliff
+MWE_LVC, gain possessio
+MWE_LVC_VERB, gai
+MWE_LVC_NOUN, possessio
+NE_PER, Emswort
+NE_MISC, Berkshire pi
+NE_MISC, Empress of Blanding
+MWE_COMPOUND_NOUN, silver meda
+MWE_COMPOUND_NOUN, fat pigs clas
+NE_LOC, Shrewsbur
+MWE_COMPOUND_NOUN, agricultural sho
+NE_PER, Emswort
+NE_PER, P. Frobisher Pilbea
+NE_MISC, Empres
+NE_PER, Gregory Parslo
+NE_LOC, Matchingham Hal
+MWE_COMPOUND_NOUN, fat pigs clas
+MWE_COMPOUND_NOUN, Parliamentary candidat
+NE_PER, Galaha
+NE_PER, Emswort
+NE_PER, Monty Bodki
+MWE_VPC, hold dow
+MWE_VPC_VERB, hol
+MWE_VPC_PARTICLE, dow
+NE_PER, Gertrude Butterwic
+SENT_BOUND,k
+NE_MISC,
+Heavy Weath
+NE_PER,: Peter O'Too
+NE_PER,s Claren
+NE_PER,d Emswor
+NE_PER,, Richard Brie
+NE_PER,s Galahad Threepwo
+NE_PER,, Judy Parfi
+NE_PER,y Constan
+NE_PER,, Sarah Bad
+NE_PER,y Jul
+NE_PER,, Roy Hu
+NE_PER,s Bea
+NE_PER,, Ronald Fras
+NE_PER,r Gregory Parsl
+NE_PER,d Richard Johns
+NE_PER,d Tilbu
+NE_PER,d George "Stinker" Py
+NE_PER_SB," Py
+NE_PER,. Pilbe
+NE_PER,y David Bamb
+MWE_COMPOUND_ADJ,e widely kno
+NE_PER,. Colli
+NE_ORG,e B
+NE_PER,f Jane Aust
+NE_MISC,s Pride and Prejudi
+NE_MISC_SB,d Prejudi
+NE_PER,d Rebecca Lac
+NE_PER,s Sue Bro
+NE_PER,, Benjamin Soam
+NE_PER,s Ronnie Fi
+NE_PER,d Samuel We
+NE_PER,s Monty Bodk
+NE_PER_SB,y Bodk
+NE_PER,by Douglas Livingst
+SENT_BOUND,rn 1
+NE_PER,as Jack G
+NE_PER,s, Verity Lamb
+NE_PER,nd David Sha
+NE_PER_SB,id Sha
+NE_PER, of Wodeh
+NE_MISC,hat Heavy Wea
+NE_MISC, of Bland
+SENT_BOUND,ngs adaptat
+NE_MISC, of Jeeves and Woo
+NE_LOC,er (Gra
+NE_PER,rom Wodeh
+MWE_COMPOUND_NOUN,red rising s
+NE_PER,ars Stephen
+NE_PER, as Je
+NE_PER,and Hugh La
+NE_PER, as Bertie Woo
+NE_PER_SB,tie Woo
+NE_MISC,but Heavy Wea
+NE_MISC, on Bri
+SENT_BOUND,ish televi
+NE_ORG, by Acorn M
+SENT_BOUND, in 
+MWE_COMPOUND_NOUN,. A DVD rel
+SENT_BOUND, to ap
+MWE_VPC,d to set it 
+MWE_VPC_VERB,d t
+MWE_VPC_PARTICLE,t it 
+NE_MISC,n on Br
+SENT_BOUND,arl
+NE_MISC,n to Jeeves and Wo
+NE_PER,s of Agatha Chr
+NE_PER,Miss M
+NE_PER, and P
+NE_PER,with Joan Hi
+NE_PER, and David S
+MWE_COMPOUND_NOUN, the leading 
+MWE_COMPOUND_NOUN,ther detective st
+NE_PER,h as Chr
+NE_MISC,ie's The Seven Dials My
+NE_ORG,ery
+NE_PER,ring Cheryl Cam
+NE_PER,Lady Bundle 
+NE_PER, and Margery Alli
+NE_PER,bout Albert Ca
+NE_ORG,ion
+NE_MISC,90); The House of E
+NE_ORG,iot
+NE_PER,with Louise Lo
+NE_PER, and Stella 
+NE_ORG,ies
+NE_PER,d on E. F. B
+NE_MISC,on’s Mapp and 
+SENT_BOUND, DVD fo
+MWE_COMPOUND_NOUN,t, as film his
+NE_PER,orian Leslie Hal
+NE_PER,oted, Wod
+MWE_COMPOUND_NOUN,as of upper class
+SENT_BOUND,i
+NE_PER, with Arthur Tr
+NE_PER,er as 
+NE_MISC,eves (Thank You, J
+NE_PER,tured David
+NE_PER,en as W
+NE_MISC,, and Step Lively, J
+NE_MISC,1937, A Damsel in Di
+NE_MISC,lly a Bla
+MWE_VPC,, was turned by RK
+MWE_VPC_VERB,, was 
+MWE_VPC_PARTICLE,y RK
+MWE_COMPOUND_NOUN,nto a musica
+NE_PER,ed by George Ge
+NE_PER,arred Fred A
+NE_PER,e and Joan Fo
+NE_PER_SB, Joan Fo
+NE_PER,ion by C E
+NE_PER,r of a Wo
+MWE_COMPOUND_NOUN,ehouse shor
+NE_ORG,ast
+MWE_COMPOUND_NOUN,on BBC children's tel
+NE_MISC,956 as Lord Emsworth and the Little
+NE_MISC_SB,Little
+NE_ORG,s, 
+NE_MISC,called The World of 
+NE_PER,turing Denni
+NE_PER,ice as
+NE_PER,es and Ian Car
+NE_PER,e-aged Bertie 
+NE_PER,oster (Wo
+NE_PER,ferre
+SENT_BOUND,r
+NE_MISC,ies of Blandings
+NE_PER,th Sir Ralph Ric
+NE_PER,s Lord E
+NE_PER,worth, Meriel
+NE_PER,s Lady Co
+NE_PER,tance, Stanley H
+NE_PER,way a
+NE_PER,Beach, Dere
+NE_PER,mmo as Galahad Thr
+NE_PER,as one Wo
+NE_MISC,ved, a Wessex Sad
+NE_MISC,than a Be
+NE_MISC,as the Empress of Bl
+NE_MISC_SB,ess of Bl
+NE_ORG,sev
+MWE_COMPOUND_NOUN,ral BBC radio ada
+NE_MISC,ions of B
+NE_PER,n which Richar
+NE_PER,as Lord 
+NE_MISC,role in Yes 
+NE_MISC,ter and Yes, Prime 
+NE_LOC,fudd
+NE_PER,ker Sir Desmond Gl
+SENT_BOUND,a
+NE_PER,brook). Ian Ca
+NE_PER, played
+SENT_BOUND,f these pro
+NE_ORG,In 1992 Random House Au
+NE_MISC,sion of Heavy
+NE_PER,read by Marti
+NE_PER_SB, Marti
+NE_MISC,
+In 1995 Heav
+MWE_COMPOUND_NOUN,the only visual feature-lengt
+NE_MISC,rsion of 
+NE_MISC,ince the Second 
+NE_MISC,tions of 
+NE_MISC_SB,tions of 
+NE_PER,ve found Pete
+NE_PER,’Toole’s
+NE_PER, earlier 
+SENT_BOUND,y air o
+SENT_BOUND,zlin
+NE_PER,ations
+NE_MISC, Benson's Mapp
+NE_MISC,nd Lucia, Hea
+NE_PER,o fans of
+MWE_COMPOUND_NOUN,adcast at peak vi
+NE_MISC,g time on Chr
+SENT_BOUND,i
+SENT_BOUND,inni
+MWE_VPC, that was coming str
+MWE_VPC_VERB, that 
+MWE_VPC_PARTICLE, str
+MWE_COMPOUND_NOUN,e was the large scale 
+SENT_BOUND,e cla
+NE_ORG,ed 
+NE_MISC,the BBC's Pride and
+NE_PER,ice (with C
+NE_PER, Firt
+NE_PER,Darcy and Jen
+NE_PER,r Ehle as Elizab
+NE_PER,h Be
+MWE_LVC,le having come to public
+MWE_LVC_VERB,le h
+MWE_LVC_NOUN,to public
+NE_PER,e vampi
+NE_MISC,alypso in The Cam
+NE_ORG,ile Lawn,
+NE_PER,(1992) of M
+MWE_COMPOUND_NOUN,were also fea
+NE_PER, of other J
+NE_MISC,, such as Sense and S
+NE_PER,ity (with Emm
+NE_PER,Thompson, Ka
+NE_PER,nslet and 
+NE_MISC,1995
+NE_PER,film with Gwyne
+MWE_COMPOUND_NOUN,ow in the 
+MWE_COMPOUND_NOUN,ole and a 
+NE_PER,sion with Kate 
+SENT_BOUND,b
+NE_MISC,the film, Four Weddings and
+NE_PER, starring 
+NE_PER_SB,ring 
+MWE_COMPOUND_NOUN,uccessful li
+NE_LOC,on of 
+MWE_COMPOUND_NOUN,me of its vernacula
+MWE_VPC,ther than 
+MWE_VPC_VERB,ther th
+MWE_VPC_PARTICLE,n 
+SENT_BOUND,ng t
+NE_MISC,nsition
+MWE_COMPOUND_NOUN,in British popu
+SENT_BOUND,untry mor
+MWE_COMPOUND_NOUN, 1993, the Pri
+NE_PER,e Minister
+MWE_LVC, Major had made a widely quoted, almost Betjeman-eque
+MWE_LVC_VERB, Maj
+MWE_LVC_NOUN,eman-eque
+NE_ORG, from n
+MWE_COMPOUND_NOUN,shadows on county cric
+NE_PER,.. and, as Ge
+MWE_COMPOUND_NOUN,cycling to Hol
+SENT_BOUND,comp
+NE_MISC,. By 19
+NE_ORG,act of 
+MWE_VPC,bout to b
+MWE_VPC_VERB,bout t
+MWE_VPC_PARTICLE, b
+NE_MISC,oncept of "Coo
+SENT_BOUND,l
+MWE_COMPOUND_NOUN,so-called 
+NE_ORG,ise of the 
+MWE_COMPOUND_NOUN,e sweeping elect
+NE_PER,y 1997) of
+NE_ORG,ir and his "New" L
+NE_PER,e dea
+NE_PER, of Diana, Prince
+NE_ORG,ve chan
+SENT_BOUND,rita
+NE_PER,lthough, as 
+NE_PER,e said, "
+NE_ORG,mstance
+NE_LOC, revival 
+NE_LOC_SB, revival 
+NE_MISC,ptatio
+NE_PER,es (su
+NE_PER,ate Capt
+NE_PER,s and, like
+NE_PER, Doyle
+SENT_BOUND,n
+NE_MISC,01 the film 
+MWE_COMPOUND_NOUN,ord Park, a mu
+NE_PER,p focus" of
+NE_MISC,s 1939 film La 
+MWE_COMPOUND_NOUN,gic, lavish period
+NE_MISC, - of which H
+SENT_BOUND,ce th
+NE_PER,o, a sign
+MWE_LVC,net began
+MWE_LVC_VERB,net 
+MWE_LVC_NOUN,egan
+MWE_COMPOUND_NOUN, 1990s, of a 
+NE_MISC,gine calle
+SENT_BOUND,d
+NE_MISC,hor
+SENT_BOUND, to 
+NE_MISC,ted tha
+MWE_COMPOUND_NOUN, the British P
+MWE_COMPOUND_NOUN,(in fact, a "
+NE_ORG,ager" ), the M
+NE_PER,erred
+NE_PER,21st C
+SENT_BOUND,e
+NE_MISC,ry Jeeves" .
+NE_LOC,was filmed at 
+NE_LOC,deley Castle, G
+NE_PER,, regarde
+NE_LOC,e's model
+NE_LOC_SB,e's model
+NE_PER,r Blandin
+NE_LOC,Wodehouse
+NE_LOC,rly county
+NE_LOC,g research by R
+NE_PER,ne, a lea
+MWE_COMPOUND_NOUN,scholar, into 
+NE_MISC,e were two in
+NE_LOC,ther) 
+NE_LOC,ween Londo
+NE_LOC,n station and Ma
+NE_LOC_SB,on and Ma
+NE_LOC,t Bland
+NE_PER,er marriage to
+NE_PER,mour, of Queen
+NE_PER,h wife of 
+NE_PER_SB, of 
+NE_PER,ng Henry 
+NE_LOC, the ch
+NE_LOC_SB, the ch
+NE_PER,ce 1837 by the De
+SENT_BOUND,t Broc
+NE_PER,his father, to Henry De
+NE_PER,er, late
+NE_LOC,initial
+SENT_BOUND,or touri
+NE_MISC,The location 
+NE_LOC,eavy We
+SENT_BOUND, castle
+NE_LOC,nd its 
+NE_PER, emphasis
+MWE_COMPOUND_NOUN,that the d
+NE_LOC,w hedges in th
+NE_LOC, the garde
+NE_LOC_SB, the garde

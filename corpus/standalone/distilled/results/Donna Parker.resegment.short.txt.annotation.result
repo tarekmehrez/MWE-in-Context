@@ -1,0 +1,550 @@
+NE_PER,Donna Parker
+MWE_COMPOUND_NOUN,lead character
+NE_PER,Marcia Martin
+SENT_BOUND,1960s
+NE_ORG, Whitma
+MWE_COMPOUND_NOUN, picture cover edition
+MWE_COMPOUND_NOUN, cover ar
+MWE_COMPOUND_NOUN, picture cove
+COMPOUND_NOUN_SB, cove
+SENT_BOUND, mid-1970
+NE_PER,t Don
+SENT_BOUND,t centu
+NE_MISC, "Donna Parker, Special Age
+NE_ORG,t The Newse
+NE_LOC,n Washington, D.
+NE_LOC_SB_ABBREV,.
+NE_ORG,. The Newse
+MWE_COMPOUND_NOUN,f news media memorabil
+NE_MISC, "G-Men and Journalis
+MWE_COMPOUND_NOUN,t spy cape
+MWE_COMPOUND_NOUN,d crime stori
+COMPOUND_NOUN_SB,e stori
+NE_PER,. Don
+SENT_BOUND,e displ
+NE_ORG,e Washington Post Sunday Magazi
+SENT_BOUND,, 20
+NE_PER, 
+Donna Par
+NE_LOC,in Summerfi
+NE_LOC,om New York C
+NE_LOC_SB,rk C
+SENT_BOUND,wn e
+NE_PER,. 
+D
+NE_MISC, at Eng
+NE_MISC_SB, at Eng
+MWE_COMPOUND_NOUN,her report 
+MWE_COMPOUND_NOUN, on class commit
+NE_MISC,in "Special A
+MWE_COMPOUND_NOUN,the editorial 
+NE_ORG,the Summerfield Junior 
+SENT_BOUND,igh newsp
+SENT_BOUND,ers a
+NE_PER,ing, 
+SENT_BOUND, her co
+SENT_BOUND,very p
+SENT_BOUND,te to 
+NE_PER,ers. 
+SENT_BOUND,ar and b
+NE_PER,vior. 
+Fredricka (Ric
+NE_PER,West 
+SENT_BOUND,'s bes
+NE_PER,eckle
+NE_PER,cky a
+MWE_LVC,ent but have a cl
+MWE_LVC_VERB,ent 
+MWE_LVC_NOUN,a cl
+LVC_NOUN_SB,a cl
+NE_PER,e bon
+SENT_BOUND,tic and melo
+SENT_BOUND,ing a
+NE_PER,
+Tho
+NE_PER,icky 
+MWE_VPC, as the
+MWE_VPC_VERB, as 
+MWE_VPC_PARTICLE,he
+MWE_COMPOUND_NOUN,nd their 
+NE_MISC,time in "Spec
+NE_MISC,nt" and "Takes a G
+NE_MISC_SB, a G
+NE_PER,t Step".
+Gr
+NE_PER,Parke
+SENT_BOUND,s Donn
+MWE_COMPOUND_NOUN,and now a
+SENT_BOUND,full time
+SENT_BOUND,tient 
+NE_PER,o lec
+NE_PER,ulder
+SENT_BOUND,na
+MWE_LVC,who enjoys pl
+MWE_LVC_VERB,who enj
+MWE_LVC_NOUN,ys pl
+MWE_COMPOUND_NOUN,hrough her discus
+COMPOUND_NOUN_SB,discus
+NE_PER,larly
+SENT_BOUND,lothes 
+NE_PER, dresses. 
+NE_PER,m Par
+SENT_BOUND, is Do
+MWE_COMPOUND_NOUN,n excellent se
+COMPOUND_NOUN_SB,nt se
+NE_PER,es to
+SENT_BOUND,iall
+NE_PER,ry pr
+SENT_BOUND,nna and her 
+NE_PER,ievements. 
+James (
+NE_PER,y) Pa
+SENT_BOUND,na's yo
+SENT_BOUND, playf
+MWE_LVC,football and plays nois
+MWE_LVC_VERB,footb
+MWE_LVC_NOUN, nois
+NE_PER, whic
+NE_PER_SB, whic
+MWE_LVC,nna. He a
+MWE_LVC_VERB,nna. 
+MWE_LVC_NOUN,e a
+SENT_BOUND,s, his
+NE_PER,st friend is
+MWE_COMPOUND_NOUN,ay who li
+NE_PER, door t
+NE_PER_SB, door t
+NE_PER,he Parkers. 
+Richar
+NE_PER, boyf
+NE_PER_SB, boyf
+MWE_LVC,f Donna. They went
+MWE_LVC_VERB,f Do
+MWE_LVC_NOUN, went
+NE_LOC, counselor at Ca
+MWE_COMPOUND_NOUN,and she was a ju
+NE_LOC,at the nearby C
+NE_LOC_SB,e nearby C
+NE_MISC,dated during "A Spri
+NE_MISC_SB, "A Spri
+NE_PER,er". Kn
+NE_MISC,ard up until "A Spri
+NE_PER,to Reme
+MWE_COMPOUND_NOUN,een using h
+MWE_COMPOUND_NOUN,t back to 
+NE_PER,birt
+NE_PER_SB,birt
+SENT_BOUND,tellige
+NE_PER,ar ol
+MWE_LVC,eft school to pursue 
+MWE_LVC_VERB,eft sc
+MWE_LVC_NOUN,ool to pursue 
+SENT_BOUND, his father'
+NE_PER,nemployment. 
+
+NE_PER,a cla
+SENT_BOUND,s
+NE_PER,g an 
+NE_PER, know
+SENT_BOUND,t, s
+NE_PER,, car
+NE_LOC, editor of 
+SENT_BOUND,he Summer
+NE_PER,eld newspaper
+NE_PER, is a
+SENT_BOUND,of Don
+MWE_COMPOUND_NOUN, and has a goo
+COMPOUND_NOUN_SB,a goo
+MWE_LVC,ves animals and plays
+MWE_LVC_VERB,ves a
+MWE_LVC_NOUN,plays
+LVC_NOUN_SB,plays
+NE_PER,actical jokes.
+NE_PER,s a c
+SENT_BOUND,a
+SENT_BOUND,ir for desi
+MWE_COMPOUND_NOUN,is father owns a h
+NE_PER,pter 
+NE_MISC,ever designs
+NE_MISC_SB,signs
+NE_PER, "Secret Agent
+NE_PER,Roger Norcro
+SENT_BOUND,arker's
+MWE_VPC,-lost br
+MWE_VPC_VERB,-lo
+MWE_VPC_PARTICLE,t br
+NE_PER, teenage
+SENT_BOUND,ery little
+NE_MISC,. He appeared
+NE_PER,", la
+MWE_VPC,nna's teache
+MWE_VPC_VERB,nna's t
+MWE_VPC_PARTICLE,ache
+NE_LOC,ck to his
+NE_LOC_SB,ck to his
+NE_MISC,in Hollywood. In "
+NE_PER,ring 
+NE_PER,r" Ro
+NE_LOC,onna a hol
+MWE_COMPOUND_NOUN,traight As 
+COMPOUND_NOUN_SB, As 
+NE_PER, her 
+NE_PER,nna l
+NE_PER,ger a
+NE_MISC, during the 
+SENT_BOUND,b
+NE_PER,k "In Hollywoo
+NE_PER,dele No
+NE_PER,r) is
+NE_MISC,r of Donna's
+NE_MISC_SB,nna's
+SENT_BOUND," She is
+MWE_COMPOUND_NOUN,the running of t
+NE_LOC,anized t
+MWE_COMPOUND_NOUN,o New York for 
+COMPOUND_NOUN_SB, for 
+NE_PER,e newspaper st
+NE_PER,Roger
+MWE_LVC,Norcross and
+MWE_LVC_VERB,Norc
+MWE_LVC_NOUN,oss and
+NE_MISC, to be marri
+SENT_BOUND,e
+NE_PER,ecret Agen
+MWE_COMPOUND_NOUN,ackhouse Famil
+NE_PER,mily fr
+NE_PER_SB,mily fr
+NE_MISC,irst introduced in
+NE_PER,iant S
+NE_LOC,r fami
+NE_LOC_SB,r fami
+NE_PER,iday in Can
+NE_LOC,ouses later
+NE_PER,ield
+NE_PER,empora
+SENT_BOUND, par
+NE_PER,to m
+NE_PER,
+Mr a
+SENT_BOUND,Mrs Wes
+NE_PER, Ric
+SENT_BOUND,r West is for
+NE_PER,d ol
+MWE_COMPOUND_ADJ,shioned. Mrs 
+COMPOUND_ADJ_SB,d. Mrs 
+NE_PER,s swe
+NE_ORG,r is the Principal of S
+NE_ORG_SB,of S
+NE_PER,erfield Junior Hi
+NE_PER,rov
+NE_PER,a teacher wh
+NE_PER,rrange
+NE_LOC, when 
+NE_LOC,trave
+NE_LOC_SB,trave
+SENT_BOUND,ung an
+NE_PER,rom a wealt
+NE_PER, Hart
+SENT_BOUND,i
+MWE_COMPOUND_NOUN,Donna's. He w
+NE_MISC,cted school 
+SENT_BOUND,"
+SENT_BOUND,mart and p
+NE_PER,lar by his cl
+NE_PER,Alexa
+NE_LOC,a friend of
+NE_LOC_SB,end of
+NE_PER,onn
+SENT_BOUND,k. 
+MWE_LVC,art and shy.
+MWE_LVC_VERB,art 
+MWE_LVC_NOUN,nd shy.
+SENT_BOUND,gets
+NE_PER,nd fr
+NE_PER,st Do
+NE_PER_SB,st Do
+NE_PER, mistook her for Rick
+NE_ORG,oy who
+NE_LOC,amp fo
+NE_LOC_SB,amp fo
+MWE_COMPOUND_NOUN,also a gossip with litt
+COMPOUND_NOUN_SB,ssip with litt
+NE_PER,sense of responsi
+MWE_COMPOUND_NOUN, 
+Jennif
+NE_PER,es next 
+NE_LOC, to Mr and
+NE_LOC_SB, to Mr and
+NE_PER,ia. S
+SENT_BOUND,s Donna
+NE_PER,nd the t
+SENT_BOUND,t her pare
+NE_PER,s are no
+NE_PER,s a y
+SENT_BOUND,ger
+NE_PER,other who is J
+NE_LOC,nson is a
+NE_PER,wood 
+NE_PER_SB,wood 
+NE_PER,o is the same 
+NE_PER,Adele
+NE_PER,ross 
+MWE_VPC,nged for
+MWE_VPC_VERB,nged 
+MWE_VPC_PARTICLE,or
+NE_PER,nd Do
+SENT_BOUND, to cat
+NE_PER, up d
+NE_PER,na's 
+SENT_BOUND,o her
+NE_PER,ansio
+NE_PER, elab
+SENT_BOUND,ndly b
+NE_PER,don't have m
+NE_PER,ruce 
+NE_LOC, visit he
+NE_LOC_SB, visit he
+SENT_BOUND, He is charm
+NE_PER, lack
+NE_MISC,e on a few o
+SENT_BOUND,c
+NE_PER,sions during
+NE_PER,ngley is a stu
+NE_PER_SB,is a stu
+NE_PER,nson.
+NE_LOC,duced duri
+NE_MISC,s visit to C
+SENT_BOUND,a
+SENT_BOUND,". He is ver
+NE_PER,intel
+SENT_BOUND,ere
+NE_PER,ng but not part
+NE_PER,arly fun. 
+
+SENT_BOUND,ie Tow
+NE_PER, She 
+NE_MISC,so a bridesmaid wi
+SENT_BOUND,t
+NE_PER,Donna
+NE_PER,Sprin
+MWE_VPC,mber". Do
+MWE_VPC_VERB,mbe
+MWE_VPC_PARTICLE,". Do
+NE_MISC,et along particula
+NE_PER,to Re
+NE_PER,pecia
+MWE_LVC,ly after D
+MWE_LVC_VERB,ly aft
+MWE_LVC_NOUN,r D
+SENT_BOUND,ing fun o
+NE_MISC,men. However
+NE_PER,uring
+NE_PER,book 
+MWE_VPC,wood", Do
+MWE_VPC_VERB,woo
+MWE_VPC_PARTICLE,", Do
+MWE_LVC,em to get along b
+MWE_LVC_VERB,em t
+MWE_LVC_NOUN, get along b
+MWE_VPC,r as the
+MWE_VPC_VERB,r as 
+MWE_VPC_PARTICLE,he
+NE_LOC,ke arrange
+NE_LOC_SB,ke arrange
+NE_PER,nts t
+SENT_BOUND,ing ball
+NE_MISC,na, very pretty and delica
+SENT_BOUND,D
+NE_PER,nna P
+NE_PER, at C
+MWE_LVC,errydale 
+MWE_LVC_VERB,erry
+MWE_LVC_NOUN,ale 
+MWE_COMPOUND_NOUN,7)
+Donna and Ric
+NE_LOC,ake jobs as jun
+MWE_COMPOUND_NOUN,counselors 
+NE_PER,young 
+NE_PER_SB,young 
+MWE_COMPOUND_NOUN,en run by Dr and 
+NE_PER,s Duv
+NE_PER,
+As 
+MWE_COMPOUND_NOUN,a and Ric
+MWE_LVC,ting to know their
+MWE_LVC_VERB,ting to
+MWE_LVC_NOUN,know their
+MWE_VPC,g charges,
+MWE_VPC_VERB,g charg
+MWE_VPC_PARTICLE,s,
+SENT_BOUND,up t
+MWE_COMPOUND_NOUN,urroundin
+SENT_BOUND,ever,
+NE_PER,amp l
+MWE_COMPOUND_NOUN, is not all fun 
+NE_PER,d gam
+NE_PER, actin
+NE_PER,uvall
+NE_LOC,omething, N
+NE_PER,ious 
+NE_PER, in t
+SENT_BOUND,e nearby 
+NE_MISC,ds has Donna and Ricky int
+SENT_BOUND,.
+NE_PER,he su
+NE_PER,is ov
+MWE_VPC,nd it i
+MWE_VPC_VERB,nd
+MWE_VPC_PARTICLE,it i
+NE_ORG,me for Donna and Ricky 
+NE_ORG_SB,cky 
+NE_PER,go ba
+NE_PER, Summ
+NE_PER, go t
+NE_PER,y pur
+MWE_COMPOUND_NOUN,amatic talents w
+MWE_COMPOUND_NOUN,ewspaper, quickl
+COMPOUND_NOUN_SB,quickl
+MWE_LVC,g elected a
+MWE_LVC_VERB,g el
+MWE_LVC_NOUN,ed a
+NE_LOC,us when her
+NE_PER,le appears in 
+NE_PER,Sheri
+NE_PER,ignor
+NE_ORG,ge character, Mr Brown,
+NE_ORG_SB,own,
+NE_PER,t Sum
+NE_LOC, Donna realis
+SENT_BOUND,r with ol
+NE_MISC,friends and solve all o
+SENT_BOUND,m
+NE_PER,steri
+NE_LOC,arents
+NE_LOC,offer
+NE_PER,e Eur
+NE_PER,nd In
+SENT_BOUND,s th
+NE_PER,ly it
+NE_PER,acher 
+MWE_COMPOUND_NOUN,rom Jimmy's
+MWE_VPC,ol will st
+MWE_VPC_VERB,ol w
+MWE_VPC_PARTICLE,ll st
+NE_PER,y at 
+NE_PER,arker
+NE_PER,ook af
+SENT_BOUND,er Don
+NE_PER,er re
+SENT_BOUND,omes wi
+NE_MISC,some big responsibilities and new
+SENT_BOUND,e
+NE_LOC,Spring to R
+NE_PER,er (1
+NE_ORG,rfield and Donna is enj
+NE_ORG_SB, enj
+MWE_COMPOUND_NOUN,High. 
+With a 
+NE_PER,ary full of d
+NE_LOC,ard Whit
+NE_LOC,tion to b
+MWE_COMPOUND_NOUN, in New Yor
+NE_PER, a tr
+MWE_IDIOM,p to Hollywood o
+NE_PER,is on
+NE_PER,ad ev
+SENT_BOUND, change
+NE_MISC,onna's whole outlook and 
+SENT_BOUND,s
+NE_PER,life forever
+MWE_VPC,
+Donn
+MWE_VPC_VERB,
+
+MWE_VPC_PARTICLE,onn
+NE_LOC,rker In H
+NE_LOC_SB,rker In H
+NE_LOC,od! Stayi
+NE_PER,lamor
+NE_PER_SB,lamor
+MWE_COMPOUND_NOUN,is the tri
+MWE_COMPOUND_NOUN,for Donna.
+A
+NE_PER,ies a
+NE_LOC,she spends
+NE_LOC_SB,she spends
+NE_PER,Uncle
+SENT_BOUND, partic
+NE_MISC,r, the importance of looking b
+SENT_BOUND, 
+NE_LOC,ystery at 
+NE_PER,awak 
+MWE_LVC,1962) 
+Aft
+MWE_LVC_VERB,1962)
+MWE_LVC_NOUN,Aft
+MWE_COMPOUND_NOUN, exciting trip t
+NE_LOC,lifornia, D
+SENT_BOUND,or cou
+NE_PER,amp A
+MWE_COMPOUND_NOUN,or the re
+NE_LOC,of her
+NE_LOC, finds cam
+MWE_COMPOUND_NOUN,ow anyone, her c
+SENT_BOUND,nd lively
+NE_PER,nior 
+MWE_COMPOUND_NOUN,ing somet
+MWE_VPC,oon gets 
+MWE_VPC_VERB,oon ge
+MWE_VPC_PARTICLE,s 
+MWE_COMPOUND_NOUN,g new friends, t
+SENT_BOUND, new
+NE_LOC,e Drama de
+NE_LOC,rtment
+MWE_LVC,at the camp. 
+MWE_LVC_VERB,at 
+MWE_LVC_NOUN,amp. 
+NE_PER,has i
+MWE_VPC, of myste
+MWE_VPC_VERB, of my
+MWE_VPC_PARTICLE,te
+NE_LOC,ong fo
+NE_LOC_SB,ong fo
+NE_MISC,onna to get caught up in the st
+SENT_BOUND,e
+NE_PER,ts at
+MWE_COMPOUND_NOUN,tep (1964). 
+D
+NE_LOC,njoy t
+MWE_VPC,ir summe
+MWE_VPC_VERB,ir su
+MWE_VPC_PARTICLE,me
+MWE_COMPOUND_NOUN,eading to Cana
+NE_PER, a few days
+NE_PER_SB, a few days
+NE_PER,ily friends
+NE_LOC,nsues when 
+NE_PER,anno
+NE_PER, to Su
+SENT_BOUND,k wi
+NE_PER,hool
+NE_PER, star
+MWE_VPC,blemati
+MWE_VPC_VERB,ble
+MWE_VPC_PARTICLE,ati
+MWE_COMPOUND_NOUN,tries to immerse h
+MWE_VPC,ool, try ou
+MWE_VPC_VERB,ool, t
+MWE_VPC_PARTICLE,y ou
+SENT_BOUND,ading 
+NE_LOC,eting new p
+MWE_COMPOUND_NOUN, 
+However, lif
+MWE_VPC, is problem
+MWE_VPC_VERB, is pro
+MWE_VPC_PARTICLE,lem
+NE_PER,h te
+MWE_LVC, parties gettin
+MWE_LVC_VERB, par
+MWE_LVC_NOUN,gettin
+LVC_NOUN_SB,gettin

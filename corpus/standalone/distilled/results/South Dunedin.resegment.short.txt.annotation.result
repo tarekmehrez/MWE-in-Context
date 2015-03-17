@@ -1,0 +1,282 @@
+NE_LOC,South Dunedin
+MWE_COMPOUND_NOUN,inner city suburb
+NE_LOC,New Zealand
+NE_LOC,Dunedin
+NE_LOC_SB,Dunedin
+MWE_COMPOUND_NOUN,city centre
+NE_LOC,The Flat
+SENT_BOUND,"
+MWE_COMPOUND_NOUN,residential properties
+COMPOUND_NOUN_SB,properties
+NE_LOC,South Dunedin
+SENT_BOUND,2,538
+NE_LOC,
+South Dunedi
+NE_LOC, Otago Harbou
+NE_LOC_SB, Harbou
+NE_LOC, Southern Endowmen
+SENT_BOUND, t
+NE_LOC,e Southern Endowme
+NE_LOC,f Bell Hi
+MWE_COMPOUND_NOUN,e central ci
+SENT_BOUND,h centu
+SENT_BOUND,e harbo
+NE_ORG,a Otago Harbour Boa
+MWE_COMPOUND_NOUN,r industrial u
+SENT_BOUND,e 194
+NE_LOC,f Portsmouth Dri
+MWE_COMPOUND_NOUN,e harbour ed
+SENT_BOUND,n 19
+NE_LOC,he southern endowm
+MWE_COMPOUND_NOUN,he wharf a
+MWE_COMPOUND_NOUN,or sports comp
+NE_LOC,of The Edgar Cen
+SENT_BOUND,rn e
+NE_LOC,e.
+South Dun
+MWE_COMPOUND_NOUN,ant retail dist
+NE_LOC, on Cargill's Co
+NE_LOC,for O
+NE_PER,ain William Car
+NE_LOC,ll (Hillside 
+NE_LOC,led Cargill 
+NE_MISC,e, "Hill
+SENT_BOUND,o
+MWE_COMPOUND_NOUN,ban arterial ro
+NE_LOC,s - King Edward St
+NE_LOC,and Hillside 
+SENT_BOUND,d - c
+NE_LOC,ll, South 
+NE_LOC, at Cargill's Co
+NE_LOC_SB,l's Co
+NE_LOC,er.
+Cargill's C
+NE_LOC,ars, Du
+MWE_COMPOUND_NOUN,nly "Barnes 
+MWE_COMPOUND_NOUN,nce" pedestrian cro
+COMPOUND_NOUN_SB,rian cro
+MWE_VPC, was phase
+MWE_VPC_VERB, was p
+MWE_VPC_PARTICLE,ase
+SENT_BOUND, the 
+NE_LOC,80s.
+King Edward 
+NE_LOC,nd of Princes 
+MWE_COMPOUND_NOUN,d the centr
+MWE_COMPOUND_ADJ,h the densely pop
+NE_LOC,rb of Saint
+NE_LOC_SB,Saint
+NE_LOC,ilda. Hillsid
+NE_LOC,links Andersons Ba
+NE_LOC,bs of Cav
+NE_LOC,sham, Corsto
+NE_LOC,e and Saint
+SENT_BOUND,t and sou
+NE_LOC, along King Edward
+NE_LOC, along Hillsi
+NE_LOC,d from Cargill's
+NE_LOC_SB,gill's
+NE_LOC, along Hillsi
+NE_LOC,ad and Anderson's B
+NE_LOC,otably Pak
+NE_LOC, Save, The Wa
+NE_LOC,e, and Mitre 
+NE_LOC_SB,tre 
+NE_LOC, along Anderson's B
+NE_LOC,est on Hillsi
+MWE_COMPOUND_NOUN,merous car sal
+MWE_COMPOUND_ADJ,ds and light ind
+SENT_BOUND,stria
+NE_LOC,d into Ca
+NE_LOC,etween Andersons B
+NE_LOC,ad and Portsmout
+SENT_BOUND,th a
+NE_LOC,treme, King Edward
+MWE_COMPOUND_ADJ,e also light ind
+SENT_BOUND,emis
+NE_LOC, here.
+Andersons 
+NE_LOC,el with King Edwar
+SENT_BOUND, to 
+NE_LOC,ts with State H
+NE_LOC,y 1 and
+MWE_COMPOUND_NOUN,nedin's one-way stree
+NE_LOC,burb of Mus
+SENT_BOUND, in t
+MWE_COMPOUND_NOUN,rom the cen
+NE_LOC,ty with Otago P
+NE_LOC_SB,h Otago P
+NE_LOC,nsula. 
+Portsmo
+MWE_COMPOUND_NOUN, further arter
+SENT_BOUND,r to
+MWE_COMPOUND_NOUN,inks the ce
+NE_LOC,ity with Portob
+NE_LOC,ength of Otago 
+MWE_COMPOUND_NOUN,insula's harb
+COMPOUND_NOUN_SB, harb
+NE_LOC,amed fo
+NE_MISC,unedin's
+MWE_COMPOUND_NOUN,American si
+NE_LOC, city of P
+NE_LOC,tsmouth,
+NE_LOC_SB,tsmouth,
+NE_LOC, roads in Sou
+NE_LOC,n include Tim
+NE_LOC,et on the Southern
+NE_LOC,s or meet King Edw
+NE_LOC,g it with Anderson'
+NE_LOC,uburbs of S
+NE_LOC,Clair a
+SENT_BOUND,ry i
+NE_LOC,e include Maca
+NE_LOC,rew Road, Melbou
+NE_LOC,e Street, McBr
+NE_LOC,reet, and Bay
+MWE_LVC, of which forms th
+MWE_LVC_VERB, of w
+MWE_LVC_NOUN,forms th
+NE_LOC,y between Sou
+NE_LOC,nedin and S
+NE_LOC_SB,and S
+NE_LOC,l heart of So
+NE_LOC,din is the Hillside Railwa
+NE_LOC,he west of Carg
+NE_LOC_SB,f Carg
+NE_LOC, suburb o
+NE_LOC_SB, suburb o
+NE_LOC,ildings in So
+NE_LOC,nclude the Mayf
+NE_LOC,, close to Cargi
+NE_LOC,r, and the Edgar Sp
+NE_LOC, suburb on Ports
+NE_LOC_SB,Ports
+MWE_COMPOUND_NOUN,ity's main spo
+NE_LOC,s complex,
+NE_LOC, border of So
+NE_LOC,Dunedin i
+NE_LOC_SB,Dunedin i
+NE_LOC,adium, the Caledo
+NE_LOC,ccupied by Th
+MWE_COMPOUND_NOUN, Warehouse r
+COMPOUND_NOUN_SB,use r
+NE_LOC,in 2000 to
+NE_LOC,an Park in Du
+NE_LOC_SB,in Du
+NE_LOC,unction of Anderso
+NE_LOC,y Road and Hi
+NE_LOC,red to as "Caledo
+SENT_BOUND,n
+NE_LOC,museum, the Dunedin Gas
+NE_LOC,its site on Br
+NE_LOC_SB, on Br
+MWE_COMPOUND_NOUN,n preserved gasw
+SENT_BOUND,eums 
+MWE_COMPOUND_NOUN,atures five steam pum
+NE_LOC,ported f
+SENT_BOUND,Scot
+NE_LOC, churches in 
+NE_LOC,odox church, 
+NE_LOC,ichael's, in F
+NE_LOC, Street, and St. Patrick's Roman Cath
+NE_PER,(designed by 
+NE_LOC,is Petre) in M
+NE_LOC_SB,in M
+NE_LOC,ther tha
+NE_LOC,the gasworks,
+NE_LOC,al link
+SENT_BOUND,'s indus
+NE_ORG,he factory
+NE_LOC,thven, one 
+MWE_COMPOUND_NOUN,and's leading bathroom fittings
+COMPOUND_NOUN_SB,room fittings
+NE_PER,y, founded by 
+NE_LOC,many years in Ande
+NE_ORG,occupied
+SENT_BOUND,by a Mitr
+NE_LOC,er landmark i
+NE_LOC,was the fo
+MWE_COMPOUND_NOUN,mer Caledonia
+COMPOUND_NOUN_SB,edonia
+NE_LOC, the corner o
+NE_LOC,lside Road and And
+NE_LOC,still known as The Ca
+NE_LOC_SB,The Ca
+MWE_COMPOUND_NOUN,an Corner. T
+NE_LOC,s relocated t
+MWE_COMPOUND_NOUN,ite is n
+NE_ORG,he car park o
+MWE_COMPOUND_NOUN,f the original
+MWE_COMPOUND_NOUN,s complex is a 
+NE_LOC, which is als
+MWE_COMPOUND_NOUN,Dunedin's ma
+NE_LOC, war mem
+SENT_BOUND,i
+MWE_COMPOUND_NOUN, closest to
+NE_LOC,aller subu
+NE_LOC_SB,aller subu
+NE_LOC, of Kensin
+NE_LOC,d on and around Ki
+NE_LOC,ot of a 
+NE_LOC, referred to as 
+MWE_COMPOUND_NOUN,nd close t
+MWE_COMPOUND_NOUN, the inner ci
+NE_LOC,rts 
+NE_LOC_SB,rts 
+NE_LOC,ally called the Southern R
+NE_LOC,erred to as the
+NE_LOC,ish it from the
+SENT_BOUND,he n
+MWE_COMPOUND_NOUN,a separate ova
+SENT_BOUND,ich 
+NE_LOC,ve it its name. Dunedin S
+NE_LOC,on the slope of 
+NE_LOC,mediately 
+NE_LOC,ated from 
+NE_LOC,a main ro
+NE_LOC,hich joins wit
+NE_LOC,et c
+NE_LOC_SB,et c
+NE_LOC,most ex
+NE_LOC,me of Dun
+MWE_COMPOUND_NOUN,eeps around 
+NE_LOC, the subur
+NE_LOC, of Morning
+NE_LOC,n, Bel
+NE_LOC,knowes, Ro
+NE_LOC,yn, Maori
+NE_LOC, Woodhaugh, a
+NE_LOC_SB,gh, a
+NE_LOC, lower slopes of
+NE_MISC,ime the 
+NE_LOC,de", th
+MWE_COMPOUND_NOUN,f Dunedin city'
+NE_PER,g father Captai
+MWE_VPC,g gone, 
+MWE_VPC_VERB,g gon
+MWE_VPC_PARTICLE,, 
+NE_LOC,es on in that
+NE_LOC, South Dunedi
+NE_LOC_SB,nedi
+NE_LOC,s Hillside
+NE_LOC,ly separated 
+NE_LOC,idge carrying the South
+SENT_BOUND,Island 
+NE_LOC,. The long
+MWE_COMPOUND_NOUN,closed Kensi
+MWE_VPC,ports, lo
+MWE_VPC_VERB,ports,
+MWE_VPC_PARTICLE,lo
+NE_LOC,the north carri
+NE_LOC,Highway 1 
+MWE_COMPOUND_NOUN,ough there
+SENT_BOUND,e subur
+NE_LOC,flyover se
+MWE_COMPOUND_ADJ,distinct parts, 
+MWE_COMPOUND_NOUN,he flyover, and 
+SENT_BOUND,t the
+NE_LOC,notable fe
+MWE_COMPOUND_NOUN,gton is the cit
+NE_LOC,l hall, located
+NE_LOC,ly to the south
+NE_LOC_SB,h

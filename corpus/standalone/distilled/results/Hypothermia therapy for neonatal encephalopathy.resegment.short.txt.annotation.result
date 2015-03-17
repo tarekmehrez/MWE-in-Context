@@ -1,0 +1,561 @@
+MWE_COMPOUND_NOUN,Birth Asphyxia
+MWE_COMPOUND_NOUN,brain damage
+MWE_COMPOUND_NOUN,cerebral palsy
+COMPOUND_NOUN_SB,palsy
+MWE_COMPOUND_NOUN,Brain hypothermia
+MWE_COMPOUND_NOUN,brain damage
+MWE_COMPOUND_NOUN,birth asphyxia
+COMPOUND_NOUN_SB,asphyxia
+MWE_COMPOUND_NOUN, body temperature
+SENT_BOUND, breathin
+MWE_COMPOUND_NOUN, brain protectio
+MWE_COMPOUND_NOUN, cerebral hypoxi
+NE_PER, William John Littl
+NE_PER, Sigmund Freu
+MWE_COMPOUND_NOUN, scientific studie
+MWE_COMPOUND_NOUN, neonatal therapeutic hypothermi
+NE_PER, Bjorn Westi
+SENT_BOUND, neuroprotectio
+NE_PER, James Mille
+NE_PER, Clement Smit
+MWE_VPC, carried ou
+MWE_VPC_VERB, carrie
+MWE_VPC_PARTICLE, ou
+MWE_VPC, followed u
+MWE_VPC_VERB, followe
+MWE_VPC_PARTICLE, u
+SENT_BOUND, outcom
+SENT_BOUND,e avoid
+SENT_BOUND,d surviv
+SENT_BOUND,t co
+MWE_COMPOUND_NOUN,of neonatal hypother
+NE_LOC,in Eur
+NE_LOC,he 
+SENT_BOUND,en unsuccess
+MWE_COMPOUND_NOUN,or brain protect
+MWE_LVC,le progress was m
+MWE_LVC_NOUN,le progr
+MWE_LVC_VERB,as m
+LVC_VERB_SB,as m
+NE_MISC,he Iron Curt
+NE_LOC,he Soviet Un
+MWE_COMPOUND_NOUN,ng birth asphy
+MWE_COMPOUND_NOUN,he language barr
+MWE_COMPOUND_NOUN,r, cold war polit
+NE_MISC,he Russi
+MWE_VPC,to carry 
+MWE_VPC_VERB,to ca
+MWE_VPC_PARTICLE,ry 
+NE_LOC,he W
+NE_LOC_SB,he W
+NE_MISC,of Russ
+MWE_COMPOUND_NOUN,ed hypothermic neural res
+NE_ORG,he Neonatal U
+NE_LOC,in Bris
+NE_LOC,l,
+MWE_LVC,K, met with little intere
+MWE_LVC_VERB,K, 
+MWE_LVC_NOUN,et with little intere
+LVC_NOUN_SB,le intere
+SENT_BOUND,o a re-examina
+MWE_COMPOUND_NOUN, of neonatal researc
+MWE_COMPOUND_NOUN, of oxygen depriva
+SENT_BOUND, be poss
+MWE_COMPOUND_NOUN,ing cardiac sur
+MWE_COMPOUND_NOUN, of hypothermic post-insult neural re
+SENT_BOUND,cue devel
+MWE_COMPOUND_NOUN,me: delayed post-ischaemic cell d
+SENT_BOUND,and apopt
+MWE_COMPOUND_NOUN,irst paradigm 
+MWE_COMPOUND_NOUN,cted neonatal resear
+MWE_COMPOUND_NOUN,fter cerebral hypoxia-isch
+MWE_COMPOUND_NOUN,fore brain 
+SENT_BOUND,d t
+NE_PER,die. Osmund Rey
+NE_ORG,s at University College L
+NE_MISC,e of Magnetic Resonance Spectro
+NE_MISC,opy
+MWE_COMPOUND_NOUN, the infant brain metab
+MWE_COMPOUND_NOUN,fter birth asp
+SENT_BOUND,inct 
+NE_PER,lay. Robert Van
+SENT_BOUND,ical st
+MWE_COMPOUND_NOUN,es. 
+Delayed brain 
+MWE_COMPOUND_NOUN,lled ‘secondary energy f
+NE_PER,e’ by Re
+SENT_BOUND,l ne
+MWE_COMPOUND_NOUN,a. If brain
+MWE_COMPOUND_NOUN,ty of therapeutic interv
+SENT_BOUND,sible sit
+NE_PER,nts of Joh
+NE_PER,ey and Brian 
+NE_PER_SB, Brian 
+MWE_COMPOUND_NOUN,of the neural cel
+MWE_COMPOUND_NOUN,ted by excess pro
+MWE_COMPOUND_NOUN,of the excitatory neurotran
+MWE_COMPOUND_NOUN,of the N-methyl-D-aspartate r
+MWE_COMPOUND_NOUN,gainst hypoxic
+COMPOUND_NOUN_SB,ypoxic
+NE_PER,amage
+NE_PER,ey and 
+MWE_COMPOUND_NOUN,ink of hypoxic-ischaemic
+SENT_BOUND,atable 
+MWE_COMPOUND_NOUN,ar that glutamat
+MWE_COMPOUND_NOUN, during secondary energy
+COMPOUND_NOUN_SB, energy
+MWE_COMPOUND_NOUN,very of programmed ce
+MWE_COMPOUND_NOUN,form of cell
+COMPOUND_NOUN_SB,of cell
+MWE_VPC,ptosis (“fal
+MWE_VPC_VERB,ptosis (
+MWE_VPC_PARTICLE,fal
+NE_PER,1970’s,
+NE_PER,orvi
+NE_PER,aff 
+SENT_BOUND,ellular
+MWE_COMPOUND_NOUN,gered a cell suicide p
+MWE_COMPOUND_NOUN,enon of delayed ce
+MWE_COMPOUND_NOUN,ain why neura
+SENT_BOUND, in the
+SENT_BOUND,fter a
+SENT_BOUND,problem c
+MWE_COMPOUND_NOUN,ough the perinatal research 
+MWE_COMPOUND_NOUN,ief that neur
+MWE_COMPOUND_NOUN,ue after birth
+SENT_BOUND,hould be
+MWE_COMPOUND_NOUN, attempt neonatal neur
+NE_PER,als were Ingmar
+NE_PER,lmer and Henri
+NE_LOC,gberg in G
+NE_PER,urg, and Michael
+NE_LOC,nston in 
+NE_LOC_SB,nston in 
+MWE_VPC,began t
+MWE_VPC_VERB,bega
+MWE_VPC_PARTICLE, t
+MWE_COMPOUND_NOUN,in other neonatal re
+MWE_COMPOUND_NOUN,to begin neuroprotection
+MWE_VPC,hose wh
+MWE_VPC_VERB,hose
+MWE_VPC_PARTICLE,wh
+MWE_COMPOUND_NOUN,informal neonatal hypothermia resea
+COMPOUND_NOUN_SB,resea
+NE_PER, group: 
+Pete
+NE_PER,ckman and 
+NE_ORG,ts in the University o
+NE_LOC, Auckland N
+MWE_COMPOUND_NOUN,effect on thyroi
+MWE_COMPOUND_NOUN, cooled a s
+MWE_COMPOUND_NOUN,fetus for endocri
+SENT_BOUND,tudi
+NE_PER, in 1983. Denis
+NE_PER,zzopardi, 
+NE_PER,Wyatt and Dav
+NE_PER,rking fo
+NE_PER,ere usin
+NE_MISC,ist
+MWE_COMPOUND_NOUN,replicate secondary ener
+NE_PER, rats; i
+NE_PER,aboratory Ali
+NE_PER, Gunn and Chri
+MWE_COMPOUND_NOUN,hod using cerebral
+SENT_BOUND, in f
+NE_PER,l sheep . Mariann
+MWE_COMPOUND_NOUN,orking on cerebral
+MWE_VPC,ldren who fe
+MWE_VPC_VERB,ldre
+MWE_VPC_PARTICLE, who fe
+NE_MISC,rough the
+MWE_COMPOUND_NOUN,preserved cerebra
+COMPOUND_NOUN_SB, cerebra
+MWE_COMPOUND_NOUN,ht achieve ne
+SENT_BOUND,ly move to 
+MWE_COMPOUND_NOUN,gly simple excitoxin receptor
+NE_PER,lture: t
+MWE_COMPOUND_NOUN,t in their p
+SENT_BOUND,el with
+NE_PER,t succes
+NE_PER,uckm
+MWE_COMPOUND_NOUN,arizine, a calcium entr
+COMPOUND_NOUN_SB,cium entr
+NE_PER,inhibit
+MWE_VPC,r. Edward
+MWE_VPC_VERB,r. Edw
+MWE_VPC_PARTICLE,rd
+MWE_COMPOUND_NOUN, picked on nitric oxide synthase
+SENT_BOUND,was als
+NE_PER,a failur
+NE_MISC,studi
+MWE_COMPOUND_NOUN,te this to clinic
+COMPOUND_NOUN_SB,o clinic
+MWE_COMPOUND_NOUN,tice.
+Most neonatal
+NE_PER,n 1989 from My
+MWE_COMPOUND_NOUN,’s group as st
+MWE_COMPOUND_NOUN,interest in post-insult
+COMPOUND_NOUN_SB,post-insult
+NE_PER,ypotherm
+SENT_BOUND,tion in the
+NE_PER,ampus. So
+MWE_COMPOUND_NOUN,e canonical glutamat
+NE_MISC, antag
+MWE_COMPOUND_NOUN,by reducing body
+COMPOUND_NOUN_SB,ducing body
+MWE_COMPOUND_NOUN,tal work on post-ischaemic neu
+SENT_BOUND,a in ma
+SENT_BOUND,in cli
+MWE_COMPOUND_NOUN,The informal neonatal hypothermia i
+NE_PER, develop
+NE_LOC,kman v
+NE_PER,ited Lon
+NE_PER,Reyno
+NE_LOC,yatt
+NE_PER,ent to 
+NE_LOC,ards wen
+NE_PER,uckland;
+NE_PER,en con
+NE_PER, work in
+SENT_BOUND,the Reynol
+MWE_COMPOUND_NOUN,eatedly that post-insul
+MWE_COMPOUND_NOUN,ntly reduced hypoxic-ischaemic
+SENT_BOUND,e dev
+MWE_COMPOUND_NOUN,errupted the excitio
+COMPOUND_NOUN_SB,excitio
+NE_PER,xic casc
+MWE_COMPOUND_NOUN, of the first hypother
+NE_PER,riment i
+SENT_BOUND, the Reyno
+NE_PER, watched
+NE_PER,ith R
+NE_PER,nolds, 
+MWE_COMPOUND_NOUN,a very severe 
+MWE_COMPOUND_NOUN, catastrophic secondary 
+COMPOUND_NOUN_SB,ondary 
+NE_LOC,y failure. 
+NE_PER, exp
+MWE_COMPOUND_NOUN, the expected 
+SENT_BOUND,njury fail 
+MWE_COMPOUND_NOUN,late, clinica
+SENT_BOUND, danger
+MWE_COMPOUND_NOUN, against who
+COMPOUND_NOUN_SB,nst who
+NE_PER, body
+NE_PER,ing. Tania an
+MWE_VPC,inical 
+MWE_VPC_VERB,ini
+MWE_VPC_PARTICLE,al 
+NE_LOC,ks, set 
+MWE_COMPOUND_NOUN,kland to study loc
+MWE_COMPOUND_NOUN,uld have few
+NE_PER, side e
+NE_PER,s; Edward
+NE_ORG,, now based at Hamme
+MWE_COMPOUND_NOUN,hey had used a
+MWE_COMPOUND_NOUN,o then started who
+NE_PER, body co
+NE_PER,; Thoresen and 
+NE_LOC,relo
+NE_LOC,d from 
+SENT_BOUND,tol tri
+MWE_COMPOUND_NOUN,scussion in the ne
+NE_PER,s, (re
+SENT_BOUND,i
+SENT_BOUND,not every
+NE_PER,highly r
+MWE_COMPOUND_NOUN,ective effect of po
+NE_PER,ling, an
+MWE_COMPOUND_NOUN,up reported that hypot
+SENT_BOUND,re rats w
+MWE_COMPOUND_NOUN,thought that the e
+SENT_BOUND,complex c
+MWE_COMPOUND_NOUN,ers thought 
+NE_MISC,ier
+NE_ORG,n MRI study
+SENT_BOUND,h di
+MWE_COMPOUND_NOUN,ential figures in
+COMPOUND_NOUN_SB,gures in
+NE_PER,eonatal Med
+NE_ORG,pediatric 
+SENT_BOUND,trong c
+MWE_LVC,and in early 1997 made a cri
+MWE_LVC_VERB,and 
+MWE_LVC_NOUN,7 made a cri
+NE_ORG,roduction betwe
+MWE_COMPOUND_ADJ,lympic Medic
+MWE_COMPOUND_NOUN,l, a medium sized
+MWE_COMPOUND_NOUN, company, and the 
+COMPOUND_NOUN_SB,, and the 
+NE_LOC,car on the way to Dulles Int
+NE_PER,gely 
+NE_PER,ganised b
+NE_ORG,ones the owner 
+MWE_COMPOUND_NOUN,ntrolled trial of hypothermic neu
+MWE_COMPOUND_NOUN,rescue therapy 
+COMPOUND_NOUN_SB,herapy 
+NE_ORG, newbor
+MWE_COMPOUND_NOUN,would construct a h
+NE_MISC,oling device, the Olymp
+SENT_BOUND,l sup
+NE_PER,rt for t
+NE_PER,ial. 
+MWE_COMPOUND_NOUN,nd Wyatt would be princ
+MWE_COMPOUND_NOUN,stigators and the sc
+MWE_COMPOUND_NOUN, the trial joined hypot
+NE_PER, resear
+NE_PER, like Ed
+NE_PER, with new expe
+NE_PER,s Donna Ferri
+NE_PER,o, Richard Poli
+NE_PER,berta Ballard and 
+NE_PER_SB,lard and 
+NE_PER,ced baby
+MWE_COMPOUND_NOUN,o a distinguished neuroprotecti
+SENT_BOUND, majo
+NE_PER,ial were t
+NE_ORG,ble engineer fr
+NE_PER,mpic
+MWE_COMPOUND_NOUN,nn who became the 
+COMPOUND_NOUN_SB,me the 
+NE_MISC,fic Off
+SENT_BOUND, within 
+NE_LOC,l was ba
+MWE_COMPOUND_NOUN,ed on the Auc
+MWE_COMPOUND_NOUN,tes based on their
+SENT_BOUND,pecte
+MWE_COMPOUND_NOUN,ith certain
+MWE_COMPOUND_NOUN,ective head versus
+MWE_COMPOUND_NOUN,ature to control a 
+COMPOUND_NOUN_SB,rol a 
+NE_MISC,ad cool
+SENT_BOUND, be a 
+NE_ORG,ant was enrolled at Columbia Presbyt
+NE_LOC,ian Medi
+SENT_BOUND,or a
+NE_PER,ult w
+NE_LOC,d at Lucey's ann
+NE_MISC,l Washington, D.C. 'Hot T
+NE_ORG,full publi
+SENT_BOUND,on i
+NE_MISC,The Lan
+MWE_COMPOUND_NOUN,or long esta
+SENT_BOUND,d brain 
+NE_PER, remaine
+NE_PER,luckman
+MWE_COMPOUND_NOUN, together after t
+NE_LOC,ata presen
+SENT_BOUND,r do
+NE_MISC,ant wor
+NE_ORG,was published by the National Institute for Child Health 
+NE_ORG,d Hum
+NE_ORG, Development (NICHD) Neon
+NE_ORG_SB,D) Neon
+NE_MISC,esearch
+MWE_COMPOUND_NOUN,ia they had 
+MWE_COMPOUND_NOUN,rong track record o
+COMPOUND_NOUN_SB,ck record o
+NE_MISC,ons aro
+MWE_VPC,nal CoolCa
+MWE_VPC_VERB,nal C
+MWE_VPC_PARTICLE,olCa
+NE_ORG,ocol br
+NE_PER,eparate trial le
+NE_PER_SB, trial le
+MWE_COMPOUND_NOUN,etha Shankaran.
+MWE_VPC,network me
+MWE_VPC_VERB,network
+MWE_VPC_PARTICLE,me
+MWE_COMPOUND_NOUN,bers were set
+MWE_COMPOUND_NOUN, up animal models of hypo
+SENT_BOUND,ence for pr
+NE_MISC,ary e
+MWE_COMPOUND_NOUN,in some quarters for te
+MWE_COMPOUND_NOUN,e instability
+COMPOUND_NOUN_SB,ility
+SENT_BOUND,ng b
+SENT_BOUND,f care?
+NE_MISC, in 
+NE_ORG,ecember 2006 the U.S. Food a
+NE_ORG, Dr
+NE_MISC,on (FDA) approved the O
+MWE_COMPOUND_NOUN,c Cool-Cap S
+COMPOUND_NOUN_SB,p S
+MWE_VPC,l use. Howe
+MWE_VPC_VERB,l use. 
+MWE_VPC_PARTICLE,owe
+SENT_BOUND,ly margina
+MWE_COMPOUND_NOUN,epticism. Worrying
+MWE_COMPOUND_NOUN,ypothermia 
+MWE_LVC,ldren were f
+MWE_LVC_VERB,ldre
+MWE_LVC_NOUN, were f
+LVC_NOUN_SB, were f
+MWE_COMPOUND_NOUN,ng to show ben
+NE_ORG, meet
+SENT_BOUND,ommu
+MWE_VPC,t major t
+MWE_VPC_VERB,t maj
+MWE_VPC_PARTICLE,r t
+MWE_COMPOUND_NOUN,wn out of the origina
+SENT_BOUND,erimental
+NE_MISC,oup was completed. The TOtal BodY hypothermi
+NE_MISC,rnat
+NE_PER,a trial (
+MWE_COMPOUND_NOUN,acked by distingu
+NE_PER,shed trials specia
+NE_ORG,Peter Brocklehurst and the UK National Peri
+NE_MISC,it, develop
+MWE_COMPOUND_NOUN,d from the 
+MWE_COMPOUND_NOUN,ersmith pilot stud
+NE_MISC,eta-ana
+NE_MISC,h bot
+SENT_BOUND, CoolCa
+NE_MISC,and 
+NE_ORG,nding timetable of the UK M
+NE_MISC,still i
+NE_MISC,s whe
+SENT_BOUND,e trial s
+NE_MISC,uld 
+MWE_COMPOUND_NOUN,both those tri
+MWE_COMPOUND_NOUN, 18 months and reduces neurod
+SENT_BOUND,opmental
+MWE_COMPOUND_NOUN,rs involved in bringing h
+SENT_BOUND,tice hav
+MWE_COMPOUND_NOUN, about the mechanisms of hy
+SENT_BOUND,dies i
+SENT_BOUND,to fo
+MWE_COMPOUND_NOUN, is given in the articl
+COMPOUND_NOUN_SB, the articl
+MWE_COMPOUND_NOUN,Therapeutic hypothermia.
+
+MWE_COMPOUND_NOUN,haemia results in reduced cer
+MWE_COMPOUND_NOUN,ral oxidative metabolism
+MWE_COMPOUND_NOUN,ebral lactic acidosis and cell membra
+MWE_COMPOUND_NOUN,re; if prolonged th
+COMPOUND_NOUN_SB,ed th
+MWE_COMPOUND_NOUN,lthough rapid recovery of 
+MWE_COMPOUND_NOUN,er by a secondary fall in cereb
+MWE_COMPOUND_NOUN,H, and the characteristic cerebr
+MWE_COMPOUND_NOUN,rbance at this s
+COMPOUND_NOUN_SB,at this s
+MWE_COMPOUND_NOUN,s secondary impairm
+MWE_COMPOUND_NOUN,ental outco
+COMPOUND_NOUN_SB, outco
+MWE_COMPOUND_NOUN,ion, including: releas
+NE_MISC,amino acids which ac
+NE_MISC,vate
+NE_MISC,hyl-D-aspartate (NMDA) and amino-3-hydroxy-5-m
+NE_MISC,hyl-
+MWE_COMPOUND_NOUN,ors on neurons (30,37) and 
+MWE_COMPOUND_NOUN,recursors, accumulation of e
+MWE_COMPOUND_NOUN,rs, generation 
+MWE_COMPOUND_NOUN, reactive oxygen radicals, intrace
+MWE_COMPOUND_NOUN,r calcium accumulation an
+COMPOUND_NOUN_SB,mulation an
+MWE_COMPOUND_NOUN,ndrial dysfunction.
+MWE_COMPOUND_NOUN,and acute phases
+SENT_BOUND,se of inj
+SENT_BOUND,hanism
+MWE_COMPOUND_NOUN,to have beneficial effect.
+Newborn hy
+MWE_COMPOUND_NOUN, differs fr
+MWE_COMPOUND_NOUN,dult brain in several 
+SENT_BOUND,much 
+MWE_COMPOUND_NOUN,optosis-inducing fac
+SENT_BOUND,er in
+MWE_COMPOUND_NOUN,with less contribution 
+NE_MISC,nd a 
+NE_MISC,inen
+MWE_COMPOUND_NOUN,1, which is
+SENT_BOUND,in the ad
+MWE_COMPOUND_NOUN,ain, is less import
+MWE_COMPOUND_NOUN,uced capacity to 
+COMPOUND_NOUN_SB,city to 
+MWE_COMPOUND_NOUN,helps prevent disru
+MWE_COMPOUND_NOUN,sm both during a
+COMPOUND_NOUN_SB,uring a
+MWE_COMPOUND_NOUN,ygen and reduces the l
+MWE_COMPOUND_NOUN,hypoxia-ischaemia and during seco
+MWE_COMPOUND_NOUN,failure, and reduces dela
+COMPOUND_NOUN_SB,uces dela
+MWE_COMPOUND_NOUN,The simultaneous
+MWE_COMPOUND_NOUN,cytotoxic oedema and loss 
+MWE_COMPOUND_NOUN,al activity that accompa
+SENT_BOUND,ndary ene
+MWE_COMPOUND_NOUN,at a cellular l
+COMPOUND_NOUN_SB,ular l
+MWE_COMPOUND_NOUN,l injury. Hypoth
+MWE_COMPOUND_NOUN,genic oedema, haemorrha
+SENT_BOUND,neutro
+MWE_COMPOUND_NOUN, after trauma. The release o
+MWE_COMPOUND_NOUN,smitters is reduced, limiting intr
+COMPOUND_NOUN_SB,imiting intr
+MWE_COMPOUND_NOUN,ellular calcium accumul
+MWE_COMPOUND_NOUN,ned, which protects
+MWE_COMPOUND_NOUN, and cellular or
+SENT_BOUND, from oxida
+MWE_COMPOUND_NOUN,ctivation of the cyt
+MWE_COMPOUND_NOUN,rough increased activation of 
+MWE_COMPOUND_NOUN, and by inhibiting release
+COMPOUND_NOUN_SB,elease
+SENT_BOUND,the numbe
+MWE_COMPOUND_NOUN,f apoptotic neur
+MWE_COMPOUND_NOUN,spase activity is lessened
+NE_MISC, of t
+NE_MISC_SB, of t
+SENT_BOUND,randomised 
+NE_MISC,ia-t
+NE_LOC,hrough the TOB
+MWE_COMPOUND_NOUN,e United Kingdo
+MWE_COMPOUND_NOUN,nd also some data collection
+NE_MISC,atal encephalo
+NE_LOC, Vermont-Oxfo
+NE_LOC_SB,t-Oxfo
+MWE_LVC,es. It is possible therefor
+MWE_LVC_VERB,es. I
+MWE_LVC_NOUN,le therefor
+SENT_BOUND,usions on t
+MWE_VPC, controlled
+MWE_VPC_VERB, contro
+MWE_VPC_PARTICLE,led
+NE_ORG,sis of the available d
+SENT_BOUND, unequivoca
+NE_MISC,uded
+MWE_COMPOUND_NOUN,g reduces the 
+COMPOUND_NOUN_SB,ces the 
+NE_MISC, analys
+NE_MISC, foun
+NE_MISC,ee t
+SENT_BOUND, outc
+SENT_BOUND,hese tr
+SENT_BOUND,fiden
+SENT_BOUND,fidenc
+MWE_COMPOUND_NOUN,re was a signi
+SENT_BOUND,ed with 
+MWE_COMPOUND_NOUN,ive effects of sel
+SENT_BOUND, head and whole b
+MWE_COMPOUND_NOUN,stinguishable.
+SENT_BOUND,als rep
+MWE_COMPOUND_NOUN,moderate h
+MWE_COMPOUND_NOUN,died: typical Risk 
+SENT_BOUND,Confi
+MWE_COMPOUND_NOUN,ile most observers currently rega
+MWE_COMPOUND_NOUN,child's chan
+SENT_BOUND,out 50%
+NE_MISC,alth
+MWE_COMPOUND_NOUN,y nested in TOBY al
+SENT_BOUND,e damage in
+NE_ORG,d lat
+MWE_VPC,neficia
+MWE_VPC_VERB,nef
+MWE_VPC_PARTICLE,cia
+SENT_BOUND, net
+NE_MISC,as 
+SENT_BOUND,mphasis
+NE_MISC,thera
+SENT_BOUND,ed to cooling,
+MWE_COMPOUND_NOUN,s to cooling centuries ag
+MWE_COMPOUND_NOUN, for low-resou
+SENT_BOUND,a remains 
+SENT_BOUND,scitation

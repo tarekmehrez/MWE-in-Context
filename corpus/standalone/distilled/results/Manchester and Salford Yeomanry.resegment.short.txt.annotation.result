@@ -1,0 +1,173 @@
+NE_ORG,Manchester and Salford Yeomanry
+MWE_COMPOUND_NOUN,yeomanry regiment
+NE_LOC,England
+SENT_BOUND,1817
+MWE_COMPOUND_NOUN,volunteer regiment
+NE_MISC,Peterloo Massacre
+SENT_BOUND,injured
+NE_ORG,Manchester Yeomanry
+SENT_BOUND,1824
+NE_MISC, Napoleonic War
+MWE_COMPOUND_NOUN, textile worker
+NE_LOC, Englan
+MWE_COMPOUND_NOUN, economic slum
+MWE_COMPOUND_NOUN, war materie
+COMPOUND_NOUN_SB, materie
+MWE_COMPOUND_NOUN, food price
+SENT_BOUND, difficul
+NE_PER, William Cobbet
+MWE_COMPOUND_NOUN, electoral syste
+MWE_COMPOUND_NOUN, rotten borough
+COMPOUND_NOUN_SB, borough
+MWE_COMPOUND_NOUN, mill worker
+SENT_BOUND, povert
+MWE_COMPOUND_NOUN,s radical moveme
+NE_ORG,e To
+NE_LOC,n Engla
+NE_LOC_SB,n Engla
+MWE_COMPOUND_NOUN,f popular revo
+NE_MISC,e Americ
+NE_MISC,d Fren
+SENT_BOUND,e 18th-centu
+NE_ORG,y To
+MWE_COMPOUND_NOUN,s mill owne
+SENT_BOUND,n sediti
+NE_ORG,e To
+SENT_BOUND,d refor
+NE_LOC,in St Peters Fi
+NE_LOC,al Manches
+NE_LOC,to Lon
+MWE_COMPOUND_NOUN,he Prince Reg
+COMPOUND_NOUN_SB,ce Reg
+NE_ORG,ed Blankete
+NE_ORG_SB,ed Blankete
+NE_LOC,ut Manches
+SENT_BOUND,le mas
+NE_LOC,of Manches
+NE_LOC,nd Salf
+MWE_COMPOUND_NOUN, a yeomanry co
+COMPOUND_NOUN_SB,ry co
+SENT_BOUND,ne 1
+NE_PER,7. Whee
+NE_ORG,'s Manchester Chroni
+MWE_COMPOUND_NOUN,of Yeomanry Cava
+NE_LOC,of Manches
+NE_LOC,nd Salf
+SENT_BOUND,o
+MWE_COMPOUND_NOUN,at government allowan
+SENT_BOUND,er combi
+SENT_BOUND,wn ho
+NE_PER,e.
+Thomas Traf
+NE_LOC, in Lancas
+NE_LOC,and Ches
+SENT_BOUND,ust 
+MWE_COMPOUND_NOUN,any yeomanry regim
+SENT_BOUND,and trade
+NE_ORG,the London Gaz
+SENT_BOUND,ast 
+NE_PER,Major Tr
+MWE_COMPOUND_NOUN,d and Lieutenant C
+NE_PER,lonel Guy L'Es
+MWE_COMPOUND_NOUN,erall military com
+NE_LOC,er in Manc
+MWE_LVC, were sent
+MWE_LVC_VERB, wer
+MWE_LVC_NOUN, sent
+NE_PER,rate, William 
+NE_PER,rator Henr
+NE_PER_SB,Henr
+MWE_VPC,rsemen stan
+MWE_VPC_VERB,rsemen s
+MWE_VPC_PARTICLE,an
+VPC_PARTICLE_SB,an
+NE_ORG,y. The Manchester and Salford Y
+NE_LOC,way in Portland
+SENT_BOUND,r not
+NE_PER,first. T
+NE_ORG,of the Manchester and Salford Y
+NE_LOC,owards St Peter'
+NE_LOC_SB,eter'
+MWE_VPC,mpt to c
+MWE_VPC_VERB,mpt t
+MWE_VPC_PARTICLE, c
+MWE_VPC,ch up, knock
+MWE_VPC_VERB,ch up, 
+MWE_VPC_PARTICLE,nock
+NE_LOC,man in Cooper
+NE_PER,ar-old William
+NE_MISC,lty of P
+NE_MISC_SB,lty of P
+SENT_BOUND,but no
+NE_ORG, of the Manchester and Salford 
+NE_PER,Captain Hugh Hornb
+MWE_COMPOUND_NOUN,a local facto
+SENT_BOUND,ey we
+NE_PER, drunk.
+MWE_COMPOUND_NOUN,ws, the Chief C
+NE_PER,tructe
+MWE_COMPOUND_NOUN, had an arrest
+SENT_BOUND,ance to
+NE_PER,xecute
+SENT_BOUND,ut
+NE_PER,. Major 
+SENT_BOUND,wd that 
+MWE_VPC,tried t
+MWE_VPC_VERB,tri
+MWE_VPC_PARTICLE,d t
+SENT_BOUND,of 
+MWE_COMPOUND_NOUN,way. The arres
+MWE_COMPOUND_NOUN,n to the Deputy 
+NE_PER,nstable, Jos
+SENT_BOUND,hind the
+MWE_COMPOUND_NOUN,ards the speake
+SENT_BOUND,th the
+NE_PER,he st
+NE_PER,arre
+NE_PER,ed Hunt
+NE_PER,ncluding 
+NE_ORG,ter from 
+NE_ORG_SB,from 
+NE_PER,rdin
+SENT_BOUND,o
+MWE_COMPOUND_NOUN,cute the arres
+MWE_VPC,hey then 
+MWE_VPC_VERB,hey
+MWE_VPC_PARTICLE,then 
+SENT_BOUND,d by 
+MWE_COMPOUND_NOUN,
+From his van
+NE_PER,age point Will
+NE_PER,y, and on 
+NE_PER,ds:
+SENT_BOUND,perse t
+NE_ORG,ing!" The 15
+NE_LOC,rn end of St Pet
+SENT_BOUND, into
+NE_ORG, time the Cheshir
+SENT_BOUND,ge of
+MWE_COMPOUND_NOUN, the main 
+NE_LOC,oute into Pe
+NE_ORG,ed by the 88th Infantr
+SENT_BOUND, bayo
+NE_ORG,er of the 15
+NE_ORG,f control Manchester and Salfor
+SENT_BOUND,o
+SENT_BOUND,ch": 
+SENT_BOUND,hame!
+SENT_BOUND, forbea
+MWE_VPC,le canno
+MWE_VPC_VERB,le 
+MWE_VPC_PARTICLE,anno
+VPC_PARTICLE_SB,anno
+SENT_BOUND, over 6
+NE_LOC,actions 
+SENT_BOUND,ce against i
+NE_PER,gust 1819, Lo
+MWE_COMPOUND_NOUN,s from the Pr
+NE_PER,t to Maj
+SENT_BOUND,ord, a
+SENT_BOUND, after t
+NE_PER,cre. Maj
+MWE_COMPOUND_NOUN,0, and the yeo
+SENT_BOUND, on 

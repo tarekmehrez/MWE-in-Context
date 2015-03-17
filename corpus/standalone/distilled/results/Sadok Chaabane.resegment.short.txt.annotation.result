@@ -1,0 +1,357 @@
+NE_PER,Sadok Chaabane
+MWE_COMPOUND_NOUN,University Professor
+MWE_LVC,holding the prestigious Agrégation degree
+MWE_LVC_VERB,holding
+MWE_LVC_NOUN,degree
+MWE_COMPOUND_NOUN,Public Law
+MWE_COMPOUND_NOUN,Political Science
+COMPOUND_NOUN_SB,Science
+MWE_COMPOUND_NOUN,academic position
+MWE_LVC,held numerous ministerial and political portfolios
+MWE_LVC_VERB,held
+MWE_LVC_NOUN,portfolios
+LVC_NOUN_SB,portfolios
+NE_LOC,Sfax
+NE_LOC,Tunisia
+NE_LOC_SB,Tunisia
+MWE_COMPOUND_NOUN,football games
+COMPOUND_NOUN_SB,games
+MWE_COMPOUND_NOUN,family background
+MWE_COMPOUND_NOUN,small farmer
+NE_PER,Habiba Maalej
+SENT_BOUND,means
+MWE_COMPOUND_NOUN,primary education
+NE_ORG,Al-Amal school
+NE_ORG,Tunisia
+MWE_VPC,went on
+MWE_VPC_VERB,went
+MWE_VPC_PARTICLE,on
+MWE_COMPOUND_NOUN,secondary schooling
+NE_ORG,15- November lycée
+NE_ORG_SB,lycée
+MWE_COMPOUND_NOUN,baccalauréat degree
+MWE_COMPOUND_NOUN,highest distinction
+NE_MISC,President Habib Bourguiba Prize
+SENT_BOUND,1967
+MWE_COMPOUND_NOUN,family member
+MWE_COMPOUND_NOUN,material help
+SENT_BOUND,award
+MWE_COMPOUND_NOUN,scientific disciplines
+NE_ORG,University
+MWE_LVC,pursue legal studies
+MWE_LVC_VERB,pursue
+MWE_LVC_NOUN,studies
+LVC_NOUN_SB,studies
+NE_ORG,Tunis Faculty Law
+NE_ORG,University Campus
+MWE_COMPOUND_NOUN,Public Law
+MWE_COMPOUND_NOUN,Higher Diploma
+MWE_COMPOUND_NOUN,Political Science
+MWE_COMPOUND_NOUN,Higher Diploma
+MWE_COMPOUND_NOUN,Public Law
+SENT_BOUND,1973
+MWE_COMPOUND_NOUN,teaching assistantship position
+MWE_COMPOUND_NOUN,Doctorat d’Etat
+COMPOUND_NOUN_SB,Etat
+MWE_COMPOUND_NOUN,Doctorat d’Etat
+MWE_COMPOUND_NOUN,Public Law
+MWE_COMPOUND_NOUN,Political Science
+COMPOUND_NOUN_SB,Science
+NE_ORG,Tunis University
+MWE_COMPOUND_NOUN,dissertation debates
+MWE_COMPOUND_NOUN,Minister of Education
+NE_LOC,Tunisia
+NE_LOC,France
+NE_LOC_SB,France
+NE_PER,Dalenda Nouri
+MWE_COMPOUND_NOUN,fine arts student
+SENT_BOUND,family
+MWE_COMPOUND_NOUN,holy man
+NE_PER,Ali Nouri
+MWE_COMPOUND_NOUN,religious scholar
+NE_LOC,Cairo
+NE_LOC,Tunisia
+SENT_BOUND,weaver
+NE_ORG,Maltese Knights
+SENT_BOUND,works
+NE_PER,Iskander
+MWE_COMPOUND_NOUN,doctor of medicine
+NE_ORG,Tunis Medical School
+NE_PER,Sirine
+NE_PER,Yasmine
+NE_ORG,Tunis Medical School
+NE_ORG_SB,School
+MWE_COMPOUND_NOUN,agrégé professor
+SENT_BOUND,1980
+MWE_COMPOUND_NOUN,political science disciplines
+MWE_COMPOUND_NOUN,constitutional law
+MWE_COMPOUND_NOUN,political sociology
+MWE_COMPOUND_NOUN,international law
+MWE_COMPOUND_NOUN,administrative law
+SENT_BOUND,methodology
+MWE_COMPOUND_NOUN,research group
+NE_ORG,National School of Administration
+SENT_BOUND,1986
+NE_MISC,Tunisian
+MWE_COMPOUND_NOUN,municipal organization
+COMPOUND_NOUN_SB,organization
+NE_ORG,Tunis Faculty of Law
+NE_ORG,National School of Administration
+SENT_BOUND,graduated
+MWE_COMPOUND_NOUN,court litigation
+SENT_BOUND,obligations
+NE_ORG,League of Arab Nations
+NE_LOC,Tunis
+MWE_VPC,called upon
+MWE_VPC_VERB,called
+MWE_VPC_PARTICLE,upon
+MWE_LVC,contributed many legal opinions
+MWE_LVC_VERB,contributed
+MWE_LVC_NOUN,opinions
+SENT_BOUND,subject
+NE_ORG,League of Arab Nations
+MWE_COMPOUND_NOUN,consultancy period
+SENT_BOUND,1987
+MWE_VPC,put forward
+MWE_VPC_VERB,put
+MWE_VPC_PARTICLE,forward
+NE_ORG,Special Arab Organizations
+NE_ORG_SB,Organizations
+NE_MISC,International Organizations Law
+NE_ORG,Tunis University Press
+NE_ORG_SB,Press
+MWE_COMPOUND_NOUN,Boy scouts
+MWE_COMPOUND_NOUN,summer camps
+NE_ORG,Socialist Destour Party
+MWE_LVC,held any official position
+MWE_LVC_VERB,held
+MWE_LVC_NOUN,position
+LVC_NOUN_SB,position
+MWE_LVC,took part
+MWE_LVC_VERB,took
+MWE_LVC_NOUN,part
+MWE_COMPOUND_NOUN,political training programs
+COMPOUND_NOUN_SB,programs
+MWE_COMPOUND_NOUN,associative life
+NE_MISC,Menzah
+NE_ORG,Tunisia League of Human Rights
+MWE_LVC,gave numerous lectures
+MWE_LVC_VERB,gave
+MWE_LVC_NOUN,lectures
+SENT_BOUND,themes
+NE_LOC,Syracuse
+NE_LOC,Italy
+NE_LOC,Nice
+NE_LOC,Aix en Provence
+NE_LOC,Strasbourg
+NE_LOC,France
+NE_LOC,Ben Aknoune
+NE_LOC,Algeria
+SENT_BOUND,others
+MWE_LVC,took part
+MWE_LVC_VERB,took
+MWE_LVC_NOUN,part
+NE_ORG,United Nations
+NE_ORG,UNRWA
+NE_ORG_SB,UNRWA
+NE_ORG,Harvard University
+MWE_COMPOUND_NOUN,Summer seminar
+NE_LOC,Salzburg
+NE_LOC,Austria
+NE_LOC,USA
+NE_MISC,Young African Leaders
+SENT_BOUND,program
+MWE_LVC,held a government post
+MWE_LVC_VERB,held
+MWE_LVC_NOUN,government post
+SENT_BOUND,1987
+NE_PER,Zine Al Abidine Ben Ali
+NE_PER,Bourguiba
+MWE_COMPOUND_NOUN,Minister of the Interior
+COMPOUND_NOUN_SB,Interior
+MWE_COMPOUND_NOUN,political scientists
+NE_PER,Zine Al Abidine Ben Ali
+MWE_COMPOUND_NOUN,head of state
+SENT_BOUND,later
+NE_PER,Zine Al Abidine Ben Ali
+MWE_COMPOUND_NOUN,President of the Republic
+MWE_COMPOUND_NOUN,political arena
+SENT_BOUND,change
+MWE_LVC,took part
+MWE_LVC_VERB,took
+MWE_LVC_NOUN,part
+NE_ORG,Party
+NE_MISC,Salvation Congress
+NE_MISC,Political Change
+NE_ORG,Party
+MWE_COMPOUND_NOUN,Permanent Secretary
+SENT_BOUND,1988
+NE_PER,Zine Al Abidine Ben Ali
+MWE_COMPOUND_NOUN,party position
+SENT_BOUND,ideas
+NE_ORG,Government
+SENT_BOUND,39
+MWE_COMPOUND_NOUN,Secretary of State
+MWE_COMPOUND_NOUN,Higher Education
+MWE_COMPOUND_NOUN,Scientific Research
+COMPOUND_NOUN_SB,Research
+NE_PER,Hedi Baccouche
+MWE_COMPOUND_NOUN,Prime Minister
+COMPOUND_NOUN_SB,Minister
+MWE_LVC,held several posts
+MWE_LVC_VERB,held
+MWE_LVC_NOUN,posts
+NE_PER,Ben Ali
+SENT_BOUND,missions
+MWE_VPC,called up
+MWE_VPC_VERB,called
+MWE_VPC_PARTICLE,up
+NE_PER,Zine Al Abidine Ben Ali
+MWE_COMPOUND_NOUN,Political Advisor
+MWE_COMPOUND_NOUN,Scientific Dossier
+MWE_COMPOUND_NOUN,Secretary of State
+MWE_COMPOUND_NOUN,Prime Minister
+NE_PER,Hamed Karoui
+NE_PER_SB,Karoui
+NE_PER,Zine Al Abidine Ben Ali
+NE_ORG,Cabinet
+MWE_COMPOUND_NOUN,Advisor on Human Rights
+COMPOUND_NOUN_SB,Rights
+NE_PER,Ben Ali
+SENT_BOUND,acumen
+MWE_COMPOUND_NOUN,Minister of Justice
+SENT_BOUND,1997
+NE_ORG,Democratic Constitutional Rally
+NE_ORG,Political Bureau
+NE_ORG_SB,Bureau
+MWE_COMPOUND_NOUN,Minister of Justice
+NE_MISC,Ben Ali and the Way to Multiparty Politics
+NE_ORG,Ceres
+NE_LOC,Tunis
+NE_LOC_SB,Tunis
+NE_MISC,French
+NE_MISC,English
+NE_MISC,Russian
+NE_MISC_SB,Russian
+NE_ORG,Tunisian Institute for Strategic Study
+NE_PER,Ben Ali
+NE_ORG,Institute
+NE_ORG,Presidency of the Republic
+NE_ORG_SB,Republic
+NE_ORG,Cabinet
+MWE_VPC,caught up
+MWE_VPC_VERB,caught
+MWE_VPC_PARTICLE,up
+SENT_BOUND,scene
+MWE_LVC,paid particular attention
+MWE_LVC_VERB,paid
+MWE_LVC_NOUN,attention
+MWE_COMPOUND_NOUN,strategic thinking
+COMPOUND_NOUN_SB,thinking
+MWE_LVC,made full use
+MWE_LVC_VERB,made
+MWE_LVC_NOUN,use
+SENT_BOUND,practices
+NE_ORG,Tunisian Institute for Strategic Study
+NE_MISC,Hannibal Redux
+NE_MISC,The End of Geography and the Return of History
+NE_MISC,French
+NE_MISC,English
+NE_MISC_SB,English
+NE_LOC,West
+SENT_BOUND,history
+SENT_BOUND,boundaries
+NE_PER,Zine Al Abidine Ben Ali
+MWE_COMPOUND_NOUN,election campaign
+SENT_BOUND,him
+MWE_COMPOUND_NOUN,presidential campaign
+NE_PER,Zine Al Abidine Ben Ali
+NE_ORG,Higher Education
+NE_PER,Mohamed Ghannouchi
+MWE_COMPOUND_NOUN,Scientific Research
+NE_ORG,Ministry
+MWE_COMPOUND_NOUN,President of the Republic
+NE_ORG,Democratic Constitutional Rally
+NE_ORG,Political Bureau
+NE_ORG_SB,Bureau
+NE_ORG,Government
+NE_ORG,Tunisian Institute of Strategic Study
+MWE_VPC,carry out
+MWE_VPC_VERB,carry
+MWE_VPC_PARTICLE,out
+SENT_BOUND,research
+NE_ORG,Institute
+SENT_BOUND,2007
+MWE_LVC,undertook many important prospective studies
+MWE_LVC_VERB,undertook
+MWE_LVC_NOUN,studies
+NE_MISC,Tunisia in 2030
+NE_MISC,Another Future for the Sahara
+NE_ORG,Tunisia
+MWE_COMPOUND_NOUN,economic incentives
+MWE_COMPOUND_NOUN,health services
+SENT_BOUND,on
+MWE_LVC,drew the attention
+MWE_LVC_VERB,drew
+MWE_LVC_NOUN,attention
+MWE_COMPOUND_NOUN,political analysts
+NE_MISC,From Faith Democracy to Program Democracy
+NE_ORG,Maison Arabe du Livre
+NE_LOC,Tunis
+NE_MISC,French
+NE_MISC,English
+NE_MISC,Islamic
+NE_MISC,Arab
+MWE_COMPOUND_NOUN,faith conflicts
+MWE_COMPOUND_NOUN,program contests
+SENT_BOUND,lives
+MWE_COMPOUND_NOUN,political life
+NE_MISC,Tunisian Political System
+NE_ORG,Maison Arabe du Livre
+NE_LOC,Tunis
+NE_MISC,French
+NE_MISC_SB,French
+NE_ORG,Social and Economic Council
+MWE_COMPOUND_NOUN,constitutional body
+MWE_COMPOUND_NOUN,civil society
+MWE_COMPOUND_NOUN,legislation proposals
+COMPOUND_NOUN_SB,proposals
+MWE_LVC,responsibilities held
+MWE_LVC_NOUN,responsibilities
+MWE_LVC_VERB,held
+NE_PER,Sadok Chaabane
+NE_MISC,Dialogue with Youth
+SENT_BOUND,2008
+NE_PER,Ben Ali
+NE_MISC,Charter of Tunisian Youth
+NE_MISC_SB,Youth
+NE_MISC,www.pactejeunesse.tn
+NE_MISC_SB,tn
+NE_PER,Sadok Chaabane
+NE_ORG,Google
+NE_MISC,sadok.chaabane
+NE_MISC,www.uvt.rnu.tn/livres/index-eng2.htm
+
+NE_MISC_SB,htm
+NE_PER,Sadok Chaabane
+NE_MISC,Tunisian
+SENT_BOUND,history
+MWE_LVC,making connections
+MWE_LVC_VERB,making
+MWE_LVC_NOUN,connections
+SENT_BOUND,history
+NE_MISC,Tunisia through History
+SENT_BOUND,2007
+NE_PER,Hassine Fantar
+NE_ORG,Hannibal Club
+NE_ORG,Hannibal Club-USA
+NE_ORG,Hannibal Club-Japan
+NE_ORG_SB,Japan
+MWE_COMPOUND_NOUN,founding member
+MWE_COMPOUND_NOUN,political societies
+NE_ORG,Tunisian Political Science Society
+NE_ORG_SB,Society
+NE_PER,Sadok Chaabane
+NE_MISC,Highest Honor of the 7th of November
+NE_MISC,Medal of the Republic
+SENT_BOUND,”

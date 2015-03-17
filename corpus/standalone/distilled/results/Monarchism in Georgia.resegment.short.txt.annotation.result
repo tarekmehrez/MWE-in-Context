@@ -1,0 +1,298 @@
+NE_MISC,Soviet
+NE_ORG,Georgia
+MWE_COMPOUND_NOUN,Hellenistic period
+COMPOUND_NOUN_SB,period
+NE_ORG,Kingdom of Georgia
+NE_ORG,Bagrationi
+MWE_VPC,left behind
+MWE_VPC_VERB,left
+MWE_VPC_PARTICLE,behind
+NE_LOC,Georgia
+SENT_BOUND,times
+NE_ORG,Bagrationi
+NE_MISC,Georgian
+MWE_COMPOUND_NOUN,national history
+COMPOUND_NOUN_SB,history
+NE_MISC,Georgian
+NE_ORG,Russian Empire
+SENT_BOUND,day
+SENT_BOUND,century
+NE_ORG,Georgia
+MWE_LVC,taking place
+MWE_LVC_VERB,taking
+MWE_LVC_NOUN,place
+MWE_COMPOUND_NOUN,presidential republic
+NE_ORG,Soviet Union
+MWE_COMPOUND_NOUN,constitutional form
+SENT_BOUND,ceased
+MWE_VPC,came up
+MWE_VPC_VERB,came
+MWE_VPC_PARTICLE,up
+MWE_COMPOUND_NOUN,political crisis
+SENT_BOUND,2007
+NE_ORG,e Russian Empi
+NE_MISC,l Georgi
+NE_ORG,f Kartli-Kakhe
+NE_ORG,d Imere
+SENT_BOUND,, respective
+MWE_COMPOUND_NOUN,d royal dynas
+NE_MISC,t Russi
+SENT_BOUND,m fail
+NE_MISC,e Russi
+MWE_COMPOUND_NOUN,f military pacificati
+SENT_BOUND,l elit
+NE_ORG,e Bagratio
+MWE_OTHER,a fait accomp
+MWE_OTHER_SB,t accomp
+NE_MISC,st Georgi
+NE_LOC,in St. Petersb
+NE_LOC,nd Mos
+NE_LOC,of Geor
+NE_PER,ia Erekle
+NE_PER,es Okro
+NE_PER,nd Dimi
+NE_MISC,ce Georg
+NE_MISC,wo Russ
+NE_ORG,at Geor
+NE_ORG,he Bagrati
+SENT_BOUND,ni dyna
+NE_PER,y. Okro
+NE_LOC,ed Tif
+MWE_COMPOUND_NOUN, a secret soci
+NE_MISC,he Georg
+SENT_BOUND,an monar
+NE_MISC,he Fre
+NE_MISC,he Pol
+NE_ORG,he Bagrati
+NE_MISC,he Georg
+SENT_BOUND,an thr
+SENT_BOUND,in 1
+NE_MISC, of Geor
+NE_MISC,the Rus
+NE_PER,nce Voron
+SENT_BOUND,the 1
+NE_MISC,the Geor
+NE_MISC, no Geor
+MWE_COMPOUND_NOUN, or political p
+MWE_VPC,rty called
+MWE_VPC_VERB,rty ca
+MWE_VPC_PARTICLE,led
+NE_MISC,til World W
+NE_MISC_SB,W
+NE_MISC, the World 
+NE_MISC,ars, Geo
+NE_PER,ince Matcha
+NE_ORG,ed a National Comm
+NE_LOC,e in B
+NE_LOC,y in Ge
+NE_MISC, the G
+SENT_BOUND,rman protect
+NE_PER, was Otto von L
+NE_MISC, the G
+NE_PER,ince Jo
+NE_MISC, the Geo
+SENT_BOUND,gian t
+NE_MISC, the Russian Revolution of
+NE_MISC,917, Geor
+MWE_COMPOUND_NOUN,of a democratic rep
+NE_MISC,n of Geo
+MWE_COMPOUND_NOUN,e by Social Demo
+COMPOUND_NOUN_SB,cial Demo
+NE_MISC,ats. Geo
+MWE_COMPOUND_NOUN,rmer royal dy
+MWE_LVC,sty, lent their su
+MWE_LVC_VERB,sty,
+MWE_LVC_NOUN,heir su
+SENT_BOUND, new rep
+NE_LOC,t of F
+NE_MISC, the Geo
+SENT_BOUND,ical signifi
+NE_LOC,y in Ge
+SENT_BOUND,erit ent
+NE_ORG,es."
+The Democratic Republic of G
+NE_ORG,ll to Soviet 
+NE_ORG,sia’s Re
+SENT_BOUND,on i
+NE_MISC,rtive August Up
+NE_ORG,f the Bagr
+MWE_COMPOUND_NOUN,tioni family m
+NE_LOC,e the Soviet
+SENT_BOUND,ed in 
+NE_PER,Prince
+NE_ORG,of the House of M
+NE_ORG,of the Bag
+NE_MISC,ort of E
+NE_MISC, for a G
+SENT_BOUND,rchis
+NE_LOC,ing i
+NE_PER,Prince
+NE_ORG,ed the Royal House of 
+NE_MISC,t from E
+NE_MISC, for a G
+NE_PER,t from
+NE_ORG,alin's Sovie
+NE_ORG_SB,Sovie
+NE_PER,Prince
+NE_LOC,ied i
+NE_PER, 1977,
+MWE_COMPOUND_NOUN,to the roya
+NE_ORG,use of 
+SENT_BOUND,s from
+NE_ORG,f thi
+NE_ORG,ing of 
+NE_PER, – the Bagration-Gr
+NE_LOC,ive in 
+NE_LOC_SB,ive in 
+NE_PER,Prince Nugzar Bagration-Gr
+MWE_COMPOUND_NOUN,), the he
+NE_ORG,ale of 
+NE_PER, king, Geo
+NE_PER_SB,Geo
+NE_PER,age of David of M
+NE_PER,i with
+NE_PER,ught
+SENT_BOUND,brua
+NE_ORG,9. 
+As
+NE_ORG,rom the Sovi
+MWE_COMPOUND_NOUN,one and popular
+SENT_BOUND,ort for 
+NE_MISC,Various 
+NE_PER,turn of Jorge de B
+NE_ORG, of the Royal House of
+NE_LOC,tion t
+SENT_BOUND,luctan
+NE_ORG,ith the National Democrat
+MWE_COMPOUND_NOUN, that a constitutional 
+NE_LOC,rchy in
+NE_ORG,orts b
+NE_ORG,to keep
+NE_ORG,ide the Sovi
+NE_ORG_SB, Sovi
+NE_ORG,. After
+MWE_COMPOUND_NOUN,orgia’s declaration of inde
+MWE_COMPOUND_NOUN,actious oppositio
+MWE_LVC,s again raised t
+MWE_LVC_VERB,s agai
+MWE_LVC_NOUN,sed t
+NE_PER,tralize Zviad Gams
+NE_ORG,dent of
+SENT_BOUND,itarian te
+NE_PER, rule of Eduard She
+MWE_LVC, serious consideration 
+MWE_LVC_NOUN, serious cons
+MWE_LVC_VERB,tion 
+MWE_COMPOUND_NOUN,al minor politica
+NE_ORG,ding the Union of Georgian Tradit
+NE_PER,chairman Akaki
+MWE_COMPOUND_NOUN,vocate a constitutional
+NE_ORG, form o
+SENT_BOUND,eorgia's g
+MWE_COMPOUND_NOUN,bate on a constitutiona
+MWE_COMPOUND_NOUN, emerging politi
+NE_LOC,crisis 
+SENT_BOUND, lat
+NE_PER,Patriar
+NE_ORG,ad of the Georgian Ortho
+MWE_LVC,x Church, gave 
+MWE_LVC_VERB,x Ch
+MWE_LVC_NOUN,, gave 
+SENT_BOUND,politi
+MWE_COMPOUND_NOUN,e idea of constitutiona
+NE_LOC,ce at the Cathedral of the Ho
+MWE_COMPOUND_NOUN,on of the roy
+NE_MISC,am of th
+SENT_BOUND,i
+NE_LOC,people 
+MWE_COMPOUND_NOUN,es of the roy
+SENT_BOUND,King from
+MWE_LVC,h’s sermon gave an unexpected c
+MWE_LVC_VERB,h’s 
+MWE_LVC_NOUN,unexpected c
+MWE_COMPOUND_NOUN,ion to the polit
+NE_LOC, crisis
+NE_LOC_SB, crisis
+MWE_COMPOUND_NOUN,r, several opposit
+NE_MISC,ir slogan "Georgia without 
+MWE_COMPOUND_NOUN,e model of parliam
+NE_MISC,ted by t
+SENT_BOUND,e Georgian
+MWE_COMPOUND_NOUN,pport to a constitution
+MWE_COMPOUND_NOUN, form of a parliamenta
+COMPOUND_NOUN_SB,liamenta
+SENT_BOUND,onarchy wa
+NE_PER,restrained. Nin
+NE_ORG,rson of the Parliamen
+NE_ORG,stated 
+MWE_COMPOUND_NOUN,e until its territori
+NE_LOC,ecession
+NE_LOC,bkhazia and S
+NE_LOC_SB,a and S
+NE_PER,. President Mikheil
+NE_MISC, his rem
+SENT_BOUND,dy e
+NE_PER,ting ones." 
+MWE_COMPOUND_NOUN,influential member of th
+NE_PER,iament from
+NE_ORG,akashvili’s United Natio
+SENT_BOUND,Patriarch
+SENT_BOUND,ng mo
+NE_ORG,appen a
+SENT_BOUND,fundamen
+MWE_COMPOUND_NOUN, call for a constitutio
+SENT_BOUND, a p
+MWE_COMPOUND_NOUN,speak about constitutio
+SENT_BOUND,ng abo
+SENT_BOUND,le-sta
+NE_PER,rd poli
+SENT_BOUND,ment 
+NE_ORG,e oppositi
+MWE_VPC,party, whic
+MWE_VPC_VERB,party
+MWE_VPC_PARTICLE, whic
+MWE_COMPOUND_NOUN,ide from the anti-government d
+MWE_COMPOUND_NOUN,ition of ten oppos
+MWE_COMPOUND_NOUN,ishment of a constituti
+SENT_BOUND,chy to
+MWE_LVC,proposing to hold
+MWE_LVC_VERB,prop
+MWE_LVC_NOUN,ng to hold
+MWE_COMPOUND_NOUN,luded in the pre-elec
+NE_PER, campaign of Davi
+NE_ORG,ate from the New Rights/I
+MWE_LVC,or the early presidential e
+MWE_LVC_NOUN,or the early president
+MWE_LVC_VERB,al e
+SENT_BOUND,n Ja
+MWE_COMPOUND_NOUN,y 5, 2008.
+A m
+NE_LOC, resona
+NE_LOC_SB, resona
+NE_MISC,d a symb
+SENT_BOUND, in monar
+NE_ORG,overnme
+NE_ORG, would 
+NE_ORG_SB, would 
+MWE_COMPOUND_NOUN,ficant recent public o
+MWE_COMPOUND_NOUN,l and limited
+NE_ORG,t poll at
+SENT_BOUND,% suppor
+MWE_VPC,rchy. Cri
+MWE_VPC_VERB,rchy.
+MWE_VPC_PARTICLE,Cri
+NE_MISC,e majorit
+MWE_COMPOUND_NOUN,s do not have in
+SENT_BOUND,or reje
+NE_MISC,cession 
+SENT_BOUND,o the 
+SENT_BOUND, lead to majo
+MWE_COMPOUND_NOUN,e supporters of constit
+NE_ORG, of cit
+MWE_COMPOUND_NOUN,f stability an
+COMPOUND_NOUN_SB,ty an
+MWE_COMPOUND_NOUN,that the nati
+NE_MISC,erthrown
+MWE_COMPOUND_NOUN,spossessed by
+NE_ORG,gn pow
+SENT_BOUND,e

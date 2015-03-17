@@ -1,0 +1,349 @@
+NE_PER,Ricardo Letts Colmenares
+NE_LOC,Lima
+NE_MISC,Peruvian
+SENT_BOUND,politician
+NE_PER,Roberto Letts Sánchez
+MWE_COMPOUND_NOUN,agricultural businessman
+NE_PER,Josefina Colmenares Castro
+SENT_BOUND,family
+SENT_BOUND,children
+NE_PER,Ricardo Letts
+MWE_COMPOUND_NOUN,elementary education
+NE_ORG,Villa María and Inmaculado Corazón school
+MWE_COMPOUND_NOUN,high school
+NE_ORG,Santa María school
+NE_ORG_SB,school
+NE_ORG,Escuela Nacional de Agricultura de La Molina
+NE_ORG,ENA
+NE_ORG,National School of Agriculture
+NE_ORG_SB,Agriculture
+NE_ORG,Companía Agrícola La Mina
+NE_ORG,La Mina Agricultural Company
+NE_LOC,Sayán
+SENT_BOUND,)
+MWE_COMPOUND_NOUN,professional degree
+MWE_COMPOUND_NOUN,Agricultural Engineer
+NE_MISC,Economic and Political Justification of the Peruvian Agrarian Reform
+SENT_BOUND,”
+NE_PER,Ricardo Letts
+MWE_COMPOUND_NOUN,student leader
+NE_ORG,ENA
+NE_ORG_SB,ENA
+NE_ORG,Student Union
+MWE_COMPOUND_NOUN,teachers movement
+NE_ORG,ENA
+NE_ORG,ENA
+SENT_BOUND,1959
+NE_PER,Letts
+NE_ORG,Acción Popular
+NE_ORG,Chancay Provincial Committee
+NE_ORG,Acción Popular
+NE_ORG,III National Congress of Acción Popular
+NE_LOC,Iquitos
+NE_LOC_SB,Iquitos
+NE_PER,Fernando Belaúnde Terry
+NE_LOC,Iquitos
+NE_LOC_SB,Iquitos
+NE_ORG,Agrarian Reform and Colonization Institute
+NE_MISC,Land Tenure Situation
+NE_LOC,Peru
+NE_LOC_SB,Peru
+MWE_COMPOUND_NOUN,National Secretary of Peasant Affairs
+NE_ORG,Acción Popular
+NE_ORG_SB,Popular
+NE_PER,Letts
+MWE_COMPOUND_NOUN,National Chief
+NE_ORG,Youth Command
+NE_ORG,Acción Popular
+NE_ORG_SB,Popular
+NE_ORG,Cooperación Popular
+NE_ORG,Popular Cooperation
+SENT_BOUND,)
+MWE_COMPOUND_NOUN,Secretary General
+NE_ORG,Cooperación Popular
+MWE_COMPOUND_NOUN,political conflict
+NE_ORG,Acción Popular
+NE_ORG,Cooperación Popular
+NE_ORG_SB,Popular
+NE_PER,María Luisa Raygada
+NE_PER_SB,Raygada
+NE_PER,Ricardo Letts
+NE_ORG,Vanguardia Revolucionaria
+NE_PER,Ricardo Napurí
+NE_PER,Edmundo Murrugarra
+NE_PER,Efraín Franco
+NE_PER,Antonio Lobato
+SENT_BOUND,others
+NE_PER,Letts
+NE_ORG,Movimiento de Izquierda Revolucionaria
+NE_ORG,MIR
+NE_ORG,Revolutionary Left Movement
+NE_ORG,Ejército de Liberación Nacional del Perú
+NE_ORG,ELN
+NE_ORG,National Liberation Army
+NE_ORG,Ejército de Liberación Nacional
+MWE_COMPOUND_NOUN,guerrilla movement
+COMPOUND_NOUN_SB,movement
+NE_LOC,Paris
+SENT_BOUND,exile
+NE_ORG,Cuba
+MWE_VPC,went through
+MWE_VPC_VERB,went
+MWE_VPC_PARTICLE,through
+MWE_COMPOUND_NOUN,training program
+MWE_COMPOUND_ADJ,so called
+NE_ORG,Guerrilla School
+NE_LOC,Cuba
+MWE_COMPOUND_NOUN,military guerrilla groups
+NE_LOC,Peru
+NE_LOC_SB,Peru
+NE_PER,Letts
+MWE_COMPOUND_NOUN,postgraduate studies
+MWE_COMPOUND_NOUN,Socialist Economy
+NE_ORG,Practical School of Advanced Studies of the Paris University - Sorbonne
+SENT_BOUND,)
+MWE_COMPOUND_NOUN,Secretary General
+NE_ORG,Vanguardia Revolucionaria
+NE_ORG,II Congress
+SENT_BOUND,1968
+NE_PER,Ricardo Letts
+NE_ORG,Confederación Campesina del Perú 
+NE_ORG,CCP
+NE_ORG,Peasant Confederation of Peru
+SENT_BOUND,)
+NE_ORG,Consultative Council
+NE_ORG,Consejo Unitario Nacional Agrario
+NE_ORG,CUNA
+NE_ORG,National Unitary Agrarian Council
+SENT_BOUND,)
+NE_ORG,CCP
+NE_PER,Letts
+NE_ORG,Popular National Assembly
+SENT_BOUND,)
+MWE_COMPOUND_NOUN,Chief Executive Officer
+MWE_COMPOUND_NOUN,agricultural company
+NE_ORG,Huerto Alamein SAC
+SENT_BOUND,)
+NE_ORG,Asociación Nacional de Productores y Exportadores de Aceituna Peruana
+NE_ORG,ANPEAP
+NE_ORG,National Association of Producers and Exporters of Peruvian Olives
+SENT_BOUND,)
+NE_ORG,Convención Nacional del Agro Peruano
+NE_ORG,Agro Peruvian National Convention
+SENT_BOUND,)
+NE_PER,Ricardo Letts
+MWE_COMPOUND_NOUN,deputy editor
+MWE_COMPOUND_NOUN,political news magazine
+NE_ORG,Marka
+NE_LOC,Lima
+SENT_BOUND,)
+MWE_COMPOUND_NOUN,political news magazine
+NE_ORG,Zurda
+NE_LOC,Lima
+SENT_BOUND,)
+NE_ORG,El diario de Marka
+NE_LOC,Lima
+SENT_BOUND,)
+NE_PER,Letts
+MWE_COMPOUND_NOUN,postgraduate studies
+NE_ORG,Escuela Superior de Administración de Negocios
+NE_ORG,ESAN
+NE_MISC,“Investment Project: Ecolgical Firewood
+SENT_BOUND,”
+NE_PER,Ricardo Letts
+NE_MISC,La Reforma Agraria Peruana
+NE_MISC,The Peruvian Agrarian Reform
+NE_MISC,Justificación económica y política de la reforma agraria peruana
+NE_MISC,Economic and Political Justification of the Peruvian Agrarian Reform
+NE_MISC,Perú, Revolución, Insurrección, Guerrillas
+NE_MISC,Perú, Revolution, Insurrection, Guerrilla
+NE_LOC,Paris
+NE_MISC,Perú: El mito de la revolución militar
+NE_MISC,Peru: The Military Revolution Myth
+NE_LOC,Caracas
+NE_MISC,Pérou: Révolution socialiste ou Caricature de révolution
+NE_MISC,Perú: Revolución Socialista o Caricatura de Revolución
+NE_MISC,Perú: Socialist Revolution or Caricature of Revolution
+NE_LOC,Paris
+NE_MISC,La Izquierda Peruana: Organizaciones y Tendencias
+NE_MISC,The Peruvian Left: Organizations and Tendencies
+NE_LOC,Lima
+SENT_BOUND,)
+MWE_COMPOUND_NOUN,political activity
+NE_PER,Letts
+NE_PER,Fernando Belaúnde Terry
+SENT_BOUND,)
+NE_ORG,Agricultural Student Union
+NE_ORG,La Molina National School of Agriculture
+SENT_BOUND,)
+MWE_COMPOUND_NOUN,member leader
+NE_ORG,Acción Popular
+SENT_BOUND,)
+NE_PER,Belaunde
+NE_ORG,Vanguardia Revolucionaria
+NE_ORG,VR
+SENT_BOUND,1984
+NE_ORG,Vanguardia Revolucionaria
+NE_ORG,MIR
+NE_ORG,Partido Comunista Revolucionario
+NE_ORG,PCR
+NE_ORG,Revolutionary Communist Party
+NE_ORG,Partido Unificado Mariateguista
+NE_ORG,PUM
+NE_ORG,Mariateguist Unified Party
+SENT_BOUND,)
+NE_ORG,VR
+NE_LOC,Colombia
+MWE_COMPOUND_NOUN,public debate
+MWE_COMPOUND_NOUN,university round table
+COMPOUND_NOUN_SB,table
+MWE_COMPOUND_NOUN,peasant trade union organization
+MWE_COMPOUND_NOUN,land taking movement
+NE_LOC,Andahuaylas
+NE_LOC_SB,Andahuaylas
+NE_PER,Letts
+MWE_LVC,took part
+MWE_LVC_VERB,took
+MWE_LVC_NOUN,part
+NE_ORG,National Unitary Command of Struggle
+MWE_COMPOUND_NOUN,leading committee
+NE_MISC,National Strike
+SENT_BOUND,1978
+SENT_BOUND,strike
+MWE_VPC,given up
+MWE_VPC_VERB,given
+MWE_VPC_PARTICLE,up
+NE_MISC,Argentinian
+NE_LOC,Jujuy
+NE_MISC,Peruvian
+SENT_BOUND,leaders
+NE_PER,Letts
+NE_ORG,National Congress
+NE_LOC,Lima
+NE_ORG,Izquierda Unida
+NE_ORG,United Left
+SENT_BOUND,party
+MWE_LVC,held this position
+MWE_LVC_VERB,held
+MWE_LVC_NOUN,position
+SENT_BOUND,1992
+NE_PER,Lourdes Flores
+NE_PER,Fernando Olivera
+NE_PER,Alan García Pérez
+NE_PER_SB,Pérez
+NE_ORG,Ministry of Agriculture
+NE_PER,Enrique Ross Link
+NE_PER_SB,Link
+NE_ORG,PUM
+SENT_BOUND,)
+NE_PER,Javier Diez Canseco
+NE_ORG,PUM
+SENT_BOUND,1996
+NE_LOC,Panamá
+NE_LOC,Barranquilla
+NE_LOC_SB,Barranquilla
+NE_PER,Ricardo Letts
+MWE_COMPOUND_NOUN,letter bomb
+SENT_BOUND,him
+MWE_COMPOUND_NOUN,letter bomb
+NE_ORG,UDEX
+NE_ORG,The Unit for Desactivation of Explosives
+SENT_BOUND,it
+NE_PER,Rodolfo Robles
+NE_LOC,Cantuta
+NE_PER,Letts
+MWE_COMPOUND_NOUN,olive orchard
+NE_LOC,Paracas
+NE_LOC_SB,Paracas
+SENT_BOUND,hurt
+NE_PER,Ricardo Letts
+NE_LOC,France
+NE_ORG,National Assembly
+NE_ORG_SB,Assembly
+NE_LOC,USA
+NE_ORG,Department of the State
+NE_LOC,China
+NE_ORG,Chinese PC Central Committee
+NE_LOC,Cuba
+SENT_BOUND,1994
+NE_PER,Ricardo Letts
+NE_PER,Raúl Wiener
+NE_PER,Delfina Paredes
+NE_ORG,Comité Malpica
+NE_ORG,CM
+NE_ORG,Malpica Committee
+NE_PER,Carlos Malpica Silva Santisteban
+NE_MISC,Peruvian
+SENT_BOUND,nation
+NE_PER,Letts
+NE_ORG,CM
+NE_ORG,Popular Assembly of the San Martin Square
+NE_MISC,Marcha de los Cuatro Suyos
+NE_MISC,Four Suyos March
+NE_MISC,Popular Rebellion
+NE_LOC,Lima
+NE_PER,Fujimori
+SENT_BOUND,2000
+NE_LOC,National Jury of Elections
+MWE_COMPOUND_NOUN,election fraud
+COMPOUND_NOUN_SB,fraud
+NE_ORG,CM
+NE_PER,Letts
+NE_PER,Alan García Pérez
+MWE_COMPOUND_NOUN,prison massacre
+SENT_BOUND,1986
+NE_ORG,CM
+NE_ORG,Movimiento del Frente Amplio
+NE_ORG,FA
+NE_ORG,Foundation Movement Broad Front
+NE_ORG,Movimiento Nueva Izquierda
+NE_ORG,MNI
+NE_ORG,New Left Movement
+NE_ORG,Partido Comunista del Perú – Patria Roja PCP
+NE_ORG,PR
+NE_ORG,Communist Party of Peru - Red Fatherland
+NE_ORG,Partido Comunista del Perú – PCP
+NE_ORG,Peruvian Communist Party
+NE_ORG,Partido Socialista Revolucionario
+NE_ORG,PSR
+NE_ORG,Revolutionary Socialist Party
+NE_ORG,Frente Popular
+NE_ORG,FP
+NE_ORG,Popular Front
+NE_ORG,Frente Obrero Campesino del Perú
+NE_ORG,FOCEP
+NE_ORG,Peasant Labor Front of Peru
+NE_ORG,Movimiento Democrático Pueblo Unido
+NE_ORG,MDPU
+NE_ORG,Democratic (Movement United People
+NE_ORG,Partido Nacionalista de las Comunidades Andinas
+NE_ORG,PANACA
+NE_ORG,Nationalist Party of the Andean Comunities
+SENT_BOUND,)
+NE_ORG,FA
+NE_PER,Ollanta Humala
+NE_PER,OHT
+SENT_BOUND,candidature
+NE_ORG,CM
+NE_PER,OHT
+SENT_BOUND,elections
+NE_PER,
+María Luisa Raygada
+SENT_BOUND,1977
+MWE_COMPOUND_NOUN,only child
+NE_PER,Rafael Alejandro Letts Raygada
+NE_PER_SB,Raygada
+NE_PER,Margarita Benavídes Matarazzo
+SENT_BOUND,1979
+NE_PER,Livia Ianesha Letts Benavídes
+MWE_COMPOUND_NOUN,only daughter
+SENT_BOUND,1982
+NE_PER,Ricardo Letts
+MWE_COMPOUND_NOUN,olive producer
+COMPOUND_NOUN_SB,producer
+NE_ORG,ANPEAP
+NE_ORG,Convención Nacional del Agro Peruano
+NE_ORG,CONVEAGRO
+NE_ORG,National Convention of the Peruvian Agriculture
+NE_ORG,CM
+SENT_BOUND,direction

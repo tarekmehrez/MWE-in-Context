@@ -1,0 +1,278 @@
+NE_PER,Karsa Orlong
+NE_PER,Steven Erikson
+MWE_COMPOUND_NOUN,fantasy series
+NE_MISC,Malazan Book of the Fallen
+NE_MISC_SB,Fallen
+MWE_LVC,makes his first appearance
+MWE_LVC_VERB,makes
+MWE_LVC_NOUN,appearance
+NE_MISC,Deadhouse Gates
+NE_PER,Toblakai
+NE_PER,Sha'ik
+NE_PER_SB,Sha'ik
+NE_MISC,House of Chains
+NE_MISC_SB,Chains
+NE_PER,Karsa Orlong
+NE_MISC,Teblor
+NE_MISC,Uryd
+SENT_BOUND,tribe
+NE_PER,Pahlk Orlong
+NE_LOC,Laederon Plateau
+NE_MISC,Teblor
+SENT_BOUND,lowlanders
+NE_PER,Karsa
+MWE_VPC,grew up
+MWE_VPC_VERB,grew
+MWE_VPC_PARTICLE,up
+NE_MISC,Teblor
+SENT_BOUND,behave
+NE_PER,Karsa
+NE_PER,Synyg
+NE_PER,Pahlk
+SENT_BOUND,truth
+NE_PER,Karsa
+NE_PER,Urugal the Woven
+NE_PER_SB,Woven
+NE_PER,Bairoth Gild
+NE_PER,Delum Thord
+NE_LOC,Sunyd
+NE_LOC,Rathyd
+NE_PER,Pahlk
+SENT_BOUND,escapades
+NE_PER,Forkrul Assail
+NE_PER,Calm
+NE_PER_SB,Calm
+NE_PER,Calm
+NE_PER,Karsa
+NE_MISC,Teblor
+NE_PER,Karsa
+NE_PER,Delum Thord
+MWE_COMPOUND_NOUN,brain damage
+SENT_BOUND,state
+NE_PER,Karsa
+SENT_BOUND,raided
+NE_PER,Delum Thord
+NE_PER,Bairoth Gild
+NE_PER,Karsa
+SENT_BOUND,captured
+NE_PER,Bairoth
+NE_PER,Karsa
+SENT_BOUND,gods
+MWE_COMPOUND_NOUN,wagon bed
+NE_PER,Karsa
+NE_PER,Torvald Nom
+NE_LOC,Kurald Emurlahn
+NE_LOC,Nascent
+NE_LOC_SB,Nascent
+NE_PER,Karsa
+NE_PER,Torvald
+NE_LOC,Silanda
+NE_MISC,Tiste Edur
+SENT_BOUND,board
+MWE_VPC,met up
+MWE_VPC_VERB,met
+MWE_VPC_PARTICLE,up
+NE_LOC,Nascent
+NE_LOC,Seven Cities
+NE_LOC,Ehrlitan
+NE_LOC_SB,Ehrlitan
+NE_PER,Karsa
+NE_PER,Torvald Nom
+MWE_VPC,left the slavers behind
+MWE_VPC_VERB,left
+MWE_VPC_PARTICLE,behind
+NE_PER,Napan Urko
+NE_PER,Keeper
+SENT_BOUND,archaeology
+NE_LOC,Ehrlitan
+NE_PER,Silgar
+NE_PER_SB,Silgar
+NE_MISC,Malazan
+NE_LOC,Ehrlitan
+NE_PER,Silgar
+NE_PER,Karsa
+SENT_BOUND,recaptured
+NE_PER,Silgar
+NE_PER,Karsa
+NE_PER,Karsa
+MWE_VPC,wound up
+MWE_VPC_VERB,wound
+MWE_VPC_PARTICLE,up
+SENT_BOUND,slave
+NE_PER,Karsa
+NE_LOC,Pan'potsun Odhan
+NE_PER,Karsa
+MWE_COMPOUND_NOUN,racial identity
+NE_MISC,Thelomen Toblakai
+NE_MISC,Teblor
+SENT_BOUND,descended
+NE_PER,Karsa
+NE_PER,Toblakai
+NE_PER,Leoman of the Flails
+NE_LOC,Holy Desert Raraku
+NE_PER,Sha'ik
+NE_PER_SB,Sha'ik
+NE_PER,Karsa Orlong
+NE_LOC,Holy Desert Raraku
+NE_LOC_SB,Raraku
+MWE_LVC,go in search
+MWE_LVC_VERB,go
+MWE_LVC_NOUN,in search
+NE_MISC,Jhag
+NE_LOC,Jhag Odhan
+NE_LOC_SB,Odhan
+SENT_BOUND,desired
+NE_PER,Icarium
+NE_MISC,Jhag
+NE_PER,Slayer of the Ten Thousand
+NE_PER,Karsa
+MWE_COMPOUND_NOUN,ironwood sword
+SENT_BOUND,destroyed
+NE_PER,Icarium
+NE_PER,Karsa
+SENT_BOUND,clash
+NE_PER,Karsa Orlong
+NE_LOC,Jhag Odhan
+NE_MISC,T'lan Imass
+SENT_BOUND,earlier
+NE_PER,Karsa
+NE_PER,Knight of Chains
+NE_PER_SB,Chains
+NE_MISC,Unbound T'lan Imass
+NE_PER,Karsa Orlong
+NE_PER,Delum Thord
+NE_PER,Bairoth Gild
+SENT_BOUND,bloodthirst
+NE_PER,Karsa
+MWE_VPC,shrugged off
+MWE_VPC_VERB,shrugged
+MWE_VPC_PARTICLE,off
+NE_MISC,Unbound
+MWE_VPC,drove six of them off
+MWE_VPC_VERB,drove
+MWE_VPC_PARTICLE,off
+NE_PER,Siballe the Unfound
+NE_PER_SB,Unfound
+NE_MISC,Tiste Edur
+NE_PER,Trull Sengar
+NE_MISC,T'lan Imass
+NE_PER,Onrack
+NE_PER_SB,Onrack
+NE_PER,Karsa
+SENT_BOUND,survived
+NE_PER,Karsa
+NE_MISC,Jaghut
+NE_PER,Karsa
+NE_MISC,Jhag
+MWE_VPC,set out
+MWE_VPC_VERB,set
+MWE_VPC_PARTICLE,out
+SENT_BOUND,place
+NE_PER,Karsa
+MWE_VPC,turns around
+MWE_VPC_VERB,turns
+MWE_VPC_PARTICLE,around
+NE_LOC,Holy Desert
+NE_LOC_SB,Desert
+NE_LOC,Oasis
+NE_ORG,Army of the Apocalypse
+NE_PER,Karsa
+MWE_LVC,had issues
+MWE_LVC_VERB,had
+MWE_LVC_NOUN,issues
+SENT_BOUND,targets
+NE_PER,Karsa
+NE_MISC,Hounds of Darkness
+NE_MISC,Deragoth
+SENT_BOUND,ease
+NE_MISC,Hounds
+NE_PER,Karsa
+MWE_VPC,speeds off
+MWE_VPC_VERB,speeds
+MWE_VPC_PARTICLE,off
+NE_MISC,Malazan
+MWE_COMPOUND_NOUN,sworn enemy
+COMPOUND_NOUN_SB,enemy
+NE_PER,Karsa
+NE_MISC,Unbound T'lan Imass
+MWE_VPC,set aside
+MWE_VPC_VERB,set
+MWE_VPC_PARTICLE,aside
+SENT_BOUND,sunk
+NE_PER,Karsa
+NE_PER,Samar Dev
+SENT_BOUND,thirst
+MWE_VPC,broke down
+MWE_VPC_VERB,broke
+MWE_VPC_PARTICLE,down
+VPC_PARTICLE_SB,down
+SENT_BOUND,him
+NE_PER,Samar Dev
+SENT_BOUND,alone
+NE_PER,Karsa
+MWE_VPC,find out
+MWE_VPC_VERB,find
+MWE_VPC_PARTICLE,out
+SENT_BOUND,inside
+NE_MISC,K'Chain Che'Malle
+NE_PER,Nah'ruk
+SENT_BOUND,fight
+MWE_COMPOUND_NOUN,village inhabitants
+NE_PER,Karsa
+NE_PER,Samar Dev
+NE_PER_SB,Dev
+NE_MISC,Tiste Edur
+NE_PER,Emperor
+NE_PER,Rhulad Sengar
+NE_PER,King in Chains
+NE_PER_SB,Chains
+NE_PER,Toblakai
+NE_PER,Emperor
+NE_PER,Icarium Lifestealer
+NE_PER,Emperor
+SENT_BOUND,well
+NE_LOC,Lether
+NE_MISC,Edur
+NE_PER,Karsa
+NE_PER,Icarium
+SENT_BOUND,duel
+NE_MISC,Jhag
+NE_PER,Icarium
+NE_MISC,Toblakai
+SENT_BOUND,veins
+NE_PER,Karsa
+NE_PER,Rhulad Sengar
+MWE_COMPOUND_NOUN,blood ritual
+NE_PER,The Crippled God
+SENT_BOUND,realm
+NE_MISC,Edur
+NE_PER,Rhulad
+SENT_BOUND,immortal
+SENT_BOUND,appeared
+NE_MISC,Toll the Hounds
+NE_LOC,Genabackis
+NE_PER,Samar Dev
+NE_PER,Traveler
+SENT_BOUND,friendship
+NE_LOC,Darujhistan
+NE_PER,Karsa
+NE_PER,Anomander Rake
+NE_PER,Traveller
+NE_PER,Dassem Ultor
+SENT_BOUND,death
+NE_PER,Toblakai
+NE_ORG,Hounds of Light
+NE_PER,Rake
+NE_MISC,Dragnipur
+NE_PER,Knight of Death
+MWE_VPC,setting out
+MWE_VPC_VERB,setting
+MWE_VPC_PARTICLE,out
+SENT_BOUND,quest
+NE_MISC,Toll the Hounds
+NE_PER,Karsa
+NE_LOC,City
+NE_MISC,Bridgeburner
+NE_PER,Picker
+NE_PER,Hood
+SENT_BOUND,God

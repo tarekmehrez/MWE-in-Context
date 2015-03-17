@@ -1,0 +1,256 @@
+MWE_COMPOUND_NOUN,video game
+NE_ORG,Konami
+NE_MISC,Sharp X68000
+MWE_COMPOUND_NOUN,home computer
+COMPOUND_NOUN_SB,computer
+MWE_COMPOUND_NOUN,double floppy disk form
+NE_LOC,Japan
+NE_MISC,Sharp X68000
+NE_MISC,Japanese
+SENT_BOUND,market
+NE_MISC,Akumajō Dracula X68000
+NE_MISC,Castlevania X68000
+NE_MISC,Akumajō Dracula
+NE_MISC_SB,Dracula
+NE_ORG, Konam
+NE_MISC, Castlevania Chronicle
+NE_MISC, PlayStatio
+MWE_COMPOUND_NOUN, gaming consol
+COMPOUND_NOUN_SB, consol
+NE_LOC, Japa
+NE_MISC, Akumajō Dracul
+NE_MISC, North America
+NE_MISC, Europea
+SENT_BOUND, tim
+NE_MISC, Castlevania Chronicle
+NE_MISC, PlayStation Networ
+NE_MISC, PSOne Classi
+SENT_BOUND, 200
+NE_MISC,
+Akumajō Dracu
+NE_MISC,n Castlevan
+MWE_LVC,o take advantage 
+MWE_LVC_VERB,o ta
+MWE_LVC_NOUN,e advantage 
+NE_MISC,e Sharp X680
+SENT_BOUND,0 hardwa
+MWE_COMPOUND_ADJ,s brand n
+SENT_BOUND,s altogeth
+MWE_COMPOUND_NOUN,x health bloc
+SENT_BOUND,0 hear
+MWE_COMPOUND_NOUN,h difficulty lev
+COMPOUND_NOUN_SB,y lev
+NE_MISC,al Akumajō Drac
+SENT_BOUND, a le
+SENT_BOUND,is comple
+NE_MISC,us Castleva
+SENT_BOUND,nd playthro
+MWE_COMPOUND_NOUN,ew enemy placem
+MWE_COMPOUND_NOUN,nd attack patte
+SENT_BOUND,re diffic
+SENT_BOUND,he l
+MWE_COMPOUND_NOUN,al Easter e
+NE_PER,of Si
+NE_MISC,by Japan
+MWE_COMPOUND_NOUN,he background ar
+NE_PER,'s Fake Si
+NE_PER_SB,ke Si
+NE_MISC,The PlaySta
+NE_MISC,se, Castlevania Chroni
+NE_MISC,the X6
+SENT_BOUND,000 
+MWE_COMPOUND_ADJ,s a brand
+NE_PER, by Ayami Ko
+NE_MISC,(of Castlevania: Symphony of the N
+MWE_COMPOUND_NOUN,new sprite de
+NE_PER,for Simon Bel
+NE_PER,and Dra
+MWE_COMPOUND_NOUN,and sound eff
+MWE_COMPOUND_NOUN,ble difficulty l
+COMPOUND_NOUN_SB,lty l
+NE_MISC,is "Arrange 
+NE_MISC,he "Original 
+NE_MISC,the Sharp X6
+NE_MISC_SB,arp X6
+NE_MISC,the "Arrange
+MWE_COMPOUND_NOUN,g an art ga
+NE_MISC,s a "Time Attack
+SENT_BOUND, 
+NE_MISC, the
+NE_MISC, and Eur
+NE_MISC,s of Chron
+MWE_COMPOUND_NOUN, the art ga
+NE_PER,k by Ayami K
+NE_MISC, for Chron
+NE_MISC, and Castlevania: Symphony of the 
+NE_MISC_SB, the 
+MWE_COMPOUND_NOUN,tter game i
+NE_MISC, the Sega S
+NE_MISC,n of Sym
+NE_PER, the Suc
+SENT_BOUND,p
+NE_MISC,The "Time Attack
+MWE_COMPOUND_NOUN,th a time 
+SENT_BOUND,best
+NE_MISC,o th
+NE_MISC,. and Eu
+NE_MISC,ns of Chro
+NE_PER, with Koji "IGA" Ig
+NE_PER_SB,"IGA" Ig
+NE_MISC,r both Akumajō 
+NE_MISC,acula 
+NE_MISC,0) and Castlevania Chr
+NE_MISC,iginal Akumajō 
+SENT_BOUND,racu
+NE_PER, game. Simon 
+MWE_VPC,has to 
+MWE_VPC_VERB,has
+MWE_VPC_PARTICLE,to 
+NE_PER, Count 
+SENT_BOUND,ng t
+NE_PER,l Count
+NE_LOC,ople of Tran
+NE_LOC_SB,ople of Tran
+NE_PER,lvania. Simon
+MWE_VPC,Belmont 
+MWE_VPC_VERB,Belmo
+MWE_VPC_PARTICLE,t 
+NE_MISC, up the Vampir
+MWE_VPC,hip and 
+MWE_VPC_VERB,hip 
+MWE_VPC_PARTICLE,nd 
+NE_LOC, out to Cas
+NE_PER,roy the Lord of 
+NE_LOC,eace t
+NE_LOC_SB,eace t
+NE_PER,story o
+SENT_BOUND,ctio
+NE_PER,owers o
+SENT_BOUND,t of
+NE_MISC,c for 
+MWE_COMPOUND_ADJ,s well as
+SENT_BOUND,positions 
+NE_MISC,include: "Vamp
+NE_MISC,ler" and "Wi
+NE_MISC, original C
+NE_MISC,levania, "Bl
+NE_MISC,ars" from Castlevania II: Sim
+NE_MISC,est, and "Theme of Sim
+NE_MISC,ont" from Super Cast
+NE_MISC_SB,st
+MWE_LVC,player is give
+MWE_LVC_VERB,playe
+MWE_LVC_NOUN,s give
+MWE_COMPOUND_NOUN,different sou
+NE_MISC,ules: 
+NE_MISC, X68000's FM S
+NE_MISC,thesizer, MIDI
+NE_MISC,oland
+NE_MISC,A (MT-
+NE_MISC,, CM-
+NE_MISC,M-64) and MIDI
+NE_MISC,oland
+NE_MISC,S (SC
+NE_MISC,5, SC-
+NE_MISC,, SC-1
+NE_MISC,, CM-3
+SENT_BOUND,0
+MWE_COMPOUND_NOUN, of which so
+SENT_BOUND, slightly d
+NE_PER,fferently.
+Sō
+MWE_COMPOUND_NOUN, Fujimori, sta
+NE_ORG,er for the Konami 
+NE_LOC,orati
+NE_MISC,dtrack for Castlevania
+NE_MISC,ronicles' "A
+SENT_BOUND,r
+NE_MISC,r to their Akum
+NE_MISC,o Drac
+MWE_COMPOUND_NOUN,re given a 
+COMPOUND_NOUN_SB,n a 
+NE_MISC, include: "Vam
+NE_MISC,pieces o
+NE_MISC,ogue" a
+NE_MISC,lker" from 
+NE_MISC,tlevania; "Thrashard 
+NE_MISC,sion; and "W
+SENT_BOUND,i
+NE_MISC,d". In t
+NE_MISC,e Japanese
+NE_MISC,un
+NE_MISC,the US a
+MWE_COMPOUND_NOUN,sions, the sound hardware selec
+NE_MISC,a game on "Or
+NE_MISC, it did in Akum
+NE_MISC,ō Drac
+SENT_BOUND,u
+NE_MISC,ode 
+NE_MISC,e U.S. a
+NE_MISC, while t
+NE_MISC,ntered in "A
+NE_MISC_SB,n "A
+NE_MISC,
+While the "O
+NE_MISC,resented o
+NE_MISC,ical t
+SENT_BOUND,n differ
+MWE_COMPOUND_NOUN,s the brief l
+MWE_COMPOUND_NOUN,pear before
+SENT_BOUND, fight
+NE_MISC,lock on the
+NE_MISC_SB,lock on the
+NE_MISC,tilize
+MWE_COMPOUND_NOUN,al time and d
+MWE_COMPOUND_NOUN,time on the
+MWE_COMPOUND_NOUN, during th
+NE_MISC,reflec
+MWE_COMPOUND_NOUN,ime and the 
+SENT_BOUND,r's 
+NE_MISC,ate. On the
+MWE_VPC,e system 
+MWE_VPC_VERB,e syst
+MWE_VPC_PARTICLE,m 
+NE_MISC,r a hidden "
+NE_MISC,sion of the
+NE_MISC_SB, the
+NE_MISC, between
+NE_MISC,ease and the 
+NE_MISC,n release 
+NE_MISC_SB,n release 
+MWE_VPC, on sta
+MWE_VPC_VERB, on
+MWE_VPC_PARTICLE,sta
+NE_MISC, ("Stop!
+NE_MISC,re you?"
+NE_MISC, attacked in Ak
+NE_MISC,ajō Dr
+NE_MISC,000) and
+NE_MISC,the Japane
+NE_MISC_SB,the Japane
+MWE_COMPOUND_NOUN,onicles. For localiza
+NE_MISC,roye
+NE_MISC,the U.S.
+SENT_BOUND,and Euro
+NE_MISC,io-wise,
+NE_MISC,e version 
+MWE_COMPOUND_NOUN,ronicles had sl
+MWE_COMPOUND_NOUN,ues with the m
+COMPOUND_NOUN_SB,th the m
+NE_MISC,ixed
+NE_MISC,the U.S.
+SENT_BOUND,and Euro
+NE_MISC,xclusive to 
+NE_MISC,Mode
+NE_MISC,the U.S.
+NE_PER, battle
+SENT_BOUND, 
+NE_ORG,th 
+NE_MISC,IGN rated t
+MWE_VPC,did not qu
+MWE_VPC_VERB,did not
+MWE_VPC_PARTICLE,qu
+SENT_BOUND,l
+NE_ORG, lot of 
+MWE_COMPOUND_NOUN,ing it lacke
+SENT_BOUND,s graphi

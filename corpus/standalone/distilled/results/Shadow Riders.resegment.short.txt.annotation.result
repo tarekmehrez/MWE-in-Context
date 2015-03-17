@@ -1,0 +1,506 @@
+NE_ORG,Shadow Riders
+NE_MISC,Japanese
+NE_MISC,Yu-Gi-Oh! GX
+MWE_COMPOUND_NOUN,anime series
+SENT_BOUND,29-49
+NE_ORG, Shadow Rider
+NE_MISC, Sacred Beast
+NE_MISC_SB, Beast
+MWE_LVC,t take pla
+MWE_LVC_VERB,t ta
+MWE_LVC_NOUN,e pla
+NE_LOC,n Duel Acade
+NE_LOC,d Domino Ci
+NE_LOC_SB,o Ci
+NE_ORG,The Shadow Ri
+NE_PER, by Kenichi 
+NE_PER_SB,chi 
+NE_PER, in Nightsh
+SENT_BOUND,een trimm
+MWE_COMPOUND_NOUN,ark dragon 
+MWE_COMPOUND_NOUN,his signature mon
+NE_MISC,ter Red-Eyes Darkness Dr
+SENT_BOUND,the fore
+SENT_BOUND,the 
+NE_MISC,and Academy-issued Duel 
+SENT_BOUND,eft 
+NE_PER,n in A
+SENT_BOUND,llow eye-p
+NE_MISC, the Academy-issued Duel
+NE_MISC,cond Jap
+MWE_COMPOUND_NOUN,nese opening seq
+MWE_OTHER, his alte
+NE_MISC,dard
+NE_PER,t as A
+NE_PER_SB,t as A
+SENT_BOUND, and c
+NE_MISC,f the Yu-Gi-
+NE_PER,derly Ka
+NE_ORG,, the Shadow 
+NE_MISC,g the Sacred Beast
+NE_MISC_SB,Beast
+NE_PER, that Jade
+MWE_COMPOUND_NOUN,i and compan
+NE_MISC,ss a "Shadow
+NE_MISC,o the Millennium
+MWE_COMPOUND_NOUN,ms of supernatural
+SENT_BOUND,known 
+NE_PER,n the Shadow
+SENT_BOUND,er in qu
+NE_PER, past, K
+NE_MISC,al the Sacred
+NE_LOC,nd the Spir
+NE_LOC,rneath Duel 
+SENT_BOUND,t th
+NE_PER,cellor S
+NE_MISC, seven Spir
+NE_MISC,sh the Sacred
+NE_MISC_SB,Sacred
+NE_ORG, of the Shado
+NE_ORG,dent of Duel
+NE_ORG_SB,of Duel
+NE_MISC,rom the 
+SENT_BOUND, 
+NE_MISC, In the
+NE_PER,ersion, 
+NE_PER,iced by Dav
+NE_PER,er) and Marc 
+NE_PER,, while 
+NE_PER,er) and Nobutos
+MWE_LVC,ounger) take 
+MWE_LVC_VERB,oung
+MWE_LVC_NOUN,ake 
+NE_MISC, in the 
+SENT_BOUND,apanese
+NE_PER, health,
+MWE_COMPOUND_NOUN,o attain eter
+NE_MISC,rificing Due
+NE_MISC,s to the Sacr
+NE_MISC_SB,e Sacr
+NE_PER,uel w
+SENT_BOUND,radually
+SENT_BOUND,his a
+MWE_LVC, He then asked fo
+MWE_LVC_VERB, He t
+MWE_LVC_NOUN,en asked fo
+MWE_VPC,er ways, ca
+MWE_VPC_VERB,er ways
+MWE_VPC_PARTICLE, ca
+SENT_BOUND,pital by h
+SENT_BOUND, e
+NE_PER,sode 84.
+NE_MISC,u plays a Sa
+SENT_BOUND,red 
+NE_MISC,s a b
+NE_PER,o supp
+NE_MISC,plenty of Spell and 
+NE_PER,o su
+NE_PER, Uria
+NE_PER_SB, Uria
+NE_PER,nd Hamon.
+
+NE_MISC,e origin
+NE_PER, the first S
+NE_PER_SB,rst S
+NE_PER,n reality, 
+SENT_BOUND,ist in
+NE_PER,he body of Att
+MWE_LVC,Rhodes and t
+MWE_LVC_VERB,Rhod
+MWE_LVC_NOUN,s and t
+LVC_NOUN_SB,s and t
+NE_PER,k control. 
+NE_PER, voiced by 
+NE_MISC,ōda in t
+SENT_BOUND,e Japan
+NE_PER,possess
+NE_PER,cus' body, 
+NE_PER, voiced by Jason Antho
+NE_MISC,ith in 
+NE_PER,ion, while
+MWE_LVC,Kouji Yusa tak
+MWE_LVC_VERB,Kouji
+MWE_LVC_NOUN, tak
+NE_MISC,ole in t
+SENT_BOUND,e Japan
+NE_MISC,half of the 
+NE_PER, pend
+NE_PER,possession,
+NE_MISC,roud sets a
+SENT_BOUND,seal
+NE_PER,n defeated,
+MWE_VPC,is mask) is
+MWE_VPC_VERB,is mas
+MWE_VPC_PARTICLE,) is
+NE_PER,d away,
+SENT_BOUND, Atti
+NE_MISC,
+During the 
+NE_PER, Tourna
+NE_PER,Atticus use
+NE_PER, his friend, Z
+MWE_LVC,hat the da
+MWE_LVC_NOUN,hat 
+MWE_LVC_VERB,he da
+SENT_BOUND,s a te
+NE_PER,As a result
+MWE_LVC,gain able to
+MWE_LVC_VERB,gain
+MWE_LVC_NOUN,able to
+NE_PER,e contr
+SENT_BOUND,ollowi
+NE_PER,ourth s
+NE_PER,us again us
+NE_PER, deck
+SENT_BOUND,res about
+NE_PER,ing the
+NE_PER, the academy, Y
+NE_PER,ginal host 
+NE_PER,shed, h
+NE_PER,rary host f
+SENT_BOUND,ightshr
+NE_PER, inhabit. B
+NE_PER,n the bo
+NE_PER,h he lo
+NE_PER,nd prev
+NE_MISC, from playing
+NE_MISC_SB,ying
+NE_PER,ter l
+NE_PER,n whe
+MWE_OTHER, he and Jesse
+NE_PER,double t
+NE_PER,med Fujiwar
+NE_PER,sel a
+SENT_BOUND, the 
+NE_PER,rld a
+NE_PER,verses all 
+SENT_BOUND,all
+NE_PER,hough beate
+NE_PER,d ret
+NE_PER,tween human
+SENT_BOUND,tshrou
+NE_PER,s final due
+NE_PER, cl
+NE_PER,s God 
+NE_PER_SB,s God 
+NE_PER,d the Savio
+NE_PER,ile pos
+NE_MISC,ticus, plays a Red-Eyes 
+NE_LOC,onsters i
+NE_LOC_SB,onsters i
+NE_PER,in the b
+NE_PER,y of Fujiwa
+NE_MISC,tshro
+MWE_VPC,ear deck w
+MWE_VPC_VERB,ear d
+MWE_VPC_PARTICLE,ck w
+SENT_BOUND, monst
+NE_PER,ithout a ho
+NE_MISC,s his pe
+NE_MISC,d throug
+MWE_COMPOUND_NOUN,its "Darkness" f
+COMPOUND_NOUN_SB,s" f
+NE_PER,
+ is the sec
+NE_PER_SB,e sec
+NE_PER,om the title of Joseph 
+NE_MISC,e Fanu's
+NE_MISC_SB,e Fanu's
+NE_MISC,armilla
+NE_PER,nglish
+NE_PER,la is voiced
+NE_PER,a Hudson, w
+MWE_LVC,ile Kanako Iri
+MWE_LVC_VERB,ile K
+MWE_LVC_NOUN, Iri
+NE_MISC,the role
+SENT_BOUND,in the 
+NE_PER,ion.
+
+MWE_VPC, serious
+MWE_VPC_VERB, seri
+MWE_VPC_PARTICLE,us
+SENT_BOUND,ople 
+NE_PER,her coff
+NE_ORG, her to join 
+NE_ORG_SB, join 
+NE_MISC,se, and uses
+NE_LOC,unction with the Shadow Game-exclus
+SENT_BOUND,n Gate 
+NE_PER,tain th
+NE_PER,s of
+NE_PER,ng he
+NE_MISC, with Jaden,
+NE_PER,plete
+SENT_BOUND, item tha
+NE_PER,self-c
+SENT_BOUND,nd t
+NE_PER,ning i
+NE_MISC,.
+Camu
+SENT_BOUND,a pl
+NE_PER,monsters (such 
+NE_PER,mbie Werewo
+SENT_BOUND,destro
+NE_PER,d thro
+NE_MISC,ursion ability 
+NE_MISC,pire Genesis w
+SENT_BOUND,ead a
+NE_PER,ve.
+ is the
+NE_PER_SB,s the
+NE_MISC,adow Ri
+NE_PER,e Eng
+NE_PER,Tania is voice
+NE_PER,son Johnson,
+MWE_LVC,while Kazue Ko
+MWE_LVC_VERB,while
+MWE_LVC_NOUN,e Ko
+NE_MISC,es the r
+SENT_BOUND,le in t
+MWE_COMPOUND_NOUN,apanese ver
+MWE_COMPOUND_NOUN, tiger tha
+NE_MISC,human form w
+NE_PER, to b
+NE_PER,anot
+NE_PER,, who resembles
+NE_PER_SB,mbles
+MWE_LVC,mazoness Tige
+MWE_LVC_VERB,mazon
+MWE_LVC_NOUN,ss Tige
+NE_PER, falls in love
+MWE_COMPOUND_NOUN,awa, and afte
+MWE_VPC,e sweet tal
+MWE_VPC_VERB,e sweet
+MWE_VPC_PARTICLE,tal
+SENT_BOUND, sh
+NE_PER,grows
+NE_PER,. Tan
+MWE_COMPOUND_NOUN,n fights J
+NE_MISC, with the ef
+MWE_VPC,s her tr
+MWE_VPC_VERB,s he
+MWE_VPC_PARTICLE, tr
+VPC_PARTICLE_SB, tr
+NE_PER, She 
+SENT_BOUND,it sinc
+NE_PER,d stays
+NE_PER, with
+SENT_BOUND,te
+NE_PER,Jaden
+NE_MISC,berates i
+NE_PER, cards,
+NE_MISC,ed on
+NE_MISC,ided in
+NE_MISC,o decks: 
+NE_MISC,damage inflicte
+MWE_COMPOUND_NOUN,rning the opponen
+SENT_BOUND,r
+NE_MISC, them). S
+NE_PER,owledge
+NE_MISC,nst Bas
+NE_PER,Coura
+NE_PER_SB,Coura
+NE_PER,aden.
+ is t
+NE_PER_SB, is t
+NE_MISC, Shadow
+NE_PER, the E
+NE_PER,, Zaloog is vo
+NE_PER,stan who impersona
+NE_PER,stopher Walken,
+MWE_LVC,while Taiten K
+MWE_LVC_VERB,while
+MWE_LVC_NOUN,en K
+NE_MISC,takes th
+SENT_BOUND, role i
+NE_PER,the Ja
+NE_MISC,
+Zaloog is 
+MWE_LVC, a Duel Monster
+MWE_LVC_VERB, a Duel
+MWE_LVC_NOUN,Monster
+NE_MISC,fe by the po
+SENT_BOUND,adow 
+NE_ORG,f thieves known as
+NE_MISC,Gang ( i
+MWE_LVC,ersion), who we
+MWE_LVC_VERB,ersion)
+MWE_LVC_NOUN, who we
+SENT_BOUND,brou
+NE_PER,ective
+MWE_COMPOUND_NOUN,amed Detective Z
+NE_PER,loog (P
+NE_MISC,n hiding th
+SENT_BOUND,ork on ta
+NE_LOC,e unable to
+NE_MISC,the Spirit Ga
+NE_MISC_SB,rit Ga
+NE_PER,he Sac
+NE_PER,are discovered,
+SENT_BOUND, rem
+NE_MISC,, and the po
+SENT_BOUND,of his Sh
+MWE_COMPOUND_NOUN,everting bac
+NE_ORG,heir spirit fo
+NE_PER, many
+SENT_BOUND,to the yo
+NE_PER, dueli
+NE_MISC,yance. 
+Zalo
+NE_ORG,ther the members o
+NE_MISC,port from cards such as Musteri
+NE_MISC, the Dark Scorpions and D
+NE_MISC_SB,pions and D
+NE_MISC,s card,
+MWE_COMPOUND_NOUN,nglish anim
+NE_MISC, twin sw
+SENT_BOUND,nese
+NE_PER,lds guns.
+ 
+NE_PER_SB,s.
+ 
+NE_MISC, the nam
+NE_LOC,e anci
+NE_LOC_SB,e anci
+NE_MISC,ian cit
+NE_PER, In th
+NE_PER,ion, Abidos is
+NE_PER,by Darren Dun
+MWE_LVC,tan, while Mam
+MWE_LVC_VERB,tan, 
+MWE_LVC_NOUN, Mam
+NE_MISC,no takes
+SENT_BOUND,the rol
+NE_PER,never 
+MWE_COMPOUND_NOUN,gle Duel, Abi
+NE_MISC,through the 
+SENT_BOUND, Shad
+NE_PER, With 
+NE_PER,f mum
+SENT_BOUND,his 
+NE_PER,uel. 
+NE_PER,ring t
+SENT_BOUND,se, sim
+NE_PER,y bec
+NE_PER, howev
+SENT_BOUND,ppo
+NE_PER,atisfi
+NE_PER,for t
+NE_MISC,terlife, giv
+MWE_LVC, Shadow Charm, t
+MWE_LVC_VERB, Shado
+MWE_LVC_NOUN,harm, t
+NE_PER,ears 
+SENT_BOUND, wil
+NE_PER,e dead
+NE_MISC,hat time. 
+Abidos play
+NE_MISC, themed on 
+NE_MISC,arcophagus cards to s
+NE_MISC_SB,ds to s
+NE_PER,the Pharaoh.
+NE_PER_SB,raoh.
+NE_MISC, sixth 
+NE_PER,er. I
+NE_PER,version, Ti
+NE_PER,oiced by Eric 
+MWE_LVC,tuart, while N
+MWE_LVC_VERB,tuart
+MWE_LVC_NOUN,le N
+NE_MISC,amoto ta
+SENT_BOUND,es the 
+NE_PER,A hitma
+NE_PER,ired 
+NE_PER, Crow
+NE_PER,l with Jaden,
+NE_PER,tured
+SENT_BOUND,ce J
+NE_MISC,of possessing t
+NE_MISC,r of a Millenni
+MWE_VPC, Item, the
+MWE_VPC_VERB, Item,
+MWE_VPC_PARTICLE,the
+NE_MISC,tem" turned out t
+NE_PER, fake
+NE_MISC,ed various 
+NE_MISC_SB,ous 
+NE_MISC, became the
+NE_PER,l, howev
+NE_MISC,saved by Kag
+SENT_BOUND,mask 
+MWE_LVC, bind him to the
+MWE_LVC_VERB, bind 
+MWE_LVC_NOUN,im to the
+NE_PER,l worl
+NE_PER,tore 
+SENT_BOUND,ndo
+MWE_VPC, first met.
+MWE_VPC_VERB, first
+MWE_VPC_PARTICLE,met.
+SENT_BOUND, pits of
+NE_PER,arkne
+NE_MISC, is defea
+NE_MISC,d.
+T
+MWE_COMPOUND_NOUN, largely of 
+NE_PER,, in 
+NE_MISC,, which is later 
+NE_MISC,pported by Fien
+NE_PER,tador)
+NE_MISC,this la
+NE_MISC,ted to 
+NE_MISC,fightin
+NE_MISC, as "Picador
+SENT_BOUND,"
+NE_PER,o".
+ is the
+NE_PER_SB,s the
+NE_MISC,and fin
+NE_PER,Rider.
+NE_PER,h version, Am
+NE_PER,voiced by Wayne 
+MWE_LVC,rayson, while 
+MWE_LVC_VERB,rayso
+MWE_LVC_NOUN,ile 
+NE_MISC,amaguchi
+SENT_BOUND,takes t
+NE_PER,ion.
+A homu
+SENT_BOUND,lus 
+NE_PER,n Bann
+NE_MISC,s s
+NE_MISC,l. Unab
+NE_PER, to fi
+NE_PER, Bann
+NE_PER,'s Ca
+MWE_VPC,zz, Jaden a
+MWE_VPC_VERB,zz, Jad
+MWE_VPC_PARTICLE,n a
+SENT_BOUND,d t
+NE_PER,lookin
+NE_PER,ael challenges 
+NE_PER,efeats both C
+NE_PER, duel,
+SENT_BOUND, sucke
+NE_PER,into 
+NE_PER,bando
+NE_PER_SB,bando
+NE_PER,a mumm
+NE_PER,body t
+NE_PER,als hi
+NE_PER_SB,als hi
+NE_PER,o be t
+NE_PER,irit 
+NE_PER,and J
+SENT_BOUND,en duel
+NE_PER,in Ja
+NE_MISC,victory. After
+NE_MISC,ablet which 
+NE_PER,evious
+SENT_BOUND,ong 
+MWE_VPC,fied bod
+MWE_VPC_VERB,fied 
+MWE_VPC_PARTICLE,od
+NE_MISC,s on in
+NE_MISC_SB,s on in
