@@ -28,16 +28,16 @@ public class Distance {
 		this.mwes = new HashMap<String, String>();
 		this.vectors = new HashMap<String, double[]>();
 		initialize();
-
+		computeBaseLine();
 		computeDistances();
 	}
 
 	// fill in vectors hashmap <token, vector> and mwes hashmap <mwe, mwe type>
 
-	private void computeBaseLine() {
-		// TODO Auto-generated method stub
-
-	}
+	 private void computeBaseLine() {
+	 // TODO Auto-generated method stub
+	
+	 }
 
 	private void initialize() {
 		System.out.println("Reading vectors and MWEs...");

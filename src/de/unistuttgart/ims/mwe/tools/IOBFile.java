@@ -39,7 +39,7 @@ public class IOBFile {
 
 	private void addExcludedTypes() {
 		this.excludedTypes.add("MWE_VPC");
-//		this.excludedTypes.add("MWE_LVC");
+		// this.excludedTypes.add("MWE_LVC");
 	}
 
 	private void createFile() {
@@ -74,8 +74,10 @@ public class IOBFile {
 				} else {
 					if (isMWE) {
 						isMWE = false;
-						writer.write(mwe.trim().replaceAll("[^a-zA-Z ]", "").toLowerCase() + "," + mweType
-								+ "\n");
+
+						writer.write(mwe.trim().replaceAll("[^a-zA-Z ]", "")
+								.replaceAll("[ ]+", " ").toLowerCase()
+								+ "," + mweType + "\n");
 						int curr = mwe.trim().split(" ").length;
 						if (counts.get(curr) == null)
 							counts.put(curr, 1);

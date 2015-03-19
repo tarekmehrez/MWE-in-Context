@@ -51,7 +51,7 @@ public class MWE {
 
 		}
 
-		else if (args[0].equals("--contruct-phrases")) {
+		else if (args[0].equals("--construct-phrases")) {
 
 			printHelp(args.length, 3);
 
@@ -83,7 +83,7 @@ public class MWE {
 							+ "Create annotations from text: --annotate-corpus path/to/annoations/and/text /path/to/output\n"
 							+ "Filter iob file to only mwes: --compile-iob path/to/iob/file\n"
 							+ "Reformat text file to 1 single sentence & remove punctuation: --reformat-text /path/to/file\n"
-							+ "Construct file with annotated mwes as phrases, to be fed into word2vec/glove: --contruct-phrases /path/to/text/file /path/to/iob/file\n"
+							+ "Construct file with annotated mwes as phrases, to be fed into word2vec/glove: --construct-phrases /path/to/text/file /path/to/iob/file\n"
 							+ "Compute distance of of MWEs: --compute-distances /path/to/vectors/file /path/to/iob/file");
 
 			System.exit(0);

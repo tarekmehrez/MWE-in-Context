@@ -38,7 +38,8 @@ public class Formatter {
 				if(line == "")
 					continue;
 				
-				writer.write(line.replaceAll("[^a-zA-Z ]", "").toLowerCase() +"\n");
+				writer.write(line.replaceAll("\\-", " ").replaceAll("[^a-zA-Z ]", "")
+						.replaceAll("[ ]+", " ").toLowerCase() +"\n");
 				
 			}
 			reader.close();
