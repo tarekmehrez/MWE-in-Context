@@ -43,6 +43,6 @@ $glove/shuffle -verbose 2 -memory 8.0 < cooccurrences.bin > cooccurrences.shuf.b
 $glove/glove -input-file $glove/results/cooccurrences.shuf.bin -vocab-file $glove/results/vocab.txt -save-file $glove/results/vectors -gradsq-file $glove/results/gradsq -verbose 2 -vector-size 100 -threads 16 -binary 2 -model 2
 
 # 7- Calculate distances between MWE vectors and separate tokens' vectors, 
-# produce baseline and calculate accuracy for all methods (skipgram, cbow and glove)
-
-$JAVA --calculate-distance $word2vec/results/vectors.cbow.txt 
+# produce baseline and calculate accuracy for all methods (skipgram, cbow and glove) and for all cluster sizes you produced
+# example: for glove vectors with 10 clusters
+$JAVA --compute-distances vectors/vectors.glove.txt corpus/IOB/wiki50_distilled.iob.out.uniq vectors/classes.10.txt
