@@ -1,7 +1,8 @@
 package de.unistuttgart.ims.mwe.main;
 
-import de.unistuttgart.ims.mwe.io.Corpus;
+import de.unistuttgart.ims.mwe.essentials.Corpus;
 import de.unistuttgart.ims.mwe.tools.Annotation;
+import de.unistuttgart.ims.mwe.tools.Distance;
 import de.unistuttgart.ims.mwe.tools.Formatter;
 import de.unistuttgart.ims.mwe.tools.IOBFile;
 import de.unistuttgart.ims.mwe.tools.PhraseMatcher;
@@ -10,7 +11,7 @@ import de.unistuttgart.ims.mwe.tools.PhraseMatcher;
  * @author tarekmehrez
  * 
  */
-public class MWE {
+public class Main {
 
 	public static void main(String[] args) {
 
@@ -62,7 +63,10 @@ public class MWE {
 		else if (args[0].equals("--compute-distances")) {
 
 			printHelp(args.length, 3);
-
+			
+			
+			new Distance(args[1],args[2],args[3]);
+			
 		}
 
 		else {

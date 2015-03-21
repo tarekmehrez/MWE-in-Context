@@ -13,7 +13,7 @@ import java.util.ArrayList;
 
 import org.apache.commons.io.IOUtils;
 
-import de.unistuttgart.ims.mwe.io.Corpus;
+import de.unistuttgart.ims.mwe.essentials.Corpus;
 
 /**
  * @author tarekmehrez

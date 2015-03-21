@@ -17,8 +17,6 @@ public class IOBFile {
 
 	ArrayList<String> excludedTypes;
 
-	// final String[] excludedTypes = new String[] { "MWE_VPC" };
-
 	String filePath;
 	String output;
 
@@ -27,7 +25,7 @@ public class IOBFile {
 	public IOBFile(String file) {
 
 		this.excludedTypes = new ArrayList<String>();
-		addExcludedTypes();
+		excludeTypes();
 
 		this.counts = new HashMap<Integer, Integer>(10);
 
@@ -37,9 +35,8 @@ public class IOBFile {
 
 	}
 
-	private void addExcludedTypes() {
+	private void excludeTypes() {
 		this.excludedTypes.add("MWE_VPC");
-		// this.excludedTypes.add("MWE_LVC");
 	}
 
 	private void createFile() {

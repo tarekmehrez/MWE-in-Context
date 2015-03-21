@@ -1,139 +1,255 @@
 package de.unistuttgart.ims.mwe.tools;
 
 import java.io.BufferedReader;
-import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileReader;
-import java.io.FileWriter;
 import java.io.IOException;
+import java.util.ArrayList;
 import java.util.HashMap;
-import java.util.Map.Entry;
 
+import de.unistuttgart.ims.mwe.essentials.Phrase;
+
+/**
+ * @author tarekmehrez
+ *
+ */
 public class Distance {
 
-	HashMap<String, String> mwes;
-	HashMap<String, double[]> vectors;
-
-	String vecPath;
 	String mwePath;
-	String out;
-	String clustersPath;
+	String vecPath;
+	String clusterPath;
 
-	public Distance(String vec, String mwe, String clusters) {
-		this.vecPath = vec;
+	HashMap<String, Phrase> phrases; // phrase content -> phrase reference
+	HashMap<Integer, ArrayList<Phrase>> classes; // cluster -> [tokens]
+
+	double accuracy;
+	int mweNum;
+
+	public Distance(String mwe, String vec, String clusters) {
+
 		this.mwePath = mwe;
-		this.clustersPath = clusters;
-		this.out = vec + ".distances.txt";
+		this.vecPath = vec;
+		this.clusterPath = clusters;
+		this.mweNum = 0;
+		
+		phrases = new HashMap<String, Phrase>();
+		classes = new HashMap<Integer, ArrayList<Phrase>>();
 
-		this.mwes = new HashMap<String, String>();
-		this.vectors = new HashMap<String, double[]>();
 		initialize();
-		computeBaseLine();
-		computeDistances();
+		initializeBaselines();
+
+		calculateDistances();
+
 	}
 
-	// fill in vectors hashmap <token, vector> and mwes hashmap <mwe, mwe type>
+	private void calculateDistances() {
+		System.out
+				.println("Calculating final distances between mwes and tokens...");
 
-	 private void computeBaseLine() {
-	 // TODO Auto-generated method stub
-	
-	 }
+		for (Phrase phrase : phrases.values()) {
 
-	private void initialize() {
-		System.out.println("Reading vectors and MWEs...");
-		try {
-			BufferedReader vecReader = new BufferedReader(new FileReader(
-					new File(this.vecPath).getAbsolutePath()));
+			if (!phrase.isMWE())
+				continue;
+			
+			String[] tokens = phrase.getContent().split("_");
+			if (isDifferentContext(phrase, tokens))
+				accuracy++;
 
-			String vector;
 
-			while ((vector = vecReader.readLine()) != null) {
-				String[] curr = vector.split("\\s+");
-				String key = curr[0];
-				double[] currInt = strToDouble(curr);
-
-				vectors.put(key, currInt);
-			}
-
-			vecReader.close();
-
-			BufferedReader mweReader = new BufferedReader(new FileReader(
-					new File(this.mwePath).getAbsolutePath()));
-			String mwe;
-			while ((mwe = mweReader.readLine()) != null) {
-
-				mwes.put(mwe.split(",")[0], mwe.split(",")[1]);
-
-			}
-
-			mweReader.close();
-			System.out.println("Done reading vectors and MWEs...");
-
-		} catch (IOException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
 		}
 
+		System.out.println("Accuracy is: " + accuracy/mweNum * 100 + "%");
 	}
 
-	private double[] strToDouble(String[] arr) {
-		double[] result = new double[arr.length - 1];
-		for (int i = 1; i < arr.length; i++) {
-			result[i] = Integer.parseInt(arr[i]);
+	private boolean isDifferentContext(Phrase phrase, String[] tokens) {
+
+		double[] mweVector = phrase.getVector();
+		double[] averageVector = getAverageVector(tokens);
+		if (distance(mweVector, averageVector) != phrase.getBaseline()) {
+
+			for (String token : tokens) {
+				if (phrases.get(token) != null){
+					
+					if((phrase.getClassNumber() == phrases.get(token).getClassNumber()))
+						return false;
+
+					if (equalVectors(phrase.getVector(), phrases.get(token)
+							.getVector()))
+						return false;
+				}
+
+			}
+			return true;
+
+		}
+		return false;
+
+	}
+
+	private boolean equalVectors(double[] v1, double[] v2) {
+		
+		if (v1.length != v2.length) {
+			System.out.println("Vector sizes are not equal");
+			System.exit(0);
+		}
+		
+		for (int i = 0; i < v1.length; i++) {
+
+			if (v1[i] != v2 [i])
+				return false;
+
+		}
+		return true;
+	}
+
+	private double[] getAverageVector(String[] tokens) {
+
+		double[] result = new double[100];
+
+		for (int i = 0; i < result.length; i++) {
+
+			for (String token : tokens) {
+				if(phrases.get(token) != null)
+					result[i] += phrases.get(token).getVector()[i];
+			}
+
+			result[i] /= tokens.length;
 		}
 		return result;
+
 	}
 
-	private void computeDistances() {
-
-		System.out.println("Computing distances...");
+	private void initialize() {
 
 		try {
-			BufferedWriter writer = new BufferedWriter(new FileWriter(new File(
-					this.out).getAbsolutePath()));
-			writer.write("mwe,type,distance-to-avg-tokens");
+			System.out.println("Initializing Classes...");
 
-			for (Entry<String, String> entry : mwes.entrySet()) {
+			BufferedReader clusterReader = new BufferedReader(new FileReader(
+					new File(this.clusterPath).getAbsolutePath()));
 
-				double d1 = mweTokensDistance(entry.getKey());
+			String line;
+			while ((line = clusterReader.readLine()) != null) {
+				String token = line.split("\\s")[0];
+				int cluster = Integer.parseInt(line.split("\\s")[1]);
 
-				writer.write(entry.getKey() + "," + entry.getValue() + "," + d1);
+				// initialize phrase
+				boolean isMWE = token.contains("_");
+				Phrase newPhrase = new Phrase(token, cluster,
+						isMWE);
+				
+				if(isMWE)
+					mweNum++;
+
+				// add in mwes hashmap
+				phrases.put(newPhrase.getContent(), newPhrase);
+
+				// add in classes hash map
+				if (classes.containsKey(cluster)) {
+					classes.get(cluster).add(newPhrase);
+				} else {
+					ArrayList<Phrase> arr = new ArrayList<Phrase>();
+					arr.add(newPhrase);
+					classes.put(cluster, arr);
+				}
+			}
+			line = "";
+			clusterReader.close();
+			System.out.println("Initializing Vectors...");
+
+			BufferedReader vectorReader = new BufferedReader(new FileReader(
+					new File(this.vecPath).getAbsolutePath()));
+			vectorReader.readLine();
+			while ((line = vectorReader.readLine()) != null) {
+
+				String token = line.split("\\s")[0].trim();
+
+				double[] vector = stringToDouble(line.split("\\s"));
+
+				Phrase currPhrase = phrases.get(token);
+				currPhrase.setVector(vector);
+			}
+			line = "";
+			vectorReader.close();
+			System.out.println("Initializing MWE Types...");
+
+			BufferedReader typeReader = new BufferedReader(new FileReader(
+					new File(this.mwePath).getAbsolutePath()));
+
+			while ((line = typeReader.readLine()) != null) {
+
+				String token = line.split(",")[0];
+				String type = line.split(",")[1];
+				if (phrases.get(token.replaceAll("\\s", "_")) != null)
+					phrases.get(token.replaceAll("\\s", "_")).setType(type);
 
 			}
-			writer.close();
+			typeReader.close();
 
 		} catch (IOException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 
 	}
 
-	private double mweTokensDistance(String key) {
+	private void initializeBaselines() {
+		System.out.println("Calculating baselines for each mwe...");
+		for (Phrase phrase : phrases.values()) {
 
-		String[] words = key.split("\\s+");
-		double[] average = new double[100];
+			if (!phrase.isMWE())
+				continue;
 
-		for (int i = 0; i < average.length; i++) {
+			for (ArrayList<Phrase> arr : classes.values()) {
 
-			double sum = 0.0;
+				if (arr.contains(phrase))
+					phrase.setBaseline(calculateBaseLine(arr, phrase));
 
-			for (int j = 0; j < words.length; j++) {
-				sum += vectors.get(words[j])[i];
 			}
-			average[i] = sum / words.length;
-		}
 
-		return distance(average, vectors.get(key));
+		}
 
 	}
 
-	private double distance(double[] a, double[] b) {
-		double sum = 0;
-		for (int i = 0; i < a.length; i++) {
+	private double calculateBaseLine(ArrayList<Phrase> phrases, Phrase mwe) {
 
-			sum += Math.pow(a[i] - b[i], 2);
+		double result = 0.0;
+
+		for (Phrase phrase : phrases) {
+
+			if (phrase.equals(mwe))
+				continue;
+
+			result += distance(phrase.getVector(), mwe.getVector());
+
 		}
-		return Math.sqrt(sum);
+		return result / phrases.size() - 1;
+
 	}
+
+	private double distance(double[] v1, double[] v2) {
+
+		if (v1.length != v2.length) {
+			System.out.println("Vector sizes are not equal");
+			System.exit(0);
+		}
+
+		double result = 0;
+
+		for (int i = 0; i < v1.length; i++)
+			result += Math.pow(v1[i] - v2[i], 2);
+
+		return Math.sqrt(result);
+
+	}
+
+	private double[] stringToDouble(String[] str) {
+		double[] result = new double[str.length - 1];
+
+		// i = 1 to skip the first element, which is the token
+		for (int i = 0; i < result.length; i++)
+			result[i] = Double.parseDouble(str[i + 1]);
+
+		return result;
+
+	}
+
 }

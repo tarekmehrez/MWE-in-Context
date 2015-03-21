@@ -1,4 +1,4 @@
-package de.unistuttgart.ims.mwe.io;
+package de.unistuttgart.ims.mwe.essentials;
 
 import java.io.File;
 import java.util.ArrayList;
