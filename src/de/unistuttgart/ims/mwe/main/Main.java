@@ -84,11 +84,11 @@ public class Main {
 			System.out
 					.println("MWE Extraction from wiki50 corpus\n"
 							+ "Options:\n"
-							+ "Create annotations from text: --annotate-corpus path/to/annoations/and/text /path/to/output\n"
-							+ "Filter iob file to only mwes: --compile-iob path/to/iob/file\n"
-							+ "Reformat text file to 1 single sentence & remove punctuation: --reformat-text /path/to/file\n"
-							+ "Construct file with annotated mwes as phrases, to be fed into word2vec/glove: --construct-phrases /path/to/text/file /path/to/iob/file\n"
-							+ "Compute distance of of MWEs: --compute-distances /path/to/vectors/file /path/to/iob/file");
+							+ "--annotate-corpus path/to/annoations/and/text /path/to/output\n"
+							+ "--compile-iob path/to/iob/file\n"
+							+ "--reformat-text /path/to/file\n"
+							+ "--construct-phrases /path/to/text/file /path/to/iob/file\n"
+							+ "--compute-distances /path/to/vectors/file /path/to/iob/file /path/to/clusters/file");
 
 			System.exit(0);
 		}
